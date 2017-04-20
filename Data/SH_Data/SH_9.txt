@@ -1,0 +1,909 @@
+Sexual harassment among adolescents of different sexual
+
+
+
+
+Abstract
+This article examines (a) variation in rates of sexual harassment acrossmode (e.g., in-person,
+online) and type of harassment, (b) the impact of sexual harassment (i.e., distressing vs.
+non-distressing), and (c) how sexual harassment is similarly and differently experienced
+across sexual orientation and gender identity groups. Data were collected as part of the
+Teen Health and Technology online survey of 5,907 13 to 18 year-old Internet users in the
+United States. Past year sexual harassment was reported by 23–72% of youth, depending
+upon sexual orientation, with the highest rates reported by lesbian/queer girls (72%), bisexual
+girls (66%), and gay/queer boys (66%). When examined by gender identity, transgender
+youth reported the highest rates of sexual harassment – 81%. Overall, the most common
+modes for sexual harassment were in-person followed by online. Distress in the form of
+interference with school, family, and/or friends; creating a hostile environment; or being
+very/extremely upset was reported by about half of the sexually harassed bisexual girls and
+lesbian/queer girls, 65% of the gender non-conforming/other gender youth, and 63% of the
+transgender youth. Youth with high social support and self-esteem were less likely to report
+sexual harassment. Findings point to the great importance of sexual harassment prevention
+for all adolescents, with particular emphasis on the unique needs and experiences of
+youth of different sexual orientations and gender identities. Socio-emotional programs that
+emphasize self-esteem building could be particularly beneficial for reducing the likelihood
+of victimization and lessen the impact when it occurs.
+© 2013 Elsevier Ltd. All rights reserved.
+Introduction
+Sexual harassment is associated with a variety of negative psychosocial and physical health concerns, including emotional
+distress, self-harming behavior and suicidal ideation, substance use, and physical violence in and outside of dating
+relationships (Chiodo, Wolfe, Crooks, Hughes, & Jaffe, 2009a; Gruber & Fineran, 2007). This significant adolescent health
+issue is common in adolescence. One national survey suggested 2.8% of youth (ages 10–13) and 9.3% of youth (ages 14–17)
+in the United States were sexually harassed in the past year; 15.8% of 14 to 17 year-olds report ever experiencing sexual
+harassment (Finkelhor, Turner, Shattuck, & Hamby, 2013). Higher rates were reported as part of the American Association
+of University Women (AAUW) survey in 2001: 81% of students experienced some form of sexual harassment during their
+ The project described was supported by Award Number R01 HD057191 from the National Institute of Child Health and Human Development. The
+content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institute of Child Health and Human
+Development or the National Institutes of Health.
+∗ Corresponding author at: Crimes against Children Research Center, University of New Hampshire, 10 West Edge Drive, Suite 106, Durham, NH 03824,
+USA.
+0145-2134/$ – see front matter © 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.chiabu.2013.09.008
+K.J. Mitchell et al. / Child Abuse & Neglect 38 (2014) 280–295 281
+school years (AAUW, 2001). A longitudinal study of 5th, 7th, and 9th graders in Wisconsin found past year rates of peer sexual
+harassment victimization increases with age from 38% of 5th grade girls to 78% of 9th grade boys (Petersen & Hyde, 2009).
+The Definition of Sexual Harassment
+Because of diverse legal, sociological, feminist, and psychological perspectives, a universal definition of sexual harassment
+does not exist (McMaster, Connolly, Pepler, & Craig, 2002), and thus, rates of sexual harassment vary widely across studies.
+As with any form of victimization, types of sexual harassment range from minor forms, such as sexual jokes and comments,
+to severe forms, including sexual assault. The legal definition requires the harassment to create a hostile environment (U.S.
+Equal Employment Opportunity Commission, n.d.). Sexual harassment is not limited to face-to-face interactions; indeed,
+such victimization can also occur through the Internet and text messaging (Barak, 2005; Ybarra, 2003; Ybarra, Espelage, &
+Mitchell, 2007; Ybarra, Mitchell, & Korchmaros, 2011).
+In the current study, we take a broad approach to ensure we are capturing all possible forms of sexual harassment. We
+define sexual harassment as unwanted sexual advances, requests for sexual favors, and sexual comments or gestures that
+occur in any environment.
+The Importance of Sexual Orientation and Gender Identity
+Lesbian, gay, bisexual, and transgender (LGBT) youth seem to be particularly at risk for sexual harassment: 71% of gay,
+lesbian, bisexual, and questioning middle and high school students in the northeastern United States reported being sexually
+harassed during the school year compared to 32% of their heterosexual counterparts (Gruber & Fineran, 2008). A metaanalysis
+of the victimization experiences of lesbian, gay, and bisexual individuals (adolescents and adults) across 386 studies
+between 1992 and 2009 found 50% of LGB individuals in the United States experienced sexual harassment (Katz-Wise & Hyde,
+2012). Among Canadian adolescents, sexual minority and questioning youth were also more likely than heterosexual youth
+to be victims of peer sexual harassment (Williams, Connolly, Pepler, & Craig, 2003). Similar findings have been documented
+by other researchers (Fineran, 2001; Williams, Connolly, Pepler, & Craig, 2005).
+Biological sex also seems to play a role in risk for sexual harassment. Females experience sexual harassment differently
+from males (Chiodo et al., 2009a) and more frequently: 13.6% of females ages 14–17 years reported past year sexual harassment
+compared to 4.7% of their male counterparts among a national sample of youth in the United States; lifetime rates were
+21.2% for adolescent females and 10.8% for adolescent males (Finkelhor et al., 2013). Females are more likely to be put down,
+objectified, or treated differently because of their sex (Lindberg, Grabe, & Hyde, 2007), whereas males are more likely to
+experience vulgar and homophobic comments (McMaster et al., 2002). Females also experience more of the physical forms
+of sexual harassment (e.g., touched, grabbed, or pinched in a sexual way; intentionally brushed up against in a sexual way)
+than males (American Association of University Women Educational Foundation, 2001; Ontario Secondary School Teacher
+Federation, 1995).
+Despite research that suggests biological sex is influential in understanding sexual harassment, there is a noted paucity
+of research exploring the experiences of youth across gender identities and among youth who identify as transgender in
+particular. Gender identity, including transgender, is different than sexual orientation: It is the knowledge of oneself as being
+male or female. Transgender youth feel themselves to be of a gender different from their biological sex, which is separate
+from one’s sexual orientation (i.e., gay, lesbian, heterosexual, or bisexual). Although data are lacking for sexual harassment
+specifically, research on other forms of victimization support the hypothesis that transgender youth may be at heightened
+risk. For example, compared to male and female gender LGB youth, transgender youth are even more likely to be physically
+harassed and assaulted (Greytak, Kosciw, Diaz, & Gay, Lesbian and Straight Education Network, 2009; Grossman & D’Augelli,
+2006; Kosciw, Greytak, Bartkiewicz, Boesen, & Palmer, 2012; McGuire, Anderson, Toomey, & Russell, 2010). Ninety percent
+of transgender students heard derogatory remarks, such as “dyke” or “faggot” in school at least sometimes during the past
+year; 90% heard negative remarks about someone’s gender expression (Greytak et al., 2009). More than half of transgender
+youth have been physically harassed and more than one-quarter physically assaulted because of their gender expression or
+sexual orientation (Greytak et al., 2009). Illustrating how these data relate to sexual harassment more specifically among
+this population needs to be a priority for adolescent health research.
+The Impact of Sexual Harassment
+Little is known about how sexual harassment may affect one’s daily life, particularly for LGBT youth. Data from college
+students suggests that LGBT young people aremore deeply affected by the experience (Hill & Silva, 2005). Theymay feel angry,
+afraid, less confident, or more self-conscious and be dissatisfied with their college experience. Adolescent health research
+about other types of peer victimization suggest that LGBT youth report greater disruptions in educational trajectories as a
+result of their experiences (Collier, van Beusekom, Bos, & Sandfort, 2013). We need to better understand how many young
+people experience disruptions in their daily functioning, including relationships with family and friends, and the ability
+to continue to feel able to navigate the world safely. Identifying factors – both risk (e.g., depressive symptomatology) and
+protective (e.g., self-esteem) – that help explain one’s vulnerability to this interference also is critical.
+282 K.J. Mitchell et al. / Child Abuse & Neglect 38 (2014) 280–295
+Understanding Protective Factors for Sexual Harassment
+Supportive and accepting individuals in a LGBT adolescent’s life can play a protective role reducing harmful effects of
+victimization and other risk factors (Anhalt & Morris, 1998). Evidence has emerged that suggests protective factors, such as
+family connectedness and supportive adults, are not only associated with lower levels of risk for mental health problems and
+suicidal ideation but also mitigate the negative relationships between victimization and risk (Eisenberg & Resnick, 2006).
+Not all LGBT youth have access to social support, however. Less than half (45.7%) of LGBT youth report that they have a
+student club in their school that addresses LGBT student issues. And youth who attended a high school with a gay-straight
+alliance (GSA) had less alcohol use, less depression symptoms, and less generalized psychological distress compared with
+youth without a GSA in their high school (Heck, Flentje, & Cochran, 2011). Sexual minority adolescents have more difficulties
+in getting along with peers, teachers, and parents (Ueno, 2005). Among a community-based high school sample of LGBQ
+adolescents, sexual minority youth reported less social support from both peers and family members than their heterosexual
+counterparts (Williams et al., 2005). This study also found that more social support was related to less victimization (i.e.,
+bullying, sexual harassment, and physical abuse by peers) and less externalizing and depressive symptoms.
+Self-esteem is also critical for the well-being of LGBT youth. Research suggests that for LGBT youth, school victimization
+was related to lower self-esteem (Russell, Ryan, Toomey, Diaz, & Sanchez, 2011). Further, students who experience higher
+levels of victimization (i.e., harassment, assault in school) based on their sexual orientation or gender expression have lower
+levels of self-esteem than those who report lower levels of the same types of victimization (Kosciw et al., 2012). Findings
+from the current study will add an important piece to the existing literature on the potential protective influences of social
+support and self-esteem for buffering the impact of sexual harassment among all youth, and LGBT youth in particular.
+Additional Factors Missing from the Literature
+Technology is now an integral part of the lives of adolescents. Use of the Internet by teens between the ages of 12 and 17
+in the United States has increased from 73% in 2000 to 95% in 2012 (Pew Internet & American Life Project, 2013). Moreover,
+in 2012, 74% of teens had mobile access to the Internet and 25% accessed the Internet mostly from their cell phone. Even with
+this widespread use of the Internet among youth, little is known about how youth experience sexual harassment through
+technology. The limited data that does exist suggests a substantial percentage of youth (about 1 in 6) in the United States
+report unwanted sexual experiences (i.e., someone trying to get me to talk about sex when I did not want to; someone
+asked me to do something sexual when I did not want to) via the Internet in a given year (Ybarra, Mitchell, & Espelage,
+2012; Ybarra et al., 2011). Whether sexual minority youth experience sexual harassment through technology differently
+from heterosexual youth has yet to be explored.
+Intimate and sexual relationships are normative, age-typical tasks for adolescents and these relationships have signifi-
+cant implications for health, adjustment, and psychosocial functioning (Bouchey & Furman, 2003; Collins, 2003). A healthy
+romantic relationship is related to a positive self-concept (Connolly & Konarski, 1994) and the development of important
+interpersonal skills such as sharing, negotiation, disclosure, and intimacy (Feiring, 1996; Furman & Shaffer, 2003). Given
+how central dating and sexual behavior is in the lives of adolescents, and the inherent sexual nature of the harassment
+experiences under study, it is important to take into account adolescent’s dating and sexual experiences when exploring
+factors related to sexual harassment.
+Hypotheses
+To address these identified gaps in the literature, we will examine differences in sexual harassment rates and impact (i.e.,
+distressing vs. non-distressing) by mode of harassment (e.g., online, in person), type of harassment (e.g., made obscene or
+sexual comments), youth behavior (e.g., dating and sexual activity), and protective factors (e.g., social support, self-esteem).
+We also examine how these rates are similar and different across sexual orientation and gender identity groups. Based upon
+school and adult data, we posit that LGBT youth will report higher rates of sexual harassment across modes; and that the
+impact will be more severe among these youth.
+Method
+Participants
+Teen Health and Technology (THT) survey data were collected from August 4, 2010, to January 17, 2011, from 5,907
+13 to 18 year-olds in the United States. The survey protocol was reviewed and approved by the Chesapeake Institutional
+Review Board (IRB), the University of New Hampshire IRB, and the Gay, Lesbian and Straight Education Network (GLSEN)
+IRB. We received a waiver of parental consent to protect youth who would be potentially placed in harm’s way if their sexual
+orientation was unintentionally disclosed to their caregivers.
+Sample size challenges because of low base rates of LGBT youth (Kann et al., 2011) make it difficult to randomly select
+a national, representative sample of children and adolescents 18 years of age and younger which is large enough to draw
+statistically valid conclusions. For example, a population-based study of adolescents, 13 to 18 years old (Harris Interactive &
+K.J. Mitchell et al. / Child Abuse & Neglect 38 (2014) 280–295 283
+Gay, Lesbian, & Straight Education Network [GLSEN], 2005), has shown that about 5% of this population identify as lesbian,
+gay, or bisexual. The THT study was designed particularly to address this limitation. Participants were recruited from two
+sources: (a) the Harris Poll Online (HPOL) opt-in panel (n = 3,989 respondents) and (b) referrals from GLSEN (n = 1,918
+respondents).
+The HPOL and GLSEN samples differed in some expected ways, even after taking into account weighting. The HPOL
+sample was significantly more likely to be heterosexual (75% vs. <1%), younger (45% were ages 13–15 compared to 39% of
+the GLSEN sample), White race (68% vs. 63%), and live in a small town or rural area (40% vs. 33%). GLSEN participants were
+more likely to be of Hispanic ethnicity (23% vs. 19%) and female gender (61% vs. 52%). We see age differences in ways we
+would expect because of typical sexual development whereby one becomes increasingly aware of one’s sexual self, including
+sexual orientation, with age. The differences in ethnicity and race were not clinically significant but statistically significant
+because of the large sample size. The noted differences in type of community were expected given the stigma associated
+with being a sexual minority, particularly in smaller communities.
+Procedures
+The survey was self-administered to all participants online. Qualified respondents were defined as (a) U.S. residents, (b)
+ages 13 to 18, (c) in 5th grade or above, and (d) assented or consented to participate in the survey. The median survey length
+was 23 min for HPOL respondents and 34 min for GLSEN respondents.
+HPOL respondents were invited through password-protected email invitations to participate in a survey about their
+online experiences. A stratified random sample of U.S. residents was identified among four groups of HPOL members: (a) 13
+to 18 year-olds, (b) adults with a 13 to 17 year-old in their household, (c) adults with a child under 18 in their household,
+and (d) a general population of adults. Invitations to HPOL adults noted that the survey was intended for a 13 to 18 year old
+in the household and asked the adult to forward the survey link to the teen.
+An oversample of LGBT teenagers was recruited into the study through GLSEN’s referral efforts. GLSEN is the leading
+national education organization focusing on ensuring safe schools for all youth, regardless of sexual orientation or gender
+identity (www.glsen.org). GLSEN works to educate teachers, students, and the public about the negative impact of homophobia
+and heterosexism on a healthy school environment for youth. Most GLSEN referral respondents were recruited through:
+(a) emails sent with the survey link to GLSEN’s distribution list and (b) publicizing the survey through targeted advertising
+on Facebook.
+The response rate for the HPOL sample was calculated as the number of individuals who started the survey divided by
+the number of email invitations sent less any email invitations that were returned as undeliverable. The survey response
+rate, 7.2%, is within range of other recent national Random Digit Dialing (RDD) telephone surveys (Lenhart, Purcell, Smith, &
+Zickuhr, 2010; Mitchell, Jones, & Wolak, 2011), even though the response rates of telephone surveys typically appear higher
+than online response rates because it is impossible for online surveys to determine if the email has reached the intended
+recipient’s inbox (as opposed to being filtered out by spam filters), and individuals who have not “picked up” their email.
+The response rate for the GLSEN sample cannot be calculated as the denominator is indeterminable.
+Weighting procedures were used so that the data would behave as if they were nationally representative and to align
+the two samples so that they could be combined into one dataset. Propensity weighting is a well-established statistical
+technique that, when applied to data, minimizes the issue of nonrandomness based on known covariates and establishes
+equivalency for those who are in the sample versus not because of self-selection bias (Rosenbaum & Rubin, 1984; Schonlau
+et al., 2004; Terhanian & Bremer, 2000). HPOL data are consistently comparable to data that have been obtained from
+random telephone samples of the general populations once propensity weighting and appropriate sample weights are
+applied (Berrens, Bohara, Jenkins-Smith, Silva, & Weimer, 2003; Berrens, Bohara, Jenkins-Smith, Silva, & Weimer, 2004;
+Schonlau et al., 2004; Terhanian, Siegel, Overmeyer, Bremer, & Taylor, 2001). (See Ybarra, Mitchell, Kosciw, Korchamaros, &
+Diener-West, submitted for publication for more details about propensity score weighting in this study.)
+Measures
+Sexual orientation. Sexual orientation was measured with the following question: “Below is a list of terms that people
+often use to describe their sexuality or sexual orientation. How would you describe your sexuality or sexual orientation?
+Please select all that apply.” Response options included: Gay, Lesbian, Bisexual, Straight/heterosexual, Questioning, Queer, Other,
+or Not Sure.
+Because youth were allowed to endorse multiple options, mutually exclusive categories were created at the data cleaning
+stage so that analyses could compare youth across sexual orientation categories. Responses were categorized based upon
+the following hierarchy: Gay/Lesbian, Bisexual, Queer, Questioning, and Straight/Heterosexual. Thus, as an example, if an
+individual identified as gay and queer, they were categorized as Gay/Lesbian; if an individual identified as bisexual and
+questioning, they were categorized as Bisexual.
+Gender identity. Gender identity was measured with the following question: “What is your gender? Your gender is how
+you feel inside and can be the same or different than the answer you gave [when you were asked about your biological sex].”
+Response options were male, female, transgender, or other (specify). Multiple response options were possible.
+284 K.J. Mitchell et al. / Child Abuse & Neglect 38 (2014) 280–295
+For the purposes of the current paper, we looked at a combination of sexual orientation-gender identities among youth
+with the same biological sex and gender identities (termed cisgender) and gender identity separately. To examine sexual
+orientation-gender identity we classified youth into eight groups: (a) Heterosexual boys, (b) Heterosexual girls, (c) Bisexual
+boys, (d) Bisexual girls, (e) Questioning boys, (f) Questioning girls, (g) Gay/queer boys, and (h) Lesbian/queer girls. The
+analytic sample for analyses based on sexual orientation-gender identity was 5,139 as it was restricted to cisgender youth.
+There was insufficient sample size to allow for categorization of transgender youth by sexual orientation. Therefore, in a
+separate analysis, we focused on gender identity; youth were classified into four groups: (a) Cisgender males, (b) Cisgender
+females, (c) Transgender, and (d) Gender non-conforming or other gender. The analytic sample for analyses based on gender
+identity was 5,498.
+Sexual harassment. We measured sexual harassment in two separate ways: mode and type. To measure sexual harassment
+by mode, youth were presented with the following text: “Next we have a few questions about sexual harassment.
+We say that sexual harassment includes: unwanted sexual advances, unwanted requests for sexual favors, someone saying
+something or doing something sexual when you do not want them to. Sexual harassment can happen anywhere, like at
+school, at home, or other places you hang out. In the past 12 months, how often have you been sexually harassed...? (a)
+In-person, (b) By phone call (on a cell phone or landline), (c) By text message, (d) Online, and (e) Some other way.” Response
+options were every day or almost every day, once or a few times a week, once or a few times a month, once of a few time in
+the past 12 months, never in the past 12 months. A positive response to any of the above modes was indicative of any sexual
+harassment in the past year by mode.
+To measure sexual harassment by type youth were asked: “In the past 12 months, how often have you been sexually
+harassed in the following ways? Remember that these things can happen anywhere, including in-person, online, and by text
+messaging. Nine different types of sexual harassment were provided: (a) Someone spread sexual rumors or wrote sexual
+messages about me in a public place such as the bathroom walls, in locker rooms, etc.; (b) Someone touched, grabbed, or
+pinched me or grabbed my clothing in a sexual way when I did not want them to; (c) Someone intentionally brushed up
+against me in a sexual way when I did not want them to; (d) Someone blocked my way or cornered me in a sexual way
+when I did not want them to; (e) Someone made sexual or obscene comments that I did not want to hear; (f) Someone
+showed or sent me sexual or obscene messages or pictures when I did not want to see them; (g) Someone asked me for
+sexual information about myself when I did not want to tell them (really personal questions, like sexual things I have done
+or what my body looks like); (h) Someone asked me to do something sexual when I did not want to; and (i) I was sexually
+harassed in some other way.” Response options were the same as those provided by sexual harassment by mode. A positive
+response to any of the nine items was indicative of any sexual harassment in the past year by type.
+Taken together, a positive response to any mode or type was coded as experiencing sexual harassment in the past 12
+months.
+Distress. Youth who reported at least one sexual harassment episode by either mode or type were asked a series of
+follow-up questions to determine the impact of the experience. We did not query distress for each mode or type to reduce
+respondent burden. First, youth were asked, “Think about the places where you were sexually harassed in the past 12 months,
+do any of these places now feel scary, unfriendly, or uncomfortable?” Response options were yes/no. Next, youth were asked
+how much being sexually harassed interfered with (a) Your (school) work or other responsibilities, (b) Your relationships
+with friends, and (c) Your relationships with family members. Response options were: Not at all, Not very much, Somewhat,
+and A lot. Responses were coded as a lot/somewhat versus other. We then asked youth to “Think about the time you were
+sexually harassed that you remember the most. How did you feel when it happened?” Response options were measured on
+a 5-point scale ranging from not at all upset to extremely upset; and coded as very/extremely upset versus all other responses.
+Demographic characteristics. Age was coded as 13 to 15 years, 16 to 17 years, and 18 years old because of high collinearity
+with some of the psychosocial characteristics and sexual activities. Household income was measured: “How would you
+describe your family’s income?” Youth had three options: Lower than average, About average, and Higher than average. Those
+who indicated their income was lower than average were compared to all other youth. Region was measured by asking
+where the respondent’s school was located: In an urban or city area, In a suburban area next to a city, or In a small town or
+rural area. Youth reported their race (coded as White vs. other) and ethnicity (coded as Hispanic vs. other).
+Additional covariates. To measure dating, youth were asked how many romantic relationships they had in the past 12
+months with someone they would call a boyfriend or a girlfriend. To measure sexual activity, youth were first asked whether
+they had ever had consensual oral sex (“Have you ever had oral sex [we mean stimulating the vagina or penis with the mouth
+or tongue] when you wanted to?”), penetrative sex (“Have you ever had sex with another person that involved a finger or
+sex toy going into the vagina or anus when you wanted to?”), vaginal sex (“Have you ever, when you wanted to, had sex
+where a penis went into a vagina?”), and anal sex (“Have you ever, when you wanted to had sex where someone’s penis
+went into your anus?” “Have you ever, when you wanted to had sex where your penis when into someone’s anus?”). All
+youth who had oral, vaginal, or anal sex in the past 12 months were then asked, “How many people have you had any type
+of sex with in the past 12 months when you wanted to? By sex we mean oral sex or sex where a penis, finger, or sex toy goes
+into the vagina or anus.” Number of romantic relationships and sex partners were each coded as none, one, or two or more.
+Indication of depressive symptomatology was measured with a sum variable of the 10 items from the Center for Epidemiologic
+Studies Depression Scale – Revised (CESD-R; ˛= .93). This scale asks respondents to report how often they have felt,
+e.g., like a bad person. Response options included not at all or less than 1 day in the last week; 1–2 days in the last week; 3–4
+days in the last week; 5–7 days in the last week; and nearly every day in the last week. Respondents were coded to reflect having
+K.J. Mitchell et al. / Child Abuse & Neglect 38 (2014) 280–295 285
+major depression (i.e., five or more symptoms all day, nearly every day for the past two weeks, one of which is anhedonia
+or dysphoria; and functional impairment at home, with friends, or at school (1) versus not having major depression (0).
+Two aspects of the parent–child relationship were queried: Emotional bond (e.g., how well do you get along?; 3 items:
+˛= .75) and Coercive discipline (e.g., how often does your caregiver spank or slap you; 3 items: ˛= .56). These two subscales
+were modified from the Youth Internet Safety Survey (Ybarra, Mitchell, Wolak, & Finkelhor, 2006). Each aspect was reflected
+by a sum score of youth responses to the subscale items for the corresponding subscale, with a higher score reflecting a
+worse relationship. For both variables, the continuous variables were highly collinear with other psychosocial variables in
+the model. As such, they were dichotomized to reflect scores one standard deviation above the mean and higher versus all
+other scores.
+Social support was measured as a summation of four items from the Multidimensional Scale of Perceived Social Support
+(˛= .94; Zimet, Dahlem, Zimet, & Farley, 1988). These items asked respondents to think about their friends who they first
+met in-person, not online, and to report how much they agree (very strongly disagree to very strongly agree) that they can
+talk about their problems with these friends, can share their happy and sad moments with these friends, can count on these
+friends when things go wrong, and these friends really try to help them. Responses across items were summed so that larger
+values reflect greater support from offline friends and then coded to reflect scores two standard deviations above the mean
+and higher (1) versus all other scores (0). Self-esteem was measured using the Rosenberg Self-Esteem Scale (1965); ˛= .93.
+This scale asks respondents to report how much they agree or disagree that, e.g., I certainly feel useless at times. Response
+options ranged from strongly disagree to strongly agree. Responses were coded so that larger values reflected greater selfesteem,
+were summed across items, and then coded to reflect scores one standard deviation above the mean and higher (1)
+versus all other scores (0).
+Data Analyses
+Using Stata/SE 11.2 (StataCorp, 2009), data were imputed usingmultiple imputation. Respondents who gave valid answers
+(i.e., not do not know answers) for less than 80% of the survey or those who did not meet valid data requirements (i.e., survey
+length was less than 5 min; self-reported age at the beginning and end of the survey differed by more than a year) were
+dropped. The final sample size was 5,542.
+First, we examined how many youth reported sexual harassment victimization by sexual orientation-gender identity and
+then by gender identity. We also estimated how many youth reported sexual harassment victimization by specific modes
+(e.g., in-person, online) and types for youth of different sexual orientations and gender identities. Next, we explored how
+often and in what ways sexual harassment resulted in distress, both by sexual orientation and gender identity. We used chisquare
+tests, corrected for survey weights (i.e., Design-based F statistics), to measure statistical differences between youth
+of different sexual orientation and gender identity groups. Two multinomial logistic regressions were used to estimate the
+odds of non-distressing and distressing sexual harassment (with no sexual harassment as a reference group) given a number
+of risk and protective factors suggested in the literature. All independent variables were entered at the same time into the
+models. We first focused on differences across sexual orientation-gender identity groups, and then focused on differences
+across gender identity groups. Conditional odds ratios and 95% confidence intervals are reported for each. The models were
+adjusted for survey process measures: Self-reported honesty in answering survey questions, and completion of the survey
+alone or with other people in the room irrespective of statistical significance.
+Results
+Rates and Impact of Sexual Harassment by Sexual Orientation-Gender Identity
+Rates of past year sexual harassment varied significantly when examined by sexual orientation (Table 1). Lesbian/queer
+girls reported the highest rates of past year sexual harassment (72%) across mode and type, followed by bisexual girls (66%)
+and gay/queer boys (66%). Heterosexual boys reported the lowest rate (23%). Information about individual modes and types
+of sexual harassment is detailed in Table 1. Across all sexual orientation groups, youth most commonly reported being
+sexually harassed in-person and online; they most frequently reported experiencing harassment in the form of obscene or
+sexual comments and being asked for sexual information. Overall rates of sexual harassment were higher when queried by
+type rather than mode.
+Youth were impacted differently by the sexual harassment experiences. Distress included being very or extremely upset
+because of the harassment; interference with school work or other responsibilities, relationships with friends, and relationships
+with family; and feeling like the harassment resulted in a hostile environment (places felt scary, unfriendly or
+uncomfortable). Over half (54%) of lesbian/queer girls and bisexual girls (52%) reported some type of sexual harassmentrelated
+distress (Table 1). Heterosexual boys reported the least distress (33%). As shown in Table 2, all sexual orientation
+groups were more likely to experience any sexual harassment and distressing sexual harassment in comparison to heterosexual
+boys. Gay/queer boys, lesbian/queer girls, and bisexual girls were particularly likely to report elevated rates.
+286 K.J. Mitchell et al. / Child Abuse & Neglect 38 (2014) 280–295 Table 1 Sexual harassment by sexual orientation-gender identity among cisgender youth (percent) (n = 5,139). Variable Heterosexual boys (n = 1,497) Heterosexual girls (n = 1,865) Bisexual boys (n = 62) Bisexual girls (n = 471) Questioning boys (n = 67) Questioning girls (n = 136) Gay/queer boys (n = 643) Lesbian/queer girls (n = 398) Design-based F Sexual harassment (any) 23 43 50 66 47 53 66 72 33.4*** Any mode 9 26 33 54 31 34 47 54 43.4*** In-person 7 20 24 41 22 25 30 42 30.0*** Online 4 12 25 31 20 15 31 38 32.1*** By text message 4 11 17 27 13 15 19 28 22.0*** By phone call 3 6 16 13 10 10 7 11 7.6*** Some other way 1 3 5 6 8 5 4 2 3.6** Any type 22 42 47 64 47 51 64 71 32.7*** Made obscene or sexual comments 14 30 34 44 35 40 41 55 22.3*** Asked for sexual information 9 18 41 48 29 28 42 47 38.4*** Asked to do something sexual 4 16 17 36 17 14 31 36 32.0*** Touched, grabbed or pinched 6 15 14 30 20 19 26 30 19.6*** Intentionally brushed up against 5 15 21 26 12 16 25 29 15.5*** Showed/sent obscene or sexual messages/pictures 8 11 25 28 17 17 24 34 15.4*** Spread sexual rumors 6 9 19 25 13 16 24 23 14.4*** Blocked way/cornered 3 6 14 22 11 5 15 14 14.2*** Some other way 1 3 2 6 6 4 9 8 7.4*** Distress (any)a 33 42 40 52 42 49 40 54 2.6* Interference with... Relationships with friends 13 13 12 29 26 29 21 22 3.7** School work/responsibilities 14 12 27 20 17 15 19 19 1.2 Relationships with family 7 9 2 18 25 16 9 21 5.4*** Response
+Places feel scary, unfriendly or
+uncomfortable
+13 18 2 34 11 18 21 29 7.4***
+Very/extremely upset by harassment 23 31 15 29 10 23 23 36 2.1*
+a Youth who responded positively to at least one sexual harassment experience by mode or type were asked these questions about distress.
+*
+p ≤ .05.
+**
+p ≤ .01.
+***
+p ≤ .001.
+K.J. Mitchell et al. / Child Abuse & Neglect 38 (2014) 280–295 287
+Table 2
+Percentage and unadjusted conditional odds of sexual harassment given sexual orientation and gender identity.
+Variable Row percentage Unadjusted CORa
+No sexual
+harassment
+Non-distressing
+sexual harassment
+Distressing
+sexual
+harassment
+Non-distressing
+sexual harassment
+(95% CI)
+Distressing
+sexual
+harassment
+(95% CI)
+Sexual orientation-gender identityb
+Heterosexual boys (n = 1,497) 77 16 8 1.0 (Ref) 1.0 (Ref)
+Heterosexual girls (n = 1,865) 57 25 18 2.1 (1.7–2.6)*** 3.2 (2.4–4.1)***
+Bisexual boys (n = 62) 50 30 20 2.9 (1.3–6.1)** 4.0 (1.3–12.1)**
+Bisexual girls (n = 471) 33 32 34 4.6 (3.2–6.8)*** 10.3 (6.9–15.3)***
+Questioning boys (n = 67) 53 27 20 2.5 (1.3–4.7)** 3.8 (1.9–7.7)***
+Questioning girls (n = 136) 47 27 26 2.7 (1.7–4.3)*** 5.4 (3.0–9.6)***
+Gay/queer boys (n = 643) 34 39 26 5.5 (3.6–8.6)*** 7.7 (4.7–12.5)***
+Lesbian/queer girls (n = 398) 28 33 39 5.8 (3.3–10.2)*** 14.1 (8.0–24.8)***
+Gender identityc
+Cisgender male (n = 2,260) 66 21 13 1.0 (Ref) 1.0 (Ref)
+Cisgender female (n = 2,840) 48 27 25 1.77 (1.45–2.15)*** 2.72 (2.13–3.47)***
+Transgender (n = 189) 18 30 51 5.07 (2.31–11.11)*** 14.59 (7.70–27.66)***
+Gender non-conforming or other gender
+(n = 209)
+31 24 45 2.45 (1.32–4.54)** 7.78 (4.04–14.95)***
+Note: Row percentages. Ref, reference category.
+a Unadjusted conditional odds ratios calculated using multinomial logistic regression with ‘no sexual harassment’ as reference category.
+b No sexual harassment n = 2,751, non-distressing sexual harassment n = 1,400, distressing sexual harassment n = 998 (total n = 5,139). c No sexual harassment n = 2,841, non-distressing sexual harassment n = 1,509, distressing sexual harassment n = 1,148 (total n = 5,498). ** p ≤ .01. *** p ≤ .001.
+Table 3
+Characteristics of sexual harassment by gender identity (percent) (n = 5,498).
+Variable Cisgender male
+(n = 2,260)
+Cisgender female
+(n = 2,840)
+Transgender
+(n = 189)
+Gender
+non-conforming or
+other gender
+(n = 209)
+Design-based F
+Sexual harassment (any) 34 52 81 69 46.14***
+Any mode 18 36 60 47 37.37***
+In-person 13 28 51 40 35.00***
+Online 11 19 45 28 27.09***
+By text message 8 17 29 23 18.33***
+By phone call 5 9 23 9 13.82***
+Some other way 3482 3.29*
+Any type 33 51 79 68 43.93***
+Made obscene or sexual comments 21 37 53 46 26.40***
+Asked for sexual information 18 30 60 49 32.68***
+Asked to do something sexual 11 23 50 29 34.22***
+Touched, grabbed or pinched 11 21 34 27 18.23***
+Showed/sent obscene or sexual
+messages/pictures
+13 18 33 27 9.88***
+Intentionally brushed up against 10 19 35 23 18.30***
+Spread sexual rumors 10 15 37 29 15.54***
+Blocked way/cornered 6 12 25 12 12.89***
+Some other way 3 5 10 6 2.73*
+Distress (any)a 37 47 63 65 6.65***
+Interference with...
+Relationships with friends 17 21 37 20 4.27**
+School work/responsibilities 17 16 32 21 3.50*
+Relationships with family 7 14 29 20 8.63***
+Response
+Places feel scary, unfriendly or
+uncomfortable
+15 24 39 34 6.69***
+Very/extremely upset as result 22 31 31 32 2.68*
+a Youth who responded positively to at least one sexual harassment experience by mode or type were asked these questions about distress.
+* p ≤ .05. ** p ≤ .01. *** p ≤ .001.
+288 K.J. Mitchell et al. / Child Abuse & Neglect 38 (2014) 280–295
+Table 4
+Percentage and unadjusted conditional odds of youth characteristics related to sexual harassment.
+Variable Column percentages Unadjusted CORa
+No sexual
+harassment
+(n = 2,846)
+Non-distressing
+sexual harassment
+(n = 1,527)
+Distressing sexual
+harassment
+(n = 1,169)
+Non-distressing
+sexual harassment
+(95% CI)
+Distressing sexual
+harassment (95%
+CI)
+Dating and sexual activity
+Number of romantic relationships in past 12 months
+None 60 43 37 1.0 (Ref) 1.0 (Ref)
+One 26 33 35 1.79 (1.45–2.21)*** 2.19 (1.71–2.82)***
+Two or more 14 24 27 2.48 (1.93–3.18)*** 3.25 (2.43–4.34)***
+Number sex partners in past 12 months
+None 85 71 67 1.0 (Ref) 1.0 (Ref)
+One 8 15 20 2.41 (1.83–3.16)*** 3.28 (2.45–4.39)***
+Two or more 7 13 13 2.34 (1.69–3.22)*** 2.56 (1.81–3.62)***
+Psychosocial characteristics
+High depressive symptomatology
+(5+ symptoms)
+12 22 38 1.95 (1.52–2.49)*** 4.38 (3.41–5.61)***
+High caregiver coercive discipline 7 10 18 1.44 (1.04–2.00)* 2.77 (1.96–3.90)***
+Poor emotional bond with caregiver 8 14 17 1.82 (1.35–2.45)*** 2.31 (1.71–3.11)***
+Protective factors
+High social support (in-person) 18 15 13 0.82 (0.64–1.04) 0.69 (0.51–0.92)**
+High self esteem 65 53 37 0.60 (0.50–0.25)*** 0.32 (0.25–0.40)***
+Demographic characteristics
+Age
+13–15 years 48 44 47 1.0 (Ref) 1.0 (Ref)
+16–17 years 37 37 37 1.10 (0.90–1.35) 1.01 (0.80–1.27)
+18 years 15 18 16 1.28 (0.98–1.68) 1.08 (0.79–1.48)
+Low income 26 27 34 1.06 (0.85–1.32) 1.48 (1.17–1.88)***
+Hispanic ethnicity 18 17 23 0.92 (0.68–1.26) 1.37 (1.00–1.87)*
+White race 69 69 66 0.97 (0.78–1.20) 0.86 (0.67–1.09)
+Type of community
+Urban or city area 28 25 28 1.0 (Ref) 1.0 (Ref)
+Suburban area 32 32 30 1.12 (0.88–1.41) 0.93 (0.71–1.21)
+Small town or rural area 40 43 42 1.20 (0.95–1.52) 1.03 (0.79–1.34)
+Parent with high school degree or
+less vs. more
+69 79 69 0.59 (0.46–0.76)*** 0.97 (0.75–1.26)
+Ref, reference category.
+a Unadjusted conditional odds ratios calculated using multinomial logistic regression with ‘no sexual harassment’ as reference category.
+* p ≤ .05. ** p ≤ .01. *** p ≤ .001.
+Rates and Impact of Sexual Harassment by Gender Identity
+Past year prevalence rates of sexual harassment victimization significantly varied by gender identity (see Table 3). Transgender
+youth reported the highest rates of sexual harassment (81%), followed by gender non-conforming/other gender youth
+(69%). About half (52%) of youth identifying as female reported sexual harassment as did 34% of youth identifying as male.
+These patterns held for sexual harassment by mode (e.g., online, in person) and by type (e.g., obscene or sexual comments,
+asked to do something sexual).
+Male youth reported significantly less distress than all other groups (37%). The other groups reported distress between 47%
+(female youth) and 65% (gender non-conforming youth). All groups of youth reported elevated odds of distressing and nondistressing
+sexual harassment in comparison to male gendered youth (see Table 2). Compared to male youth, the elevated
+odds of harassment-related distress were highest for youth who identified both as transgender and gender non-conforming
+(see Table 2).
+Other Characteristics Related to Sexual Harassment Victimization
+As shown in Table 4, risk factors bivariately related to increased odds of both distressing and non-distressing sexual
+harassment included: Having at least one romantic partner in the past 12 months, at least one sex partner in the past
+12 months, high depressive symptomatology, high caregiver coercive behavior, and a poor emotional bond with one’s
+caregiver. High self-esteem was protective against distressing and non-distressing sexual harassment; high social support
+was protective against distressing harassment. Lower than average income and Hispanic ethnicity were positively related
+to distressing harassment. Other demographic characteristics were not statistically significantly related to either type of
+sexual harassment experience.
+K.J. Mitchell et al. / Child Abuse & Neglect 38 (2014) 280–295 289
+Table 5
+Adjusted conditional odds of factors related to sexual harassment by sexual orientation-gender identity among cisgender youth (n = 5,139).
+Variable Non-distressing sexual harassment
+COR (95% CI)
+Distressing sexual harassment COR
+(95% CI)
+Sexual orientation-gender identity
+Heterosexual boys 1.00 (Ref) 1.0 (Ref)
+Heterosexual girls 2.3 (1.9–2.9)*** 3.4 (2.6–4.6)***
+Bisexual boys 2.7 (1.3–5.5)** 2.8 (1.1–7.5)*
+Bisexual girls 3.4 (2.3–5.1)*** 4.7 (3.1–7.1)***
+Questioning boys 2.5 (1.3–4.7)** 3.2 (1.4–7.2)**
+Questioning girls 2.8 (1.7–4.5)*** 4.2 (2.4–7.3)***
+Gay/queer boys 5.2 (3.2–8.4)*** 5.6 (3.2–9.7)***
+Lesbian/queer girls 4.7 (2.6–8.6)*** 7.5 (3.9–14.2)***
+Dating and sexual activity
+Number of romantic relationships in past 12 months
+None 1.0 (Ref) 1.0 (Ref)
+One 1.5 (1.2–2.0)*** 1.8 (1.3–2.4)***
+Two or more 2.2 (1.7–2.9)*** 2.8 (2.0–3.9)***
+Number sex partners in past 12 months
+None 1.0 (Ref) 1.0 (Ref)
+One 1.4 (1.0–2.0)* 1.8 (1.3–2.6)***
+Two or more 1.5 (1.1–2.2)** 1.8 (1.2–2.6)**
+Psychosocial characteristics
+High depressive symptomatology (5+ symptoms) 1.2 (0.9–1.6) 2.1 (1.5–2.8)***
+High coercive discipline 1.2 (0.9–1.8) 2.0 (1.3–2.9)***
+Poor emotional bond 0.9 (0.7–1.3) 1.0 (0.7–1.4)
+Protective factors
+High social support (in-person) 0.7 (0.5–0.8)*** 0.5 (0.4–0.8)***
+High self esteem 0.7 (0.6–0.9)*** 0.4 (0.3–0.5)***
+Demographic characteristics
+Age
+13–15 years 1.0 (Ref) 1.0 (Ref)
+16–17 years 0.8 (0.6–1.0)* 0.6 (0.5–0.8)***
+18 years 0.9 (0.6–1.2) 0.7 (0.5–1.1)
+Low income 0.9 (0.7–1.2) 1.3 (1.0–1.7)
+Hispanic ethnicity 0.8 (0.6–1.1) 1.1 (0.7–1.5)
+White race 0.9 (0.7–1.2) 0.9 (0.7–1.3)
+Type of community
+Urban or city area 1.0 (Ref) 1.0 (Ref)
+Suburban area 1.1 (0.9–1.5) 1.1 (0.8–1.5)
+Small town or rural area 1.2 (0.9–1.5) 1.4 (1.0–1.9)*
+Ref, reference category.
+* p ≤ .05. ** p ≤ .01. *** p ≤ .001.
+Likelihood of Distressing and Non-Distressing Sexual Harassment by Sexual Orientation-Gender Identity
+As shown in Table 5, after adjusting for influential characteristics identified in Table 4, heterosexual girls were 3.4 times
+more likely to report distressing sexual harassment than heterosexual boys; elevated odds were also noted for bisexual
+boys (Conditional odds ratio [COR] = 2.8, p < .001), bisexual girls (COR = 4.7, p < .001), questioning boys (COR = 3.2, p < .01),
+questioning girls (COR = 4.2, p < .001), gay/queer boys (COR = 5.6, p < .001), and lesbian/queer girls (COR = 7.5, p < .001). Other
+youth characteristics related to increased odds of distressing sexual harassment included having one or two or more romantic
+partners, one or two or more sex partners, high depressive symptomatology, and experiencing high coercive discipline from
+parents. Protective factors were also noted: Youth with high social support were less likely to report distressing sexual
+harassment, as were youth with high self-esteem. Findings for youth reports of non-distressing sexual harassment followed
+similar patterns, but conditional odds ratios were attenuated.
+Likelihood of Distressing and Non-Distressing Sexual Harassment by Gender Identity
+Youth identifying as female gender were 2.3 times more likely (95% CI [1.8, 2.9]) than male youth to report distressing
+sexual harassment (Table 6). Transgender and gender non-conforming youth had an even higher likelihood of distressing
+sexual harassment in comparison to male youth (COR = 6.5, COR = 5.6, respectively). All other factors were consistent with
+those identified in the previous model. Factors related to non-distressing sexual harassment were attenuated but consistent
+with those related to distressing harassment.
+290 K.J. Mitchell et al. / Child Abuse & Neglect 38 (2014) 280–295
+Table 6
+Adjusted conditional odds of factors related to sexual harassment by gender identity (n = 5,498).
+Variable Non-distressing sexual harassment
+COR (95% CI)
+Distressing sexual harassment COR
+(95% CI)
+Gender identity
+Cisgender male 1.0 (Ref) 1.0 (Ref)
+Cisgender female 1.7 (1.4–2.1)*** 2.3 (1.8–2.9)***
+Transgender 3.5 (1.6–7.4)*** 6.5 (3.3–13.1)***
+Gender non-conforming or other gender 2.2 (1.1–4.2)* 5.6 (2.6–11.9)***
+Dating and sexual activity
+Number of romantic relationships in past 12 months
+None 1.0 (Ref) 1.0 (Ref)
+One 1.4 (1.1–1.8)** 1.6 (1.2–2.2)**
+Two or more 1.9 (1.5–2.6)*** 2.7 (1.9–3.7)***
+Number sex partners in past 12 months
+None 1.0 (Ref) 1.0 (Ref)
+One 1.9 (1.3–2.6)** 2.1 (1.4–3.1)***
+Two or more 2.1 (1.5–3.0)*** 2.1 (1.5–2.9)***
+Psychosocial characteristics
+High depressive symptomatology (5+ symptoms) 1.3 (1.0–1.7)* 2.3 (1.8–3.1)***
+High coercive discipline 1.1 (0.7–1.6) 1.9 (1.3–2.7)***
+Poor emotional bond 1.1 (0.8–1.5) 1.1 (0.8–1.6)
+Protective factors
+High social support (in-person) 0.7 (0.5–0.9)** 0.6 (0.4–0.8)***
+High self esteem 0.6 (0.5–0.8)*** 0.4 (0.3–0.5)***
+Demographic characteristics
+Age
+13–15 years 1.0 (Ref) 1.0 (Ref)
+16–17 years 0.8 (0.6–1.0)* 0.7 (0.5–0.9)**
+18 years 0.9 (0.7–1.3) 0.9 (0.6–1.2)
+Low income 1.0 (0.8–1.3) 1.3 (1.0–1.6)
+Hispanic ethnicity 0.9 (0.7–1.3) 1.1 (0.8–1.6)
+White race 0.9 (0.6–1.2) 1.0 (0.7–1.3)
+Type of community
+Urban or city area 1.0 (Ref) 1.0 (Ref)
+Suburban area 1.2 (0.9–1.6) 1.1 (0.8–1.5)
+Small town or rural area 1.2 (0.9–1.6) 1.3 (1.0–1.7)
+Ref, reference category.
+* p ≤ .05. ** p ≤ .01. *** p ≤ .001.
+Discussion
+Among youth ages 13 to 18 in the national Teen Health and Technology study, 23–72% of youth, depending on sexual
+orientation and gender identity, were sexually harassed in the past year. Consistent with previous literature (Greytak et al.,
+2009; Gruber & Fineran, 2008; Human Rights Campaign, 2012; Kosciw & Diaz, 2006; Williams et al., 2003), LGBT youth in the
+current study reported victimization rates higher than their non-LGBT peers. Both sexual orientation and gender identity
+seem to be key factors in understanding risk for sexual harassment in adolescence. Findings add to the existing literature by
+identifying differences across specific sexual minority groups and providing much-needed information about under-studied
+transgender youth.
+The Unique Experience of the Female Gender
+Most of the research that compares males and females in terms of their rates of sexual harassment are looking at biological
+sex and indeed, biological sex does matter. That girls report more sexual harassment than boys has been previously noted
+in large-scale, national studies in the United States (e.g., Finkelhor et al., 2013). Girls also experience sexual harassment
+differently than boys, as they experience more unwanted comments, gestures, and touch (Chiodo, Wolfe, Crooks, Hughes,
+& Jaffe, 2009b). Adolescent girls also consistently report more discomfort and negative consequences as a result of sexual
+harassment than boys (Lee, Croninger, Linn, & Chen, 1996). The immediate and long-term outcomes associated with sexual
+harassment are also often stronger and more negative for girls (Chiodo et al., 2009b).
+Findings from this study add to this existing literature in several ways. First, we specifically explored rates of sexual
+harassment by gender identity (i.e., the knowledge of oneself as being male or female). Transgender youth feel themselves
+to be of a gender different from their biological sex, and cisgender youth feel themselves to be of a gender that is the same as
+their biological sex. Second, our findings confirmed that this pattern of increased rates of sexual harassment for the female
+sex extends to all youth of the female gender, regardless of sexual orientation: Female heterosexual youth reported higher
+K.J. Mitchell et al. / Child Abuse & Neglect 38 (2014) 280–295 291
+rates of sexual harassment and more distress than heterosexual males, bisexual girls more than bisexual boys, and lesbian
+youth more than gay youth. Of particular interest, given our focus on sexual minority youth, is the motivational differences
+behind same-sex versus opposite-sex sexual harassment (McMaster et al., 2002). For heterosexual youth, most oppositesex
+harassment is partly motivated by sexual interest, whereas same-sex harassment is more likely to be motivated by
+aggression.
+Our data is limited in that we do not know the sex or motivation of the individuals behind the sexual harassment. Such
+knowledge is a critical next step in better understanding the differential experience of sexual harassment among LGBT youth
+and could play an important role in both primary and secondary prevention of sexual harassment for all youth.
+Impact of Sexual Harassment
+In many cases, youth who were sexually harassed did not report a significant impact in their ability to continue to function
+in their daily lives as a result. For a notable number of youth, particularly sexual minority youth, however, the experience
+affected their relationships with their friends and family and their school work. The harassment also made certain places
+feel scary or uncomfortable. Given the disproportionate victimization experienced overall by LGBT youth, perhaps they are
+more vulnerable to distress for a number of reasons. First, it could be that the impact of victimization compounds already
+existing stress due to stigma associated with being a sexual minority. The literature certainly documents elevated levels
+of emotional distress for LGBT youth, including depressive symptomatology, suicidal ideation, and self-harm compared to
+their heterosexual peers (Almeida, Johnson, Corliss, Molnar, & Azrael, 2009; Robinson & Espelage, 2011, 2012). Such distress
+is suggested to be a byproduct of the stigmatization associated with being a sexual minority in society (Martin-Storey &
+Crosnoe, 2012). More research is necessary.
+Second, victimized LGBT youth tend to come out earlier and be more visible (D’Augelli, Pilkington, & Hershberger, 2002)
+and may be more gender-atypical (D’Augelli, Grossman, & Starks, 2006; D’Augelli et al., 2002). In the current study, bisexual
+girls, lesbian/queer girls, and gay/queer boys reported particularly elevated odds of both distressing and non-distressing
+sexual harassment; the same is true for gender non-conforming and transgender youth. Thus, “queerer” youth appear to
+be more likely sexually harassed than others. Some adolescents may have a degree of social uneasiness with what they
+perceive to be others’ sexual ambiguity, whether it be gender identity or sexuality or a combination of the two, and this
+in turn becomes the impetus for the harassment. It amplifies the implicit message: You are different and it is because of
+your sexuality. It may be too that one’s reaction to the victimization is affected by one’s stage of coming out or degree of
+self-acceptance: Those who are less assured or confident may be worried that the harassment will in some way ‘out’ them.
+Previous research has suggested that these youth are more concerned about the way they will be received by peers and family
+when they disclose the experience (Carragher & Rivers, 2002; Ryan & Rivers, 2003). Studying the timing of sexual harassment
+victimization in relation to these critical life events for LGBT youth is an important next step in our understanding of the
+impact of victimization for this population. More generally, LGBT youth may personalize the victimization and attribute its
+cause to their sexual orientation, a core part of their self, whereas heterosexual and cisgender youth may attribute the cause
+to something external and less linked to their self and therefore feel victimization is easier to avoid in the future.
+A third reason LGBT youth may be particularly likely to experience distress because of the sexual harassment may be
+because LGBT youth are often subject to more intense victimization experiences (e.g., more targeted, more intrusive, more
+severe; Dunbar, 2006). Examination of the specific details of the victimization incident itself would help determine this.
+Research about youth experiences with other types of victimization supports this notion: Incident characteristics such as
+being targeted by adults, being asked to send a picture of oneself, and attempts at offline contact were all related to increased
+likelihood of distress among youth who were harassed online in a national survey (Ybarra et al., 2006).
+Finally, fear could play a role in the elevated levels of distress as a result of sexual harassment for LGBT youth. Sexual
+minority youth report high rates of feeling unsafe at school: 64% of LGBT youth felt unsafe because of their sexual orientation
+and 44% because of their gender expression in the 2011 School Climate Survey (Kosciw et al., 2012). LGB youth are significantly
+more likely than non-LGB youth to report being threatened with a weapon (DuRant, Krowchuk, & Sinal, 1998; Garafalo, Wolf,
+Kessel, Palfrey, & DuRant, 1998), being involved in fights at school (DuRant et al., 1998), and have their property damaged
+while at school (Garafalo et al., 1998). Accordingly, LGB youth are significantly more likely than non-LGB youth to report
+missing school because they feel unsafe (Coalition for Education on Sexual Orientation, 2005; Garafalo et al., 1998). As a
+result, LGBT youth may react differently and more intensely to any form of victimization which could add to these elevated
+feelings of being unsafe. Our findings suggest that LGBT youth, and bisexual girls, gay/queer boys, and lesbian/queer girls
+in particular, reported that places “feel scary, unfriendly or uncomfortable” as a response to the sexual harassment they
+experienced. Even larger numbers of transgender and gender non-conforming youth reported this to be the case. Findings
+suggest the importance of ensuring safety for all youth, and LGBT youth in particular. Having teachers and other school
+personnel who are openly supportive of LGBT students is an important first step in helping to alleviate such fear, both in
+terms of support for the LGBT student themselves and as role models for non-LGBT students. Teachers also need to intervene
+and stop instances of sexual harassment. Indeed, research examining school climate for transgender youth found that when
+schools took action to reduce harassment, students reported greater connections with school staff which were, in turn,
+associated with greater feelings of safety (McGuire et al., 2010).
+292 K.J. Mitchell et al. / Child Abuse & Neglect 38 (2014) 280–295
+Other Factors Related to Distress
+Given the potential for the victimization to have a lasting impact on youth development, it is critical to understand concurrent
+influential factors contributing to an increased likelihood of victimization-related distress. Beyond sexual orientation
+and gender identity, additional factors associated with distressing sexual harassment victimization emerged. Youth with
+high depressive symptomatology were more than 2 times as likely to also report a distressing sexual harassment experience.
+It may be that depressed youth are more likely to become distressed as a result of the sexual harassment; it may also be that
+youth who are depressed are more likely to be sexually harassed because of some perceived or real vulnerability. Depression
+could also be the outcome of distressing (and perhaps objectively more traumatic) sexual harassment. All scenarios likely
+have a reality depending on the youth and the situation, although there is some support for sexual harassment to predict
+lower self-esteem and symptoms of depression for females in 8th grade, three years later (Goldstein, Malanchuk, Davis-Kean,
+& Eccles, 2007).
+Sexual activity and romantic involvement were both associated with increased likelihood of concurrently reporting sexual
+harassment generally, and distressing harassment specifically. Perhaps these youth are engaging in activities through which
+they are exploring their sexuality, and unexpectedly find themselves in sexualized situations that they did not want. More
+research is needed about how sexual harassment may fit into the potential continuum of healthy relationships.
+Protective Factors Related to Reduced Likelihood of Distress
+In line with previous research (Kosciw et al., 2012; Russell et al., 2011; Williams et al., 2005), protective factors also were
+suggested: For all youth, LGBT and non-LGBT, high self-esteem was significantly associated with lower odds of reporting a
+distressing sexual harassment experience in the past year. This supports other literature suggesting self-esteem is critical for
+the well-being of LGBT youth. For example, students who experience higher levels of victimization (i.e., harassment, assault
+in school) based on their sexual orientation or gender expression have lower levels of self-esteem than those who report
+lower levels of the same types of victimization (Kosciw et al., 2012). We also found youth with high levels of social support
+were less likely to be distressed. LGBT youth may be particularly at a disadvantage because they often have less social support
+and fewer resources to help them cope with the victimization experience (Almeida et al., 2009). Among a community-based
+high school sample of LGBQ adolescents, sexual minority youth reported less social support from both peers and family
+members than their heterosexual counterparts (Williams et al., 2005). Less than half (45.7%) of LGBT youth report that they
+have a student club in their school that addresses LGBT student issues. Youth with more internal and external resources
+appear to fare better when sexually harassed. It is also possible that people with high levels of social support or self-esteem
+are protected from sexual harassment in the first place. Regardless of the directionality of the relationships which requires
+further study, expanding the support network of LGBT youth, such as through online sources, may help bridge this gap in
+support. Indeed, compared to heterosexual youth, LGB youth are more likely to say that their friendships online are better
+than their in person friendships. This finding suggests that for some youth, the Internet can be a source of social support
+(Ybarra, Palmer, Mitchell, & Reisner, in preparation).
+Is the Internet a “Safer” Place for LGBT Teens?
+The Internet does not appear to provide a level playing ground or a place where LGBT youth can necessarily be buffered
+from the risk of sexual harassment that otherwise occurs in person. Indeed, after in person, sexual harassment was most
+commonly reported as occurring online; this was true for youth of all sexual orientations and gender identities. In most
+cases, rates of sexual harassment via text were about half as common as those occurring in person. Even as access to and
+use of the Internet and text messaging continue to grow as a preferred communication between youth (Lenhart, 2012),
+traditional victimization routes (i.e., in person) are by far more common. At the same time, technology is a means of sexual
+harassment for youth and LGBT youth in particular. We found LGBT youth and lesbian/bisexual girls in particular reported
+sexual harassment via the Internet. Text-messaging-based sexual harassment was also most commonly reported by these
+groups of youth. Effective prevention efforts necessarily need to include online and text messaging-based scenarios but not
+to the exclusion of content that targets in person interactions.
+The Sexualized Nature of Bullying/Aggression
+Researchers have begun to bridge the once distinct literature of sexual harassment and bullying (Espelage & Holt, 2007;
+Miller et al., 2013; Shute, Owens, & Slee, 2008). Commonalities exist based on the nature or content of the bullying. Indeed,
+research has found the bully victimization of girls by high school boys to be overwhelmingly sexual in nature (e.g., Shute
+et al., 2008). Bullying and verbal harassment experienced by LGBT students in particular is often sexual in nature; and this
+is especially true for harassment experienced by transgender people and lesbian and bisexual young women (Bochenek &
+Brown, 2001). The majority of LGBT teens have been harassed specifically because of their sexual orientation or gender identity.
+Indeed, 82% were verbally harassed and 38% physically harassed because of their sexual orientation; 64% were verbally
+harassed, and 27% physically harassed because of their gender expression (Kosciw et al., 2012). Overlap in victimization
+experience also is noted. Youth who are victims of bullying report the highest rates of peer sexual harassment victimization
+K.J. Mitchell et al. / Child Abuse & Neglect 38 (2014) 280–295 293
+(Holt & Espelage, 2005; Ybarra et al., 2012). Further, bullying perpetration and homophobic teasing are significant predictors
+of sexual harassment perpetration over time (Espelage, Basile, & Hamburger, 2012). A limitation of the current data is
+the focus exclusively on sexual harassment. Additional bullying experiences were not included because the survey did not
+allow for the disentanglement of sexualized and non-sexualized bullying. It is possible that higher rates of victimization and
+associated impact would be noted if bullying also were included in the analyses.
+Limitations
+Additional limitations that need to be considered include the fact that this is a cross-sectional study, thus, temporality
+cannot be determined. Whether social support buffered sexual harassment, or a positive response to sexual harassment
+increased social support, for example, cannot be determined in the current data. Further, the data are national, but required
+weighting to behave as if they were nationally representative. Selection bias in the unweighted data may exist because youth
+in the HPOL sample were required to be affiliated with the HPOL and in the GLSEN sample because youth were recruited
+through GLSEN networks. Although we took a cautious approach and are confident in our analytic strategies, findings should
+be replicated in other national studies.
+The data were self-reported online. There is a possibility that youth reports were not accurate because of, for example,
+conscious or unconscious misreporting, or adults responding to the survey. Multiple procedures were used to encourage
+honest and accurate reporting. For example, respondents were encouraged to complete the survey while alone in a safe
+place and were ensured that their responses were confidential. Participants did not receive incentives for their participation,
+reducing the benefit of completing the survey multiple times. The eligibility criteria, particularly the age range, were not
+publicized so that potential respondents would know what the right answers would be to qualify for the survey. Thus, we
+are confident that the data accurately reflect the characteristics and experiences of the youth who participated in this study.
+Finally, a critical element to the understanding of sexual harassment among sexual minorities may be whether the
+perpetrator is same- or opposite-sex, which cannot be determined within the current data. A better understanding of the
+characteristics of the perpetrator would help us better understand the motives behind the harassment, including whether
+sexual orientation was a key factor.
+Conclusion
+Findings add to the growing literature in the field of youth violence documenting increased risk for sexual harassment
+among LGBT youth. This is true both in person, as well as in technology-based communications such as the Internet and
+text messaging. Professionals should focus on the more nuanced differences in sexual harassment experiences among the
+diverse groups of sexual minority youth. Motivations behind sexual harassment during adolescence are likely evolving and
+need to be a focus of scrutiny, particularly among the complex developmental experiences of LGBT youth. Findings point to
+the great importance of sexual harassment prevention for all adolescents, with a particular emphasis on the unique needs
+and experiences of youth of different sexual orientations and gender identities. Socio-emotional programs that emphasize
+self-esteem building could be particular beneficial for reducing the likelihood of sexual harassment victimization as well as
+lessen the impact when it occurs.
+Acknowledgements
+We would like to thank the entire Study team from Internet Solutions for Kids, the University of New Hampshire, the
+Gay Lesbian Heterosexual Education Network (GLSEN), Latrobe University, and Harris Interactive, who contributed to the
+planning and implementation of the study. We thank the study participants for their time and willingness to participate in
+this study.
+References
+Almeida, J., Johnson, R. M., Corliss, H. L., Molnar, B. E., & Azrael, D. (2009). Emotional distress among LGBT youth: The influence of perceived discrimination
+based on sexual orientation. Journal of Youth and Adolescence, 38, 1001–1014.
+American Association of University Women Educational Foundation. (2001). Hostile hallways: Bullying, teasing, and sexual harassment in school. Washington,
+DC: Author.
+Anhalt, K., & Morris, T. L. (1998). Developmental and adjustment issues of gay, lesbian, and bisexual adolescents: A review of the empirical literature. Clinical
+Child & Family Psychology Review, 1, 215–230.
+Barak, A. (2005). Sexual harassment on the Internet. Social Science Computer Review, 23, 77–92.
+Berrens, R. P., Bohara, A. K., Jenkins-Smith, H., Silva, C., & Weimer, D. L. (2003). The advent of Internet surveys for political research: A comparison of
+telephone and Internet samples. Political Analysis, 11, 1–22. http://dx.doi.org/10.1093/pan/11.1.1
+Berrens, R. P., Bohara, A. K., Jenkins-Smith, H. C., Silva, C. L., & Weimer, D. L. (2004). Information and effort in contingent valuation surveys:
+Application to global climate change using national internet samples. Journal of Environmental Economics and Management, 47, 331–363.
+http://dx.doi.org/10.1016/S0095-0696(03)00094-99
+Bochenek, M., & Brown, A. W. (2001). Hatred in the hallways: Violence and discrimination against lesbian, gay, bisexual and transgender students in US schools.
+New York, NY: Human Rights Watch.
+Bouchey, H. A., & Furman, W. (2003). Dating and romantic experiences in adolescence. In G. R. Adams, & M. Berzonsky (Eds.), Blackwell handbook of
+adolescence (pp. 313–329). Oxford, England: Blackwell Publishers.
+294 K.J. Mitchell et al. / Child Abuse & Neglect 38 (2014) 280–295
+Carragher, D. J., & Rivers, I. (2002). Trying to hide: A cross-national study of growing up for non-identified gay and bisexual male youth. Clinical Child
+Psychology & Psychiatry, 7, 457–474.
+Chiodo, D., Wolfe, D. A., Crooks, C., Hughes, R., & Jaffe, P. (2009a). Impact of sexual harassment victimization by peers on subsequent adolescent victimization
+and adjustment: A longitudinal study. Journal of Adolescent Health, 45, 246–252. http://dx.doi.org/10.1016/j.jadohealth.2009.01.006
+Chiodo, D., Wolfe, D. A., Crooks, C., Hughes, R., & Jaffe, P. (2009b). Impact of sexual harassment victimization by peers on subsequent adolescent victimization
+and adjustment: A longitudinal study. The Journal of Adolescent Health, 45, 246–252.
+Coalition for Education on Sexual Orientation. (2005). Chicago Youth Risk Behavior Survey: Differential risks for lesbian, gay bisexual youth. Chicago, IL: Author.
+Collier, K. L., van Beusekom, G., Bos, H. M., & Sandfort, T. G. (2013). Sexual orientation and gender identity/expression related peer victimization in
+adolescence: A systematic review of associated psychosocial and health outcomes. Journal of Sex Research, 50, 299–317.
+Collins, W. A. (2003). More than myth: The developmental significance of romantic relationships during adolescence. Journal of Research on Adolescence, 13,
+1–24.
+Connolly, J. A., & Konarski, R. (1994). Peer self-concept in adolescence: Analysis of factor structure and of associations with peer experience. Journal of
+Research on Adolescence (Lawrence Erlbaum), 4, 385–403.
+D’Augelli, A. R., Grossman, A. H., & Starks, M. T. (2006). Childhood gender atypicality, victimization, and PTSD among lesbian, gay, and bisexual youth. Journal
+of Interpersonal Violence, 21, 1462–1482.
+D’Augelli, A. R., Pilkington, N. W., & Hershberger, S. L. (2002). Incidence and mental health impact of sexual orientation victimization of lesbian, gay and
+bisexual youths in high school. School Psychology Quarterly, 17, 148–167. http://dx.doi.org/10.1521/scpq.17.2.148.20854
+Dunbar, E. (2006). Race, gender, and sexual orientation in hate crime victimization: Identity politics or identity risk? Violence and Victims, 21, 323–337.
+DuRant, R. H., Krowchuk, D. P., & Sinal, S. H. (1998). Victimization, use of violence, and drug use at school among male adolescents who engage in same-sex
+sexual behavior. The Journal of Pediatrics, 133, 113–118.
+Eisenberg, M., & Resnick, M. D. (2006). Suicidality among gay, lesbian, and bisexual youth: The role of protective factors. Journal of Adolescent Health, 39,
+662–668.
+Espelage, D. L., Basile, K. C., & Hamburger, M. E. (2012). Bullying perpetration and subsequent sexual violence perpetration among middle school students.
+Journal of Adolescent Health, 50, 60–65.
+Espelage, D. L., & Holt, M. K. (2007). Dating violence & sexual harassment across the bully-victim continuum among middle and high school students. Journal
+of Youth and Adolescence, 36, 799–811.
+Feiring, C. (1996). Concepts of romance in 15-year-old adolescents. Journal of Research on Adolescence (Lawrence Erlbaum), 6, 181–200.
+Fineran, S. (2001). Sexual minority students and peer sexual harassment in high school. Journal of School Social Work, 11, 50–69.
+Finkelhor, D., Turner, H. A., Shattuck, A., & Hamby, S. L. (2013). Violence, crime, and abuse exposure in a national sample of children and youth. JAMA
+Pediatrics, http://dx.doi.org/10.1001/jamapediatrics.2013.42 (Published online May 13, 2013)
+Furman, W., & Shaffer, L. (2003). The role of romantic relationships in adolescent development. In P. Florsheim (Ed.), Adolescent romantic relations and sexual
+behavior: Theory, research, and practical implications (pp. 3–22). Mahwah, NJ: Lawrence Erlbaum.
+Garafalo, R., Wolf, R. C., Kessel, S., Palfrey, J., & DuRant, R. H. (1998). The association between health risk behaviors and sexual orientation among a
+school-based sample of adolescents. Pediatrics, 101, 895–902.
+Goldstein, S. E., Malanchuk, O., Davis-Kean, P. E., & Eccles, J. S. (2007). Risk factors of sexual harassment by peers: A longitudinal investigation of African
+American and European American adolescents. Journal of Research on Adolescence, 17, 285–300. http://dx.doi.org/10.1111/j.1532-7795.2007.00523.x
+Greytak, E. A., Kosciw, J. G., Diaz, E. M., & Gay, Lesbian and Straight Education Network. (2009). Harsh realities: The experiences of transgender youth in our
+nation’s schools. New York, NY: Gay, Lesbian and Straight Education Network.
+Grossman, A. H., & D’Augelli, A. R. (2006). Transgender youth: Invisible and vulnerable. Journal of Homosexuality, 51, 111–128.
+Gruber, J. E., & Fineran, S. (2007). The impact of bullying and sexual harassment on middle and high school girls. Violence Against Women, 13, 627–643.
+Gruber, J. E., & Fineran, S. (2008). Comparing the impact of bullying and sexual harassment victimization on the mental and physical health of adolescents.
+Sex Roles, 59, 1–13.
+Harris Interactive, & Gay, Lesbian, and Straight Education Network (GLSEN). (2005). From teasing to torment: School climate in America, a survey of students
+and teachers. Retrieved from http://www.glsen.org/
+Heck, N. C., Flentje, A., & Cochran, B. N. (2011). Offsetting risks: High school gay-straight alliances and lesbian, gay, bisexual, and transgender (LGBT) youth.
+School Psychology Quarterly, 26, 161–174.
+Hill, C., & Silva, E. (2005). Drawing the line: Sexual harassment on campus. Retrieved from American Association of University Women website:
+http://www.aauw.org
+Holt, M. K., & Espelage, D. L. (2005). Peer victimization among adolescents: A preliminary perspective on the co-occurrence of sexual harassment, dating
+violence and bullying victimization. In K. A. Kendall-Tackett, & S. M. Giacomoni (Eds.), Victimization of children and youth: Patterns of abuse, response
+strategies (pp. 2–11). Kingston, NJ: Civic Research Institute.
+Human Rights Campaign. (2012). Growing up LGBT in America. Retrieved from http://www.hrc.org/
+Kann, L., Olsen, E., McManus, T., Kinchen, S., Chyen, D., Harris, W. A., & Wechsler, H. (2011). Sexual identity, sex of sexual contacts, and health-risk behaviors
+among students in grades 9–12 – youth risk behavior surveillance, selected sites, United States, 2001–2009. Morbidity and Mortality Weekly Report
+Surveillance Summaries/CDC, 60(7), 1.
+Katz-Wise, S. L., & Hyde, J. S. (2012). Victimization experiences of lesbian, gay, and bisexual individuals: A meta-analysis. Journal of Sex Research, 49, 142–167.
+http://dx.doi.org/10.1080/00224499.2011.637247
+Kosciw, J., & Diaz, E. M. (2006). The 2005 National School Climate Survey: The experiences of lesbian, gay, bi-sexual, and transgendered youth in our nation’s
+schools. New York, NY: Gay, Lesbian, and Straight Education Network.
+Kosciw, J. G., Greytak, E. A., Bartkiewicz, M. J., Boesen, M. J., & Palmer, N. A. (2012). The 2011 National School Climate Survey. Retrieved from Gay, Lesbian,
+and Straight Education Network website: http://www.glsen.org
+Lee, V. E., Croninger, R. G., Linn, E., & Chen, X. (1996). The culture of sexual harassment in secondary schools. American Educational Research Journal, 33,
+383–417.
+Lenhart, A. (2012). Teens, smartphones & texting. Washington, DC: Pew Research Center, Pew Internet & American Life Project.
+Lenhart, A., Purcell, K., Smith, A., & Zickuhr, K. (2010). Social media & mobile Internet use among teens and young adults. Retrieved from
+http://www.pewinternet.org/
+Lindberg, S. M., Grabe, S., & Hyde, J. S. (2007). Gender, pubertal development, and peer sexual harassment predict objectified body consciousness in early
+adolescence. Journal of Research on Adolescence, 17, 723–742. http://dx.doi.org/10.1111/j.1532-7795.2007.00544.x
+Martin-Storey, A., & Crosnoe, R. (2012). Sexual minority status, peer harassment, and adolescent depression. Journal of Adolescence, 35, 1001–1011.
+McGuire, J. K., Anderson, C. R., Toomey, R. B., & Russell, S. T. (2010). School climate for transgender youth: A mixed method investigation of student
+experiences and school responses. Journal of Youth and Adolescence, 39, 1175–1188.
+McMaster, L. E., Connolly, J., Pepler, D., & Craig,W. M. (2002). Peer to peer sexual harassment in early adolescence: A developmental perspective. Development
+and Psychopathology, 14, 91–105.
+Miller, S., Williams, J., Cutbush, S., Gibbs, D., Clinton-Sherrod, M., & Jones, S. (2013). Dating violence, bullying, and sexual harassment: Longitudinal profiles
+and transitions over time. Journal of Youth and Adolescence, 42, 607–618.
+Mitchell, K. J., Jones, L. M., & Wolak, J. (2011). The Youth Internet Safety Survey (YISS) methodology report. Retrieved from http://cola.unh.edu/ccrc
+Ontario Secondary School Teacher Federation. (1995). The joke’s over: Student to student sexual harassment in secondary schools. Toronto, ON: Autor.
+Petersen, J. L., & Hyde, J. S. (2009). A longitudinal investigation of peer sexual harassment victimization in adolescence. Journal of Adolescence, 32, 1173–1188.
+Pew Internet & American Life Project. (2013). Teen Internet access demographics. Retrieved from http://www.pewinternet.org/
+K.J. Mitchell et al. / Child Abuse & Neglect 38 (2014) 280–295 295
+Robinson, J. P., & Espelage, D. L. (2011). Inequities in educational and psychological outcomes between LGBTQ and straight students in middle and high
+school. Educational Researcher, 40, 315–330.
+Robinson, J. P., & Espelage, D. L. (2012). Bullying explains only part of LGBTQ–heterosexual risk disparities: Implications for policy and practice. Educational
+Researcher, 41, 309–319.
+Rosenbaum, P. R., & Rubin, D. B. (1984). Reducing bias in observational studies using subclassification on the propensity score. Journal of the American
+Statistical Association, 79, 516–524. http://dx.doi.org/10.2307/2288398
+Rosenberg, M. (1965). Society and the adolescent self-image. Princeton, NJ: Princeton University Press.
+Russell, S. T., Ryan, C., Toomey, R. B., Diaz, R. M., & Sanchez, J. (2011). Lesbian, gay, bisexual, and transgender adolescent school victimization: Implications
+for young adult health and adjustment. Journal of School Health, 81, 223–230.
+Ryan, C., & Rivers, I. (2003). Lesbian, gay, bisexual and transgender youth: Victimization and its correlates in the USA and UK. Culture, Health & Sexuality, 5,
+103.
+Schonlau, M., Zapert, K., Simon, L. P., Sanstad, K. H., Marcus, S. M., Adams, J., Spranca, M., Kan, H., Turner, R., & Berry, S. H. (2004). A comparison
+between response from a propensity-weighted Web survey and an identical RDD survey. Social Science Computer Review, 22, 128–138.
+http://dx.doi.org/10.1177/0894439303256551
+Shute, R., Owens, L., & Slee, P. (2008). Everyday victimization of adolescent girls by boys: Sexual harassment, bullying or aggression? Sex Roles, 58, 477–489.
+StataCorp. (2009). Stata Statistical Software (Version 11.0). College Station, TX: Stata Corporation.
+Terhanian, G., & Bremer, J. (2000). Confronting the selection-bias and learning effects problems associated with Internet research. New York, NY: Harris Interactive.
+Terhanian, G., Siegel, J. W., Overmeyer, C., Bremer, J., & Taylor, H. (2001). The record of Internet-based opinion polls in predicting the results of 72 races in
+the November 2000 US elections. International Journal of Market Research, 43, 127–138.
+Ueno, K. (2005). Sexual orientation and psychological distress in adolescence: Examining interpersonal stressors and social support processes. Social
+Psychology Quarterly, 68, 258–277.
+U.S. Equal Employment Opportunity Commission. (n.d.). Sexual harassment. Retrieved from http://www.eeoc.gov/
+Williams, T., Connolly, J., Pepler, D., & Craig,W. (2003). Questioning and sexual minority adolescents: High school experiences of bullying, sexual harassment,
+and physical abuse. Canadian Journal of Community Mental Health, 22, 47–58.
+Williams, T., Connolly, J., Pepler, D., & Craig, W. (2005). Peer victimization, social support, and psychosocial adjustment of sexual minority adolescents.
+Journal of Youth & Adolescence, 34, 471–482.
+Ybarra, M. (2003). Associations between depressive symptomatology and the report of unwanted Internet experiences among young, regular Internet users.
+Doctoral dissertation. John Hopkins Bloomberg School of Public Health.
+Ybarra, M., Espelage, D., & Mitchell, K. (2007). The co-occurrence of Internet harassment and unwanted sexual solicitation victimization and perpetration:
+Associations with psychosocial indicators. Journal of Adolescent Health, 41, S31–S41.
+Ybarra, M., Mitchell, K.J. & Espelage, D. (2012). Comparisons of bully and unwanted sexual experiences online and offline among a national sample of youth.
+Complementary Pediatrics. InTech – Open Access Publisher. Edited by Dr. Oner Ozdemir, Istanbul/Turkey, ISBN 978-953-51-0155-0., (pp. 203–216) [Book
+chapter].
+Ybarra, M. L., Mitchell, K. J., & Korchmaros, J. D. (2011). National trends in exposure to and experiences of violence on the Internet among children. Pediatrics,
+128, e1376–e1386.
+Ybarra, M. L., Mitchell, K. J., Kosciw, J., Korchamaros, J. D., & Diener-West, M. Associations between bullying and suicidal ideation in a national sample of
+lesbian, gay, bisexual, questioning, and heterosexual adolescents. Journal of Adolescent Health, submitted for publication.
+Ybarra, M. L., Mitchell, K. J., Wolak, J., & Finkelhor, D. (2006). Examining characteristics and associated distress related to internet harassment: Findings
+from the second youth internet safety survey. Pediatrics, 118, 1169–1177.
+Ybarra, M. L., Palmer, N. A., Mitchell, K. J., & Reisner, S. Online social support as a protective factor against bullying and sexual harassment victimization for LGBT
+youth, in preparation.
+Zimet, G. D., Dahlem, N. W., Zimet, S. G., & Farley, G. K. (1988). The Multidimensional Scale of Perceived Social Support. Journal of Personality Assessment,
+52, 30–41. http://dx.doi.org/10.1207/s15327752jpa5201 2

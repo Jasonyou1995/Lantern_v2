@@ -1,0 +1,671 @@
+A latent class analysis of school climate among middle and high school
+students in California public schools
+
+
+
+
+Abstract
+Research has shown that a positive school climate plays a protective role in the social, emotional, and academic
+development of adolescent youth. Researchers have utilized variable centered measures to assess school climate,
+which is limited in capturing heterogeneous patterns of school climate. In addition, few studies have systematically
+explored the role of race and gender in perceived school climate. This study utilizes a latent class approach to
+assess whether there are discrete classes of school climate in a diverse statewide sample of middle and high
+school youth. Drawing from the 2009–2011 California Healthy Kids Survey, this study identified four latent classes
+of school climate: Some caring, connectedness, and safe; negative climate; high caring, participation, and safe;
+and positive climate. The findings indicated that race and grade level significantly predicted school climate class
+membership. Black students were three times more likely to be members of the negative school climate class,
+when compared to White students. Gender did not significantly predict school climate class membership. The results
+of this study provide school climate researchers and educators with a nuanced picture of school climate patterns
+among middle and high school students.
+© 2016 Elsevier Ltd. All rights reserved.
+Keywords:
+School climate
+Adolescence
+Race
+Gender
+1. Introduction
+Researchers and educators for several decades have acknowledged
+that a positive school climate plays a contributing role in a wide range
+of adolescent outcomes, including academic achievement, mental
+health, substance abuse, and school violence (Thapa, Cohen, Guffey, &
+Higgins-D'Alessandro, 2013). School climate organizations such as the
+National School Climate Center, Center for Academic, Social and Emotional
+Learning (CASEL) have recently developed state standards and
+school-based programs, interventions, curriculum, and resources for
+improving school climate. In addition, in the past two decades, public
+schools throughout the United States have incorporated school climate
+interventions into educational reform initiatives. Efforts to improve
+school climate such as bullying prevention, threat assessment, and
+school safety programs have been implemented by K-12 schools in
+the United States and in international contexts to foster caring relationships,
+safety, and connectedness among youth (Benbenishty & Astor,
+2005; Thapa et al., 2013).
+Defining and measuring school climate has been a challenge. Researchers
+have noted the discrepancies in the literature, regarding
+school climate domains and measures (Cohen, McCabe, Michelli, &
+Pickeral, 2009; Zullig, Koopman, Patton, & Ubbes, 2010). Scholars have
+recently defined school climate as the collective beliefs, values, and attitudes
+that prevail at school and have measured the multiple dimensions
+of school climate, including caring relationships with adults, safety,
+school connectedness, and meaningful participation (Cohen et al.,
+2009; Koth, Bradshaw, & Leaf, 2008; Modin & Östberg, 2009; Thapa
+et al., 2013; Zullig et al., 2010). However, most research has assessed
+school climate using individual scales of school climate in isolation.
+Few studies have attempted to uncover the heterogenous patterns of
+school climate, as experienced by students (Konold & Cornell, 2015).
+In addition, while educational researchers have documented differential
+academic achievement and outcomes by race and gender, researchers
+have not systematically explored how different groups of students (i.e.
+race and gender) experience multiple dimensions of school climate
+(Gage, Prykanowski, & Larson, 2014; Thapa et al., 2013). Given this
+gap in school climate research, this study utilizes a latent class approach
+to explore heterogenous patterns of school climate in a large statewide
+sample of middle and high school students. This study also examines
+how different groups of students (i.e. race and gender) experience multiple
+dimensions of school climate.
+1.1. Defining school climate
+Recently, a series of school climate studies and literature reviews has
+defined school climate as comprised of multiple dimensions (Cohen
+et al., 2009; De Pedro, Astor, Gilreath, Benbenishty, & Esqueda, 2014;
+Children and Youth Services Review 63 (2016) 10–15
+⁎ Corresponding author.
+http://dx.doi.org/10.1016/j.childyouth.2016.01.023
+0190-7409/© 2016 Elsevier Ltd. All rights reserved.
+Contents lists available at ScienceDirect
+Children and Youth Services Review
+journal homepage: www.elsevier.com/locate/childyouth
+Thapa et al., 2013). These dimensions include caring relationships with
+adults, safety, school connectedness, and meaningful participation
+(Benbenishty & Astor, 2005; De Pedro et al., 2014). Caring relationships
+is defined as a student's perception of the extent of social and emotional
+support they receive from teachers and other school adults. Safety is de-
+fined as a student's sense of physical and social–emotional security.
+School connectedness is defined as the degree to which students feel
+they belong to a school community and have a positive connection
+with peers and adults in a school community. Meaningful participation
+is the involvement of students in relevant, engaging and interesting opportunities
+that develop a sense of responsibility in the school community
+(Benbenishty & Astor, 2005; De Pedro et al., 2014). Recent studies
+have utilized these domains to assess school climate in different school
+contexts (De Pedro, Astor, Gilreath, Benbenishty, & Berkowitz, 2015; De
+Pedro, Astor, Gilreath, Benbenishty, & Berkowitz, in press; De Pedro
+et al., 2014).
+A positive and caring social and emotional school climate has been
+found to influence a wide array of adolescent outcomes (Cohen et al.,
+2009; Thapa et al., 2013). This includes schooling, such as attendance,
+motivation, cooperative learning, and test scores; risky behaviors, such
+as bullying and victimization, aggression, risky sexual behavior, alcohol,
+and drug use; and psychological outcomes, including psychiatric disorders,
+depression, anxiety, and well-being. Studies have demonstrated
+the protective effect of school climate on youth development in various
+geographic locales (Astor, Benbenishty, & Estrada, 2010; Thapa et al.,
+2013). For instance, scholars have found that school climate mitigates
+the effect of poverty, war and trauma, community violence, and family
+stress on schooling, mental health, and social development (Astor
+et al., 2010; Benbenishty & Astor, 2005; Marachi, Astor, & Benbenishty,
+2006; Thapa et al., 2013).
+School climate researchers primarily have utilized a variable centered
+approach. This approach aims to examine how different school climate
+constructs influence outcomes. The variable centered approach is
+limited in capturing heterogenous patterns of school climate, specifically
+how different components of school climate coalesce among students
+(Gage et al., 2014; Konold & Cornell, 2015). Latent class analysis (LCA) is
+an exploratory person centered approach that assumes a categorical latent
+factor. The goal of LCA is to group individuals into categories, each
+one of which contains individuals who are similar to each other and different
+from individuals in other categories (Muthén & Muthén, 2000).
+LCA is well suited for one critical aim of this study, which is to uncover
+discrete classes of school climate in a large sample of middle and high
+school students.
+1.2. Race, gender, and school climate
+Research exploring the role of race as a factor that influences school
+climate perceptions is a growing area of research (Koth et al., 2008;
+Thapa et al., 2013). Among elementary students, perceived caring relationships
+vary by race. Schneider and Duran (2010) found that Latino
+third grade students viewed personal relationships with teachers
+more important than adults modeling positive behaviors; this view
+was different from White and Asian students. Furthermore, in a study
+of 1000 African-American students and 260 Latino third graders in the
+Chicago Comer School Development Program, African-American children
+perceived teacher-child relations as the most important dimension
+of school climate, while Latino students prioritized teacher fairness, caring,
+praise of effort, and the importance of moral order above other aspects
+of school climate (Slaughter-Defoe & Carlson, 1996).
+Only a few studies have examined the role of race in explaining variation
+in school climate among middle and high school youth. These
+studies have focused on students' perception of racial climate.
+Schneider and Duran (2010) found that African-American middle and
+high school youth perceive racial climate more negatively than White
+peers. Furthermore, a negative racial climate was significantly related
+to higher rates of discipline and lower grade among racial minority
+students, which in turn, adversely impacted college preparation
+(Schneider & Duran, 2010; Thapa et al., 2013). More studies are needed
+to explore how different racial groups experience multiple components
+of school climate. Given this gap in school climate research, the current
+study explores associations between school climate class membership
+and race.
+School climate studies have not yet examined differences in how
+boys and girls experience multiple components of school climate. However,
+school violence researchers have identified differences in the frequency
+and type of violence experienced by boys and girls at school,
+which is known to impact perceptions of safety, a dimension of school
+climate (Benbenishty & Astor, 2005). Some research found that boys
+are more likely to report frequent victimization than girls while other
+research indicated no significant differences between boys and girls
+in victimization prevalence (Berkowitz, De Pedro, & Gilreath, 2015).
+Disparities in the frequency of male and female students' victimization
+may be explained by the type of violence experienced by both genders.
+Studies have shown that female students are more likely to experience
+relational and indirect victimization while male students are more likely
+to experience direct forms of physical victimization (Batsche & Knoff,
+1994; Casey-Cannon, Pasch, Tschann, & Flores, 2006; Finkelhor,
+Ormrod, & Turner, 2007; Hartung, Little, Allen, & Page, 2011;
+Murray-Close, Ostrov, & Crick, 2007; Peskin, Tortolero, & Markham,
+2006). In addition, girls experience sexual harassment more frequently
+than boys, and boys perpetrate sexual harassment more frequently
+than girls (Gruber & Fineran, 2007; McMaster, Connolly, Pepler, &
+Craig, 2002; Pepler et al., 2006). These disparities in the experience of
+violence and victimization by boys and girls, have led us to hypothesize
+that boys and girls may also experience climate differently. Hence, this
+study explores gender as a factor influencing school climate class
+membership.
+1.3. Study objectives
+The current study contributes to the emerging need among educational
+researchers and school professionals for a deeper understanding
+of the complex patterns of school climate among middle and high
+school students. Hence, this study utilizes latent class analysis to identify
+and classify school climate perceptions in a statewide sample of secondary
+public school students in California. This study also assesses how
+demographic variables such as race and gender are associated with
+school climate.
+Latent class analysis is utilized as an exploratory tool to examine a
+multi-dimensional construct, school climate, in a novel way. Notwithstanding,
+we anticipated that there would be at least three classes of
+students based upon the literature—those that did not perceive positive
+school climate, those who were mixed in their perceptions, and those
+who perceived positive school climate. Based on previous research on
+race and school climate, we expected low levels of school climate to
+be associated with non-white students.
+2. Method
+This study employed a cross-sectional design. The data used in this
+study are from the 2011–2013 administration of the California Healthy
+Kids Survey (CHKS), conducted by the California Department of Education
+and WestEd, a nonprofit research, development, and service agency.
+The CHKS is the largest statewide survey of elementary, middle, and
+high school students' perceptions of school climate, resiliency, and risk
+behaviors in the United States (Austin, Bates, & Duerr, 2013). The
+CHKS is a biennial survey that is comprised of a required core module
+that gathers demographic data (i.e. gender, grade, and race and ethnicity),
+school climate perceptions, and health-related behaviors (i.e. alcohol
+use, drug use, violence and victimization).
+K.T. De Pedro et al. / Children and Youth Services Review 63 (2016) 10–15 11
+2.1. Participants and consent procedures
+As required by the California Department of Education (CDE),
+schools must survey a representative districtwide grade-level sample
+of students in the 5th, 7th, 9th, and 11th grades. The sampling procedure
+requires that (a) 100% of all district schools participated or 100%
+of all selected schools from an approved sampling plan participated;
+(b) an appropriate class subject or class period was identified and
+used; (c) 100% of selected classrooms participated; (d) the number of
+completed, usable answer forms obtained per grade was 60% or more
+of the selected sample; or (d) if active parental consent was used, 70%
+or more parents within each grade's selected sample returned signed
+permission forms, either consenting or not consenting to their child's
+participation.
+Parental consent was obtained for each participant by each school
+district before survey administration through the CDE and WestEd.
+The core survey module was administered by school staff members familiar
+with survey administration or by West Ed proctors if a school
+site chose to hire professionally trained survey administrators.
+Proctoring instructions were provided for all survey administrators. All
+proctors read an introductory script to all student participants. Proctors
+encouraged participants to respond to questions honestly and assured
+that their responses would be anonymous. Participants were permitted
+to withdraw from the survey at any time. The survey took approximately
+50 min to complete.
+CHKS data was collected for the 2011–2013 academic school years
+from students (n = 577,026). A weighting procedure was used to adjust
+the total of grade level respondents to represent the total district enrollment
+for the particular grade levels of interest and district level clustering
+was also accounted for. District-level consent procedures were
+followed, and the present study has appropriate university IRB
+approval.
+2.2. Measures
+This study included demographic variables such as student selfreported
+demographic variables (grade level, race and ethnicity, and
+gender). Grade level was represented by seventh grade as the reference
+category and two dummy variables—ninth grade and 11th grade. Race
+and ethnicity was represented by White as the reference category, and
+the dummy variables were Black, Asian/NH/PI, Hispanic/Latino ethnicity,
+and multiple races.
+2.2.1. School climate measures
+As seen in Table 1, multiple school climate variables from the CHKS
+were included in this study. The following domains and items of school
+climate were utilized in recent studies to assess school climate: safety,
+caring relationships, school connectedness, and meaningful participation.
+Past research utilizing these items have shown these scales to
+have high reliability and construct validity (De Pedro et al., 2015, in
+press).
+2.2.1.1. Safety. One item asked respondents about their perceptions of
+safety in their schools. The item is “How safe do you feel when you are
+at school?” The responses to this item were 1 = very safe, 2 = safe,
+3 = neither safe nor unsafe, 4 = unsafe, and 5 = very unsafe.
+2.2.1.2. Caring relationships. The caring relationships scale was comprised
+of six items: At my school, there is a teacher or some other
+adult who tells me I do a good job; who tells me when I do good; who
+notices when I'm not there; who always wants me to do my best;
+who listens to me when I have something to say; who believes I will
+be a success. The responses to these items were on a four-point Likert
+scale and ranged from 1 = not at all true, 2 = a little true, 3 = pretty
+much true, and 4 = very much true.
+2.2.1.3. School connectedness. The school connectedness scale was comprised
+of three items: Strongly agree or disagree with, I feel close to people
+at this school; I am happy to be at this school; I feel like I am part of
+this school; The teachers at this school treat students fairly; I feel safe in
+my school. The possible responses to these items were on a five-point
+Likert scale and ranged from 1 = strongly disagree, 2 = disagree,
+3 = neither disagree nor agree, 4 = agree, and 5 = strongly agree.
+2.2.1.4. Meaningful participation. The meaningful participation scale was
+comprised of three items: I do interesting activities at school; At school, I
+help decide things like class activities; and, I do things that make a difference.
+The possible responses to these items were on a four-point
+Likert scale and ranged 1 = not at all true, 2 = a little true, 3 = pretty
+much true, and 4 = very much true. The composite score of each participant
+was derived by summing up the three items and dividing by 3.
+Table 1
+School climate variables from California Healthy Kids Survey:
+Variable Items
+School
+connectedness
+“Strongly agree or disagree with…
+…I feel close to people at this school.”
+…I am happy to be at this school.”
+…I feel like I am part of this school.”
+…I feel safe at this school.
+…Teachers at this school treat students fairly.”
+The possible responses to these items were 1) strongly
+disagree; 2) disagree; 3) neither disagree nor agree; 4) agree;
+and 5) strongly agree.
+Caring
+relationships
+“At my school there is a teacher or some other adult who…
+…really cares about me.
+…tells me when I do a good job.
+…notices when I'm not there.
+…wants me to do my best.
+…listens to me when I have something to say.
+…believes I will be a success.
+The possible responses to these items were 1) not at all true;
+2) a little true; 3) pretty much true; and 4) very much true.
+Safety “How safe do you feel when you are at school?”
+The possible responses to this item were A) very safe; B) safe;
+C) neither safe nor unsafe; D) unsafe; and E) very unsafe.
+Meaningful
+participation
+“At school…
+…I do interesting things at school.”
+…I help decide things like class activities or rules.”
+…I do things that make a difference.”
+The possible responses to this item were A) not at all true;
+B) a little true; C) pretty much true; D) very much true; and
+E) don't know.
+Table 2
+Sample characteristics (N = 577,026).
+Weighted % Unweighted n
+Gender
+Male 49.0% 280,585
+Female 51.0% 292,182
+Grade
+7th grade 34.3% 197,920
+9th grade 34.5% 199,402
+11th grade 31.2% 180,625
+Race/ethnicity
+Multiple 12.0% 69,358
+Black 3.6% 20,643
+White 22.6% 130,318
+Asian 10.8% 62,609
+Latino 51.1% 295,019
+12 K.T. De Pedro et al. / Children and Youth Services Review 63 (2016) 10–15
+2.3. Analytic approach
+LCA was conducted using Mplus 7.3 (Lubke & Muthén, 2007). LCA is
+used to identify homogeneous subgroups, which share a common pattern
+of responses within a heterogeneous population (Lanza, Collins,
+Lemmon, & Schafer, 2007; Magidson & Vermunt, 2002). Multinomial logistic
+regression analyses were completed simultaneously with class estimation
+to account for measurement error related to class assignment.
+Gender, race/ethnicity and grade level were included as demographic
+covariates in that regression.
+A series of models was run to determine the appropriate number of
+classes for school climate. We started with a 1-class model followed by
+a series of models with specifying increased number of classes (e.g. 2-
+class and 3-class), each representing different patterns of school climate.
+Optimal model selection was based upon recommended indices including
+low Adjusted Bayesian Information Criterion (BIC) relative to other
+models, significant Lo–Mendell–Rubin Likelihood Ratio Test (LMR LRT),
+and acceptable quality of classification (Nylund, Asparouhov, & Muthén,
+2007). Once the appropriate number of classes was identified, a final
+model including the demographic variables as predictors of class membership
+was run.
+3. Results
+3.1. Sample characteristics
+The sample was 49% male. 34.3% of the students were in 7th, 34.5%
+were in 9th grade, and 31.2% were in the 11th grade (see Table 2). Latino
+students comprised 51.1% of the sample, followed by Whites (22.6%),
+Asians (10.8%), Multiracial (12.0%), and African American (3.6%).
+3.2. Description of the latent classes
+As shown in Table 3, a four class model provided the best overall fit
+to the data for school climate. The four class solution was based on a significant
+Lo–Mendel–Rubin Likelihood Ratio Test (LMR-LRT). The five
+class solution was not significant indicating the four class solution fits
+the data better. In addition, the BIC for the four class solution was
+5,256,005.504, and the BIC solution for the five class solution was
+6,039,094.710. The four class solution had the lowest absolute value, indicating
+that this solution fit the data better. Finally, from a substantive
+standpoint, the additional class obtained in the five class solution was
+not practically different from the negative class in the four class
+solution.
+The four classes were termed: Some caring, connectedness, and safe;
+negative climate; high caring, participation, and safe; and positive climate.
+This is exemplified by the non-significant p-value for the five
+class model which indicates that the (K-1)-class model should not be
+rejected in favor of a model with at least K-classes.
+Conditional means and probabilities for school climate are summarized
+in Table 3. The results showed that 51.1% of all participants were
+in the first latent class. The members of this class reported average levels
+of caring representing “pretty much true.” This class had neutral (neither
+agree nor disagree) perceptions of connectedness and perceived
+“a little” meaningful participation. They had over a 50% chance of
+reporting that they felt safe or very safe at their school. Approximately
+11% of youth were in latent class two. This class on average “disagreed”
+with feeling connected to school and perceived “a little” caring relationships
+and participation. They had a 25% chance of feeling safe or very
+safe in school. Latent class three was comprised of 2.4% of the sample.
+The members of this class on average disagreed that they were connected
+to school. They perceived “pretty much true” that they had caring relationships
+and on average close to perceiving it was “pretty much true”
+that meaningful participation existed. They had a 62% chance of
+reporting that they felt safe or very safe in school. Finally, 35.2% were
+in latent class four. On average youth agreed that they were connected
+at school and that it was “pretty much true” that they had caring relationships
+and meaningful participation in their school. The members
+of this class had an almost 90% chance of reporting that they felt safe
+or very safe in their school.
+3.3. Multinomial logistic regression analyses of race, gender, and school
+climate
+Multinomial logistic regression analyses showed that race influenced
+school climate class membership (see Table 4). Compared to
+Whites, African Americans were almost three times as likely to be members
+of the negative climate class (OR = 2.90, 95% CI 2.58–3.25) and
+1.65 times as likely to be in the some caring, connectedness, and safe
+class (OR = 1.65, 95% CI 1.53–1.79). African-Americans were also
+more than three times as likely to be members of the high caring, participation,
+and safe class, when compared to White students (OR = 3.38,
+95% CI 2.94–3.89). Compared to Whites, Latino students were twice as
+likely to be in the high caring, participation, and safe climate class
+(OR = 2.42, 95% CI 2.25–2.61) and twice as likely to be in the some caring,
+connectedness, participation, and safe class (OR = 2.00, 95% CI
+1.90–2.11). In addition, compared to White students, Asian students
+were 1.47 times more likely to be members of the some caring, connectedness,
+and safe climate class. As seen in Table 4, multinomial logistic
+regression showed no significant associations between gender and
+school climate class membership.
+Being in a higher grade was associated with membership in negative
+school climate, when compared to positive school climate. Ninth
+graders were significantly more likely to be members of the low school
+climate class (OR = 1.87, 95% CI 1.71–2.04) when compared to 7th
+graders and more likely to report moderate climate (OR = 1.58, 95%
+CI 1.44–1.73). Eleventh graders were significantly more likely to be
+members of the negative school climate (OR = 1.73, 95% CI 1.59–
+1.90) when compared to 7th graders and more likely to be classified
+in the high caring, participation, and safe school climate class (OR =
+2.05, 95% CI 1.89–2.22).
+Table 3
+Conditional means and probabilities (N = 577,026).
+School climate variable Latent class 1
+51.1%
+Some caring, connectedness, and safe
+Latent class 2
+11.3%
+Negative climate
+Latent class 3
+2.4%
+High caring, participation, and safe
+Latent class 4
+35.2%
+Positive climate
+School connectedness 3.477 2.252 1.692 4.222
+Caring relationships 2.800 1.860 3.393 3.535
+Meaningful participation 1.954 1.527 2.749 2.899
+How safe do you feel at school?
+Very safe 0.119 0.124 0.361 0.387
+Safe 0.448 0.125 0.260 0.503
+Neither safe nor unsafe 0.378 0.457 0.188 0.093
+Unsafe 0.040 0.143 0.089 0.010
+Very unsafe 0.015 0.152 0.102 0.007
+K.T. De Pedro et al. / Children and Youth Services Review 63 (2016) 10–15 13
+4. Discussion and implications
+To date, studies have utilized traditional variable centered approaches
+for examining school climate. These studies have indicated
+that caring relationships, school connectedness, meaningful participation,
+and sense of safety have a protective effect on youth development
+and outcomes. In addition, few studies have systematically examined
+the role of race and gender in explaining school climate variation. Drawing
+from a diverse statewide sample of middle and high school students,
+this study utilized latent class analysis to explore whether there were
+discrete groups of students who experience distinct patterns of perceived
+school climate and the role of race and gender. Four classes of
+school climate — some caring, connectedness, and safe; negative climate;
+high caring, participation, and safe; and positive climate — were
+uncovered. More than a third of students were in the positive climate
+class—high levels of perceived safety, caring relationships, school connectedness,
+and meaningful participation; about a tenth of the sample
+were members of the negative climate class. More than half of the students
+were in the some caring, connectedness, and safe climate class.
+The study's findings indicated racial differences in school climate
+perceptions, adding to current research on race and school climate
+(Thapa et al., 2013). Non-white middle and high school students were
+significantly more likely than their White counterparts to be members
+of the negative climate class, which is defined by low levels of caring relationships,
+school connectedness, safety, and meaningful participation.
+One reason for racial differences in the latent classes of school climate
+may be traced to the context of school communities serving racial minority
+students. A large body of educational policy research has found
+that low SES Black and Latino students are often in public schools and
+districts with limited financial resources and personnel, impeding the
+development and implementation of school climate programs
+(Ladson-Billings, 2006; Loeb, Darling-Hammond, & Luczak, 2005). In
+addition, communities surrounding schools with predominantly low
+SES, black and Latino communities, often have high levels of poverty
+and violence, which adversely affect a school's social and emotional climate
+(Gregory, Skiba, & Noguera, 2010). Moreover, predominantly low
+SES, black and Latino school communities on average have significantly
+higher rates of teacher and principal turnover, suspension and expulsion
+rates, truancy, and gang membership, which are factors known to
+affect a school's climate (Gregory et al., 2010; Skiba, Michael, Nardo, &
+Peterson, 2002).
+This study found that higher grade is a significant factor in predicting
+membership in the poor school climate class. This confirms findings
+from past studies, which have indicated that students in high school
+feel more disengagement from school, report few caring adults, and
+feel less connected to peers (Benbenishty & Astor, 2005; Pianta &
+Allen, 2008; Thapa et al., 2013). One potential reason for this finding
+could be the structure of middle and high schools. As students move
+through middle and high school grades, they have multiple teachers according
+to subject, may be tracked according to their ability, and thus,
+have less time to develop caring relationships with teachers and other
+school adults (Pianta & Allen, 2008). Moreover, adolescents in large
+and comprehensive high school environments may feel isolated.
+More research incorporating large samples of students in different
+geographic locations are needed to investigate demographic differences
+in perceived school climate. Such knowledge would be useful for educational
+policymakers and school leaders interested in gaining a more
+complete understanding of how students feel in schools, as well as differences
+in how social groups (e.g. race, gender, grade, and other social
+groups) experience school climate. This enhanced understanding of climate
+would help leaders become more proactive in improving school
+climate programs and interventions and the academic, social, and emotional
+outcomes for all youth.
+4.1. Limitations and future directions
+The present study provides detailed knowledge about school climate
+in California schools, however, there are limitations that must be noted.
+First, the data are cross-sectional, and thus causality cannot be explored.
+Second, as with much research on school climate, this study assesses
+school climate through self-reported survey items from the California
+Healthy Kids Survey (CHKS). Future school climate research should incorporate
+observable measures of school climate, such as school suspension
+and expulsion rates, truancy, and teacher retention. This
+research could help validate school climate studies using self-reported
+survey data. Third, we recognize that socioeconomic status is a critical
+demographic variable needed in future school climate research, however,
+the 2011–2013 California Healthy Kids Survey (CHKS) does not have
+items for SES. Research has found that socioeconomic context can adversely
+impact student outcomes, including mental health and academic
+achievement. Astor et al. (2010) found that a school environment
+where adults demonstrate care for students, provide opportunities for
+meaningful participation, and promote physical safety acts as a buffer
+against the stress of neighborhood poverty. Future latent class analyses
+of school climate could examine associations between socioeconomic
+status and discrete classes of school climate. Studies could also explore
+how school climate mitigates the relationships between socioeconomic
+status and student outcomes. Fourth, this study did not explore associations
+between the latent classes of school climate and student outcomes.
+We recommend that future studies incorporate LCA to explore
+relationships between school climate and an array of student outcomes
+such as victimization, substance use, academic achievement, and mental
+health. Last, we recommend that future latent class analyses of
+school climate explore within-school variation and school factors moderating
+associations between latent classes of school climate, race, gender,
+grade level, and other student demographic factors. Such research
+would help deepen knowledge of patterns of school climate perceptions
+among secondary students.
+5. Conclusion
+Few studies to date have attempted to explore the heterogenous
+patterns of school climate and differences among students. Utilizing latent
+class analysis (LCA), this study examined the mutually constitutive
+dimensions of perceived school climate. The findings of this study indicated
+four distinguished classes of school climate. Race and grade level
+significantly predicted class membership, however, associations between
+gender and school climate class were not significant. This study
+found that Black, Latino, and Asian students were more likely to be
+members of the negative school climate class, when compared to their
+White counterparts. Findings from this study provide policy makers
+and leaders with a more complete understanding of school climate in
+middle and high schools throughout California.
+Table 4
+Multinomial logistic regression results (N = 577,026).
+Variables LC1 vs LC4 LC2 vs LC4 LC3 vs LC4
+OR (95% CI) OR (95% CI) OR (95% CI)
+Race
+White (reference) 1.00 1.00 1.00
+Asian 1.47 (1.37–1.57) 1.16 (1.05–1.28) 1.26 (1.14–1.39)
+Black 1.65 (1.53–1.79) 2.90 (2.58–3.25) 3.38 (2.94–3.89)
+Multiple 1.54 (1.48–1.60) 1.91 (1.80–2.04) 1.70 (1.54–1.86)
+Latino 2.00 (1.90–2.11) 2.42 (2.25–2.61) 1.70 (1.57–1.85)
+Grade
+7 (reference) 1.00 1.00 1.00
+9th 1.44 (1.36–1.53) 1.87 (1.71–2.04) 1.58 (1.44–1.73)
+11th 1.21 (1.14–1.29) 1.73 (1.59–1.90) 2.05 (1.89–2.22)
+Gender
+Male (reference) 1.00 1.00 1.00
+Female 1.01 (0.99–1.04) 0.91 (0.88–0.94) 0.81 (0.78–0.85)
+Bold values indicate significance at regression results; p b 0.01.
+14 K.T. De Pedro et al. / Children and Youth Services Review 63 (2016) 10–15
+References
+Astor, R. A., Benbenishty, R., & Estrada, J. N. (2010). School violence and theoretically atypical
+schools: The principal's centrality in orchestrating safe schools. American Educational
+Research Journal, 46(2), 423–461.
+Austin, G., Bates, S., & Duerr, M. (2013). Guidebook for the California Healthy Kids Survey
+part I: Administration. San Francisco, CA: WestEd (Retrieved from http://chks.
+wested.org/resources/chks_guidebook_1_admin.pdf on September 10, 2012).
+Batsche, G. M., & Knoff, H. M. (1994). Bullies and their victims: Understanding a pervasive
+problem in the schools. School Psychology Review, 23, 165-165.
+Benbenishty, R., & Astor, R. A. (2005). School violence in context: Culture, neighborhood,
+family, school and gender. New York: Oxford University Press.
+Berkowitz, R., De Pedro, K. T., & Gilreath, T. D. (2015). A latent class analysis of victimization
+among middle and high school students in California. Journal of School Violence,
+14(3), 316–333.
+Casey-Cannon, S., Pasch, L. A., Tschann, J. M., & Flores, E. (2006). Nonparent adult social
+support and depressive symptoms among Mexican American and European
+American adolescents. The Journal of Early Adolescence, 26(3), 318–343.
+Cohen, J., McCabe, E., Michelli, N., & Pickeral, T. (2009). School climate: Research, policy,
+practice, and teacher education. Teachers College Record, 111(1), 180–213.
+De Pedro, K. T., Astor, R. A., Gilreath, T., Benbenishty, R., & Esqueda, M. C. (2014). School
+climate perceptions among military and non-military students in militaryconnected
+schools. Military Behavioral Health Journal, 1(2), 3–13.
+De Pedro, K. T., Astor, R. A., Gilreath, T. D., Benbenishty, R., & Berkowitz, R. (2015). School
+climate, deployment, and mental health among students in military-connected
+schools. Youth & Society. Advance online publication. doi. http://dx.doi.org/10.1177/
+0044118X15592296.
+De Pedro, K. T., Astor, R. A., Gilreath, T. D., Benbenishty, R., & Berkowitz, R. (2016). Examining
+the relationship between school climate and peer victimization among students
+in military-connected public schools. Violence and Victims (in press).
+Finkelhor, D., Ormrod, R. K., & Turner, H. A. (2007). Poly-victimization: A neglected component
+in child victimization. Child Abuse & Neglect, 31(1), 7–26.
+Gage, N. A., Prykanowski, D. A., & Larson, A. (2014). School climate and bullying victimization:
+A latent class growth model analysis. School Psychology Quarterly, 29(3),
+256–271.
+Gregory, A., Skiba, R. J., & Noguera, P. A. (2010). The achievement gap and the discipline
+gap two sides of the same coin? Educational Researcher, 39(1), 59–68.
+Gruber, J. E., & Fineran, S. (2007). The impact of bullying and sexual harassment on middle
+and high school girls. Violence Against Women, 13(6), 627–643.
+Hartung, C. M., Little, C. S., Allen, E. K., & Page, M. C. (2011). A psychometric comparison of
+two self-report measures of bullying and victimization: Differences by sex and grade.
+School Mental Health, 3(1), 44–57.
+Konold, T., & Cornell, D. (2015, March 9). Multilevel multitrait–multimethod latent analysis
+of structurally different and interchangeable raters of school climate.
+Psychological Assessment. http://dx.doi.org/10.1037/pas0000098 (Advance online
+publication).
+Koth, C. W., Bradshaw, C. P., & Leaf, P. J. (2008). A multilevel study of predictors of student
+perceptions of school climate: The effect of classroom-level factors. Journal of
+Educational Psychology, 100(1), 462–473.
+Ladson-Billings, G. (2006). From the achievement gap to the education debt: Understanding
+achievement in US schools. Educational Researcher, 35(7), 3–12.
+Lanza, S. T., Collins, L. M., Lemmon, D. R., & Schafer, J. L. (2007). PROC LCA: A SAS procedure
+for latent class analysis. Structural Equation Modeling, 14(4), 671–694.
+Loeb, S., Darling-Hammond, L., & Luczak, J. (2005). How teaching conditions predict
+teacher turnover in California schools. Peabody Journal of Education, 80(3), 44–70.
+Lubke, G., & Muthén, B. O. (2007). Performance of factor mixture models as a function of
+model size, covariate effects, and class-specific parameters. Structural Equation
+Modeling, 14(1), 26–47.
+Magidson, J., & Vermunt, J. (2002). Latent class models for clustering: A comparison with
+K-means. Canadian Journal of Marketing Research, 20(1), 36–43.
+Marachi, R., Astor, R. A., & Benbenishty, R. (2006). Effects of student participation and
+teacher support on victimization in Israeli schools: An examination of gender, culture,
+and school type. Journal of Youth Adolescence, 36(2), 225–240.
+McMaster, L. E., Connolly, J., Pepler, D., & Craig, W. M. (2002). Peer to peer sexual harassment
+in early adolescence: A developmental perspective. Development and
+Psychopathology, 14(01), 91–105.
+Modin, B., & Östberg, V. (2009). School climate and psychosomatic health: A multilevel
+analysis. School Effectiveness and School Improvement, 20(4), 433–455.
+Murray-Close, D., Ostrov, J. M., & Crick, N. R. (2007). A short-term longitudinal study of
+growth of relational aggression during middle childhood: Associations with gender,
+friendship intimacy, and internalizing problems. Development and Psychopathology,
+19(01), 187–203.
+Muthén, B., & Muthén, L. K. (2000). Integrating person-centered and variable-centered
+analyses: Growth mixture modeling with latent trajectory classes. Alcoholism:
+Clinical and Experimental Research, 24(6), 882–891.
+Nylund, K. L., Asparouhov, T., & Muthén, B. O. (2007). Deciding on the number of classes
+in latent class analysis and growth mixture modeling: A Monte Carlo simulation
+study. Structural Equation Modeling, 14(4), 535–569.
+Pepler, D. J., Craig, W. M., Connolly, J. A., Yuile, A., McMaster, L., & Jiang, D. (2006). A developmental
+perspective on bullying. Aggressive Behavior, 32(4), 376–384.
+Peskin, M. F., Tortolero, S. R., & Markham, C. M. (2006). Bullying and victimization among
+Black and Hispanic adolescents. Adolescence, 41(163), 467–484.
+Pianta, R. C., & Allen, J. P. (2008). Building capacity for positive youth development in secondary
+school classrooms: Changing teachers' interactions with students. In M.
+Shinn, & H. Yoshikawa (Eds.), Toward positive youth development: Transforming
+schools and community programs (pp. 21–39). New York, NY: Oxford University Press.
+Schneider, S. H., & Duran, L. (2010). School climate in middle schools: A cultural perspective.
+Journal of Research in Character Education, 8(2), 25–37.
+Skiba, R. J., Michael, R. S., Nardo, A. C., & Peterson, R. L. (2002). The color of discipline:
+Sources of racial and gender disproportionality in school punishment. The Urban
+Review, 34(4), 317–342.
+Slaughter-Defoe, D. T., & Carlson, K. G. (1996). Young African American and Latino children
+in high-poverty urban schools: How they perceive school climate. Journal of
+Negro Education, 65(1), 60–70.
+Thapa, A., Cohen, J., Guffey, S., & Higgins-D'Alessandro, A. (2013). A review of school climate
+research. Review of Educational Research, 83(3), 357–385.
+Zullig, K., Koopman, T., Patton, J., & Ubbes, V. (2010). School climate: Historical review, instrument
+development, and school assessment. Journal of Psychoeducational
+Assessment, 28, 139–152.
+K.T. De Pedro et al. / Children and Youth Services Review 63 (2016) 10–15 15
