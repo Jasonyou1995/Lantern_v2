@@ -1,0 +1,229 @@
+
+urnal of Student Wellbeing December 2007, Vol. 1(2), 15-33.
+The Relationship between Cyberbullying and School Bullying
+Tanya Beran and Qing Li
+University of Calgary, Alberta, Canada
+Abstract
+Many children are likely to experience aggression in their relationships with schoolmates. With the advent of modern forms of communication, children are now able to harass their peers with mobile phones and e-mails, a behaviour known as cyberbullying. To determine the relationship between school bullying and cyberbullying, 432 students from grades 7–9 in Canadian schools were surveyed about their experiences of bullying. The results indicated that students who were bullied in cyberspace were also likely to bully their peers in cyberspace (r = 0.46, p < 0.001) and be bullied at school (56%). In addition, students who were bullied in cyberspace only, and students bullied both in cyberspace and at school, experienced difficulties at school such as low marks, poor concentration, and absenteeism. These results suggest that bullying that occurs either at or outside school can have an impact on school learning.
+The Relationship Between Cyberbullying and School Bullying
+School bullying became the focus of research in the 1970s; however, a new form of bullying known as cyberbullying (or cyber-harassment) is now becoming known in the 21st century (Beran & Li, 2005). Rather than bully a peer only at school, students are beginning to use technology such as home computers and mobile phones to bully their peers. Few studies on cyberbullying have been published, and its similarity to school bullying is unknown. This study examines whether students involved in school bullying are also involved in cyberbullying, and if these types of bullying are related to academic difficulties at school.
+16
+   
+THE RELATIONSHIP BETWEEN CYBERBULLYING AND SCHOOL BULLYING
+Related Literature
+School and cyberbullying
+Bullying has traditionally been considered to be a school problem. It usually occurs before an audience of peers and on the school playground (Craig & Pepler, 1997; Olweus, 1993). Although bullying has traditionally been equated with physical harassment, researchers now consider bullying to be exposure, repeatedly and over time, to negative actions on the part of one or more students (Olweus, 2003). These negative actions are considered intentional, whereby individuals inflict or attempt to inflict, injury or discomfort upon someone else (Olweus, 2003). Bullying takes a wide range of forms including hitting, pushing, holding, hostile gesturing, threatening, humiliating, degrading, teasing, name-calling, put-downs, sarcasm, taunting, staring, sticking out the tongue, eye rolling, silent treatment, manipulating friendship and ostracising (Beran, 2006; Ma, 2001).
+A new method of bullying has emerged, known as cyberbullying. This form of aggression involves the use of information and communication technology such as mobile phones, video cameras, e-mails, and web pages to post or send harassing or embarrassing messages to another person (Ybarra & Mitchell, 2004). Different types of cyberbullying have been reported ranging from flaming to cyberstalking. There are seven different categories of common cyberbullying (Willard, 2004):
+Flaming: Sending angry, rude, vulgar messages about a person to an online group or to that person via email or other text messaging.
+Online harassment: Repeatedly sending offensive messages via email or other text messaging to a person.
+Cyberstalking: Online harassment that includes threats of harm or is excessively intimidating.
+Denigration (put-downs): Sending harmful, untrue, or cruel statements about a person to other people or posting such material online.
+Masquerade: Pretending to be someone else and sending or posting material that makes that person look bad.
+Outing: Sending or posting material about a person that contains sensitive, private, or embarrassing information, including forwarding private messages or images.
+Exclusion: Cruelly excluding someone from an online group. (Cyberbullying Survey Section, ¶8)
+For example, a 15 year-old boy in Quebec, Canada became an unwilling ‘celebrity when a film he made of himself emulating a Star Wars fight scene was posted on the internet by some classmates. Millions downloaded the two-minute clip ... He was so humiliated he sought counselling [and dropped out of school], and his family has launched a lawsuit against his tormentors’ (Snider & Borel, 2004). In Japan, mobile phone pictures of an overweight boy, which were taken in the locker room, were
+17
+ 
+TANYA BERAN AND QING LI
+distributed to many of his peers (Paulson, 2003). Internet use alone has been increasing by 100% per year (Nua Internet Surveys, 2002). In schools, 98% of elementary and 99% of secondary students in Canada have computers with internet connections (Statistics Canada, 2004). Given that about 60% of these students can access the internet outside class time (Statistics Canada, 2004), it is possible that a portion of the time spent on the internet is used to send harassing messages. Thus, in addition to enhancing student learning and interactions with peers, technology may be used to target and victimise peers.
+Studies indicate that 14% to 27% of students experience school bullying (Fekkes et al., 2005; Whitney & Smith, 1993). Preliminary studies suggest that cyberbullying occurs at a similar rate. In a survey of students in grades 7–9, we found that about one quarter of students reported being bullied through the use of technology (Beran & Li, 2005). Also, in Canada, survey results show that one quarter of young Canadian internet users received messages expressing hate for others (Mnet, 2001). Similarly, in Britain, 25% of adolescents between 11 and 19 years-of-age reported being cyberbullied (National Children’s Home, 2002). Further, the 2004 i-SAFE survey of 1500 grade 4–8 students in the USA (i-SAFE, 2004) and a study conducted by Kennedy in the UK (Kennedy, 2005) showed the same trend. Considering that student use of technology is often unsupervised, fewer consequences may result from bullying peers by using technology than when at school.
+Rather than consider cyberbullying as a separate phenomenon we propose that it has become another form of bullying. Bullying behaviours may be directed at a target (e.g., hitting, kicking, name calling, swearing) or involve the peer group to indirectly target another student (e.g., gossiping, excluding) (Bjorkqvist, Lagerspetz, & Kaukiainen, 1992). Cyberbullying is another indirect form whereby the aggressor does not harass in a face-to-face interaction, but rather through an interface (computer screen, phone). Just as school bullying behaviours are likely to be witnessed by peers, harassing messages posted on-line are in a public domain and can be viewed by acquaintances and strangers. For these reasons, it seems likely that bullying at school is related to bullying on-line. Indeed, according to ecological systems theory, peers play a role in maintaining and exacerbating bullying. By extension, the public audience in cyberspace may serve the same role as schoolyard bystanders.
+The link between school bullying and cyberbullying can be conceptualised using social rank theory. This theory posits that the peer group becomes established as a hierarchy whereby some students use aggression to dominate their peers as a means of gaining prestige, power, and access to resources (Espelage & Swearer, 2003; Pellegrini & Long, 2002). When peers submit to these dominant initiations by crying or feeling intimidated, power and control are exerted over them, which may be maintained over the long term (Sharp, Thompson, & Arora, 2000). Consequently, a child who submits to attacks at school may be at risk of experiencing additional bullying in cyberspace, which can persist over time and in settings outside the school. It is also possible that children
+18
+ 
+THE RELATIONSHIP BETWEEN CYBERBULLYING AND SCHOOL BULLYING
+who are bullied at school may attempt to retaliate through technology. This form of bullying may be less anxiety-provoking than face-to-face attacks, so victimised children may resort to this behaviour as a means of self-protection. Indeed, they may engage in bullying particularly if they are severely affected by it.
+To more precisely describe children’s involvement in bullying at school and via technology we can examine their behaviours. Previous research indicates that children who are bullied are also likely to bully others. In a review of the research on bullying at school, Espelage and Swearer (2003) challenged the perception that children can be dichotomously classified as either bullies or victims. They argued that children may bully their peers, and at other times also be bullied by their peers. In its most extreme form, being bullied can lead to homicide. Vossekuil and colleagues (Vossekuil et al., 2002) reported that 71% of students who shot their schoolmates had been bullied. It is, therefore, possible that children who are bullied in cyberspace may also bully others in cyberspace. Moreover, children who are bullied at school are also likely to be bullied on- line.
+Effects of bullying
+Previous research has shown that children who are bullied at school suffer several maladaptive outcomes. Internalising problems include anxiety, loneliness, sadness, over- compliance, and insecurity (Frost, 1991; Hawker & Boulton, 2000; Olweus, 1989). In addition to these internalising behaviours, children who are bullied may display externalising problems such as impulsiveness and hyperactivity (Camodeca et al., 2003; Johnson et al., 2002). Some school problems have also been reported, but there are few studies on them. Reid (1985) reported that victimised children are likely to avoid school, resulting in absenteeism, and Mellor (1990) indicated poor concentration on schoolwork. These behaviours may explain reports of lower intelligence and academic achievement (Roland, 1987).
+Some emerging studies on cyberbullying suggest that children who are targeted by it display similar negative behaviours. Some published research provides anecdotal insights into children’s experiences (e.g., Keith & Martin, 2005). Some preliminary studies have also documented various behaviours related to cyberbullying including frustration, anger, and sadness (Beran & Li, 2005; Patchin & Hinduja, 2006). Indeed, Patchin and Hinduja (2006) reported that about a third of the children who had been cyberbullied felt they were negatively affected in some way. Also, in a national sample of American youth aged 10–17 years, 30% reported feeling extremely upset and 24% frightened as a result of receiving harassing on-line messages (Finkelhor et al., 2000). Moreover, Ybarra (2004) found that frequent internet users were likely to experience depressive symptoms. Further information about the ways in which children in Canada are affected by cyberbullying is needed, and it is not known if students who experience cyberbullying have similar problems to students who are bullied at school.
+19
+ 
+TANYA BERAN AND QING LI
+Although many teachers and administrators now recognise the problem of cyber bullying, they may not be aware of individual incidents, just as parents are not always aware of their children’s activities on-line (Media Awareness Network, 2001). However, school districts have begun including cyber-harassment in school policy (e.g., Ontario Public School Boards’ Association, 2007). To inform policy, researchers must examine systematically the nature of cyberbullying. Bullying occurs through electronic communication, yet it is unclear how it works among peers. As bullying becomes recognised as an important problem, researchers must uncover information about its occurrence to inform and support educators and parents. That children who are bullied may form supportive relationships with people over the internet who may encourage them to retaliate with aggression towards their aggressors, suggests that school bullying may be related to the use of technology (Markward et al., 2002). Moreover, cyberbullying may be of particular concern if educators and parents are less conversant with technology than students themselves. Thus, researchers, parents, teachers, administrators and students must gain a better understanding of cyberbullying to ensure safe and appropriate applications for technology. This study will extend our understanding of cyberbullying by examining its relationship with school bullying among adolescents. In particular, we asked the following questions:
+1. To what extent are bullying others in cyberspace and being bullied in cyberspace related?
+2. Are students who are bullied at school likely to be bullied in cyberspace?
+3. Are students who experience both forms of bullying (cyberbullying and school bullying) as likely to have difficulty functioning at school as students who experience cyberbullying only?
+Method
+Data for this sample were collected as part of a larger study (Beran & Li, 2005). Administrators from nine junior high schools in middle class, ethnically diverse communities in Calgary were contacted and gave permission for the research. Participants included 432 students (193 boys and 239 girls) in grades 7–9 (ages 12–15) who completed a self-report survey. Only those adolescents with signed parental consent were permitted to participate. A research assistant gave questionnaires to students in class and told them that they were not obliged to complete the questionnaire and not to state their names to ensure anonymity. Approximately 15 minutes was required to complete the questionnaire.
+Measures
+To determine whether students experienced cyberbullying they were first read the standard definition of bullying developed by Olweus (1996) that is frequently used in research:
+20
+ 
+THE RELATIONSHIP BETWEEN CYBERBULLYING AND SCHOOL BULLYING
+Harassment occurs when a student, or several students, says mean and hurtful things or makes fun of another student or calls him or her mean and hurtful names, completely ignores or excludes him or her from their group of friends or leaves him or her out of things on purpose, tells lies or spreads false rumors about him or her, sends mean notes and tries to make other students dislike him or her, and other hurtful things like that. When we talk about harassment, these things happen repeatedly, and it is difficult for the student being harassed to defend himself or herself. We also call it harassment, when a student is teased repeatedly in a mean and hurtful way. But we don’t call it harassment when the teasing is done in a friendly and playful way. Also, it is not harassment when two students of about equal strength or power argue or fight.
+Then they were asked, ‘Have harassing behaviours involving technology been directed towards you?’ To determine the relationship between cyberbullying and school bullying, students were asked ‘Do the people who harassed you by using technology also harass you in other ways (not using technology)?’ Students were then asked: ‘Do you use technology to harass others?’ Students responded to these three questions on a 5- point response scale from ‘never’ to ‘almost every day’ with higher scores indicating a higher frequency of bullying. See Appendix 1 for details of the survey. Self reported experiences of bullying are often used in research and are considered to be a valid method for determining the frequency of bullying (Espelage & Swearer, 2003).
+To determine whether bullying is related to difficulties at school, students were asked if they missed school, had difficulty concentrating, or if their marks dropped because of bullying. Responses were indicated on the same 5-point response scale from ‘never’ to ‘almost every day’, and a higher score indicated more difficulty. This self- reporting method has been used in other studies on bullying (e.g., Hawker & Boulton, 1996; Sharp, 1995; Sharp et al., 2000) and provides a glimpse into a child’s experience of cyberbullying and its perceived effect.
+Results
+The number of students who had been involved in bullying was first examined. As shown in Table 1, 182 students (42%) had never experienced cyberbullying, whereas 248 students (58%) had experienced it once or twice, or more often. Fewer students (n = 109, 26%) reported bullying others in cyberspace once or twice, or more often. Also, more than a third of students (n = 159, 37%) reported being bullied both in cyberspace and at school once or twice, or more often. To examine differences in reports of being bullied and bullying others, responses to the three bullying questions were re-coded to never, once/twice, or a few times or more. Chi-square results showed no significant gender or grade differences.
+21
+  
+TANYA BERAN AND QING LI
+Table 1: Frequency of cyberbullying and school bullying (n = 432)
+   Frequency of each response
+   Never Once/twice Few Many Almost Total* times times every day
+   Bullied in cyberspace 182 148 81 15 4 430
+ Bullied others in 318 94 6 6 3 427 cyberspace
+ Bullied in cyberspace 268 92 32 24 11 427 and at school
+ Note. *The totals do not add up to 432 due to missing values.
+To explore the relationships among the various experiences of bullying, Spearman’s rho coefficients for ordinal data were calculated using the original 5- point response scale. As shown in Table 2, students who were bullied in cyberspace were also likely to bully others in cyberspace and be bullied at school. Also, children who were bullied both in cyberspace and at school were likely to bully others in cyberspace.
+Table 2: Spearman’s rho for the relationship between experiences of bullying and school functioning (n = 432)
+  Measures Bullied in Bullied cyberspace others in
+cyberspace
+Bullied in Missed Marks Poor cyberspace school dropped concentration
+and at school
+  Bullied in -- cyberspace
+ Bullied others 0.46* -- in cyberspace
+ Bullied in 0.52* 0.32* -- cyberspace
+and at school
+22
+THE RELATIONSHIP BETWEEN CYBERBULLYING AND SCHOOL BULLYING
+*p < 0.001
+Table 2 also shows how cyberbullying is related to school functioning. Students who were cyberbullied were likely to miss school, obtain low marks, and have poor concentration. These difficulties were also reported by students who experienced both cyberbullying and school bullying. Moreover, schooling problems are moderately correlated—students who had difficulty concentrating also gained low marks and were more likely to skip school. For those students who admitted bullying others in cyberspace, no difficulties at school other than poor concentration were reported. It was not possible to re-code responses to determine gender or grade differences, as cell sizes were too small.
+Discussion
+Technology is intended to create rich learning environments and introduce children to new ideas, develop new skills, and expand their perspectives (Bailey & Cotlar, 1994). Many parents may also buy their children mobile phones to help ensure their safety. However, technology when used to harass someone, can inflict harm and reduce school functioning for some children. Indeed, more than half of the students in our sample had experienced some cyberbullying, and more than a quarter of students reported bullying others in cyberspace at least once. Also, more than a third had been bullied both in cyberspace and at school. These forms of bullying are interrelated—children who were bullied in cyberspace were also likely to bully others in cyberspace and be bullied at school. Moreover, children who were bullied in cyberspace, as well as children bullied both in cyberspace and at school, were likely to function poorly at school. To a lesser extent, children who engaged in cyberbullying had difficulty with school work.
+Students who are bullied through technology are likely to use technology to bully others. It is possible that children who are bullied retaliate against the aggressor by returning angry statements (flames) and sending harassing messages. It is also plausible, however, that children known to have harassed others using technology are targeted by other children to get even to protect their friends. Each incident may then fuel further assaults by students directly involved, as well by their peers. When people feel angry for being wrongfully attacked they may respond aggressively (Geen, 1998). Another explanation for retaliation against bullying is that the retaliation may serve to protect the
+23
+  Missed school 0.17* 0.08 0.20* --
+ Marks 0.22* 0.07 0.20* 0.46* -- dropped
+ Poor 0.43* 0.18* 0.37* 0.28* 0.48* -- concentration
+ 
+TANYA BERAN AND QING LI
+targeted student from feelings of embarrassment, sadness and powerlessness (Beattie, 2005). In other words, a child who is bullied may ‘bully back’ to counteract negative emotions about having been bullied.
+Considering that more than a third of the children in our sample who were bullied in cyberspace were also bullied at school, it is possible that bullying moves between the school grounds and cyberspace. For example, a student may be targeted at school and then later that day sent harassing messages at his or her home. Then, they may be further harassed at school the following day. Given that our results also show that students bullied at school and via technology are likely to bully others in cyberspace, incidents of bullying may be complex. Perhaps a student who had been bullied at school comes to see bullying as a means of fitting in with the peer group by following the group’s social rules, and will, therefore, begin to bully others in cyberspace. As a result, this person may be subsequently targeted by threatening messages left on her or his desk or mobile phone. In other words, with the ready availability of technology, bullying may involve many students at school, at home, and at almost any other time and place in a child’s life where technology is accessible.
+The frequency of students experiencing cyberbullying a few times or more often is comparable to that of school bullying. In general, many reports of school bullying show that about a quarter or less of students are bullied at least sometimes at school (McEachern et al., 2005). Similarly, almost a quarter of the students in our sample stated they had been bullied through the internet, e-mails, mobile phones, and so on at least a few times. Most (34%) of the students in the sample were bullied only once or twice. Similarly, of those students who engaged in cyberbullying, most stated that they did it only once or twice. Perhaps when learning the capabilities of technology, students test what they are able to do with it by engaging in aggressive behaviours. However, fear of being caught may restrain them. It is also likely that students are reluctant to report more frequent acts of being bullied and of bullying others for fear of having their use of technology curtailed, despite reassurances of confidentiality for the research.
+Students may engage in cyberbullying for several reasons: the source of the bullying is difficult to detect as messages can be sent without personal identification; a child who sends a harassing message has time to construct and carefully prepare the message to maximise the harm it causes; in traditional school bullying it may be hard to create hurtful messages during the day; and there may be little fear of physical or verbal retaliation as it is difficult to identify the sender, and the victim and sender are usually physically remote from each other.
+Students who were bullied either in cyberspace or at school were likely to report difficulties at school. They were less likely to attend school, could not concentrate on their school work and gained lower marks than students who were not bullied. These results are consistent with research showing a negative effect on students who are bullied at school (Juvonen et al., 2000; Kochenderfer & Ladd, 1996). Thus, regardless of the
+24
+ 
+THE RELATIONSHIP BETWEEN CYBERBULLYING AND SCHOOL BULLYING
+form of bullying (school or technologically based), students are likely to be harmed. Perhaps sadness and hurt feelings about the attack distract students from their work and reduce their motivation to attend school, both resulting in low grades. The converse is also possible. Difficulty with schoolwork may mean that students are ostracised by their peers, making them targets for teasing, ridicule and bullying. Moreover, children who engage in cyber-harassment may be preoccupied with thoughts of targeting their peers, reducing concentration on schoolwork. These results underscore the significance of cyberbullying.
+The results of this study suggest a connection between school bullying and cyberbullying. An important implication is that bullying is a multifaceted phenomenon involving various behaviours at differing times, possibly involving many people. Considering that the majority of bullying occurs before peer witnesses, their role in maintaining or exacerbating bullying must also be considered to be a key component in prevention and intervention programs. Cyberbullying intervention programs, therefore, should be developed in conjunction with anti-bullying programs. This concurs with the limited number of existing intervention strategies proposed (Trolley et al., 2006) in the literature. These stress the importance of a holistic approach to address cyberbullying. Further, it suggests that addressing cyberbullying in the schools requires collaborative efforts among school officials, parents, and the broader society (Trolley et al., 2006).
+Limitations of the study
+Despite providing one of the first glimpses of the impact of cyberbullying on children in Canadian schools, this study has limitations. Although the sample was randomly selected, few students returned consent forms, meaning that the findings are difficult to generalise. At the time the survey was conducted, few students had access to video mobile phones. With the introduction of new technology, cyberbullying may increase; this requires further investigation. In this survey, students were not asked how they were bullied at school or whether they bullied others at school—this should be considered in later research.
+Recommendations for further research
+Little research has focused on cyberbullying and intervention strategies have not yet been evaluated. When considering the impact of cyberbullying, it is important to examine whether this experience preceded socio-emotional behaviours, so that causality can be taken into account. Student reports on cyberbullying are valid for understanding the child’s perspective, and our results using this method are similar to other methods used to study the effects of bullying. In addition, parents and teachers may be less aware of cyberbullying than are children themselves. Nevertheless, additional reporting sources can be included in future research to compare children’s and adults’ perspectives.
+25
+ 
+TANYA BERAN AND QING LI
+Other areas for further study include using school measures such as attendance records and grades to understand how children experience bullying. Also, direct and indirect bullying should be compared separately with cyberbullying. Our exploration of cyberbullying required qualitative methods to determine the nature and possible causes of this new phenomenon. The sample in this study was limited to students in grades 7–9 in Canadian schools who were willing to participate and no grade differences were found in reports of cyberbullying. It is suggested that the age range be expanded to include younger and older students and that gender differences by simultaneously examined.
+Given that many students who are bullied in cyberspace both bully others in cyberspace and are bullied at school suggests that ‘bullying has gone digital’. Researchers must examine all forms of bullying to develop a complete understanding of how and why students harass their peers. This study’s findings lead to many questions yet to be answered in the research. As we learn more about the direction, severity and context of these behaviours, we will be able to develop and evaluate strategies to manage it. At present, parents and educators must be aware that cyberbullying and school bullying are harmful to children and may impede their learning at school.
+ 26
+THE RELATIONSHIP BETWEEN CYBERBULLYING AND SCHOOL BULLYING
+References
+Bailey EK & Cotlar M, 1994, ‘Teaching via the internet’. Communication Education, 43(2), 184–93.
+Beattie H, 2005, ‘Revenge’. Journal of the American Psychoanalytic Association, 53(2), 513–24.
+Beran T, 2006, A construct validity study of bullying. Alberta Journal of Educational Research, 52(4), 238–47.
+Beran T & Li Q, 2005, Cyber-harassment: A study of a new method for an old behavior. Journal of Educational Computing Research, 32(3), 265–77.
+Bjorkqvist K, Lagerspetz K & Kaukiainen A, 1992, ‘Do girls manipulate and boys fight? Developmental trends in regard to direct and indirect aggression’. Aggressive Behavior, 18, 117–27.
+Camodeca M, Goossens FA, Schuengel C & Terwogt MM, 2003, ‘Links between social information processing in middle childhood and involvement in bullying’. Aggressive Behavior, 29, 116–27.
+Craig WM & Pepler DJ, 1997, ‘Observations of bullying and victimization in the school yard’. Canadian Journal of School Psychology, 13(2), 41–60.
+Espelage DL & Swearer SM, 2003, ‘Research on school bullying and victimization: What have we learned and where do we go from here?’ School Psychology Review, 32(3), 365–83.
+Fekkes M, Pijpers FIM & Verloove-Vanhorick SP, 2005, ‘Bullying: Who does what, when and where? Involvement of children, teachers and parents in bullying behavior’. Health Education Research, 20(1), 81–91.
+Finkelhor D, Mitchell K & Wolak J, 2000, ‘Online victimization: A report on the nation’s youth’. National Center for Missing & Exploited Children.
+<www.unh.edu/ccrc/Youth_Internet_info_page.html> viewed November 2007. Frost L, 1991, ‘A primary school approach: What can be done about the bully?’ In M
+Elliott (ed.) Bullying: A practical guide to coping for schools.Longman, Harlow.
+Geen RG, 1998, ‘Aggression and antisocial behavior’. In DT Gilbert, ST Fiske & G Lindzey (eds) The handbook of social psychology, McGraw-Hill, New York, 317–56.
+27
+  
+TANYA BERAN AND QING LI
+Hawker D & Boulton M, 1996. ‘Sticks and stones may break my bones: The effects of bullying on victims’. Paper presented at the British Psychological Society Annual Conference. Brighton, April, 1996.
+Hawker DSJ & Boulton MJ, 2000, ‘Twenty years’ research on peer victimization and psychosocial maladjustment: A meta-analytic review of cross-sectional studies’. Journal of Child Psychology and Psychiatry, 41(4), 441–55.
+i-SAFE, 2004, ‘Cyber Bullying: Statistics and Tips’.
+<www.isafe.org/channels/sub.php?ch=op&sub_id=media_cyber_bullying> viewed November, 2007.
+Johnson HR, Thompson MJJ, Wilkinson S, Walsh L, Balding J & Wright V, 2002, ‘Vulnerability to bullying: Teacher-reported conduct and emotional problems, hyperactivity, peer relationship difficulties, and prosocial behaviour in primary school children’. Educational Psychology, 22(5), 553–6.
+Juvonen J, Nishina A & Graham S, 2000, ‘Peer harassment, psychological adjustment, and school functioning in early adolescence’. Journal of Educational Psychology, 92(2), 349–59.
+Keith S & Martin ME, 2005, ‘Cyberbullying: Creating a culture of respect in a cyber world’. Reclaiming Children & Youth, 13(4), 224–8.
+Kennedy A, 2005, ‘Students fall victim to high-tech harassment: Bullies discovering new playground in cyberspace’. Counseling Today, June 2005, 10–1.
+Kochenderfer B & Ladd G, 1996, ‘Peer victimization: Causes or consequences of school maladjustment?’ Child Development, 67, 1305–17.
+Ma X, 2001, ‘Bullying and being bullied: To what extent are bullies also victims?’ American Educational Research Journal, 38(2), 351–70.
+McEachern AG, Kenny M, Blake E & Aluede O, 2005, ‘Bullying in schools: International variations’. Special Issue of Journal of Social Sciences, 8, 51–8.
+Markward MJ, Cline SS & Markward NJ, 2002, ‘Group socialization, the internet and school shootings’. International Journal of Adolescence & Youth, 10(1–2), 135– 46.
+Media Awareness Network, 2001,
+<www.media-awareness.ca/english/research/YCWW/phaseI/students.cfm> viewed November, 2007.
+28
+   
+THE RELATIONSHIP BETWEEN CYBERBULLYING AND SCHOOL BULLYING
+Mellor A, 1990, Bullying in Scottish secondary schools. Scottish Council for Research in Education, Edinburgh.
+Mnet, 2001, Young Canadians in a Wired World-Mnet Survey, <www.media-awareness.ca/english/special_initiatives/surveys/index.cfm>
+viewed November, 2007.
+National Children’s Home, 2002, NCH 2002 Survey,
+<www.nch.org.uk/itok/showquestion.asp?faq=9&fldAuto=145> viewed November, 2007.
+Nua Internet Surveys, 2002, Canadian school kids do homework online, <www.nua.ie/surveys.html> viewed May, 2004.
+Nua Internet Surveys, 2003, How many online? <www.nua.ie/surveys.html> viewed May, 2004
+Olweus D, 1989, ‘Prevalence and incidence in the study of antisocial behavior: Definitions and measurement’. In M Klein (ed.) Cross-national research in self- reported crime and delinquency, Kluwer, Dodrecht, Netherlands, 187–201.
+Olweus D, 1993, Bullying at school. Blackwell, Cambridge, MA.
+Olweus D, 1996, The Revised Bully/Victim Questionnaire. Mimeo HEMIL Center.
+University of Bergen, Norway.
+Olweus D, 2003, ‘A profile of bullying at school’. Educational leadership, 60(6), 12–9.
+Ontario Public School Boards’ Association, 2007, ‘News Release Communiqué’. <www.opsba.org/pubs/nrel/2007/2007-04-17.html> viewed November, 2007.
+Patchin J & Hinduja S, 2006, ‘Bullies Move beyond the Schoolyard: A Preliminary Look at Cyberbullying’. Youth Violence and Juvenile Justice, 4(2), 148–69.
+Paulson A, 2003, ‘Internet bullying’, <www.csmonitor.com/2003/1230/p11s01-legn.htm> viewed November, 2007.
+Pellegrini AD & Long JD, 2002, ‘A longitudinal study of bullying, dominance, and victimization during the transition from primary school through secondary school’. British Journal of Developmental Psychology, 20, 259–80.
+Reid WH, 1985, ‘The antisocial personality: A review’. Hospital and Community Psychiatry, 36, 831–37.
+29
+       
+TANYA BERAN AND QING LI
+Roland E, 1987, ‘Bullying in school’. Lectures held at the Council of Europe’s Conference. Stavanger, Norway.
+Sharp S, 1995, ‘How much does bullying hurt? The effects of bullying on the personal wellbeing and educational progress of secondary aged students’. Educational and Child Psychology, 12(2), 81–8.
+Sharp S, Thompson D & Arora T, 2000, ‘How long before it hurts? An investigation into long-term bullying’. School Psychology International, 21(1), 37–46.
+Snider M & Borel K, 2004, ‘Stalked by a cyberbully’. Macleans.
+Statistics Canada, 2004, ‘Information and communications technologies in schools
+survey’. The Daily,
+<www.statcan.ca/Daily/English/040610/d040610b.htm> viewed November,
+2007.
+Trolley B, Hanel C & Shields L, 2006, Demystifying & Deescalating Cyber Bullying in the Schools: A Resource Guide for Counselors, Educators & Parents.Book Locker, Bangor, ME.
+Vossekuil B, Fein RAM, Borum R & Modzeleski W, 2002, The final report and findings of the Safe School Initiative : Implications for the prevention of school attacks in the United States.U.S. Secret Service and U.S. Department of Education, Washington, DC.
+Whitney I & Smith PK, 1993, ‘A survey of the nature and extent of bullying in junior/middle and secondary schools’. Educational Research, 35, 3–25.
+Willard N, 2004, ‘An educator’s guide to cyberbullying and cyberthreats’, <new.csriu.org/cyberbully/docs/cbcteducator.pdf> viewed November, 2007.
+Ybarra ML, 2004, ‘Linkages between depressive symptomatology and Internet harassment among young regular Internet users’. Cyberpsychology and Behavior, 7(2), 247–57.
+Ybarra ML & Mitchell JK, 2004, ‘Online aggressor/targets, aggressors and targets: A comparison of associated youth characteristics’. Journal of Child Psychology and Psychiatry, 45, 1308–16.
+30
+   
+THE RELATIONSHIP BETWEEN CYBERBULLYING AND SCHOOL BULLYING
+Appendix
+Student Survey
+Thank you for participating in this survey.
+School ____________________________________ Grade _______ Gender _____
+Harassment occurs when a student, or several students, says mean and hurtful things or makes fun of another student or calls him or her mean and hurtful names, completely ignores or excludes him or her from their group of friends or leaves him or her out of things on purpose, tells lies or spreads false rumors about him or her, sends mean notes and tries to make other students dislike him or her, and other hurtful things like that. When we talk about harassment, these things happen repeatedly, and it is difficult for the student being harassed to defend himself or herself. We also call it harassment, when a student is teased repeatedly in a mean and hurtful way. But we don’t call it harassment when the teasing is done in a friendly and playful way. Also, it is not harassment when two students of about equal strength or power argue or fight.
+1) Have you heard of students using technology to harass other students (for example, the Internet, computers, cell phones, answering machines, video cameras)? If yes, what types of technology were used?
+_________________________________________________________________ _________________________________________________________________ _________________________________________________________________
+2) If yes, how was the technology used? Please describe the event.
+_________________________________________________________________ _________________________________________________________________ _________________________________________________________________
+3) Have these types of harassing behaviors involving technology been directed towards you? Please indicate:
+12345
+never once/twice a few times many times almost every day
+4) If yes, how have you been impacted? (Circle one) I felt sad and hurt
+12345
+31
+ 
+TANYA BERAN AND QING LI
+never once/twice a few times many times almost every day I felt angry
+12345
+never once/twice a few times many times almost every day
+I felt embarrassed 12345
+never once/twice a few times many times almost every day I felt afraid
+12345
+never once/twice a few times many times almost every day
+I felt anxious 12345
+never once/twice a few times many times almost every day I missed school because of it
+ I cried
+12345
+never once/twice a few times many times almost every day
+12345
+never once/twice a few times many times almost every day
+I had difficult concentrating 12345
+never once/twice a few times many times almost every day
+32
+THE RELATIONSHIP BETWEEN CYBERBULLYING AND SCHOOL BULLYING
+My marks have dropped because of it 12345
+never once/twice a few times many times almost every day I blame myself
+12345
+never once/twice a few times many times almost every day
+5) Do the people who harassed you by using technology also harass you in others ways (not using technology)?
+12345
+never once/twice a few times many times almost every day
+6) Do you use technology to harass others? 12345
+never once/twice a few times many times almost every day
+ 33
+
