@@ -1,0 +1,849 @@
+Aggression and Violent Behavior 23 (2015) 1–21
+    Contents lists available at ScienceDirect Aggression and Violent Behavior
+  Systematic review of theoretical studies on bullying and cyberbullying: Facts, knowledge, prevention, and intervention
+Izabela Zych a,⁎, Rosario Ortega-Ruiz a,1, Rosario Del Rey b,2 a UniversidaddeCórdoba,14004Córdoba,Spain
+        b UniversidaddeSevilla,41004Sevilla,Spain
+article info
+Article history:
+Received 15 September 2015
+Received in revised form 30 September 2015 Accepted 1 October 2015
+Available online 21 October 2015
+Keywords:
+Bullying Cyberbullying Meta-analyses Systematic reviews
+Contents
+1. Introduction..........
+2. Method............
+2.1. Aimsofthestudy . . . .
+abstract
+Bullying and cyberbullying are present all over the world and have serious consequences for individuals and so- cieties. The number of research studies on the topic has increased exponentially throughout the history, but many questions related to the phenomena remain unanswered. The current study is a systematic review of systematic reviews and meta-analyses on the topic. Systematic searches were conducted in 7 databases and Aggressive and Violent Behavior journal. A total number of 66 studies met the inclusion criteria. The main findings are that one of every three children is involved in some forms of bullying and one of every five in some forms of cyberbullying. Boys are more involved than girls but with small or trivial effect sizes, and relationship with age is also weak. There is strong overlap between bullying and cyberbullying and bullying is an important problem among minorities. Results show risk and protective factors for bullying and cyberbullying, together with short- and long-term devastating consequences. Anti-bullying interventions are usually effective in reducing bullying, although the effect sizes are small and depend on the components of the programs. Bullying and cyberbullying evaluation strategies need to be improved. Findings are discussed introducing also the Special Issue on Bullying, Cyberbullying and Youth Violence: Facts, Prevention and Intervention.
+© 2015 Elsevier Ltd. All rights reserved.
+.... ................................................. 2 .... ................................................. 2 .... ................................................. 2
+      2.2. Searchstrategies ......................................................... 2
+2.3. Inclusioncriteria ......................................................... 3
+2.4. Codingstrategies ......................................................... 3
+3. Results................................................................. 3
+3.1. Prevalence,sex,andageofthechildreninvolvedinthephenomena .................................. 3 3.1.1. Meta-analyticresults ................................................... 3 3.1.2. Additionalinformationfromnon-meta-analyticsystematicreviews .............................. 11
+3.2. Relationshipbetweenbullyingandcyberbullying:Meta-analyticresults ................................ 12
+3.3. Minorities'involvementinbullying................................................. 12 3.3.1. Meta-analyticresults ................................................... 12 3.3.2. Additionalinformationfromnon-meta-analyticsystematicreviews .............................. 12
+3.4. Riskandprotectivefactors..................................................... 12 3.4.1. Meta-analyticresults ................................................... 12 3.4.2. Additionalinformationfromnon-meta-analyticsystematicreviews .............................. 14
+3.5. Consequencesofbullyingandcyberbullying............................................. 14 3.5.1. Meta-analyticresults ................................................... 14 3.5.2. Additionalinformationfromnon-meta-analyticsystematicreviews .............................. 16
+⁎ Correspondingauthorat:DepartamentodePsicología,FacultaddeCienciasdelaEducación,UniversidaddeCórdoba.Avda.SanAlbertoMagnos/n,14004CórdobaSpain. E-mail addresses: izych@uco.es (I. Zych), ed1orrur@uco.es (R. Ortega-Ruiz), delrey@us.es (R. Del Rey).
+1 Departamento de Psicología, Facultad de Ciencias de la Educación, Universidad de Córdoba. Avda. San Alberto Magno s/n, 14,004 Córdoba (Spain).
+2 Departamento de Psicología Evolutiva y de la Educación, Facultad de Ciencias de la Educación, C/Pirotecnia s/n, 41,013. Sevilla (Spain).
+http://dx.doi.org/10.1016/j.avb.2015.10.001
+1359-1789/© 2015 Elsevier Ltd. All rights reserved.
+ 
+2
+I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21
+3.6. Effectivenessofanti-bullyingprograms ........................
+3.6.1. Meta-analyticresults. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.6.2. Additionalinformationfromnon-meta-analyticsystematicreviews. . . . . . . .
+3.7. Effectivenessofdifferentprogramcomponents.....................
+3.7.1. Meta-analyticresults. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.7.2. Additionalinformationfromnon-meta-analyticsystematicreviews. . . . . . . .
+3.8. Evaluation strategies and methodologies: Non-meta-analytic systematic reviews . . . .
+.......................16 . . . . . . . . . . . . . . . . . . . . . . . 16 . . . . . . . . . . . . . . . . . . . . . . . 17 .......................17 . . . . . . . . . . . . . . . . . . . . . . . 17 . . . . . . . . . . . . . . . . . . . . . . . 17 .......................17 . . . . . . . . . . . . . . . . . . . . . . . 18 . . . . . . . . . . . . . . . . . . . . . . . 19
+4.
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ConclusionsandintroductiontotheSpecialIssue . . . . . . . . . . . . . . . . . . . . . . .
+ 1. Introduction
+School bullying is a repeated violence intentionally perpetrated by some students on other physically or psychologically weaker peers (Smith & Brain, 2000) under a so-called dominance–submission scheme and law of silence (Ortega, 2010). This kind of abuse is present in schools all over the world (Craig et al., 2009). Consequences of being in- volved in bullying as victims, perpetrators, or both are very serious and affect individuals and societies (Farrington, Losel, Ttofi, & Theodorakis, 2012). Interventions are being conducted all over the world (Ttofi & Farrington, 2011), but the problem still persists and is now present not only in schools but also in cyberspace being called cyberbullying (e.g. Kowalski, Giumetti, Schroeder, & Lattanner, 2014). The latter has been defined as usually repeated aggressive and hostile messages inten- tionally sent though electronic media (Tokunaga, 2010).
+Rapid development of information and communication technol- ogies, together with other factors, has led to an exponential increase in the number of studies available to the scientific community (Bornmann & Mutz, in press). Bibliographical sources needed for the constructions of theoretical frameworks and design of new re- search can be easily accessed anytime and anywhere in the world. Sophisticated software makes possible introduction of thousands of data points in few hours and skilled researchers are able to per- form complex analyses in less than a week. Pressure on publishing in most of the research institutions is high (Teelken & Lomas, 2009) and updated reports of new findings on different topics are released every day. Research on bullying and cyberbullying is no exception as can be seen on the example of a Web of Science search with 44 results in 1995, 165 results in 2005, or 689 results in 2014 with a total number of about 11,000 articles. Even though thousands of studies on bullying and cyberbullying have been published throughout the history of the field, this kind of violence still persists. Moreover, there are still impor- tant gaps in knowledge on the phenomena.
+Although bullying is present all over the world, there are big differ- ences in its prevalence ranging from 8.6% to 45.2% in boys, and from 4.8% to 35.8% in girls, with higher perpetration rates among boys and more victimization among girls in 70% of the countries and showing de- crease with age in about two thirds of the countries (Craig et al., 2009). For cyberbullying, rates as high as 72% (Juvoven & Gross, 2008) and as low as 6.5% (Ybarra & Mitchell, 2004) have been reported. Moreover, it is unclear whether cyberbullying is just a form of bullying (Olweus, 2013) or should be considered a new and different phenomenon con- sidering its specific features (Slonje, Smith, & Frisen, 2013). Involvement of minorities is also unclear, with some studies reporting more involved in bullying than the majority groups (e.g. Fandrem, Strohmeier, & Roland, 2009; Rodríguez-Hidalgo, Ortega-Ruiz, & Zych, 2014) and others finding no difference between the two (e.g. Seals & Young, 2003). Risk and protective factors, together with outcomes, are broadly studied (e.g. Cook, Williams, Guerra, Kim, & Sadek, 2010; Hawker & Boulton, 2000; Kowalski et al., 2014), but it still needs to be confirmed which have the biggest impact on students involved in bullying and cyberbullying. Finally, anti-bullying programs are being implemented all over the world (Farrington & Ttofi, 2009), but not all of them are effective and some components seem to produce better results than
+others. Evaluation strategies and methodologies in the field also vary (Vivolo-Kantor, Martell, Holland, & Westby, 2014). Clarifying all these issues would be useful for further advancement of studies on bullying and cyberbullying.
+A valuable solution to this situation can be found in synthesizing em- pirical knowledge through literature reviews (Cooper, 2009). Although classical literature narrative reviews provide valuable knowledge of dif- ferent topics, systematic reviews and meta-analyses give more objective and, therefore, less biased information (Johnson & Eagly, 2000). These kinds of studies are very useful in gathering the information on inter- vention programs and also on naturally occurring predictors and out- comes of different phenomena (Murray, Farrington, & Eisner, 2009). To our knowledge, findings of these theoretical studies in the field have not yet been systematically reviewed although Ttofi, Eisner, and Bradshaw (2014) described and analyzed systematic reviews and meta-analyses of anti-bullying programs and Jiménez Barbero, Ruiz Hernández, Llor Esteban, and Pérez García (2012) analyzed five meta- analyses on school bullying and violence prevention. Farrington, Losel and Ttofi (in press) conducted a systematic review on community- based programs to prevent antisocial behavior. This article, on the other hand, reports a systematic review of systematic reviews and meta-analyses on bullying and cyberbullying. It has been conducted to fill the gaps in knowledge on the topic providing a global panorama based on research syntheses.
+2. Method
+2.1. Aims of the study
+The aim of the study was to conduct a systematic review of system- atic reviews and meta-analyses of research about bullying and cyberbullying. Specifically, this study pursued
+- to review the topics and the main findings of the review studies about bullying and cyberbullying;
+- tosynthetizeknowledgederivedfromtheoreticalstudiesaboutbul- lying and cyberbullying taking into account prevalence, age, and sex differences, possible overlap between the two phenomena, involve- ment of minorities, risk, and protective factors, consequences, effec- tiveness of anti-bullying programs and evaluation strategies;
+- tosynthetizeandanalyzeeffectsizesofthereviewedmeta-analyses.
+2.2. Search strategies
+Search was conducted between June and August 2015 in the follow- ing databases: Google Scholar, Sciencedirect, Web of Science, Medline (through Web of Knowledge), PsychInfo, Campbell Library, Cochrane Li- brary, and Wiley Online Library. Aggression and Violent Behavior was also searched given the high number of review articles on the topic pub- lished in the journal. Also, the references of the articles included in the current study were searched for possible additional documents.
+Keywords and search strategies depended on the search engines of each database and were chosen with the objective of locating maximum numbers of studies. Thus, searches needed to be wide enough to locate
+all the potentially includable papers and, at the same time, restrictive enough to locate only relevant documents. For that reason, searches were restricted to titles in databases where all-field searches would pro- duce hundreds of thousands of records (i.e. Google Scholar). In engines where searches in titles could be combined with all fields or topics (i.e. Sciencedirect, Web of Knowledge, Wiley Online Library) keywords were entered assuming that bullying or cyberbullying would appear in titles and the type of the study (systematic review or meta-analysis) in other parts of the document or vice versa. On the other hand, in search engines that produce numbers of relevant records possible to scan and analyze (i.e. PsychInfo), less restricted searches were conducted in some cases including even all the articles on bullying and cyberbullying (i.e. Aggression and Violent Behavior, Campbell and Cochrane libraries). No time restrictions were introduced and, whenever possible, searches were restricted to journal articles.
+In Google Scholar, keywords such as “bullying,” “bully,” “cyberbullying” combined with “review,” “meta-analysis,” and “meta- analytic” were searched in titles (“allintitle”: function) yielding a total number of 452 results. “Bullying”/“cyberbullying” and “review”/ ”meta-analysis”/”meta-analytic” were introduced interchangeably in titles and in all fields (e.g. “bullying" in title and “meta-analysis” in all fields and then “meta-analysis” in title and “bullying” in all fields), in Sciencedirect (341 records), Web of Knowledge including all the databases (158 records) and Wiley Online Library (255 records). In PsychInfo, “bullying” and “cyberbullying” were combined with “sys- tematic review”/”meta-analysis”/“meta-analytic” in journal articles—all fields with a total number of 109 records. “Bullying” and “cyberbullying” were introduced in all fields in Aggression and Violent Behavior (172 re- cords), Campbell library (23 records), and Cochrane library (35 records). Thus, a total number of 1545 records were scanned (including repeti- tions). In all the cases, titles were scanned and if potentially includable, abstracts and full texts were analyzed. Among all these studies, 66 studies met the inclusion criteria.
+2.3. Inclusion criteria
+- Articles which review empirical research focusing specifically on peer victimization, bullying or cyberbullying were included, exclud- ing studies that would focus on school violence (unspecific) and re- views on bullying or cyberbullying mixed with other phenomena (e.g. Jiménez Barbero et al., 2012, or Mishna, Cook, Saini, Wu, & MacFadden, 2009, who reviewed studies on cyber-abuse in gen- eral including only one research on cyberbullying).
+- Only systematic reviews were included defined as reviews with systematic or semi-systematic search in databases and possible other sources (e.g. references) performed with keywords includ- ing bullying or cyberbullying together with explicit inclusion and exclusion criteria. The studies might or might not include effect size calculations (meta-analyses) and searches were always con- ducted with the purpose of locating all the relevant studies on the topic within established time periods. Articles were excluded when there was no description of inclusion/exclusion criteria (e.g. Liu & Graves, 2011), or the description indicated clearly un- specific criteria (e.g. the inclusion criterion is the presence of the keywords in titles or abstracts—Salgado, Senra, & Lourenço, 2014) or search strategies.
+- Bullying and cyberbullying were perpetrated by children, adoles- cents, or youth in school settings, excluding studies on bullying, for example, at work. Reviews that included workplace and school bul- lying in the same analyses were also excluded (e.g. Nielsen, Tangenc, Idsoe, Matthiesen, & Magerøy, 2015).
+- Articles were written in English or Spanish.
+- In order to guarantee the quality, only peer-reviewed documents
+such as journal articles and Campbell and Cochrane reports were included, excluding meeting abstracts, proceeding (except those published in Procedia since it is peer-reviewed) master's degree or
+doctoral degree dissertations, other technical reports, and similar documents. The authors of the current review are aware of the fact that some very high-quality reports have been excluded (e.g. Farrington et al., 2012; Ttofi, Farrington, & Baldry, 2008), but most of the findings were also published in peer-reviewed journals and, therefore, included in the current review.
+2.4. Coding strategies
+Included studies were analyzed and coded reporting databases where searches were conducted, numbers of articles included in each review, the main topics and the main findings. For meta-analyses, over- all effect sizes for the most important variables were included. Finally, results were described synthesizing the findings of all the included arti- cles grouping the common topics.
+The Results section shows overall effect sizes reported in each meta- analysis together with its interpretation based on Cohen (1988), Cooper (2009), and Lipsey and Wilson (2001) recommendations. Effect sizes were considered small for r = .10–.24, OR = 1.50–2.49, d or g = .20–.49; medium for r = .25–.39, OR = 2.50–4.49 d or g = .50–.79 and large r N .40 or OR N 4.30, d or g = N .80. These metrics are provided as in the original studies with confidence intervals if available. Modera- tion effects were described for each study, but metrics were not provid- ed due to the space limitations.
+First, results from meta-analyses are presented giving the strongest evidence of their results. Then, in each section, complementary informa- tion is added from systematic reviews which did not include a meta- analysis. Overall metrics, frequencies, or description are provided when available.
+3. Results
+A total number of 66 systematic reviews and meta-analyses were included in the current study. Results are presented first taking into account meta-analytic research and then adding information from non-meta-analytic systematic reviews.
+Table 1 shows the meta-analyses and Table 2 shows non-meta- analytic systematic reviews included in the current study. Tables focus on the sources from which the primary studies were extracted in each systematic review and meta-analysis, the number of research papers in- cluded in each study, the main topics together with the main findings and conclusions. Synthesis of the most important findings is included below taking into account the main topics of each theoretical study.
+3.1. Prevalence, sex, and age of the children involved in the phenomena
+3.1.1. Meta-analytic results
+Prevalence of bullying and cyberbullying was reported by Modecki et al. (2014) taking into account results from 80 studies. For bullying, mean prevalence rates for perpetration were of 35% (95% CI: .34–.35) and for victimization of 36% (95% CI: .36–.36). For cyberbullying, mean perpetration rate was of 16% (95% CI: .15–.16) and mean victimization rate was of 15% (95% CI: .15–.15). Higher rates were found when a clear definition was provided and terms “fun” or “tease” were included. Lower rates were found when behavioral examples (except for tradi- tional perpetration when behavioral examples were related to higher rates) or the term “bully” were included in the measure and in studies with imposed randomization.
+A meta-analysis of 109 studies conducted by Barlett and Coyne (2014) shows that cyberbullying perpetration was more common in boys than in girls, but the overall effect size was trivial (r = .04, 95% CI: .03–.04). The authors report significant moderating effect of age showing that more girls were involved in cyberbullying perpetration in younger samples and more boys were involved in older samples, al- though no cut-off point could be calculated due to the continuous
+I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21 3
+4 I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21
+Table 1
+Meta-analyses on bullying and cyberbullying.
+ Study
+Barlett and Coyne (2014)
+Cook et al. (2010)
+Databases and other sources
+PsycInfo, PubMed, ERIC, and Google Scholar and references of a recent meta-analysis.
+PsychInfo, ERIC, and Medline, references and previous review articles.
+N Main topics
+109 Sex differences in cyberbullying perpetration and possible
+moderators that would influence the effect.
+153 Individual and contextual predictors of bullying
+perpetration and victimization.
+Main findings and conclusions
+Boys perpetrated cyberbullying more than girls with significant but rather weak overall effect size (r = .04, 95% CI: .034–.042). Age moderated the effect size—more girls than boys were involved in cyberbullying in younger samples and the opposite was true for older participants. Countries and continents in which studies were conducted also moderated effect sizes finding that boys cyberbullied more in some countries or continents (e.g. the USA, Germany, or Turkey) or no sex difference (e.g. in Canada or Australia).
+The most important individual predictors of involvement in perpetration were externalizing behavior (e.g. undercontrolled aggressive response) (r = .34, 95% CI: .30–.38) and other-related cognitions (e. g perspective taking or normative beliefs about others) (r = −.34, 95% CI: –.26 to −.41); in victimization were social competence (r = −.30, 95% CI: –.22 to −.38) and internalizing problems (e.g. withdrawn or depressive response)
+(r = .25, 95% CI: .20–.28) and in being a bully/victim were self-related cognitions (e.g. self-respect or self-esteem) (r = −.40, 95% CI: –.29 to −.50) and social competence (r = −.36 95% CI: –.28 to −.45). Among the contextual predictors, the most important for perpetration were peer influence (r = −.34, 95% CI: –.26 to −.42) and community factors (r = −.22, 95%CI: −.14 to −.29); for victimization were peer status (r = −.35, 95% CI: –.28 to −.41) and school climate (r = −.16, 95% CI: –.10 to −.21) and for bully/victims were peer status (r = −.36, 95%
+CI: –.23 to −.49) and peer influence (r = −.44, no CI reported)
+Children who experience bullying are more likely to show psychotic symptoms later in life than their uninvolved peers (OR = 2.15, 95% CI: 1.14–4.04).
+Overall, programs are effective in reducing bullying perpetration (OR = 1.36, 95% CI: 1.26–1.47) and victimization (OR = 1.29, 95% CI: 1.18–1.42) with small but substantial effect sizes. The most important elements related to decrease in bullying were parent and teacher trainings, supervision in the playground, disciplinary methods, classroom management and rules, whole-school universal policy against bullying, conferences in school, cooperative group work and providing information to parents. Decrease in bullying was also related to the number of elements, duration and intensity of the programs. Results were better with older children. Work with peers was related to increased victimization.
+Verbal and sexually charged victimization was more frequent in GLB group when compared to the majority group (OR = 2.24, 95% CI: 1.63–3.08). The same was true for physical and sexual victimization (OR = 1.82, 95% CI: 1.29–2.58). Psychological outcomes such as suicide ideation or attempt, sexual and physical abuse, substance use and mental health issues; social outcomes such as perception of hostile school climate and lack of social support were more common in GLB compared to the heterosexual youth. Physical outcomes were the same for GLB and heterosexual participants.
+Programs produce positive results (adjusted r = .12, 95% CI: .08–.17) but the size of the effect is small with 1% impact for low-risk participants and 3.6% for high-risk participants. At-risk status moderates the effect. Longitudinal studies show that psychosomatic problems are more common among victimized students compared to non-victimized peers (OR = 2.39, 95% CI: 1.76–3.24). Cross-sectional studies show similar pattern (OR = 2.17, 95% CI: 1.91–2.46), although effect size decreased for studies with more females.
+Bullying (r = .25; 95% CI: .17–.32) and cyberbullying (r = .31; 95% CI: .27–.36) perpetration are related to moral disengagement.
+ Cunningham, Hoy, and Shannon (2015)
+Farrington & Ttofi, 2009;Ttofi and Farrington (2011)1
+Fedewa and Ahn (2011)
+Ferguson, Miguel, Kilburn, and Sanchez (2007)
+Gini and Pozzoli (2009)2
+Gini, Pozzoli, and Hymel, (2014)3
+PsychINFO, Web of Science, and PubMed
+Australian Criminology Database (CINCH), Australian Education Index, British Educa- tion Index, Cochrane Controlled Trials Register, C2-SPECTR, Criminal Justice Abstracts, Database of Abstracts of Reviews of Effectiveness (DARE), Dissertation Abstracts, Educational Resources Informa- tion Clearinghouse (ERIC), EMBASE, Google Scholar, Index to Theses Database, MEDLINE, National Criminal Justice, Reference Service (NCJRS), PsychInfo/Psychlit, Sociological Abstracts, Social Sciences Citation Index (SSCI), Web of Knowledge; names of the recognized researchers, 35 journals and meetings with colleagues
+PsychLit, PsycINFO, Dissertation Abstracts, MEDLINE, ERIC, Google Scholar, and literature reviews.
+PsycINFO and the references of the selected articles
+PsycINFO, PubMed, the Cochrane Library, the Campbell Collaboration, and Scopus together with “cited by” function in Scopus, review articles and references
+PsychInfo, Educational Research Information Center, Scopus, Google Scholar, review articles, references and direct contact with
+10 Bullying as a cause of psychotic symptoms analyzing research with prospective designs focusing on the most severe and enduring symptoms.
+89 Effectiveness of programs to reduce bullying including 53 evaluations (published in 89 reports) taking into account research designs and other characteristics of the evaluation (sample size, publication dates, participants ́ age, location and outcome measures), the most important elements of the programs.
+18 Frequency and the effect of victimization on sexual-minority group compared to the majority group paying attention to psychological, physical, and social outcomes.
+45 Effectiveness of anti-bullying programs considering also moderator analyses.
+30 Relationship between victimization and psychosomatic problems considering cross-sectional and longitudinal research.
+15 Relationship between bullying and cyberbullying perpetration with moral disengagement.
+ 
+Table 1 (continued) Study
+Gini, Pozzoli, Lenzi, and Vieno, (2014)
+Hawker and Boulton (2000)
+Holt et al. (2015)
+Kowalski et al. (2014)
+Databases and other sources N
+the authors.
+PsycINFO, PubMed, the Cochrane Library, the 20 Campbell Collaboration, and Scopus together
+with “cited by” function in Scopus, review articles, Headache journal and references of
+the located articles
+PsycLit, BIDS ISI Social Sciences Citation 23 Index, OCLC Firstsearch, reviews, reference
+lists, hand search of relevant journals and communication with relevant authors.
+PubMed, PsychInfo, Education Resources 47 Information Center, Cumulative Index to
+Nursing and Allied Health Literature, and ProQuest Dissertations and Theses, other systematic reviews and references.
+Academic Search Complete, Business Source 131 Complete, Communication & Mass Media Complete, Criminal Justice Abstracts,
+Education Research Complete, Family
+Studies Abstracts, HealthSource: Nursing/Academic Edition, Human Resources Abstracts, MEDLINE, PsycARTICLES, PsycINFO, SocINDEX, Social Sciences Full Text, ProQuest Dissertations and Theses Full-text, and Web of Science, reference lists of existing reviews, 16 specialized journals and contact with active researchers in the field.
+Medline, PsycInfo, PubMed, the Education 13 Resource Information Center, and the
+Cochrane Database
+Medline, PsychINFO, Eric and EMBASE. 70
+PsycINFO, Educational Resources 16 Information Center (ERIC) and references
+PsycInfo, ERIC,Web of Science, Google 19 Scholar and references of published review studies.
+Main topics
+Relationship between being bullied and headache considering cross-sectional and longitudinal studies.
+Relationship between peer victimization and psychosocial maladjustment focusing on depression, loneliness, generalized and social anxiety and general and social esteem.
+Relationship between involvement in bullying as perpetrators, victims or bully/victims and suicidal behavior and ideation.
+Critical review of research on cyberbullying together with a meta-analysis of relationships with face-to-face bullying and different psychological and behavioral variables considered as risk and protective factors or outcomes for perpetration and victimization.
+Effectiveness of anti-bullying interventions focusing on victimization as a primary outcome measure.
+Relationship between parenting styles and parent–child relationships with being a victim or a bully/victim of traditional and cyberbullying.
+Effectiveness of anti-bullying programs taking into account different outcome variables related to bullying.
+Relationship between personality variables and empathy with involvement in bullying behavior.
+Main findings and conclusions
+Being bullied is related to headache in longitudinal (OR = 2.10, 95% CI: 1.19–3.71) and cross-sectional (OR = 2.00, 95% CI: 1.70–2.35) research. For the latter, the magnitude of the effect size decreased for studies with more females.
+Victimization was significantly related to depression
+(r = .45 with shared method variance and r = .29 with no shared method variance), loneliness (r = .32 with shared method variance and r = .25 with no shared method variance), generalized and social anxiety (r = .25 with shared method variance and r = .19 with no shared method variance), general self-esteem (r = .39 with shared method variance and r = .21 with no shared method variance) and social-esteem (r = .35 with shared method variance and r = .23 with no shared method variance). No confidence intervals were reported. Significant relations were found between victimization and suicidal ideation (OR = 2.34; 95% CI: 2.03–2.69) and behavior (OR = 2.94; 95% CI: 2.36–3.67), perpetration and ideation (OR = 2.12; 95% CI: 1.67–2.69) and behavior (OR = 2.62; 95% CI: 1.51–4.55) and also being a bully/victim and ideation (OR = 3.81; 95% CI: 2.13–6.80) or behavior (OR = 4.02; 95% CI: 2.39–6.76).
+Besides cybervictimization (r = .51, 95% CI: .48–.55) and traditional bullying (r = .45, 95% CI: .41–.48), the most important risk factors for cyberbullying perpetration were normative beliefs about aggression (r = .37, 95% CI: .24–.48) and moral disengagement (r = .27, 95% CI: .20–.34). School safety (r = −.13, 95% CI: –.16 to –.10), empathy (r = −.12, 95% CI: –.14 to –.09) and school climate
+(r = −.12, 95% CI: –.14 to –.10) were the most important protective factors. Drug and alcohol use was the most important outcome (r = .27, 95% CI: .22–.31). For cybervictimization, besides traditional victimization
+(r = .40, 95% CI: .37–.42) and bullying (r = .25, 95% CI: .23–.28), anger (r = .20, 95% CI: .16–.23) and risky online behavior (r = .18, 95% CI: .14–.21) were the most important risk factors, school safety the most important protective factor (r = −.22, 95% CI: –.24 to –.19) and stress
+(r = .34, 95% CI: .29–.38) and suicidal ideation (r = .27, 95% CI: .24–.31) were the most important outcomes. Anti-bullying programs had significant but rather small effect on victimization (d = .15, 95% CI: .20–.10). Considering different program strategies, moderate overall effect size was achieved for training in emotional control (d = .46). The rest of the effect sizes were rather small.
+Victimization was related to less positive parenting
+(g = −.19; 95% CI: –.23 to −.15) being less likely to live with authoritative parents, with less communication, supervision, warmth and affection or parental support. Victimization was also related to more negative parenting (g = .26; 95% CI: .16–.37) with more abuse and neglect, maladaptive parenting and overprotection.
+Focusing on variables specifically regarding involvement in bullying reported through self-reports, small but meaningful changes were found in positive attitudes toward bullying (d = .15) victimization (d = .27), witnessing bullying (d = .35) and intervention to stop it (d = .17). Teacher reports showed small effects on witnessed students being bullied (d = −.16), staff response (d = .30) and attitudes about school safety
+(d = .16) and large effects for knowledge on bullying prevention (d = 1.52) and intervention skills (d = .99). Peer-reports showed small effect on participation in bullying roles (d = .32). No meaningful effect sizes (below .15) were found in the rest of the outcomes. No confidence intervals were reported. The authors conclude that the impact of the programs on actual bullying behavior is low.
+The strongest relationships were found between bullying perpetration and, agreeableness (r = −.24, 95% CI: −.31 to −.17), conscientiousness (r = −.15, 95% CI: −.23 to
+I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21 5
+  Lee, Kim, and Kim (2015)
+Lereya, Samara, and Wolke (2013)
+Merrell, Gueldner, Ross, and Isava (2008)
+Mitsopoulou and Giovazolias (2015)
+ (continued on next page)
+6
+I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21
+Table 1 (continued) Study
+Modecki, Minchin, Harbaugh, Guerra, and Runions (2014)
+Nakamoto and Schwartz (2009)
+Polanin et al. (2012)
+Reijntjes, Kamphuisb, Prinziea, and Telch (2010)
+Reijntjes et al. (2011)
+Tippett and Wolke (2014)
+Ttofi, Farrington, and Lösel (2012)
+Ttofi, Farrington, Lösel, and Loeber (2011a)
+Ttofi et al. (2011a)
+Databases and other sources N
+PSYCInfo, PubMed, Educational Resources 80 Information Centre, Proquest Dissertations
+and Theses, Scopus, Google Scholar and references.
+PsycINFO, PsychARTICLES, Educational 33 Resource Information Center, Google Scholar
+and references.
+Dissertation Abstracts International, 12 Education Resources Information Center
+(ERIC), PsycINFO, Medline, Science Direct
+and references.
+PsycLIT, PsycInfo, Web of Science, PubMed, 18 references and “cited by” option.
+PsycLIT, PsycInfo, Web of Science, PubMed, 14 dissertation abstracts, references and “cited
+by” option.
+Web of Knowledge, Scopus, PubMed, 28 PsycINFO, EMBASE and hand search of
+selected journals.
+Australian Criminology Database (CINCH), 28 Australian Education Index, British Education Index, Cochrane Controlled Trials Register, C2-SPECTR, Criminal Justice Abstracts, Data-
+base of Abstracts of Reviews of Effectiveness (DARE), Dissertation Abstracts, Educational Resources Information Clearinghouse (ERIC), Ethos-Beta,EMBASE, Google Scholar, Index to Theses Database, MEDLINE, National Criminal Justice Reference Service (NCJRS), PsychInfo/ Psychlit, Sociological Abstracts, Social Sciences Citation Index (SSCI), Web of Knowledge; names of the recognized researchers, 63 journals and contacts with colleagues4
+See Ttofi et al. (2012) 18
+See Ttofi et al. (2012) 28
+Main topics
+Prevalence of bullying and cyberbullying perpetration and victimization in different contexts taking into account also moderating variables. Correlation between bullying and cyberbullying.
+Relationship between peer victimization and academic achievement.
+Effectiveness of anti-bullying programs in relation to bystander intervention behavior.
+Internalizing problems in children predicted by peer victimization based on longitudinal prospective studies.
+Externalizing problems in children predicted by peer victimization based on longitudinal prospective studies. Relationship between involvement in bullying as perpetrators, victims or bully/victims and socioeconomic status.
+Perpetration and victimization as predictors of violence later in life reviewing longitudinal prospective studies on the topic.
+Bullying perpetration and victimization as predictors of drug use later in life reviewing prospective longitudinal studies.
+Bullying victimization as a predictor of depression later in life reviewing longitudinal studies on the topic.
+Main findings and conclusions
+−.07), and affective empathy (r = −.16, 95% CI: −.19–.12). For victimization, the strongest relationships were found with neuroticism (r = .24, 95% CI: .18–.29). Weighted mean prevalence rates for traditional perpetration was of 35% (95% CI: .34–.35), traditional victimization was of 36% (95% CI: .36–.36), cyber-perpetration was of 16% (95% CI: .15–.16) and cybervictimization was of 15% (95% CI: .15–.15). Higher prevalence rates are found when a clear definition of the phenomena is provided, behavioral examples are related to lower rates (except for traditional perpetration where they are higher). Including the word “bully” is related to lower rates, including words “tease” or “fun” relates to higher rates. Randomization is related to lower rates. Medium to strong correlations were found between cyberbullying and bullying perpetration (r = .47, 95% CI: .47–.47) and victimization (r = .40, 95% CI: .40–.41)
+There is a weak but significant negative relationship between peer victimization and academic achievement
+(r = −.12; 95% CI: –.15 to −.09). There is no difference between boys and girls and this relationship is mediated by methodologies of the studies (e.g. informants or indicators).
+Programs had positive small effect on bystander intervention (g = .20, 95% CI: .11–.29), greater in high school compared to primary schools, greater when facilitators were other than the teachers (researchers, counselors or software). The programs had very small effects on empathy (g = .05, 95% CI: .07–.17). Victimization significantly predicts internalizing problems over time (r = .18, 95% CI = .12–.24) and, on the other hand, internalizing problems significantly predict victimization over time (r = .08, 95% CI .01–.16), although the effect size was very small for the latter.
+Victimization significantly predicts externalizing problems over time (r = .14, 95% CI: .09–.19) and, on the other hand, externalizing problems significantly predict victimization over time (r = .13, 95% CI: .04–.21). Victimization was positively related to low socioeconomic status (OR = 1.52, 95% CI: 1.36–1.71) and negatively related to high socioeconomic status (OR = .73, 95% CI: .63–.86). Similar results were found for perpetration and socioeconomic status (low—OR =1.14, 95% CI: 1.02–1.27 and high—OR = .89, 95% CI: .83–.95). Being a bully-victim was only positively related to low socioeconomic status (OR = 1.71, 95% CI: 1.22–2.39). Some of these associations become much weaker when adjusted for publication bias.
+Perpetration was an important predictor of violence later in life (adjusted OR = 2.04; 95% CI: 1.69–2.45). The effect size was negatively related to the age of perpetration assessment, the age of outcome assessment and the length of follow-ups (the effects of perpetration seem to decrease with time but early exposure predicts higher risk). Victimization was also a predictor of later violence, although with smaller effect size (adjusted OR = 1.42; 95% CI: 1.25–1.62) and no moderators were significant.
+Bullying perpetrators are at higher risk for drug use (OR = 2.22, 95% CI: 1.60–3.07) although much variation is explained by other factors such as childhood individual, family and school risk (adjusted OR = 1.41, 95% CI 1.20–1.66). Victimization did not predict drug use later in life (adjusted OR = 1.02; 95% CI: .94–1.11).
+Victimization is a predictor of depression later in life (adjusted OR = 1.99; 95% CI: 1.71–2.32). This effect size was negatively related to the age of victimization assessment and negatively related to the length of the follow-ups and the age at outcome measures (the effects of
+   
+Table 1 (continued) Study
+Ttofi, Farrington, Lösel, and Loeber (2011b)
+van Dam et al. (2012)
+van Geel, Vedder, & Tanilon (2014a)
+van Geel, Vedder & Tanilon (2014b)
+van Geel, Vedder, & Tanilon (2014c)
+van Geel, Goemans, and Vedder
+(in press)
+Vitoroulis and Vaillancourt (2015)
+Yeager, Fong, Lee, and Espelage (in press)
+Databases and other sources N
+See Ttofi et al. (2012) 28
+PubMed, PsycINFO, EMBASE and references 14
+Psychinfo, ERIC, MEDLINE and references 16
+PsycINFO, ERIC, MEDLINE, LILACS, EMBASE, 25 Dissertation Abstracts International, other reviews and references.
+PsycINFO,Web of Science, OvidMEDLINE, 36 review articles and references.
+PsycINFO, MEDLINE, ERIC, Embase, LILACS, 21 recent review studies and references.
+PsycInfo, ERIC, ProQuest Dissertations & 105 Theses, PubMed, Medline, Google Scholar, conferences (i.e., Society of Research on Adolescence, International Society for Re-
+search on Aggression, Society for Research in Child Development), references and govern- ment reports.
+PsycINFO, ERIC, Proquest Dissertations and 19 Theses, Google Scholar, Social Science
+Citation Index, EBSCO, ASSIA, PubMed, Sociological Abstracts, GALE, Academic
+Search Complete, MedLine, Campbell Collaboration, Cochrane Collaboration, previous review studies, communication with experts and authors.
+Main topics
+Bullying perpetration as a predictor of offending later in life reviewing longitudinal studies on the topic.
+Relationship between victimization and psychotic symptoms in clinical and general population.
+Relationship between overweight and obesity with peer victimization
+Relationship between involvement in bullying as perpetrators, victims or bully/victims and weapon carrying.
+Relationship between peer victimization (from cyberbullying and bullying) and suicidal ideation or attempts.
+Relationship between peer victimization and sleeping problems.
+Ethnic group differences in peer victimization considering majority–minority comparison and also comparisons between specific groups.
+Effectiveness of anti-bullying programs in older adolescents considering developmental changes and reviewing studies that administered programs to different age groups and measured level of the phenomenon and performing a hierarchical meta-analysis.
+Main findings and conclusions
+victimization seem to decrease with time but early exposure predicts higher risk). The effect size was still strong after controlling for other risk factors.
+Bullying perpetration predicts offending later in life (adjusted OR = 2.50; 95% CI: 2.03–3.08. This effect size was positively related to the age of bullying evaluation and negatively related to the length of the follow-ups and the outcome measures (stronger effect of perpetration in the short term). The effect size was still strong after controlling for other risk factors. Victimization is related to the development of psychotic symptoms in general population (adjusted OR = 2.3 95% CI: 1.5–3.4). This relationship seems to be stronger with increased duration, frequency and severity. Results of clinical samples are mixed and data not appropriate for a meta-analysis.
+Peer- victimization is more common among youth with overweight (OR = 1.19; 95% CI: 1.10–1.29)and obesity (OR = 1.51; 95% CI: 1.34–1.72) problems in comparison to their normal-weight peers.
+Victimization is related to weapon carrying (adjusted OR = 1.95; 95% CI: 1.60–2.36) with no significant moderators. Perpetration is also related to weapon carrying (adjusted OR = 2.30; 95% CI: 1.90–2.77) with stronger effect size in studies with higher response rate (above 75%) and no other significant moderators. No differences were found between the U.S. studies and research from other countries for victims and perpetrators. Very strong relations were found between being a bully/victim and weapon carrying (OR = 4.95; 95% CI: 3.77–6.50) stronger for the studies conducted in the U.S. in comparison to other countries.
+Peer victimization was related to suicidal ideation (adjusted OR = 2.18, 95% CI: 2.05–2.32) with stronger effect for cyberbullying (OR =3.12, 95% CI: 2.40–4.05) than for traditional bullying (OR = 2.16, 95% CI: 2.05–2.28) with no other significant moderators. Peer victimization was also related to suicidal attempts (OR = 2.55; 95% CI: 1.95–3.34) with no significant moderators and no separate analysis for traditional vs. cyberbullying due to the low number of studies. Sleeping problems are more common among peer victimized children if compared to non-victimized peers (OR = 2.21; 95% CI: 2.01–2.44). This relationship is stronger in younger children.
+There was no difference in peer victimization suffered by majority and minority groups taking into account all the studies (d = .01, 95% CI: –.09 to.10) and majority suffered more victimization in the US in comparison to the minorities (d = .23; 95% CI: .22–.44) and minorities suffered more victimization if compared to the majority in the UK (d = .16; 95% CI: .02–.35). Very small overall effect sizes (d b .1) were found in comparison between specific groups although some of them were stronger for some age groups or measures.
+Anti-bullying programs in older adolescents are less effective than in younger participants (correlation between effect size and age: simple—r = −.20 and within-study—r = −.43). A three-level meta-analysis with within-study analysis shows that there is a non-linear discontinuity in relation to age. The effect in grades 1–7 was small (d = .13, no CI reported) and in grades 8+ the programs were ineffective (d = .01, no CI reported) with a significant decline in grades 7th to 12th (b = −.06, Z = 2.40, p = .016). Thus, programs ́ effectiveness show slight increase between 1st and 7th grade and then decline from 7th to 12th grade so that after the 10th grade the effects might possibly even become iatrogenic (not significant on average but significant in some studies).
+I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21 7
+   1Since the report is an extended version of the study, information was extracted from both documents.2 Since the latest version Gini and Pozzoli (2013) includes all the studies from the previous version Gini and Pozzoli (2009) and newer, information in the table is extracted from the former.3 Only articles on bullying and cyberbullying were included in our study. 4Database list was extracted from the report published by Farrington et al. (2012) cited in the method section of the article for details on searches. N = number of papers included in the systematic review (not necessarily in the meta-analysis). Overall effect sizes and confidence intervals for the main variables are reported in the table when available. When adjusted and unadjusted effect sizes were reported, adjusted effect sizes are included in the table.
+8 I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21
+Table 2
+Non-meta-analytic systematic reviews included in the study.
+ Study
+Albdour and Krouse (2014)
+Antoniadou and Kokkinos (2015)
+Baldry and Farrington (2007)
+Berne et al. (2013)
+Bottino, Bottino, Regina, Correia, and Ribeiro (2015)
+Cantone et al. (2015)
+Chalamandaris and Piette (2015)
+Collier, van Beusekom, Bos, and Sandfort (2013)
+Evans et al. (2014)
+Goodman, Medaris, Verity, and Hott (2013)
+Hamm et al. (2015)
+Databases and other sources
+CINAHL, Pubmed, and Psyc-INFO
+Cambridge Journals, Greek National Archive of PhD Theses, HEAL-Link Library, ERIC, Informaworld, Ingenta Connect, Oxford ProQuest Research Library, Reference Online, PsycInfo, Sage, Scirus, Science Direct, Scopus, Wiley Online Library, Wilson Education and Wilson Social Sciences and a “a general Internet search”
+Review studies, PsychInfo, “major journals” in the field and contacting leading researchers
+EbscoHost, ScienceDirect, OVID, InformaWorld and contacting members of a European COST action
+PubMed and Virtual Health Library (BVS) including Latin American and Caribbean Centre on Health Sciences Information (LILACS), Spanish Biblio- graphic Index of Health Sciences (SBIHS), MEDLINE, The Cochrane Library and SciELO.
+PubMed/Medline, Ebsco and consulting “experts in the field”
+MEDLINE, PSYCINFO, ERIC, and previous reviews.
+ERIC, PubMed, Web of Science, PsycINFO, “own files” and references.
+Campbell Collaboration, Cochran Library, Dissertation Abstracts, ERIC, Google Scholar, Index to Thesis Database, PsycInfo, PubMed, Social Sciences Citation Index, Social Services Abstracts, Sociological Abstracts, and Social Work Abstracts and experts for the “grey literature”
+ProQuest Education Journals and Academic Search Complete and the references of the selected articles
+Academic Search Complete, EBSCOhost, ERIC, Medline/PubMed, PsycINFO, CINAHL, Dissertations & Theses Database (Proquest), key journals, internet search engines and references of the selected articles
+N Main topics
+23 Bullying and victimization among African American adolescents focusing on its prevalence, risk and protective factors and its relationship with psy- chological health.
+15 Research on cyberbullying in Greece taking into account the organisms in- volved in safe use of the new technology, published research and scientific meeting presentations.
+16 Effectiveness of programs to prevent bullying including description of core elements and effect sizes of main anti-bullying programs in 11 different countries.
+61 Cyberbullying evaluation instruments considering its reliability, validity, conceptual and definitional basis.
+10 Prevalence of cyberbullying, its relationship to other variables and adolescent mental health.
+17 Effectiveness of Randomized Control Trials conducted between 2000 and 2013 in schools against bullying and cyberbullying. Studies were analyzed taking into account types of intervention—universal or focused on specific students.
+62 Research methodologies utilized in anti-bullying interventions considering different variables related to population and intervention characteristics, design, outcomes and measures, data collection and analyses.
+39 Peer victimization in adolescents related to sexual orientation and gender identity/expression focusing on health outcomes.
+32 Effectiveness of bullying prevention programs conducted between 2009 and 2013 focusing on perpetration and victimization.
+10 Effectiveness of anti-bullying interventions in elementary and middle schools describing their main components and findings.
+13 Bullying and cyberbullying in deaf and hearing impaired students, describing topics, the main characteristics of the participants, age, methods and key findings.
+Main findings and conclusions
+Prevalence of bullying and victimization in African American adolescents is higher in com- parison to other students. Risk and protective fac- tors are mainly related to other kinds of violence, family structure, substance use, self-efficacy and beliefs on aggression. Involvement in bullying is related to health issues such as depression and physical health.
+Cyberbullying is an existing phenomenon in Greece, although research on the topic is still in its early stage of development. Most of the studies are descriptive, not specifically focused on the phenomenon and/or have small samples. Most of the data were collected by European and national institutions and not all the research has been published in scientific journals. More studies are needed.
+About half of the programs produce desirable results. Information on the effectiveness of different components is rarely available and, in general, the authors recommend improving designs and methodology used to clarify the effectiveness of the programs.
+The concept of cyberbullying is not used in about half of the instruments and is operationalized differently throughout the instruments (e.g. including or not components such as intentionality, imbalance of power, repetition, etc.). Devices and media also vary among studies. Less than 30% of the studies performed factor analyses. Almost all the instruments are self-reports. Reliability and validity of the instruments are not fully reported.
+Prevalence rates and related variables differed among studies ranging from 6.5% to 72%. Involvement in cyberbullying was related to the involvement in traditional bullying. Cyberbullying was also related to emotional and psychosomatic difficulties.
+Whole-school interventions seem to be the most effective. In general, most of the programs are effective in the short term but their long-term effects are still unclear mostly because the reported follow-up periods seem to be short.
+There is a great variability in research methodologies utilized in anti-bullying interventions.
+Peer victimization related to sexual orientation and gender identity/expression is related to negative outcomes such as lower sense of belonging to school, depressive symptoms and to suicidality according to some studies (mixed results in case of the latter) with some studies reporting also alcohol and substance use.
+About half of the studies report significant decrease in perpetration and almost 70% report significant decrease in victimization. There are differences in a way that the involvement is measured with studies utilizing multi-item and single-item instruments. It is recommended to improve measurement.
+In most of the cases (7 out of 8), intervention programs are useful to decrease bullying behaviors. Main components and findings are described separately for each program.
+The number and the quality of the studies on the topic are low. It seems that prevalence of bullying in deaf and hard of hearing students is higher than in the hearing children but more studies are needed to confirm it.
+  
+Table 2 (continued) Study
+Hamm et al. (2015)
+Harcourt, Jasperse, and Green (2014)
+Hong and Espelage (2012)
+Hong, Lee, Lee, Lee, and Garbarino (2014)
+Kim and Leventhal (2008)
+Klomek, Sourander, and Gould (2010)
+Machado Azeredo, Madalena Rinaldi, Leite de Moraes, Bertazzi Levy, and Rossi Menezes (2015)
+O'Brien (2009)
+Patton, Hong, Patel, and Kral (in press)
+Perren et al. (2012)
+Databases and other sources N
+MEDLINE, CENTRAL, ERIC, PubMed, CINAHL, 34 Academic Search Complete, Alt HealthWatch,
+Health Source, Communication & Mass Media Complete, Web of Knowledge, and ProQuest Dissertation & Theses Database, key organizations, journals, proceedings and references.
+PsycINFO, Education Resources Information Center, 13 ProQuest, A+ Education, and Academic Search
+Premier, reference lists and specific journals.
+MEDLINE, PSYCINFO (Psychological Abstracts), 20 Google Scholar, review of literature reviews and dissertations.
+RISS for Higher Education (Korean), Google Scholar, 43 Medline, ProQuest, PubMed, and PsycINFO
+(English)
+Web of Science, SCOPUS, EMBASE, PubMed, 37 Psychlnfo, and Ovid Medline
+PsycNet, Medline and references of “relevant 31 articles”
+Medline (through PubMed), PsycInfo, Web of 31 Knowledge, and SciELO Library
+British Education Index, Web of Science, Google, 5 Google scholar, key journals and professionals
+Google Scholar, ProQuest, ERIC, and PsycInfo. 24
+Relevant databases (PsychInfo, Pubmed, ERIC, 36 SOCindex, Web of Science, etc) and EU Kids Online
+II study
+Main topics
+Prevalence of cyberbullying and relationship between the phenomenon and other variables.
+Parents ́ perspective on bullying focusing on their definition, blaming the victim and perceiving it as a normal behavior, the way of coping and responsibility for dealing with bullying, negative consequences, disclosure, awareness and support.
+Mixed method research on bullying perpetration and victimization utilizing qualitative and quantitative methodologies. The review focuses on the new insights gained from this type of studies, complimentary and divergent findings between the two. Studies conducted on bullying in Korea on participants who reside in the country analyzing the findings in terms of microsystem, mesosystem and macrosystem.
+Relationship between involvement in bullying and suicide analyzing general and special populations of adolescents.
+Relationship between bullying and suicide in cross-sectional and longitudinal studies taking into account ideation and attempt.
+Contextual risk factors for bullying throughout observational studies.
+Definitions of bullying employed by secondary students and teachers in the UK.
+Qualitative studies on bullying considering the main focus of this kind of studies.
+Successful responses in tackling cyberbullying such as reducing risks, combatting the problem and buffering its effects by students, parents and teachers.
+Main findings and conclusions
+I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21
+9
+  The median prevalence of cyber-victimization was of 23% and of perpetration of 15.2%. Common forms of cyberbullying were insults/name-calling, rumors or circulating pictures. Most of the studies show that it occurs in similar age groups and increases with age being girls more victimized and with more perpetrators among boys. Results on the relationship with anxiety were inconsistent and the relationship with depression seems to be more evident.
+Parents demand more information on the phenomenon. Their definitions are diverse with difficulties with distinguishing bullying from other behavior and normalizing it. The principal coping strategy is to help dealing with stress, some indirect and specific strategies and involving the school. Parents often felt negative emotions related to bullying and frequently were not fully aware of the situation. They perceive that school response should be improved.
+Mixed methodology might provide new insights since some phenomena are difficult to describe only with qualitative or quantitative studies. Findings might be complimentary strengthening the results validity. Divergent results might lead to re-conceptualizations.
+Studies on bullying in Korea are related to microsystem components such as family, peers and school; mesosystem such as relationship between school and families (still understudied) and macrosystem concerning religion and policies.
+Most of the studies show increased suicidal ideation in victims, perpetrators and bully/victims from general population. Similar situation was found in victims from special education, although perpetrators from the group of juvenile offenders showed decreased risk. Increased risk of attempts were found in victims and bullies from general and special populations.
+Most of the cross-sectional studies show increased risk of suicidal ideation and attempt in bullies and victims. Most of the studies report stronger relation in females than males. Longitudinal studies are scarce, but also suggest increased risk for children involved in bullying with some particular issues related to sex. Contextual risk factors for bullying in school and classroom seem to be related to inequalities in income, poverty, lack of anti-bullying norms, deficient classroom management and teacher support. Results related to school and classroom size or location differed among studies. Inequalities in income and violence in the city or country were also related to bullying.
+Teachers employ broader definitions of bullying in comparison to students. Definitions included themes such as direct bullying, social exclusion, power imbalance, repetition, intending harm, how bullying affects the victim, sexualized bullying, focus on difference and coercion. Qualitative studies focus mostly on elaborating and explicating the experiences of children involved in bullying in their own words. Naturalistic inquiries in which researchers investigate themes when they emerge are common.
+Peer intervention and parental supervision and behavior seem to be useful in preventing cyberbullying. For combating the problem and buffering its effects, victims report confronting the perpetrators, technical solutions such as blocking are used together with seeking support from friends and ignoring the problem. Students are rather skeptical when seeking support from parents or teachers. Most of the studies focus on use of strategies and not on their success.
+ (continued on next page)
+10
+I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21
+Table 2 (continued) Study
+Rose, Monda-Amaya, and Espelage (2011)
+Ryan and Smith (2009)
+Shireen, Janapana, Rehmatullah, Temuri, and Azim (2014)
+Smith, Schneider, Smith, and Ananiadou (2004)
+Sommer, Leuschner, and Scheithauer (2014)
+Tokunaga (2010)
+Databases and other sources
+EBSCO and “additional databases”
+Medline, PsycInfo, and ERIC
+PubMed, PsychInfo, Medline and Google Scholar
+PsychInfo, ERIC and Dissertation Abstracts, contacting researchers and references.
+PsychNET, PsychINFO, Pubmed, Scopus, Google Scholar, ScienceDirect, contacting experts and reference.
+EbscoHost, Lexis Nexis, JSTOR, and World-Cat. In EbscoHost, Academic Search Premier, Business Source Premier, Computer Source, Communication and Mass Media Premier, ERIC, Psychology and Behavioral Sciences Collection, PsychInfo were searched together with the references.
+Psychinfo, Scopus, PubMed and references
+Australian Criminology Database (CINCH), Australian Education Index, British Education Index, Cochrane Controlled Trials Register, C2- -SPECTR, Criminal Justice Abstracts, Database of Abstracts of Reviews of Effectiveness (DARE), Dis- sertation Abstracts, Educational Resources Infor- mation Clearinghouse (ERIC), Ethos-Beta,EMBASE, Google Scholar, Index to Theses Database, MEDLINE, National Criminal Justice Reference Ser- vice (NCJRS), PsychInfo/Psychlit, Sociological Abstracts, Social Sciences Citation Index (SSCI), Web of Knowledge; names of the recognized researchers, 63 journals and contacts with colleagues1
+PsychInfo, Web of Science, Scopus, references and existing reviews.
+N Main topics
+32 Bullying perpetration and victimization in special education taking into account school characteristics, type of disability and personal attributes.
+31 Evaluation practices utilized in anti-bullying programs focusing on the application of the assessment standards.
+28 Relationship between involvement in bullying and suicidal ideation and attempt.
+14 Effectiveness of anti-bullying programs focusing on components such as school, classroom, parents, peers and individuals, analyzing effects separately for each study (no overall) considering perpetration and victimization.
+35 Relationship between involvement in bullying as perpetrators of victims and school shooting.
+25 Research on cyberbullying victimization taking into account its prevalence, the role of age and gender, disturbances related to the phenomenon and coping strategies.
+7 Relationship between bullying victimization and alcohol misuse in adolescents.
+8 Factors that interrupt the continuity from bullying to internalizing and externalizing problems later in life reviewing prospective longitudinal studies.
+40 Relationship between involvement in bullying as perpetrators, victims, defenders and bystanders with cognitive and affective empathy.
+Main findings and conclusions
+In inclusive settings, victimization rates of students with and without disabilities are usually similar but they seem to be higher for students with disabilities in segregated settings. Teachers and students perceptions of perpetration vary among studies. Higher rates are observed in students with more severe disabilities. Victimization is related to character traits and ability to interpret social cues.
+Program evaluations are deficient. Program monitoring related to verification of the implementations (e.g. adherence, quality of delivery or dosage) was absent in more than one third of the evaluations and the rest of the studies used on average only 1 method. None of the randomized controlled trials meet all the assumptions to be classified as such. Inclusion of qualitative methods is uncommon and the post-tests/follow-ups are short. Most studies use two or more evaluation methods but more than a half use only one informant. Effect sizes are rarely reported and hierarchical modeling is infrequent. Involvement in bullying is related to suicidal ideation and attempt. The risk seems to be higher in girls in comparison to boys.
+The vast majority of effects are small, negligible and negative. Formal monitoring led to more positive outcomes for victimization.
+Evidence of physical victimization in shooters was found in 29.9% of the cases and in 31.2% it was explicitly excluded. Peer rejection was more frequent (53.7%) and explicitly excluded in 14.9%. In 13.4% of the cases, shooters were found to be perpetrators.
+Victimization rates vary among studies and are usually reported between 20% and 40%. It might occur in all age groups and findings on the relationship with age are inconsistent, although it seems to be curvilinear with the highest prevalence between 7th and 8th grades. Studies are also inconsistent in relation to gender with the majority of studies showing no sex differences. Negative consequences depend on severity, frequency and duration with most of the studies finding negative consequences on academic performance and psychosocial problems. Technical coping is common and passive strategies or reporting to adults are uncommon.
+Most of the studies (5 out of 7) found positive relationship between victimization and alcohol misuse.
+Review of the studies suggest that resilience after being involved in bullying as perpetrators or victims is related to high school achievement and social skills. Also strong family attachment and stable structure, together with social support and prosocial friends protect from developing problems later in life.
+Perpetration seems to be negatively related to cognitive and affective empathy, victimization to cognitive empathy only. Defending seems to be positively related to both cognitive and affective empathy whereas bystanding yields mixed results.
+  Topper & Conrod (in press)
+Ttofi, Bowes, Farrington, and Lösel (2014)
+van Noorden, Haselager, Cillessen, and Bukowski (2015)
+ 
+Table 2 (continued) Study
+Vessey, Strout, DiFazio, and Walker (2014)
+Databases and other sources N
+EBSCO search querying CINAHL, MEDLINE, ERIC and 31 PsychINFO. References, Google, Google Scholar and
+the Compendium of Assessment Tools on the US Department of Health and Human Services website.
+PsychInfo, PsychArticles, MedLine, ERIC, the 41 Psychology and Behavioral Sciences Collection, the Professional Development Collection, SocIndex
+with Full Text, Expanded Academic Index ASAP,
+Science Direct and a previous review.
+MEDLINE, PsycINFO, EMBASE, Educational 26 Resources Information Center, the Physical
+Education Index, Sociology: A SAGE Full-Text Collection, Cochrane Clinical Trials Registry and references.
+Main topics
+Psychometric properties of self-report instruments to assess bullying reviewing papers which primary objective was to evaluate the psychometric properties of the instrument.
+Bullying and cyberbullying measurement strategies reviewing and analyzing their content.
+Effectiveness of anti-bullying interventions taking into account categories such as curriculum, multidisciplinary/whole-school, social skills, mentoring and social worker support.
+Main findings and conclusions
+Vivolo-Kantor et al. (2014)
+Vreeman and Carroll (2007)
+Among the included instruments, 26% present test-retest reliability findings, 90% reported internal consistency reliability measures (with few studies reporting Cronbach's alphas below .70), 26% included item-total correlations. Content validity related to the item development procedure was reported in 48% of the studies, although without describing detailed procedure. Information related to floor-ceiling effect is almost completely absent. Factorial validity was reported in 65% of the studies. Construct validity (e.g. convergent, divergent) was present in 100% of the reports. Predictive validity measures are very scarce. Measurement invariance among groups was evaluated in 29%, 35% informed on the administration length and none reported the time needed for scoring.
+Measurement strategies are inconsistent among studies. Self-reports are the most common instruments. Measured use varying terminology and most of them include physical and verbal bullying. About one fourth include definition of bullying and about one third include the word “bullying”. It is uncommon to include aspect such as repetition, power imbalance, aggression and intentional harm. All reported validity and reliability but with different statistics.
+Curriculum based programs reduced bullying in 4 out of 10 studies; whole-school multidisciplinary intervention reduced bullying in 7 out of 10 programs. No bullying reduction was found in 3 out of 4 social skills interventions. The mentoring study (1 out of 1) and social worker support (1 out of 1) yielded desirable results. There was a great variability among the programs within the categories in duration, implementation strategies, etc.
+I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21
+11
+   1Database list was extracted from the report published by Farrington et al. (2012) cited in the method section of the article for details on searches.
+data. Also, countries and continents were found to be significant moder- ators, namely, boys cyberbullied more in some geographic zones and there were no sex differences in other zones. All the effect sizes were below .01 except for Germany (r = .18, 95% CI: .15–.21).
+A broad meta-analysis on individual and contextual predictors of bullying including 153 studies conducted by Cook et al. (2010) found that more boys were involved in perpetration (r = .18, 95% CI: .15–.23), victimization (r = .06, 95% CI: .05–.10), or bully/victim status (r = .10, 95% CI: .04–.12) with small effect sizes. Relationships between age and perpetration were weak (r = .09, 95% CI: .05–.12) and absent for victimization (r = −.01, 95% CI: .05–.07) and bully/victim status (r = .01, 95% CI: .01–.04).
+Another broad meta-analysis conducted by Kowalski et al. (2014) who synthesized 131 studies on risk and protective factors and out- comes of cyberbullying included age, among other variables, in relation to perpetration and victimization. The results show weak observed cor- relation corrected for sample error for cyberbullying perpetration and age (r = .05, 95% CI: .03–.08), and non-significant relationship with vic- timization (r = .01 95% CI: −.01 to .04).
+Mitsopoulou and Giovazolias (2015) also performed a meta- analysis on gender and age in relation to bullying. The study included 19 articles located by searches and inclusion/exclusion criteria focused on the relationship between personality variables and empathy with bullying. Results are presented as a forest plot with Hedge's g for 11 studies on victimization and/or perpetration but no overall effect size was calculated. More boys and girls were involved according to the results of 10 out of 11 studies. The results section also report that that younger children engage in more bullying behavior (B = −.0169, p b .001, SE = .001) providing no further details.
+3.1.2. Additional information from non-meta-analytic systematic reviews
+A few systematic reviews focused on specific geographic zones such as Greece (Antoniadou & Kokkinos, 2015) or South Korea (Hong et al., 2014). The former concludes that cyberbullying is an existing but understudied phenomenon in Greece where research is mostly unspe- cific, descriptive, or with small samples. The latter is based on a holistic ecological framework showing that mesosystem variables are still understudied. Both articles include only narrative results and do not cal- culate common metrics.
+Prevalence was also reported in non-meta-analytic systematic re- views. Among them, Tokunaga (2010) found that the most frequent cybervictimization rates were between 20% and 40%, although rates as low as 6.5% and as high as 72% were also reported. The author attributed the variability mostly to differences in defining the phenomenon. Bottino et al. (2015) found very similar prevalence rates for cyberbullying ranging from 6.5% to 72%. Hamm et al. (2015) reported cyberbullying perpetration and victimization median rates of 15.2% and 23%, respectively.
+Qualitative results reported by Hamm et al. (2015) show that 6 studies found that cyberbullying increased with age and 4 studies found no effect of age on this behavior. Rates of cybervictimization are found to be higher in girls (according to 7 studies vs. 2 studies with no sex-differences), whereas higher rates of cyber-perpetration were found in boys (3 studies vs. 0). Tokunaga (2010) includes a nar- rative description of contradictory findings across the reviewed studies and suggests a curvilinear relationship of cybervictimization prevalence with age with the highest rates between 7th and 8th grades. The majority of studies reviewed by this author found no dif- ferences in cybervictimization rates between girls and boys.
+12 I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21
+3.2. Relationship between bullying and cyberbullying: Meta-analytic results
+Modecki et al. (2014) found large samplesize weighted mean rela- tionships between bullying and cyberbullying perpetration (r = .47, 95% CI: .47–.47) and victimization (r = .40, 95% CI: .40–.41) in a meta-analysis including 80 studies. Correlations were stronger for rela- tional perpetration, evaluations of perpetration that did not focus on school-centered traditional bullying and that did not impose randomi- zation. For victimization, stronger correlation was found for traditional measures of relational victimization than other types of victimization.
+Kowalski et al. (2014) included 131 studies and found that after cybervictimization, traditional bullying perpetration was the most im- portant risk factor for cyberbullying perpetration (r = .45, 95% CI: .41–.48) and, at the same time, traditional victimization was the stron- gest risk factor for cybervictimization (r = .40, 95% CI: .37–.42). Corre- lation between cybervictimization and traditional victimization was lower for middle school and high school if compared to participants from middle and high schools included in the same sample. North American samples showed bigger effect sizes for the relationships of cybervictimization with bullying perpetration and victimization and cyberbullying with traditional bullying when compared to other geo- graphical zones. When the definition of bullying or the word “bully” was included in the assessment, correlations between cyberbullying and traditional victimization were smaller.
+3.3. Minorities' involvement in bullying
+3.3.1. Meta-analytic results
+A meta-analysis conducted by Fedewa and Ahn (2011) included 18 studies on victimization in sexual-minority groups. It was found that sexually charged victimization was more frequent in sexual minority group when compared to the majority group (OR = 2.24, 95% CI = 1.63–3.08) with medium effect size. Also physical and sexual victimiza- tion was higher in sexual minorities but with a smaller effect size (OR = 1.82, 95% CI = 1.29–2.58). Outcomes of victimization were also experienced more among sexual minorities with the largest effects for physical and sexual abuse (OR = 3.47, 95% CI = 2.26–5.34), suicide attempt (OR = 2.41, 95% CI: 1.84–3.15), and ideation (OR = 2.17, 95% CI: 1.76–2.66).
+Van Geel et al. (2014a) synthesized findings from 16 studies on the relationship between overweight and obesity with peer victimization. Peer victimization was more common among overweight youth (OR = 1.19, 95% CI: 1.10–2.22) and youth with obesity (OR = 1.51, 95% CI: 1.34–1.72) compared to the normal-weight peers with small ef- fect sizes. Results were not moderated by gender.
+Ethnic differences in peer victimization were studied by Vitoroulis and Vaillancourt (2015) synthesizing the results of 105 studies. Overall effect size showed no difference in peer victimization suffered by major- ity and minority groups (d = .01, 95% CI: −.09 to .10). Moderator analyses showed that majority suffered more victimization in the US in comparison to minorities (d = .23, 95% CI: .22–.44) and minority suf- fered more victimization in the UK when compared to the minority (d = .16; 95% CI: .02–.35) with rather small effect sizes. Dyadic compar- isons of different ethnic groups show small effect sizes (d b .1).
+3.3.2. Additional information from non-meta-analytic systematic reviews
+Hamm et al. (2015) reviewed 7 studies on minorities' involvement in cyberbullying with inconclusive results with some studies reporting only rates for ethnic minorities, some finding more cyberbullying among ethnic minorities, others among majorities, and 3 finding no eth- nic differences. These results are narrative.
+A non-meta-analytic systematic review on bullying among African Americans found that, according to the majority of the studies, its prevalence was higher in comparison to other students (Albdour & Krouse, 2014). Narrative results of higher prevalence of involvement in different roles, namely bullies, victims, or bully/victims are
+inconsistent throughout the literature. The authors narratively describe some risk and protective factors found among the reviewed studies such as other kinds of violence, family structure, substance use, self- efficacy, and beliefs on aggression. They also describe outcomes such as depression and physical health issues.
+Narrative results of another non-meta-analytic systematic review led to the conclusion that peer victimization related to sexual orienta- tion or gender identity/expression (Collier et al., 2013) is related to lower sense of belonging to school, higher depressive symptoms, dis- ruptions in educational trajectories, traumatic stress, and alcohol and substance use. Results on suicidality were inconclusive. Another sys- tematic review with narrative results examined bullying and cyberbullying in deaf and hearing-impaired students (Hadjikakou & Papas, 2012), suggesting higher prevalence in comparison to the hear- ing peers. Nevertheless, results show that most of these studies are qualitative or with small samples and, therefore, did not allow firm con- clusions. Rose et al. (2011) found that the majority of studies on bully- ing victimization among children with disabilities found higher rates in comparison to the nondisabled students. Research in inclusive settings found similar rates between students with and without disabilities.
+3.4. Risk and protective factors
+3.4.1. Meta-analytic results
+Table 3 shows risk and protective factors for bullying and cyberbullying with small, medium, and large effect sizes.
+The meta-analysis conducted by Cook et al. (2010) including 153 studies divided predictors of bullying into individual and contextual factors. The authors found that, besides gender and age (included in a different section), individual predictors of perpetration were (ordered by the effect sizes) externalizing behavior (r = .34, 95% CI: .30–.38) and other-related cognitions (e.g. perspective taking or normative beliefs about others) (r = −.34, 95% CI: −.26 to −.41), academic per- formance (r = −.21, 95% CI: −.17 to −.25), social problem solving (r = −.17, 95% CI: −.11 to −.22), internalizing behavior (r = .12, 95% CI: .06–.17), and social competence (r = −.12, 95% CI: −.05 to −.19), and self-related cognitions (r = − 07, 95% CI: −.02 to −.14). Individual predictors of victimization were social competence (r = −.30, 95% CI: −.22 to −.38), internalizing problems (r = .25, 95% CI: .20–.28), self- related cognitions (r = −.16, 95% CI: −.10 to −.21), social problem solving (r = −.13, 95% CI: −.06 to −.18), externalizing behavior (r = .12, 95% CI: .10–.16), and academic performance (r = −.04, 95% CI: −.01 to −.08). Bully/victim status was predicted by individual fac- tors such as self-related cognitions (e.g. self-respect or self-esteem) (r = −.40, 95% CI: −.29 to −.50), social-competence (r = −.36, 95% CI: −.28 to −.45), externalizing behavior (r = .33, 95% CI: .18–.48), and academic performance (r = −.32, no CI reported), internalizing be- havior (r = .22, 95% CI: .12–.33), other related cognitions (r = −.20, no CI reported) and social problem solving (r = −.18, 95% CI: −.06 to −.30). Contextual predictors for perpetration were peer influence (r = −.34, 95% CI: −.26 to −.42), community factors (r = −.22, 95% CI: −.14 to −.29), school climate (r = −.18, 95% CI: −.12 to −.23), family/home environment (r = −.17, 95% CI: −.13 to −.20), and peer status (r = −.10, 95% CI: −.06 to −.14). Contextual predictors of victimization were peer status (r = −.35, 95% CI: −.28 to −.41), school climate (r = −.16, 95% CI: −.10 to −.21), community factors (r = −.15, 95% CI: −.08 to −.22), and family/home environment (r − .10, 95% CI: −.07 to −.13). For bully/victims, contextual predictors were peer influ- ence (r = −.44, no CI reported), peer status (r = −.36, 95% CI: −.23 to −.49), school climate (r = −.32, 95% CI: −.26 to −.38), and family/ home environment (r = −.20, 95% CI: −.11 to −.29).
+Some meta-analyses were also conducted on specific risk or protective factors. Gini Pozzoli, and Hymel, (2014) included 15 studies finding that moral disengagement was related to perpetration of bullying (r = .25, 95% CI = .17–.32) and cyberbullying (r = .31, 95% CI = .27–.36) both with medium effect sizes. Mitsopoulou and
+Table 3
+Risk and protective factors in relation to bullying and cyberbullying. Small effect sizes (r = .10–.24,
+OR = 1.50–2.49, d or g = .20–.49)
+Bullying perpetration
+Cook et al. (2010):
+- Academic performance (−),
+- Social problem solving (−),
+- Internalizing behavior (+),
+- Social competence (−),
+- Family/home environment (−),
+- School climate (−),
+- Community factors (−)
+- Peer status (−)
+Mitsopoulou and Giovazolias (2015):
+- Openness (−),
+- Neuroticism(+),
+- Agreeableness (−)
+- Affective empathy (−)
+Bullying victimization
+Cook et al. (2010):
+- Externalizing behavior (+),
+- Self-related cognitions (−),
+- Social problem solving (−),
+- Family/home environment (−),
+- School climate (−),
+- Community factors (−)
+Mitsopoulou and Giovazolias (2015):
+- Neuroticism (+)
+Tippett and Wolke (2014):
+- Low socioeconomic status (+)
+- High socioeconomic status (−) Reijntjes et al. (2011)
+- Externalizing problems (+)
+Lereya et al. (2013), including cyber-victimization:
+- Parental involvement and support (−)
+- Warmth and affection (−)
+- Negative parenting in general (+),
+- Abuse and neglect (+),
+- Maladaptive parenting (+)
+Bully-Victim
+Cook et al. (2010):
+- Internalizing behavior (+),
+- Other related cognitions (−),
+- Social problem solving (−)
+- Family/home environment (−)
+Tippett and Wolke (2014):
+- low socioeconomic status (+)
+Lereya et al. (2013), including cyber-bully/victimization: - Positive parenting in general (−),
+- Authoritative parents (−),
+- Parental involvement and support (−),
+- Supervision (−),
+- Warmth and affection (−)
+- Overall negative parenting (+)
+Cyber-perpetration
+Kowalski et al. (2014):
+- Frequency of Internet use (+),
+- Anger (+),
+- Risky online behavior (+),
+- Narcissism (+),
+- Empathy (−),
+- School climate (−)
+- School safety (−)
+Cybervictimization
+Kowalski et al. (2014):
+- Frequency of Internet use (+),
+- Moral disengagement (+),
+- Risky online behavior (+)
+- Hyperactivity (+)
+- School safety (−)
+- School climate (−)
+Note: (+) = positive effect, (−) = negative effect.
+Medium effect sizes (r = .25–.39, OR = 2.50–4.29 d or g = .50–.79)
+Cook et al. (2010):
+- Externalizing behavior (+),
+- Other-related cognitions (−), - Peer influence (−)
+Gini, Pozzoli, and Hymel, (2014): - Moral disengagement (+)
+Cook et al. (2010):
+- Internalizing problems (+), - Social competence (−),
+- Peer status (−)
+Large effect sizes r N .40 or OR N 4.30 d or g = N .80
+I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21
+13
+    Cook et al. (2010):
+- Externalizing behavior (+), - Social-competence (−),
+- Self-related cognitions (−), - Academic performance (−), - School climate (−)
+- Peer status (−)
+Gini, Pozzoli, and Hymel,(2014); Kowalski et al. (2014):
+- moral disengagement (+) Kowalski et al. (2014):
+- Normative beliefs about aggression (+)
+Cook et al. (2010):
+- Peer influence (−)
+Kowalski et al. (2014):
+- Cybervictimization (+)
+ 
+14 I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21
+Giovazolias (2015) synthesized 19 studies finding relationships be- tween bullying perpetration and personality variables such as openness (r = −.11, 95% CI: −.19 to −.03), neuroticism (r = .10, 95% CI: .04–.15), extraversion (r = .08, 95% CI: .03–.12), agreeableness (r = −.24, 95% CI: −.31 to −.17), conscientiousness (r = −.08, 95% CI: −.23 to −.07), cognitive empathy (r = −.08, 95% CI: −.12 to −.04), and affective empathy (r = −.16, 95% CI: −.19 to −.12). For victimization, the only relationship was found with neuroticism (r = .24, 95% CI: .18–.29).
+Based on 131 empirical studies, Kowalski et al. (2014) reported risk and protective factors for cyberbullying perpetration and victimization. These factors included traditional bullying, traditional victimization, and age, which were included in the corresponding paragraphs. Other risk factors for cyberbullying perpetration were cybervictimization (r = .51, 95% CI: .48–.55), normative beliefs about aggression (r = .37, 95% CI: .24–.48), moral disengagement (r = .27, 95% CI: .20–.34), risky online behavior (r = .23, 95% CI: .20–.26), narcissism (r = .22, 95% CI: .18–.26), frequency of Internet use (r = .20, 95% CI: .12–.28), and anger (r = .20, 95% CI: .17–.22). Protective factors against cyberbullying perpetration were school safety (r = −.13, 95% CI: –.16 to –.10), empa- thy (r = −.12, 95% CI: –.14 to –.09), school climate (r = −.12, 95% CI = −.14 to −.10), parental monitoring (r = −.07, 95% CI: −.13 to −.03), and perceived support (r = −.04, 95% CI = −.06 to −.02). Risk factors for cybervictimization were anger (r = .20, 95% CI: .16–.23), risky online behavior (r = .18, 95% CI: .14–.21), frequency of Internet use (r = .17, 95% CI: .11–.22), moral disengagement (r = .15, 95% CI: .11–.18), and hyperactivity (r = .11, 95% CI: .09–.13). Protective factors against cybervictimization were school safety (r = −.22, 95% CI: –.24 to –.19), school climate (r = −.14, 95% CI: −.14 to −.19), social in- telligence (r = −.08, 95% CI: −.15 to −.02), perceived support (r = − .08, 95% CI: −.11 to −.06), and parental monitoring (r = −.06, 95% CI: −.10 to −.20).
+Involvement in bullying and socioeconomic status was studied by Tippett and Wolke (2014) including 28 articles. Victimization was pos- itively related to low (OR = 1.52, 95% CI: 1.36–1.71) and negatively re- lated to high socioeconomic status (OR = .73, 95% CI: .63–.86) with small effect sizes. Similar results were found for perpetration and low socioeconomic status (OR = 1.14, 95% CI: 1.02–1.27) and high socioeco- nomic status (OR = .89, 95% CI: .83–.95). A bully–victim status was only positively related to low socioeconomic status (OR = 1.71, 95% CI: 1.22– 2.39). Some of these associations became much weaker when adjusted for publication bias.
+Positive and negative parenting has also been studied in relation to bullying and cyberbullying. Lereya et al. (2013) found that victimization (including bullying and cybervictimization) was related to having less parental involvement and support (g = −.22; 95% CI: −.29 to −.15), less warmth and affection (g = −.22; 95% CI: −.30 to −.14), less au- thoritative parents (g = −.19, 95% CI: −.28 to −.11), less supervision (g = −.16, 95% CI: −.21 to −.12), worse parent–child communication (g = −.12; 95% CI: −.20 to −.05), and less positive parenting in general (g = −.19; 95% CI: −.23 to −.15). On the other hand, victimization was also related to more negative parenting in general (g = .26, 95% CI: .16–.36), with more abuse and neglect (g = .31, 95% CI: .18–.44), mal- adaptive parenting (g = .27, 95% CI: .15–.40) and overprotection (g = .10, 95% CI: .03–.17). A similar pattern was found in bully/victims, with less positive parenting in general (g = −.33, 95% CI: −.41 to − .26), less warmth and affection (g = −.42, 95% CI: −.54 to −.31), less authoritative parents (g = −.39, 95% CI: −.61 to −.18), less su- pervision (g = −.34, 95% CI: −.54 to −.14), parental involvement and support (g = − .30, 95% CI: −.40 to −.20), and worse parent– child communication (g = −.17, 95% CI: −.30 to −.04). Overall neg- ative parenting was also more common in bully/victims (g = .48, 95% CI: .26–.70), with more abuse and neglect (g = .68, 95% CI: .44–.92) and maladaptive parenting (g = .49, 95% CI: .23–.75). For vic- tims, communication levels were lower when assessment was conduct- ed through peer-nomination, warmth and affection were lower for older children, and supervision was lower in Europe when compared to
+other continents. For bully/victims, involvement and support were lower when assessments were conducted through self-reports, warmth and affection were lower outside Europe and America, in older children and studies using self-reports and overall negative parenting and maladaptive parenting were observed outside Europe and America.
+Some meta-analyses were performed only on longitudinal studies with the objective of finding variables which predict bullying and vic- timization over time. Reijntjes and colleagues found in a meta-analysis including 18 studies that internalizing problems predict victimization over time (Reijntjes et al., 2011) with very small effect size (r = .08, 95% CI: .04–.21). Studies using SEM and the same informant yielded larger effect sizes. Moreover, in another meta-analysis with 14 articles (Reijntjes et al., 2011), it was found that externalizing problems predict victimization over time, also with small effect size (r = .13, 95% CI: .04–.21) with no moderators.
+3.4.2. Additional information from non-meta-analytic systematic reviews
+A non-meta-analytic systematic review conducted by van Noorden et al. (2015) found that, according to the majority of the 40 included studies, victimization was related to cognitive but not affective empa- thy, perpetration was negatively related to cognitive and affective em- pathy, defending the victim was positively related to both cognitive and affective empathy and mixed results were found for bystanding.
+A review of observational studies showed that, according to the ma- jority of the 31 included articles, risk factors for bullying can be found among school-related variables such as inequalities in income, poverty, lack of anti-bullying norms, deficient classroom management and teacher support and also to neighborhood-related variables such as inequalities in income and violence in the city or country. Findings on school and classroom size were inconsistent (Machado Azeredo et al., 2015).
+Perren et al. (2012) reviewed strategies for tackling cyberbullying finding that most of the studies focus on strategies themselves without evaluating their actual success. Narrative results show that parental supervision and behavior seem to be useful for prevention while confronting perpetrators, technical solutions such as blocking, seeking support from friends, and ignoring the problem are informed by youth with the objective of combating the problem or buffering its effects. Seeking support from teachers and parents was less common.
+Although not specifically focused on risk and protective factors, two systematic reviews reported parents' (Harcourt et al., 2014), students', and teachers' (O'Brien, 2009) understanding of bullying. Parents de- mand more information on bullying and have difficulty in recognizing the phenomenon, suggesting improvement of school response Harcourt et al. (2014)). A systematic review conducted in the UK shows that teachers define bullying in a broader way when compared to students and that definitions employed by secondary students and teachers include different components of the phenomenon such as di- rect bullying, social exclusion, repetition, power imbalance, intentional- ity, etc. O'Brien (2009)).
+3.5. Consequences of bullying and cyberbullying
+3.5.1. Meta-analytic results
+Table 4 shows consequences of bullying and cyberbullying with small, medium, and large effect sizes.
+Kowalski et al. (2014) reported the outcomes of cyberbullying perpetration (ordered by effect sizes) such as drug and alcohol use (r = .27, 95% CI: .22–.31), anxiety (r = .16, 95% CI: .07–.25), depression (r = .15, 95% CI: .11–.19), life satisfaction (r = −.11, 95% CI: −.14 to −.08), self-esteem (r = −.10, 95% CI: −.13 to −.07), loneliness (r = .09, 95% CI: .04–.13), and academic achievement (r = −.09, 95% CI: −.18 to −.01). Cybervictimization was related to stress (r = .34, 95% CI: .29–.38), suicidal ideation (r = .27, 95% CI = .24–.31), depression (r = .24, 95% CI: .21–.27), self-esteem (r = −.17, 95%
+Table 4
+Outcomes of bullying and cyberbullying. Small effect sizes
+r = .10–.24, OR = 1.50 to 2.49
+Bullying perpetration
+Holt et al. (2015):
+- Suicidal ideation (+)
+Van Geel et al. (2014b):
+- Weapon carrying (+)
+Ttofi et al. (2012):
+- Violence later in life (+)
+Ttofi, Farrington, Lösel, Crago, and Theodorakis (in press): - Drug use (+)
+Bullying victimization
+Nakamoto and Schwartz (2009): - Academic achievement (−)
+Gini and Pozzoli (2013):
+- Psychosomatic problems (+)
+Gini, Pozzoli, Lenzi, et al. (2014): - Headache (+)
+van Geel et al. (in press):
+- Sleeping problems (+)
+Van Dam et al. (2012):
+- Psychotic symptoms (+)
+Holt et al. (2015); van Geel et al. (2014c): - Suicidal ideation (+)
+Van Geel et al. (2014b):
+- Weapon carrying (+)
+Reijntjes et al. (2010)
+- Internalizing problems over time (+)
+- Externalizing problems over time (+) Ttofi et al. (2011a):
+- Depression (+) Cunningham et al. (2015):
+- Psychotic symptoms later in life
+Bully-Victim
+Cyber-perpetration
+Kowalski et al. (2014):
+- Anxiety (+),
+- Depression (+),
+- Life satisfaction (−),
+- Self-esteem (−),
+Cybervictimization
+Kowalski et al. (2014):
+- Depression (+),
+- Self-esteem (−),
+- Anxiety (+),
+- Loneliness (+),
+- Life satisfaction (−),
+- Conduct problems (+),
+- Somatic symptoms (+),
+- Emotional problems (+),
+- Drug and alcohol use (+)
+Note: (+) = positive effect, (−) = negative effect.
+CI: –.21 to −.13), anxiety (r = .24, 95% CI: .18–.31), loneliness (r = .24, 95% CI: .15–.33), life satisfaction (r = −.21, 95% CI: −.28 to − .14), conduct problems (r = .19, 95% CI: .18–.21), somatic symptoms (r = .19, 95% CI: .15–.23), emotional problems (r = .18, 95% CI: .16–.20), drug and alcohol use (r = .15, 95% CI: .08–.21), and prosocial behaviors (r = −.05, 95% CI: −.06 to −.03). Relationships between cybervictimization with loneliness, and self-esteem and be- tween cyberbullying with self-esteem were larger in North American samples. Relationship between cyberbullying and depression was smaller when traditional bullying or victimization was measured in the same study. Relationship between cybervictimization and de- pression was larger for females.
+Nakamoto and Schwartz (2009) included 33 studies in their analysis and found rather weak negative relationship between peer
+I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21
+15
+ Medium effect sizes
+r = .25–.39, OR = 2.50–4.29
+Holt et al. (2015):
+- Suicidal behavior (+)
+Ttofi et al. (2011b):
+- Offending later in life (+)
+Hawker and Boulton (2000) with shared method variance:
+- General self-esteem (−)
+- Social-esteem (−)
+- Loneliness (+)
+- Generalized and social anxiety (+)
+Holt et al. (2015); van Geel et al. (2014c): - Suicidal behavior (+)
+Large effect sizes
+r N .40 or OR N4 .30
+Hawker and Boulton (2000) with shared method variance:
+- Depression (+)
+   Holt et al. (2015):
+- Suicidal behavior (+)
+- Suicidal ideation (+)
+Kowalski et al. (2014):
+- Drug and alcohol use (+)
+Kowalski et al. (2014): - Stress (+),
+- Suicidal ideation (+)
+Van Geel et al. (2014b):
+- Weapon carrying (+)
+ victimization and academic achievement (r = −.12, 95% CI: −.15 to −.09). Effect sizes were smaller for self-reports and larger for peer re- ports and multiple informants. Effects were also larger for the studies reporting school records instead of self-reported grades, studies with shared method variance and research in Asia. No differences between girls and boys were found.
+Gini and Pozzoli (2013) conducted a meta-analysis with 30 studies separating the results for longitudinal and correlational research. It was found that psychosomatic problems are more common in victims of bullying in longitudinal (OR = 2.39, 95% CI: 1.76–3.24) and also cross-sectional studies (OR = 2.17, 95% CI: 1.91–2.46). In the cross- sectional studies, effect size was smaller for research with more females. A meta-analysis conducted with 20 articles focused specifically on headache Gini, Pozzoli, Lenzi et al. (2014) found a positive relationship
+16 I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21
+with being bullied across longitudinal (OR = 2.10, 95% CI: 1.19–3.71) and cross-sectional studies (OR = 2.00, 95% CI: 1.70–2.35). Also, in this study, effect size was smaller for research with more females in cross-sectional design.
+Sleeping problems related to victimization were analyzed by van Geel et al. (in press) including 21 articles. Results show that victims are more affected by these problems than non-victimized children (OR = 2.21; 95% CI: 2.01–2.44) with larger effect for younger children. A meta-analysis including 14 articles (van Dam et al., 2012) found that victimization was related to psychotic symptoms in general population (OR = 2.30, 95% CI: 1.5–3.4). Stronger relationship was found for in- creased duration, frequency, and severity of bullying.
+Psychosocial maladjustment was studied by Hawker and Boulton (2000) in a meta-analysis including 23 studies. Peer victimization was significantly related to depression (r = .45 with shared method vari- ance and r = .29 with no shared method variance), general self- esteem (r = .39 with shared method variance and r = .21 with no shared method variance), social-esteem (r = .35 with shared method variance and r = .23 with no shared method variance), loneliness (r = .32 with shared method variance and r = .25 with no shared method variance), and generalized and social anxiety (r = .25 with shared method variance and r = .19 with no shared method variance). Confidence intervals were not reported.
+Suicidal behavior and ideation were commonly studied variables. Holt et al. (2015) found that victimization was related to suicidal idea- tion (OR = 2.34; 95% CI: 2.03–2.69) and behavior (OR = 2.94; 95% CI: 2.36–3.67). Perpetration was also related to suicidal ideation (OR = 2.12; 95% CI: 1.67–2.69) and behavior (OR = 2.62; 95% CI: 1.51–4.55). Relationships between being a bully/victim and suicidal ideation (OR = 3.81; 95% CI: 2.13–6.80) or behavior (OR = 4.02; 95% CI: 2.39– 6.76) were between moderate and strong. Studies conducted in the USA had larger effects for perpetration with suicidal ideation and bully/victim status with suicidal behavior. For the bully/victim status, studies with “definitional and non-behavioral” evaluation found larger effects. Van Geel, et al. (2014c) included 36 studies finding that victim- ization was related to suicidal ideation (adjusted OR = 2.18, 95% CI: 2.05–2.32) with stronger effect for cyberbullying than for traditional bullying and no other significant moderators. Peer victimization was also related to suicidal attempts (OR = 2.55; 95% CI: 1.95–3.34) with no significant moderators and no separate analysis for traditional vs. cyberbullying due to the low number of studies.
+Relationship between involvement in bullying and weapon carrying was studied in a meta-analysis conducted on 25 articles by van Geel, Vedder, and Tanilon (2014b). Victimization and perpetration were re- lated to weapon carrying (adjusted OR = 1.95; 95% CI: 1.60–2.36 and adjusted OR = 2.30; 95% CI: 1.90–2.77, respectively). No significant moderators were found for victimization and stronger effect size was found for perpetration in studies with higher response rate (above 75%). No differences were found between the U.S. studies and research from other countries for victims and perpetrators. Large effect sizes were found between being a bully/victim and weapon carrying (OR = 4.95; 95% CI: 3.77–6.50) larger for the studies conducted in the U.S. in comparison to other countries.
+Some meta-analyses were conducted with longitudinal studies to find long-term outcomes of bullying and victimization. Among them, Reijntjes et al. (2010) found that victimization significantly predicts in- ternalizing problems over time (r = .18, 95% CI = .12–.24) with larger effects for studies that used SEM and the same informant. On the other hand, Reijntjes et al. (2011) found that victimization significant- ly predicts externalizing problems over time (r = .14, 95% CI: .09–.19) with no moderator effects. Ttofi et al. (2012) performed a meta-analysis including 28 studies finding that perpetration predict- ed violence later in life (adjusted OR = 2.04; 95% CI: 1.69–2.45). The ef- fect size was negatively related to the age of perpetration assessment (younger age of perpetration was related to more violence), the age of outcome assessment (later assessments were related to less violence)
+and the length of follow-ups (longer follow-ups were related to less vi- olence). Victimization was also a predictor of later violence, although with smaller effect size (adjusted OR = 1.42; 95% CI: 1.25–1.62) and no moderators were significant. Ttofi et al. (in press) also found that perpetration predicts drug use later in life (OR = 2.22, 95% CI: 1.60– 3.07) in a meta-analysis of 18 studies, with other factors such as child- hood individual or school risks explaining much variation (adjusted OR =1.41, 95% CI: 1.20–1.66). Victimization, on the other hand, does not predict later drug use (adjusted OR =1.02; 95% CI: .94–1.11). Ttofi et al. (2011a) also found in a meta-analysis of 28 articles that vic- timization predicts depression later in life (adjusted OR = 1.99; 95% CI: 1.71–2.32). Younger age of victimization was related to more depres- sion, later assessments and longer follow-ups were related to less de- pression. Another study, also with 28 articles (Ttofi et al., 2011b), found that perpetration predicted offending later in life (adjusted OR = 2.50; 95% CI: 2.03–3.08). Effects were stronger for perpetration in older children and weaker with long follow-ups and later outcome measures. A meta-analysis conducted on 10 prospective studies by Cunningham et al. (2015) showed that bullying was related to psychot- ic symptoms later in life (OR = 2.15, 95% CI: 1.14–4.04) with no report- ed moderators.
+3.5.2. Additional information from non-meta-analytic systematic reviews
+Different non-meta-analytic systematic reviews examined in- volvement in bullying or cyberbullying as perpetrators, victims, or bully/victims is related to suicidal ideation and behavior. Kim and Leventhal (2008) found that most of the studies report elevated risk of suicidal ideation and behavior in perpetrators, victims, and bully/victims. Klomek, Sourander, and Gould (2010) found that most of the cross-sectional studies report increased risk of suicidal ideation and behavior in perpetrators and victims, stronger for fe- males than males. Moreover, longitudinal studies are still scarce, but their results suggest similar pattern. Narrative results reported by Shireen et al. (2014) also suggest that involvement in bullying is related to suicide and that this relationship is stronger for females.
+Another systematic review shows that five out of seven included studies showed that victimization is related to alcohol misuse in adoles- cents (Topper & Conrod, in press). Narrative results informed by Tokunaga (2010) suggest that cyberbullying victimization is related to low academic achievement, psychosocial and affective problems. A sys- tematic review of studies on school shooting (Sommer et al., 2014) shows that 29.9% of the shooters reported physical victimization, whereas this kind of victimization was explicitly excluded in 31.2%. More than a half (53.7%) report peer rejection (explicitly excluded in 14.9%) and about one out of eight (13.4%) report bullying perpetration.
+A systematic review conducted by Ttofi et al. (2014) on prospective longitudinal studies shows that the progression from bullying to inter- nalizing and externalizing problems can be interrupted by factors such as high school achievement, social skills, strong family attachment and structure, social support and prosocial friends.
+3.6. Effectiveness of anti-bullying programs
+3.6.1. Meta-analytic results
+Meta-analyses on effectiveness of anti-bullying programs show in- consistent findings. A study conducted by Farrington and Ttofi (2009), including 89 empirical reports, found that, overall, programs are effec- tive in reducing perpetration (OR = 1.29, 95% CI: 1.18–1.42) and victim- ization (OR =1.29, 95% CI: 1.18–1.42). For perpetration, effects were larger for older children (11 and above), outcome measures applied two or more times per month, studies published before 2003 and Nor- wegian reports. For victimization, effects were larger for outcome mea- sures applied two or more times per month, studies in Norway, outside the US/Canada, studies in Europe, randomized experiments and before- after/intervention control designs and for older children (11 or above compared between studies). Ferguson et al. (2007) meta-analyzed 45
+articles and also found that the programs produced positive results on bullying outcome (without separating victimization and perpetration) with small effect size (r = .12, 95% CI: .08–.17). At-risk status moderated the effect with more impact for higher-risk participants and there no moderator effect of grade level (elementary, middle, or high school) and outcome measure. Lee et al. (2015) focused on victimization as a primary outcome including 13 studies also finding a small overall effect size (d = .15, 95% CI: .10–.20) with larger effect for secondary students in comparison to elementary pupils (d = .32 vs. .14). Merrell et al. (2008) report 28 effect sizes on different variables related to bullying, among which, small effect sizes were found on self-reported positive at- titudes toward bullying (d = .15), victimization (d = .27), witnessing bullying (d = .35) and intervention to stop it (d = .17). Teacher reports showed small effects on witnessed students being bullied (d = .16), staff response (d = .30) and attitudes about school safety (d = .16) and large effects on knowledge on bullying prevention (d = 1.52) and intervention skills (d = .99). Peer reports showed small effect on partic- ipation in bullying (d = .32). No confidence intervals were reported. Polanin, Espelage, and Pigott (2012) studied the effectiveness of anti- bullying programs on bystander intervention including 12 articles. Again, the results show small positive effect on bystander intervention (g = .20, 95% CI: .11–.29), greater in high school in comparison to pri- mary schools and greater when facilitators were other than teachers. A three-level meta-analysis using within-study analysis on 19 empirical articles (Yeager et al., in press) show that effectiveness of anti-bullying programs declines in older students with small effect in grades 1–7 (d = .13), in grades 8+ the programs were ineffective (d = .01), and there was a significant decline in grades 7th to 12th (b = −.06, Z = 2.40, p = .016).
+3.6.2. Additional information from non-meta-analytic systematic reviews
+A non-meta-analytic systematic review reported by Baldry and Farrington (2007) found that among 16 programs, a half were effective in reducing bullying in 10% or more, 2 had mixed results, 4 had small or negligible effects (less than 10%), and 2 had iatrogenic results (an in- crease of 10% or more). Narrative results described by Cantone et al. (2015) led to conclude that most of the programs are effective in the short term but, due to the short follow-up periods, no conclusion can be drawn on the long-term effects. Evans, Fraser, and Cotter (2014) found that 50% of the included studies were effective in reducing perpetration and 67% were effective in reducing victimization. Ac- cording to the results found by Goodman et al. (2013) reviewing anti-bullying interventions in elementary and middle schools, 7 out of 8 programs reduced bullying. Smith et al. (2004), on the other hand, found that none of the 14 reviewed studies effects were large, only 7% were medium whereas 93% of the effects on victimization and 92% ef- fects on perpetration were small or trivial. Considering only the best ef- fect of each intervention, 67% showed small (the rest trivial) effects on victimization and 33% showed small (the rest trivial) effects on perpetration.
+3.7. Effectiveness of different program components
+3.7.1. Meta-analytic results
+Farrington and Ttofi (2009) compared the effectiveness of different program components. For victimization, larger effect sizes were found for programs that did not include work with peers (OR = 1.39 vs. 1.13), that used disciplinary methods (OR = 1.44 vs. 1.21), with parent training and meetings (OR = 1.41 vs. 1.20), duration for teachers of 4 days or more (OR = 1.41 vs. 1.18), with videos (OR = 1.38 vs. 1.17), cooperative group work (OR = 1.38 vs. 1.20), duration for children of 270 days or more (OR = 1.35 vs. 1.15), intensity for children of 20 h or more (OR = 1.42 vs. 1.21) and intensity for teachers of 10 h or more (OR = 1.37 vs. 1.22). For perpetration, larger effect sizes were re- ported for programs including parent training/meetings (OR = 1.57 vs. 1.25), with playground supervision (OR = 1.53 vs. 1.29), intensity for
+children of 20 h or more (OR = 1.62 vs. 1.25), intensity for teachers of 10 h or more (OR = 1.52 vs. 1.19), duration for children of 270 days or more (OR = 1.49 vs. 1.17), with disciplinary methods (OR = 1.59 vs. 1.31), duration for teachers of 4 or more days (OR = 1.50 vs. 1.22), with classroom management (OR = 1.44 vs. 1.15), teacher training (OR = 1.46 vs. 1.24), classroom rules (OR = 1.44 vs. 1.15), whole- school policy (OR = 1.44 vs. 1.19), school conferences (OR = 1.49 vs. 1.30), a total number of 11 or more elements (OR = 1.48 vs. 1.30), based on Olweus (OR = 1.50 vs. 1.31), with information for parents (OR = 1.44 vs. 1.21) and cooperative group work (OR = 1.48 vs. 1.31).
+For victimization, Lee et al. (2015) found larger effect sizes for ele- ments such as emotional control training (d = .46 vs. .13), peer counsel- ing (d = .33 vs. .13), with a school policy against bullying (d = .31 vs. .12).
+3.7.2. Additional information from non-meta-analytic systematic reviews
+Narrative results of the non-meta-analytic systematic review con- ducted by Cantone et al. (2015) suggest that whole-school interven- tions are the most effective. Systematically monitored programs are more effective in comparison to those without monitoring (Smith et al., 2004). Vreeman and Carroll (2007) found that, among curriculum studies, 4 out of 10 decreased bullying, 7 out of 10 whole-school inter- ventions yielded desirable results, none of the 3 social skills trainings was effective and the programs with increased presence of social workers (1) and mentoring (1) reduced bullying.
+3.8. Evaluation strategies and methodologies: Non-meta-analytic systematic reviews
+Evans et al. (2014) reviewed studies on anti-bullying programs and found that, out of 22 evaluations of perpetration, 6 used only one item and 16 used multi-item assessment. Similarly, out of 27 evaluations of victimization, 6 used one-item and 21 multi-item assessments. Among the studies with one-item assessment 67% showed significant desirable results on perpetration and 83% on victimization whereas among the multi-item scales, 44% reported significant results on perpetration and 57% on victimization.
+Ryan and Smith (2009) reviewed evaluation practices used in anti- bullying programs. This systematic review found that, in relation to pro- gram monitoring, integrity promotion (providing manuals, training, and supervising facilitators) was reported in 30 out of 31 programs (64.5% manuals, 80.1% training, and 22.6% supervision; 16.1% included all three forms) and integrity verification (verifying if the intervention was provided as intended) was not reported in 38.7% of the programs (35.5% reported adherence to manuals, 22.6% frequency and length of implementation activities, 22.6% quality of delivery, 19.3% participation and enthusiasm of the sample, 6.4% a check that only planned interven- tion was delivered). In relation to study design, it was found that 22 studies were controlled and 9 uncontrolled, with two thirds reporting no follow-up, and among the reported follow-ups, 25.8% were shorter than 6 months, 29% 6–11 months, 25.8% 12–23 months, and 19.3% 2 years or more. Less than 20% included qualitative components. Out of 31 studies, 30 reported evaluation of involvement in bullying (22.6% reported measures of involvement in perpetration/victimization together with other related behaviors and non-behavioral constructs, 48% reported measures of two out of three of these variables and 29% used only one). Olweus Bully/Victim Questionnaire in its modified ver- sion was used in 35.5% of the studies; 45.2% reported reliability and 54.8% some evidence of validity. One informant was included in 54.8% and two informants in 38.7%. All the studies reported some descriptive statistics but only 35.5% reported effect sizes and only 5 out of 31 mul- tilevel statistical techniques. None of the studies met all the assumption of randomized controlled trials or all the criteria for efficacy, effective- ness, or dissemination study. Another systematic review with no overall data and narrative results for each included study also concludes that
+I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21 17
+18 I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21
+there is a great variability in research methodologies utilized in anti- bullying interventions (Chalamandaris & Piette, 2015).
+Vessey et al. (2014) reviewed psychometric properties of self-report instruments used to assess bullying. These authors found that 26% of these instruments report test–retest reliability, 90% present internal consistency (with most of the Cronbach's alphas above .70), and 26% with item–total correlations. Content validity, but without describing detailed procedure, was reported in 48% of the articles. Information re- lated to floor and ceiling effects was almost completely unavailable, fac- torial validity was reported in 65% of the studies and construct validity was present in all the studies. Administration length was informed in 35% of the studies, invariance among groups in 29% and time needed for scoring was never reported.
+Berne et al. (2013) conducted a systematic review on instruments utilized for cyberbullying evaluation. The authors found that the con- cept of cyberbullying was included in 21 of the 44 instruments, and cybervictimization in 24 of the 44 instruments. Definitions of these con- cepts varied across the studies. The most commonly included devices were mobile phones (24 of the 44 instruments), and e-mail (21 of the 44). Confirmatory factor analysis was conducted for 12 of the 44 instruments and 13 had only theoretically based factors. Almost all the instruments were self-reports (41 of the 44). Internal consistency was reported for 18 out of the 44 (no other reliability was tested) and the only form of tested validity was convergent (24 out of the 44 instruments).
+Vivolo-Kantor et al. (2014) systematically reviewed bullying and cyberbullying assessment strategies finding that 31.7% used the term “bullying”, 26.8% provided a definition of the phenomenon (including different components). Self-reports only were used in 75.6% of the studies, 12.2% utilized peer-nomination only, and 4.9% included both. Dichotomous response scales were present in 26.8% and scale/index in 80.5%. Timeframes for measuring the phenomena were unknown in 41.4% and 70.8% included both perpetration and victimization. Scoring strategies consisting in summed total scores were reported in 51.2% of the instruments. All the studies reported validity or reliability but with different statistics (e.g. 90.2% included Cronbach's alpha, 26.8% test– retest reliability and 2.4% split-half reliability).
+In relation to these findings, it is worth mentioning that narrative re- sults reported by Hong and Espelage (2012) suggest that mixed method research with qualitative and quantitative methodologies could provide new insights but its use is very uncommon. Qualitative research is usu- ally naturalistic and focuses mostly on explicating the experiences of children involved in bullying from their own perspective (Patton et al., in press).
+4. Conclusions and introduction to the Special Issue
+Findings of the current systematic review show that about one out of three children are involved in some forms of bullying (Modecki et al., 2014) and at least 1 out of 5–7 children are involved in cyberbullying (Hamm et al., 2015; Modecki et al., 2014; Tokunaga, 2010). Reviewed studies also show that there is an overlap between bullying and cyberbullying, finding strong relationships between the two (Kowalski et al., 2014; Modecki et al., 2014). Analysis of sex and age differences yielded inconsistent results with trivial effect sizes for both variables (Barlett & Coyne, 2014, Cook et al., 2010, Kowalski et al., 2014) and one small effect showing more traditional bullying perpetration in boys (Cook et al., 2010). These findings do not necessarily indicate that age and sex of the students are not important. On the other hand, it seems that these relationships are complex and difficult to describe with simple analyses. Relationship with age might be curvilinear as sug- gested by Tokunaga (2010) and more meta-analyses could be helpful in finding sex differences focusing also on type (e.g. direct or indirect) or severity of bullying.
+The current study shows that some minorities suffer from more vic- timization in comparison to the majority group (Albdour & Krouse,
+2014; Fedewa & Ahn, 2011; van Geel, Vedder, & Tanilon, 2014a), but being a member of a minority group does not necessarily lead to more victimization (Vitoroulis & Vaillancourt, 2015). Thus, specific interven- tions should be designed to prevent bullying against the vulnerable groups. It is worth mentioning that findings from a systematic review (Rose et al., 2011) suggest that this situation improves in inclusive con- texts with more diversity. Although more studies are needed, these findings should be taken into account when designing programs to pre- vent discriminatory bullying.
+Individual and contextual risk and protective factors are related to bullying and cyberbullying. Given the fact that most of the studies are correlational, it is difficult to draw conclusions on causality of these re- lationships. Nevertheless, even without being able to establish causality, knowledge on these relationships provides valuable insights for under- standing and reducing the phenomena. Taking into account the stron- gest risk and protective factors (with medium to large effect sizes), traditional bullying perpetration is related to externalizing behavior, other related cognition, peer influence (Cook et al., 2010), and moral disengagement (Gini, Pozzoli and Hymel, 2014). Risk and protective factors for traditional victimization are internalizing problems, social competence, and peer status whereas bully/victim status is related to peer influence, externalizing behavior, social competence, self-related cognitions, academic performance, school climate, and peer status (Cook et al., 2010). Cyberbullying perpetration is related to moral disen- gagement (Gini, Pozzoli and Hymel, 2014), cybervictimization and nor- mative beliefs about aggression (Kowalski et al., 2014). No risk and protective factors with medium or large effects for cybervictimization were found and the largest effect sizes (although still small) were observed for anger, risky online behavior, and frequent Internet use (Kowalski et al., 2014).
+Children who are involved in bullying and cyberbullying suffer from devastating consequences found in reviews of cross-sectional and also prospective longitudinal studies. Once again, no causality could be established and variables were classified as risk/protective factors or outcomes according to the original classification of each study. It is worth mentioning that variables can be risk/protective factors and out- comes at the same time as reported by Reijntjes et al. (2011, 2010)). Ac- cording to the results of two meta-analyses published by these authors, there is a vicious circle in which externalizing and internalizing prob- lems are predictors of victimization over time and, on the other hand, victimization predicts internalizing and externalizing problems over time. In relation to consequences, taking into account only variables with medium to large effect sizes, traditional bullying perpetration is re- lated to suicidal behavior (Holt et al., 2015) and offending later in life (Ttofi et al., 2011b). Traditional victimization relates to depression, lower general self- and social-esteem, loneliness, generalized and social anxiety (Holt et al., 2015) together with suicidal behavior (Holt et al., 2015, van Geel, Vedder, & Tanilon, 2014c). Bully/victim status is related to suicidal behavior and ideation (Holt et al., 2015) and weapon carry- ing (van Geel et al., 2014b). Cyberbullying perpetration is associated with drug and alcohol use and cybervictimization with stress and sui- cidal ideation (Kowalski et al., 2014).
+Bullying and cyberbullying are prevalent, a lot of information has been gathered in relation to their individual and contextual risk and protective factors and the consequences are devastating for all the stu- dents involved in the phenomena. Thus, it is not surprising that dozens of anti-bullying interventions have been conducted all over the world and different meta-analyses and systematic reviews synthesized re- search on the topic.
+The current systematic review shows that programs might be effec- tive in reducing bullying and victimization and that some programs and components work better than others. Unfortunately, the impact of these programs is small and methodologies and evaluations are frequently deficient. A previous review of systematic reviews and meta-analyses conducted by Ttofi et al. (2014) including six reports (namely Baldry & Farrington, 2007; Farrington & Ttofi, 2009; Ferguson et al., 2007;
+Merrell et al., 2008; Smith et al., 2004; Vreeman & Carroll, 2007) analyze differences and similarity among these studies. Big differences were found in numbers of searches and sources, timelines, languages, inclu- sion/exclusion criteria and their actual application, including “other re- lated variables” together with bullying and different methodological approach. Taking into account all these criteria, it seems that the meta-analyses conducted by Farrington and Ttofi (2009) would yield the most exact results. Even though the impact of the programs is limit- ed, these authors report a decrease in bullying perpetration of about 20–23% and victimization of about 17–20%. Taking into account the devastating consequences of bullying reported in the results of the cur- rent review, it seems crucial to conduct these interventions which, given these percentages, could stop this kind of violence for one out of five children involved in the phenomenon. Nevertheless, methodologies and evaluations of these programs should be improved and it is currently difficult to draw conclusions on overall effectiveness of these interventions (Ryan & Smith, 2009).
+All the review studies which analyzed research methodologies re- port that they are frequently deficient with psychometric properties of the instruments that could be improved when evaluating bullying (Vessey et al., 2014) and cyberbullying (Berne et al., 2013). This issue might be crucial when evaluating the effectiveness of anti-bullying and research in the field in general.
+Although the current review provides an overview of the state of art in relation to bullying and cyberbullying, some limitations should be taken into account when interpreting its results. The number of the systematic reviews and meta-analyses on the topic is still scarce and, therefore, new studies would make it possible to obtain a more exact and broad analysis. A half of the articles included in this study perform systematic reviews without meta-analyses and, in case of the latter; many effect sizes are small. Thus, future reviews of review studies could also evaluate the quality of each document in relation to their re- sults and conclusions. Moreover, given the fact that causality cannot be established in most of the studies, results on risk/protective factors and consequences are only an approximation, showing correlations.
+Taking into account the findings described in a previous review on the state of art in relation to bullying and cyberbullying (Zych, Ortega- Ruiz, & Del Rey, 2015) and also the current study, further advancement in the field is needed. Given the potential of review studies to set ten- dencies in research, this Special Issue includes thirteen review articles on bullying, cyberbullying, and youth violence. These articles answer to the needs identified in the current and recent reviews.
+Since the previous review identified that researchers' attention have been mostly focused on Northern Europe and Northern America, this Special Issue includes an article written by Sittichai and Smith (2015) on bullying in South-East Asian Countries and also another article authored by Chan and Wong (2015) focused on Chinese societies. Given that no interventions against cyberbullying were found among the most highly cited articles (Zych et al., 2015), Cross et al. (2015) de- scribe a holistic framework for the intervention in cyberbullying and an example of a program conducted within this framework. Cioppa, O'Neil, and Craig (2015) conduct a systematic review of cyberbullying intervention programs. Taking into account that the current study showed the necessity of conducting further research on effectiveness of anti-bullying programs and their methodologies, Nocentini, Zambuto, and Menesini (2015) systematically review anti-bullying programs in virtual environment. In relation to the devastating consequences of cyberbullying also found in this study, Raskauskas and Huynh (2015) systematically review coping strategies used by victims of cyberbullying hoping to identify pathways to resilience, Baldry, Farrington, andSorrentino (2015) systematically review cyberbullying and cybervictimization risk factors using an ecological framework and Álvarez-García, García, and Núñez (2015) also conduct a systematic review from an ecological perspective but applied to bullying perpetration in adolescence. Valdebenito, Ttofi, and Eisner (2015) report the results of a systematic review and a meta-analysis
+of studies on drug use among victims and perpetrators of bullying. Once again, taking into account the importance of individual and also contextual factors reported in this article, an integration of different models and factors influencing bullying and bystanding can be found in the article authored by Ettekal, Kochenderfer-Ladd, and Ladd (2015). Theoretical and empirical research on relational aggression is reviewed by Voulgaridou and Kokkinos (2015). Patchin and Hinduja (2015) contribute to knowledge on research methodology and assess- ment of cyberbullying, a crucial issue also reported in the current study. To sum up, the current Special Issue builds on the previous find- ings and set tendencies for future research on the topic.
+References1
+*Albdour, M., & Krouse, H.J. (2014). Bullying and victimization among African American adolescents: A literature review. Journal of Child and Adolescent Psychiatric Nursing, 27, 68–82.
+Álvarez-García, D., García, T., & Núñez, J.C. (2015). Predictors of school bullying perpetra- tion in adolescence: A systematic review. Aggression and Violent Behavior, 23, 126–136.
+*Antoniadou, N., & Kokkinos, C.M. (2015). A review of research on cyber-bullying in Greece. International Journal of Adolescence and Youth, 20, 185–201.
+*Baldry, A.C., & Farrington, D.P. (2007). Effectiveness of programs to prevent school bully- ing. Victims and Offenders, 2, 183–204.
+Baldry, A.C., Farrington, D., & Sorrentino, A. (2015). “Am I at risk of cyberbullying”? A nar- rative review and conceptual framework for research on risk of cyberbullying and cybervictimization: The risk and needs assessment approach. Aggression and Violent Behavior, 23, 36–51.
+*Barlett, C., & Coyne, S.M. (2014). A meta-analysis of sex differences in cyber-bullying be- havior: The moderating role of age. Aggressive Behavior, 40, 474–488.
+Bornmann, L., & Mutz, R. (2015). Growth rates of modern science: a bibliometric analysis based on the number of publications and cited references. Journal of the Association for Information Science and Technology. http://dx.doi.org/10.1002/asi.23329 (in press).
+*Berne, S., Frisén, A., Schultze-Krumbholz, A., Scheithauer, H., Naruskov, K., Luik, P., et al. (2013). Cyberbullying assessment instruments: A systematic review. Aggression and Violent Behavior, 18, 320–334.
+*Bottino, S.M., Bottino, C.M., Regina, C.G., Correia, A.V., & Ribeiro, W.S. (2015).
+Cyberbullying and adolescent mental health: Systematic review. Cadernos de Saúde
+Pública, 31, 463–475.
+*Cantone, E., Piras, A.P., Vellante, M., Preti, A., Daníelsdóttir, S., D'Aloja, E., et al. (2015). In-
+terventions on bullying and cyberbullying in schools: A systematic review. Clinical
+Practice & Epidemiology in Mental Health, 11, 58–76.
+*Chalamandaris, A.G., & Piette, D. (2015). School-based anti-bullying interventions:
+Systematic review of the methodology to assess their effectiveness. Aggression and
+Violent Behavior, 24, 131–174.
+Chan, H.C., & Wong, D.S.W. (2015). Traditional school bullying and cyberbullying in Chi-
+nese societies: Prevalence and a review of the whole-school intervention approach.
+Aggression and Violent Behavior, 23, 98–108.
+*Collier, K.L., van Beusekom, G., Bos, H.M.W., & Sandfort, T.G.M. (2013). Sexual orientation
+and gender identity/expression related peer victimization in adolescence: A system- atic review of associated psychosocial and health outcomes. The Journal of Sex Research, 50, 299–317.
+Cioppa, V.D., O'Neil, A., & Craig, W. (2015). Learning from traditional bullying interven- tions: A review of research on cyberbullying and best practice. Aggression and Violent Behavior, 23, 61–68.
+Cohen, J. (1988). Statistical power analysis for behavior sciences (2nd ed.). New York: Ac- ademic Press.
+*Cook, C.R., Williams, K.R., Guerra, N.G., Kim, T.E., & Sadek, S. (2010). Predictors of bullying and victimization in childhood and adolescence: A meta-analytic investigation. School Psychology Quarterly, 25, 65–83.
+Cooper, H. (2009). Research synthesis and meta-analysis, a step by step approach (4th ed.). Thousand Oaks, CA: Sage.
+Craig, W., Harel-Fisch, Y., Fogel-Grinvald, H., Dostaler, S., Hetland, J., Simons-Morton, B., et al. (2009). A cross-national profile of bullying and victimization among adolescents in 40 countries. International Journal of Public Health, 54, 216–224.
+Cross, D., Barnes, A., Papageorgiou, A., Hadwen, K., Hearn, L., & Lester, L. (2015). A social- ecological framework for understanding and reducing cyberbullying behaviors. Aggression and Violent Behavior, 23, 109–117.
+*Cunningham, T., Hoy, K., & Shannon, C. (2015). Does childhood bullying lead to the development of psychotic symptoms? A meta-analysis and review of prospective studies. Psychosis: Psychological, Social and Integrative Approaches. http://dx.doi.org/ 10.1080/17522439.2015.1053969 (in press).
+Ettekal, I., Kochenderfer-Ladd, B., & Ladd, G.W. (2015). A synthesis of person- and relational-level factors that influence bullying and bystanding behaviors: Toward an integrative framework. Aggression and Violent Behavior, 23, 75–86.
+*Evans, C.B.R., Fraser, M.V., & Cotter, K.L. (2014). The effectiveness of school-based bully- ing prevention programs: A systematic review. Aggression and Violent Behavior, 19, 532–544.
+1 Articles with asterisks were included in the current systematic review.
+I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21 19
+ 
+20 I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21
+*Farrington, D.P., & Ttofi, M.M. (2009). School-based programs to reduce bullying and vic- timization. Campbell Systematic Reviews, 6.
+Fandrem, H., Strohmeier, D., & Roland, E. (2009). Bullying and victimization among native and immigrant adolescents in Norway the role of proactive and reactive aggressive- ness. Journal of Early Adolescence, 29, 898–923.
+Farrington, D.P., Losel, F., Ttofi, M.M., & Theodorakis, N. (2012). School bullying, depression and offending behaviour later in life: An updated systematic review of longitudinal stud- ies. Stockholm: Swedish National Council for Crime Prevention.
+Farrington, D.P., Losel, F.A., & Ttofi, M.M. (2016). Developmental and social prevention. In D. Weisburd, D.P. Farrington, & C. Gill (Eds.), What Works in Crime Prevention and Re- habilitation: Lessons from Systematic Reviews. New York: Springer (in press).
+*Fedewa, A.L., & Ahn, S. (2011). The effects of bullying and peer victimization on sexual- minority and heterosexual youths: A quantitative meta-analysis of the literature. Journal of GLBT Family Studies, 7, 398–418.
+*Ferguson, C.J., Miguel, C.S., Kilburn, J.C., & Sanchez, P. (2007). The effectiveness of school- based anti-bullying programs: A meta-analytic review. Criminal Justice Review, 32, 401–414.
+*Gini, G., & Pozzoli, T. (2009). Association between bullying and psychosomatic problems: A meta-analysis. Pediatrics, 123, 1059–1065.
+*Gini, G., & Pozzoli, T. (2013). Bullied children and psychosomatic problems: A meta- analysis. Pediatrics, 132, 720–729.
+*Gini, G., Pozzoli, T., & Hymel, S. (2014). Moral disengagement among children and youth: A meta-analytic review of links to aggressive behavior. Aggressive Behavior, 40, 56–68. *Gini, G., Pozzoli, T., Lenzi, M., & Vieno, A. (2014). Bullying victimization at school and
+headache: A meta-analysis of observational studies. Headache, 54, 976–986. *Goodman, J., Medaris, J., Verity, K., & Hott, B. (2013). A synthesis of international school- based bullying interventions. The Journal of Special Education Apprenticeship, 2, 1–18. *Hadjikakou, K., & Papas, P. (2012). Bullying and cyberbullying and deaf and hard of hear- ing children: a review of the literature. International Journal on Mental Health and
+Deafness, 2, 18–32.
+*Hamm, M.P., Newton, A.S., Chisholm, A., Shulhan, J., Milne, A., Sundar, P., et al. (2015).
+Prevalence and effect of cyberbullying on children and young people a scoping re-
+view of social media studies. JAMA Pediatrics, 169, 770–777.
+*Harcourt, S., Jasperse, M., & Green, V.A. (2014). “We were sad and we were angry”: a system-
+atic review of parents' perspectives on bullying. Child & Youth Care Forum, 43, 373–391. *Hawker, D.S.J., & Boulton, M.J. (2000). Twenty years' research on peer victimization and psychosocial maladjustment: a meta-analytic review of cross-sectional studies.
+Journal of Child Psychology and Psychiatry, 41, 441–455.
+*Holt, M.K., Vivolo-Kantor, A.M., Polanin, J.R., Holland, K.M., DeGue, S., Matjasko, J.L., et al.
+(2015). Bullying and suicidal ideation and behaviors: A meta-analysis. Pediatrics, 135.
+http://dx.doi.org/10.1542/peds.2014-1864 (in press).
+*Hong, J.S., & Espelage, D.L. (2012). A review of mixed methods research on bullying and
+peer victimization in school. Educational Review, 64, 115–126.
+*Hong, J.S., Lee, C.H., Lee, J., Lee, N.Y., & Garbarino, J. (2014). A review of bullying preven-
+tion and intervention in South Korean schools: An application of the social–ecological
+framework. Child Psychiatry & Human Development, 45, 433–442.
+Jiménez Barbero, J.A., Ruiz Hernández, J.A., Llor Esteban, B., & Pérez García, M. (2012). Ef- fectiveness of antibullying school programmes: A systematic review by evidence
+levels. Children and Youth Services Review, 34, 1646–1658.
+Johnson, B.T., & Eagly, A.H. (2000). Quantitative synthesis of social psychological research.
+In H.T. Reis, & C.M. Judd (Eds.), Handbook of research methods in social and personality
+psychology (pp. 496–528). London: Cambridge University Press.
+Juvoven, J., & Gross, E.F. (2008). Bullying experiences in cyberspace. The Journal of School
+Health, 78, 496–505.
+*Kim, Y.S., & Leventhal, B. (2008). Bullying and suicide. A review. International Journal of
+Adolescent Medicine and Health, 20, 133–154.
+*Klomek, A.B., Sourander, A., & Gould, M. (2010). The association of suicide and bullying
+in childhood to young adulthood: A review of cross-sectional and longitudinal re-
+search findings. Canadian Journal of Psychiatry, 55, 282–288.
+*Kowalski, R.M., Giumetti, G.W., Schroeder, A.N., & Lattanner, M.R. (2014). Bullying in the
+digital age: A critical review and meta-analysis of cyberbullying research among
+youth. Psychological Bulletin, 140, 1073–1137.
+*Lee, S., Kim, C.J., & Kim, D.H. (2015). A meta-analysis of the effect of school-based anti-
+bullying programs. Journal of Child Health Care, 19, 136–153.
+*Lereya, S.T., Samara, M., & Wolke, D. (2013). Parenting behavior and the risk of becoming
+a victim and a bully/victim: A meta-analysis study. Child Abuse & Neglect, 37,
+1091–1108.
+Lipsey, M.W., & Wilson, D.B. (2001). Practical meta-analysis. Thousand Oaks, CA: Sage. Liu, J., & Graves, N. (2011). Childhood bullying: A review of constructs, concepts, and
+nursing implications. Public Health Nursing, 28, 556–568.
+*Machado Azeredo, C., Madalena Rinaldi, A.E., Leite de Moraes, C., Bertazzi Levy, R., & Rossi
+Menezes, P. (2015). School bullying: A systematic review of contextual-level risk fac-
+tors in observational studies. Aggression and Violent Behavior, 22, 65–76.
+*Merrell, K.W., Gueldner, B.A., Ross, S.W., & Isava, D.M. (2008). How effective are school bullying intervention programs? A meta-analysis of intervention research. School
+Psychology Quarterly, 23, 26–42.
+*Mitsopoulou, E., & Giovazolias, T. (2015). Personality traits, empathy and bullying behav-
+ior: A meta-analytic approach. Aggression and Violent Behavior, 21, 61–72.
+Mishna, F., Cook, C., Saini, M., Wu, M. -J., & MacFadden, R. (2009). Interventions for children,
+youth, and parents to prevent and reduce cyber abuse. Campbell Systematic Reviews. *Modecki, K.L., Minchin, J., Harbaugh, A.G., Guerra, N.G., & Runions, K.C. (2014). Bullying prevalence across contexts: A meta-analysis measuring cyber and traditional bully-
+ing. Journal of Adolescent Health, 55, 602–611.
+Murray, J., Farrington, D.P., & Eisner, M.P. (2009). Drawing conclusions about causes from
+systematic reviews of risk factors: the Cambridge quality checklists. Journal of Experimental Criminology, 5, 1–23.
+Nielsen, M.B., Tangenc, T., Idsoe, T., Matthiesen, S.B., & Magerøy, N. (2015). Post-traumatic stress disorder as a consequence of bullying at work and at school. A literature review and meta-analysis. Aggression and Violent Behavior, 21, 17–24.
+Nocentini, A., Zambuto, V., & Menesini, E. (2015). Anti-bullying programs and Information and Communication Technologies (ICTs): A systematic review. Aggression and Violent Behavior, 23, 52–60.
+*Nakamoto, J., & Schwartz, D. (2009). Is peer victimization associated with academic achievement? A meta-analytic review. Social Development, 19, 221–242.
+*O'Brien, N. (2009). Secondary school teachers' and pupils' definitions of bullying in the UK: A systematic review. Evidence & Policy, 5, 399–427.
+Olweus, D. (2013). School bullying: development and some important challenges. Annual Review of Clinical Psychology, 9, 751–780.
+Ortega, R. (2010). Agresividad Injustificada, Bullying y Violencia Escolar. Madrid: Alianza Editorial.
+Patchin, J.W., & Hinduja, S. (2015). Measuring cyberbullying: Implications for research. Aggression and Violent Behavior, 23, 69–74.
+*Patton, D.U., Hong, J.S., Patel, S., & Kral, M.J. (2015). A systematic review of research strat- egies used in qualitative studies on school bullying and victimization. Trauma, Violence, & Abuse (in press).
+*Perren, S., Corcoran, L., Cowie, H., Dehue, F., Garcia, D., Mc Guckin, C., et al. (2012). Tack- ling cyberbullying: review of empirical evidence regarding successful responses by students, parents, and schools. International Journal of Conflict and Violence, 6, 283–293.
+*Polanin, J.R., Espelage, D.L., & Pigott, T.D. (2012). A meta-analysis of school-based bully- ing prevention programs' effects on bystander intervention behavior. School Psychology Review, 41, 47–65.
+Raskauskas, J., & Huynh, A. (2015). The process of coping with cyberbullying: a systematic review. Aggression and Violent Behavior, 23, 118–125.
+Rodríguez-Hidalgo, A.J., Ortega-Ruiz, R., & Zych, I. (2014). Peer victimization and ethnic- cultural peer victimization: self-esteem and school relations between different cul- tural groups of students in Andalusia, Spain. Revista de Psicodidáctica, 19, 191–210.
+*Reijntjes, A., Kamphuis, J.H., Prinzie, P., Boelen, P.A., van der Schoot, M., & Telch, M.J. (2011). Prospective linkages between peer victimization and externalizing problems in children: a meta-analysis. Aggressive Behavior, 37, 215–222.
+*Reijntjes, A., Kamphuisb, J.H., Prinziea, P., & Telch, M.J. (2010). Peer victimization and in- ternalizing problems in children: A meta-analysis of longitudinal studies. Child Abuse & Neglect, 34, 244–252.
+*Rose, C.A., Monda-Amaya, L.E., & Espelage, D.L. (2011). Bullying perpetration and victim- ization in special education: A review of the literature. Remedial and Special Education, 32, 114–130.
+*Ryan, W., & Smith, J.D. (2009). Antibullying programs in schools: How effective are eval- uation practices? Prevention Science, 10, 248–259.
+Salgado, F.S., Senra, L.X., & Lourenço, L.M. (2014). Effectiveness indicators of bullying in- tervention programs: A systematic review of the international literature. Estudos de Psicologia, 31, 179–190.
+Seals, D., & Young, J. (2003). Bullying and victimization: prevalence and relationship to gender, grade level, ethnicity, self-esteem, and depression. Adolescence, 38, 735–747. Sittichai, R., & Smith, P.K. (2015). Bullying in south-east Asian countries: A review.
+Aggression and Violent Behavior, 23, 22–35.
+Slonje, R., Smith, P.K., & Frisen, A. (2013). The nature of cyberbullying, and strategies for
+prevention. Computers in Human Behavior, 29, 26–32.
+Smith, P.K., & Brain, P. (2000). Bullying in schools: Lessons from two decades of research.
+Aggressive Behavior, 26, 1–9.
+*Shireen, F., Janapana, H., Rehmatullah, S., Temuri, H., & Azim, F. (2014). Trauma experi-
+ence of youngsters and teens: A key issue in suicidal behavior among victims of bul-
+lying? Pakistan Journal of Medical Sciences, 30, 206–210.
+*Smith, J.D., Schneider, B., Smith, P.K., & Ananiadou, K. (2004). The effectiveness of whole-
+school anti-bullying programs: A synthesis of evaluation research. School Psychology
+Review, 33, 548–561.
+*Sommer, F., Leuschner, V., & Scheithauer, H. (2014). Bullying, romantic rejection, and
+conflicts with teachers: The crucial role of social dynamics in the development of school shootings—A systematic review. International Journal of Developmental Science, 8, 3–24.
+Teelken, C., & Lomas, L. (2009). How to strike the right balance between quality assurance and quality control in the perceptions of individual lecturers: a comparison of UK and Dutch higher education institutions. Tertiary Education and Management, 15, 259–275.
+*Tippett, N., & Wolke, D. (2014). Socioeconomic status and bullying: A meta-analysis. American Journal of Public Health, 104, 48–59.
+*Tokunaga, R.S. (2010). Following you home from school: A critical review and synthesis of research on cyberbullying victimization. Computers in Human Behavior, 26, 277–287.
+*Topper, L., & Conrod, P.J. (2011). A review of the association between alcohol misuse and bullying victimization in adolescence. Mind & Brain, the Journal of Psychiatry (in press).
+Ttofi, M.M., Eisner, M., & Bradshaw, C.P. (2014). Bullying prevention: Assessing existing meta-evaluations. In G. Bruinsma, & D. Weisburd (Eds.), Encyclopaedia of criminology and criminal justice (pp. 231–242). Springer: New York.
+Ttofi, M.M., Farrington, D.P., & Baldry, A.C. (2008). Effectiveness of programmes to reduce school bullying: A systematic review. Stockholm: Swedish Council for Crime Preven- tion, Information and publications.
+*Ttofi, M.M., & Farrington, D.P. (2011). Effectiveness of school-based programs to reduce bullying: A systematic and meta-analytic review. Journal of Experimental Criminology, 7, 27–56.
+*Ttofi, M.M., Bowes, L., Farrington, D.P., & Lösel, F. (2014). Protective factors interrupting the continuity from school bullying to later internalizing and externalizing problems: A sys- tematic review of prospective longitudinal studies. Journal of School Violence, 13, 5–38.
+*Ttofi, M.M., Farrington, D.P., Lösel, F., Crago, R.V., & Theodorakis, N. (2015). School bully- ing and drug use later in life: A meta-analytic investigation. School Psychology Quarterly. http://dx.doi.org/10.1037/spq0000120 (in press).
+*Ttofi, M.M., Farrington, D.P., & Lösel, F. (2012). School bullying as a predictor of violence later in life: A systematic review and meta-analysis of prospective longitudinal stud- ies. Aggression and Violent Behavior, 17, 405–418.
+*Ttofi, M.M., Farrington, D.P., Lösel, F., & Loeber, R. (2011a). Do the victims of school bullies tend to become depressed later in life? A systematic review and meta- analysis of longitudinal studies. Journal of Aggression, Conflict and Peace Research, 3, 63–73.
+*Ttofi, M.M., Farrington, D.P., Lösel, F., & Loeber, R. (2011b). The predictive efficiency of school bullying versus later offending: A systematic/meta-analytic review of longitu- dinal studies. Criminal Behaviour and Mental Health, 21, 80–89.
+*Vessey, J., Strout, T.D., DiFazio, R.L., & Walker, A. (2014). Measuring the youth bullying experience: A systematic review of the psychometric properties of available instru- ments. Journal of School Health, 84, 819–843.
+Valdebenito, S., Ttofi, M., & Eisner, M. (2015). Prevalence rates of drug use among school bullies and victims: A systematic review and meta-analysis of cross-sectional studies. Aggression and Violent Behavior, 23, 137–146.
+*van Dam, D.S., van der Ven, E., Velthorst, E., Selten, J.P., Morgan, C., & de Haan, L. (2012). Childhood bullying and the association with psychosis in non-clinical and clinical samples: a review and meta-analysis. Psychological Medicine, 42, 2463–2474.
+*van Geel, M., Goemans, A., & Vedder, P.H. (2015). The relation between peer victimiza- tion and sleeping problems: A meta-analysis. Sleep Medicine Reviews, http://dx. doi.org/10.1016/j.smrv.2015.05.004 (in press).
+*van Noorden, T.H.J., Haselager, G.J.T., Cillessen, A.H.N., & Bukowski, W.M. (2015). Empa- thy and involvement in bullying in children and adolescents: A systematic review. Journal of Youth and Adolescence, 44, 637-657.
+*van Geel, M., Vedder, P., & Tanilon, J. (2014a). Are overweight and obese youths more often bullied by their peers? A meta-analysis on the relation between weight status and bullying. International Journal of Obesity, 38, 1263-1267.
+*van Geel, M., Vedder, P., & Tanilon, J. (2014b). Bullying and weapon carrying: A meta- analysis. JAMA Pediatrics, 168, 714-720.
+*van Geel, M., Vedder, P., & Tanilon, J. (2014c). Relationship between peer victimization, cyberbullying, and suicide in children and adolescents: A meta-analysis. JAMA Pedi- atrics, 168, 435-442.
+*Vitoroulis, I., & Vaillancourt, T. (2015). Meta-analytic results of ethnic group differences in peer victimization. Aggressive Behavior, 41, 149–170.
+*Vivolo-Kantor, A.M., Martell, B.N., Holland, K.M., & Westby, R. (2014). A systematic re- view and content analysis of bullying and cyber-bullying measurement strategies. Aggression and Violent Behavior, 19, 423–434.
+*Vreeman, R.C., & Carroll, A.E. (2007). A systematic review of school-based interventions to prevent bullying. Archives of Pediatrics and Adolescent Medicine, 161, 78–88.
+Voulgaridou, I., & Kokkinos, C.M. (2015). Relational aggression in adolescents: A review of theoretical and empirical research. Aggression and Violent Behavior, 23, 87–97.
+Ybarra, M.L., & Mitchell, J.K. (2004). Online aggressor/targets, aggressors and targets: A comparison of associated youth characteristics. Journal of Child Psychology and Psychiatry, 45, 1308–1316.
+*Yeager, D.S., Fong, C.J., Lee, H.Y., & Espelage, D.L. (2015). Declines in efficacy of anti- bullying programs among older adolescents: Theory and a three-level meta- analysis. Journal of Applied Developmental Psychology. http://dx.doi.org/10.1016/j. appdev.2014.11.005 (in press).
+Zych, I., Ortega-Ruiz, R., & Del Rey, R. (2015). Scientific research on bullying and cyberbullying: Where have we been and where are we going. Aggression and Violent Behavior, 24, 188–198.
+I. Zych et al. / Aggression and Violent Behavior 23 (2015) 1–21 21

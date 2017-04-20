@@ -1,0 +1,456 @@
+ Journal of Adolescent Health 52 (2013) 707e715
+www.jahonline.org
+Original article
+Middle and High School Drug Testing and Student Illicit Drug Use: A National
+Study 1998e2011
+Yvonne M. Terry-McElrath, M.S.A. a, *, Patrick M. O’Malley, Ph.D. b, and Lloyd D. Johnston, Ph.D. c
+a Survey Research Associate, Institute for Social Research, University of Michigan, Ann Arbor, Michigan
+b Research Professor, Institute for Social Research, University of Michigan, Ann Arbor, Michigan
+c Distinguished Senior Research Scientist, Research Professor, Institute for Social Research, University of Michigan, Ann Arbor, Michigan
+Article history: Received August 1, 2012; Accepted November 27, 2012
+Keywords: Child and adolescent health; Drugs; Marijuana; Health policy; Organization and administration of school health programs; Policy
+ABSTRACT
+Purpose: This study uses 14 years of data from nationally representative samples of U.S. middle and high school students in the Monitoring the Future study to examine associations between school student drug testing (SDT), substance use, and participation in extracurricular activities. Methods: Analyses use questionnaire data collected from 1998 to 2011 from 89,575 students in 883 middle schools and 157,400 students in 1,463 high schools to examine: (1) the current prevalence of SDT; (2) SDT trends over time; (3) associations between substance use and SDT type, volume, or duration among the general student population or students participating in activities subject to testing; (4) associations between students’ beliefs/attitudes about marijuana use and SDT; and (5) associations between extracurricular participation rates and SDT.
+Results: Moderately lower marijuana use was associated with any random testing of the general high school student population and for SDT of middle and high school sub-populations specifically subject to testing (athletes or participants in nonathletic extracurricular activities). However, SDT generally was associated with increased use of illicit drugs other than marijuana.
+Conclusions: Because the study design is observational and the data are cross-sectional, no strong causal conclusions can be drawn. However, there is evidence of lower marijuana use in the presence of SDT, and evidence of higher use of illicit drugs other than marijuana. Until further research can clarify the apparent opposing associations, schools should approach SDT with caution.
+! 2013 Society for Adolescent Health and Medicine. All rights reserved.
+Student drug testing (SDT) is one procedure schools use to prevent or reduce youth substance use. SDT may be for-cause or random on some basis. Random testing can be mandatory for certain groups (e.g., athletes or others taking part in competitive extracurricular activities), mandatory for all students, or voluntary. The primary theoretical underpinning of SDT is
+* Address correspondence to: Ms. Yvonne M. Terry-McElrath, M.S.A., University of Michigan, Institute for Social Research, Room 2341, PO Box 1248, Ann Arbor, MI 48106-1248.
+E-mail address: yterry@umich.edu (Y.M. Terry-McElrath).
+IMPLICATIONS AND CONTRIBUTION
+Random student drug testing among the general high school student pop- ulation, as well as middle and high school subgroups targeted for testing, was associated with moder- ately lower marijuana use; however, most forms of testing associated with moderately higher use of other illicit drugs, partic- ularly in high school.
+deterrence theory: substance
+rewards of drug test outcomes [1]. More broadly, SDT is hypothesized to reduce and/or prevent drug use through: (a) counseling/education/treatment intervention opportunities; (b) opportunities for cessation or non-initiation to avoid test consequences; and (c) support for students to say no to peer pressure to use [2,3]. Proponents of SDT emphasize testing should be part of comprehensive programming efforts, and that the purpose is not to punish students for drug use, but to prevent use or enable intervention for students who test positive [2,3]. Concerns regarding SDT include: testing efficacy;
+1054-139X/$ e see front matter ! 2013 Society for Adolescent Health and Medicine. All rights reserved. http://dx.doi.org/10.1016/j.jadohealth.2012.11.020
+use is weighed against the costs/
+708 Y.M. Terry-McElrath et al. / Journal of Adolescent Health 52 (2013) 707e715
+financial costs; testing accuracy; student avoidance of extra- curricular activities to avoid testing; student use of drugs less likely to be detected; violation of privacy; Fourth Amend- ment protection against unreasonable searches; and potential undermining of student trust and harming the student-school relationship [4,5].
+Research on SDT efficacy in deterring drug use has not been definitive. One 2009 review found little support for SDT in deterring use [1]. A recent national survey found SDT effects were conditioned on school climate and student gender [6]. An experimental evaluation found significantly lower use of the specific substances tested for among students in treatment schools compared to students in control schools, but no significant differences in overall substance use [7]. Random athlete SDT was not associated with past 30-day student athlete substance use in a separate randomized controlled study, but some evidence was found for reduced past-year use [8]. Studies that observed substance use reductions did not observe signif- icant differences in intentions to use [7] and found some evidence of increased drug-use risk factors [8]. The literature has not shown significant SDT effects among students in schools with testing programs who were not themselves subject to testing [7,9]. One nationally representative cross-sectional sample of middle and high school students from 1998e2001/ 2002 [10,11] found no significant differences in student substance use based on testing, but did find suggestive evidence for a decline in marijuana use but a possible increase in use of illicit drugs other than marijuana. A later study using 2005 data [12] estimated that 14% of public school districts with high schools used random SDT, with almost all of those districts reporting testing athletes, 65% testing other extracurricular participants, and 28% testing all students (student drug use was not examined).
+The current study uses 14 years of nationally representative data from U.S. middle and high school students in public and private schools to examine five general research areas: first, current SDT prevalence and trends followed by associations between SDT and (a) student illicit substance use among the general student population; (b) illicit substance use among student groups subject to testing; (c) marijuana use beliefs and attitudes; and (d) extracurricular participation rates.
+Methods
+Participants
+Student data were obtained from the Monitoring the Future (MTF) study (supported by the National Institute on Drug Abuse), consisting of nationally representative samples of 8th, 10th, and 12th grade students [13]. School data were obtained from administrators in MTF schools through the Youth, Educa- tion, and Society (YES) study (supported by the Robert Wood Johnson Foundation). Both studies were conducted by the Institute for Social Research at the University of Michigan (approval obtained from the University of Michigan Behavioral Sciences Institutional Review Board) and appropriate consent procedures were used.
+Procedure
+Self-completed, optically scanned student questionnaires were administered in classrooms by University of Michigan
+personnel during a normal class period (detailed information on MTF methodology is provided elsewhere) [13,14]. From 1998e2011, the overall school response rate (with replacement) averaged 98%; student response rates averaged 89%, 87%, and 82% for 8th, 10th, and 12th grades, respectively. Absenteeism was the primary reason for missing data; less than 1% of students refused participation.
+Mailed questionnaires with a monetary incentive were sent to each sampled school’s principal in the spring of the same year in which student data were gathered. School administrator response rates averaged 83%. At the start of the study, pilot testing of various school policy measures was conducted with a convenience sample of secondary school principals. Although detailed reliability and validity studies of measures used were not conducted, participants reported no difficulty completing the measures.
+The merged MTF and YES dataset for 1998e2011 had approximately 103,000 8th grade students in 887 schools; 90,000 10th grade students in 731 schools; and 83,000 12th grade students in 745 schools.
+Instruments
+Student outcomes. Past 30-day marijuana use frequency was assessed on a 7-point scale (1 1⁄4 0 occasions; 2 1⁄4 1e2; 3 1⁄4 3e5; 4 1⁄4 6e9; 5 1⁄4 10e19; 6 1⁄4 20e39; and 7 1⁄4 40þ occasions). Students were also asked about past 30-day frequency of LSD use, other psychedelics, cocaine, heroin, amphetamines, and tranquilizers. For 12th graders, two additional substances were included: sedatives/barbiturates and narcotics other than heroin. A mean was taken from these items to create a scale of frequency of use of illicit drugs other than marijuana (OTM).
+Four outcomes investigated marijuana-related attitudes and beliefs. Two dichotomous items measured perceived risk of physical or other harms from using marijuana as great (vs. none/ slight/moderate) for (a) occasional use; and (b) regular use. Two additional dichotomous items measured any personal disapproval of people who use marijuana (a) occasionally; and (b) regularly.
+Two dichotomous items measured moderate or great partic- ipation (vs. not at all/slight) in (a) athletics; and (b) one or more nonathletic extracurricular activities (school newspaper/year- book; music/other performing arts; academic clubs (e.g., science, math, or language); student council/government; other school clubs/activities).
+Student drug testing policy measures. For all years, school offi- cials were asked, “In the [current] school year, did your school test any students for illicit drug use?” If yes, respondents noted if SDT was used “based on suspicion or cause” and/or “routine or random.” Three dichotomous indicators were created: (a) any SDT; (b) any for-cause SDT; and (c) any random SDT. Schools with random SDT where all students were eligible for testing were identified. Volume of for-cause SDT was first asked in 1999: “In the [current] school year, about how many students were tested for drugs based on suspicion or cause?” Volume of any random SDT was first asked in 2003: “In the [current] school year, about how many students were given a random drug test?” Respondents recorded a number for both items. Only schools with at least one such test were included in models examining testing volume associations with student substance-related outcomes.
+Starting in 1999, school officials were asked which student groups were tested. Responses included: “students participating on an athletic team (not including tests for performance- enhancing drugs)” and “students participating in another extracurricular activity”; dichotomous variables for any testing among these two groups were created. Starting in 2004, school officials were asked two questions specific to random SDT: [1] “When was random drug testing of students first imple- mented in your school?” (this school year; last school year; 2e3 years ago; more than 3 years ago); and [2] “Specifically, what groups of students are subject to random drug testing in your school?” with responses for “athletes” and “participants in extracurricular activities other than athletics”; dichotomous variables for random testing among these two groups were created.
+Control variables. Student characteristics known to relate to drug use were used as controls [15]: gender; race/ethnicity (African- American, Hispanic, white, or other); two-parent family; parental education (based on the average of father’s and mother’s education). School-level controls included school level (middle school (8th grade) or high school (10th or 12th grades)); grade; sector (public or private); number of students in the grade surveyed; percentage of students eligible for free and reduced- price lunch; majority student race/ethnicity; population density; region.
+Data analysis
+Descriptive analyses were conducted in SAS (SAS Institute Inc., Carry, NC) using survey commands to account for clustering by school in estimates of standard errors. Two-level hierarchical multivariate models were run using HLM (Scientifc Software International, Inc., Skokie, IL). Drug use frequency outcomes were modeled using restricted maximum likelihood and robust stan- dard errors. Dichotomous outcomes were modeled using a Ber- noulli distribution log-link function; population average model results with robust standard errors are reported. All analyses were weighted to adjust for differential probability of selection. Results are presented separately for middle and high schools.
+Results
+Analytic sample
+After limiting cases to those with no missing data on control variables, 89,575 students in 883 middle schools, and 157,400 students in 1,463 high schools remained for analysis.
+Current student drug testing prevalence and trends
+For 1998 to 2011 combined, 14% of middle and 28% of high school students attended schools with any SDT; rates for for-cause testing were 10% and 22%, and for any random testing were 6% and 10% (see Table 1). If any for-cause testing had occurred, the volume of students tested in the current year averaged 6 per school for middle and 17 per school for high school students. If any random testing had occurred, the average number of students tested was 80 per school for middle and 178 per school for high school students. Within schools with any random SDT, testing had been in place for more than 3 years for more than half of students (66% middle school; 58% high school);
+for 2e3 years for approximately one-quarter of students (25% middle school; 29% high school); and implemented in the last or current school year for 9% of middle and 14% of high school students. Few students (2%) attended schools with random drug testing among all students.
+Student drug testing showed a mix of linear and nonlinear trends over time; data were grouped as follows to allow for consistent modeling across SDT type: 1998e2001, 2002e2004, 2005e2007, and 2008e2011. The percentage of students attending schools with any for-cause SDT did not change signifi- cantly over time. For middle school students, any random SDT increased from 2% in 1998e2001 to 9% in 2005e2007 (p < .01), remaining at 9% through 2008e2011. The percentage of high school students with any random SDT increased from 6% in 1998e2001 to 11% in 2005e2007 (p < .05) to 14% in 2008e2011 (p < .001).
+For 1998 to 2011 combined, 6% of middle and 11% of high school students attended schools with any athlete SDT; 3% and 7% attended schools with any nonathlete extracurricular SDT. Strong overlap existed between athlete and nonathlete extra- curricular SDT. Over half of students in schools with any athlete testing also had any nonathlete extracurricular SDT (52% of middle and 58% of high school students); almost all students in schools with any nonathlete extracurricular SDT also had any athlete SDT (90% of middle and 92% of high school students). Any student athletic testing rose from 3% in 1998e2001 to 8% in 2008e2011 (p < .05) for middle school students and from 8% to 15% (p < .05) for high school students. Any nonathlete extra- curricular SDT rose from 1% in 1998e2001 to 6% in 2008e2011 (p < .05) for middle school students and from 4% to 10% (p < .01) for high school students. The average percentage of students attending schools with random athlete SDT was 8% and 11% for middle and high school students, respectively, and 5% and 7% for random nonathlete extracurricular SDT from 2004e2011.
+Student drug testing and substance use among the general student population
+Table 2 presents results from models relating SDT to student substance use, controlling for student- and school-level measures. Due to low middle school prevalence of SDT in general and the very low prevalence of random testing among all students, middle school models did not examine SDT volume, timing of random SDT implementation, or prevalence of random SDT among all students.
+Past 30-day marijuana and OTM use were not significantly associated with SDT type among the general middle school student population. Within the general high school student population, any for-cause SDT was associated with significantly higher marijuana use frequency and prevalence and OTM prev- alence. However, within schools with any for-cause SDT, as the volume of testing increased, marijuana use frequency decreased. Any random SDT was associated with significantly lower mari- juana use frequency and prevalence. However, any random SDT was associated with significantly higher OTM use frequency and prevalence, and random SDT among all students was associated with significantly higher OTM use prevalence. The volume of random testing was not associated with either marijuana or OTM use among high school students attending schools with such testing. Among high school students attending schools with any random SDT, implementation of random SDT programs in the current or prior year was associated with higher OTM use frequency than when random SDT was implemented four or
+Y.M. Terry-McElrath et al. / Journal of Adolescent Health 52 (2013) 707e715 709
+710 Y.M. Terry-McElrath et al. / Journal of Adolescent Health 52 (2013) 707e715 Table 1
+Descriptive statistics
+  Years Available Range Middle School High School
+Student N Mean (SE) Student N Mean (SE)
+    Student exposure to school drug testing environment Testing among general student body
+Any testing ’98-’11 Any for-cause testing ’98-’11 Volume of for-cause testinga ’99-’11 Any random testing ’98-’11 Volume of random testinga ’03-’11 Any random testing among all students ’98-’11
+Testing among student athletes
+Any testing ’99-’11 Any random testing ’04-’11
+Testing among students in nonathletic extracurricular activities Any testing ’99-’11
+Any random testing ’04-’11
+Length of random testing implementationa
+Current or last school year ’04-’11 2e3 years ago ’04-’11 More than 3 years ago ’04-’11
+Student drug use attitudes, beliefs, and behaviors Perceive great risk in:
+0,1
+0,1
+1e40b; 1e210c 0,1
+2e500b; 1e847c 0,1
+0,1 0,1
+0,1 0,1
+0,1 0,1 0,1
+89,575 .137 89,575 .096 8,080 5.802 89,558 .061 3,928 79.664 89,558 .017
+82,174 .058 51,146 .080
+82,174 .033 51,146 .052
+3,765 .089 3,765 .253 3,765 .658
+85,868 .494 85,580 .770
+85,601 .853 85,244 .897
+87,815 .073 87,815 .628
+88,827 .041 88,827 .048
+37,847 .589 38,055 .624
+(.013) (.011) (.987) (.009) (14.808) (.005)
+(.010) (.014)
+(.008) (.012)
+(.041) (.082) (.085)
+(.004) (.004)
+(.003) (.002)
+(.002) (.023)
+(.001) (.002)
+(.006) (.005)
+157,400 .280 157,257 .221 32,425 16.864 157,158 .100 12,599 178.451 157,015 .020
+145,044 .110 93,368 .105
+144,901 .069 93,368 .071
+11,104 .137 11,104 .285 11,104 .578
+141,984 .299 141,771 .603
+126,374 .685 126,182 .806
+154,337 .185 154,337 2.230
+156,583 .082 156,583 .104
+61,672 .521 61,889 .606
+(.014) (.013) (2.557) (.009) (16.984) (.004)
+(.010) (.012)
+(.008) (.010)
+(.035) (.053) (.056)
+(.003) (.003)
+(.003) (.002)
+(.002) (.039)
+(.001) (.003)
+(.004) (.004)
+Using marijuana occasionally
+Using marijuana regularly Disapprove of:
+Using marijuana occasionally
+Using marijuana regularly Past 30-day marijuana use
+Any use
+’98-’11 0,1 ’98-’11 0,1
+’98-’11 0,1 ’98-’11 0,1
+’98-’11 0,1
+Use frequencyd Any use
+Use frequency
+Student extracurricular participation
+School athletic teams
+Nonathletic extracurricular activitiesf
+’98-’11 0e40 Past 30-day use of illicit drugs other than marijuanae
+’98-’11 0,1 ’98-’11 0e40
+’98-’11 0,1 ’98-’11 0,1
+   High school 1⁄4 10th and 12th grades combined; Middle school 1⁄4 8th grade; Ns are unweighted; SE 1⁄4 standard error.
+a Only for students in schools with any of the type of testing specified.
+b Range for middle school students.
+c Range for high school students.
+d Use frequency measured as follows: 0 1⁄4 0 occasions; 1.5 1⁄4 1e2 occasions; 4 1⁄4 3e5 occasions; 7.5 1⁄4 6e9 occasions; 15 1⁄4 10e19 occasions; 30 1⁄4 20e39 occasions;
+40 1⁄4 40þ occasions.
+e For all grades, illicit drugs other than marijuana include amphetamines, LSD, other psychedelics, crack, powder cocaine, tranquilizers, and heroin. For 12th graders, this measure also includes sedatives/barbiturates and narcotics other than heroin.
+f Nonathletic extracurricular activities included any of the following: academic clubs, performing arts, student publications, and student government.
+more years earlier. Figure 1 presents predicted probabilities of marijuana and OTM use prevalence among the general high school student population by SDT type.
+Student drug testing and substance use among student groups subject to testing
+Middle school student athlete marijuana use frequency was significantly lower in schools with either any athlete SDT or random athlete SDT (Table 2). Among middle school students participating in nonathletic extracurricular activities, random testing aimed at that group was associated with significantly higher odds of OTM use prevalence.
+Marijuana use frequency and prevalence were significantly lower among high school student athletes in schools with either any athlete SDT or random athlete SDT, compared to students in schools with no SDT (Table 2). Among high school students participating in nonathletic extracurricular activities,
+marijuana use prevalence was significantly and negatively associated with any SDT and any random SDT aimed at this group. OTM use frequency was significantly and positively associated with any SDT testing targeting such students. Figure 2 presents predicted probabilities of past 30-day mari- juana and OTM use prevalence among high school student athletes and other extracurricular participants by any SDT for these specific populations.
+Student drug testing and marijuana-related attitudes and beliefs
+Models investigating relationships between SDT and perceived risk and disapproval of occasional and regular marijuana use controlled for all student- and school-level measures (see Table 3). No significant relationships were observed for the general middle school student population. Among middle school student athletes, random athlete SDT was associated with significantly higher disapproval of using marijuana occasionally.
+Y.M. Terry-McElrath et al. / Journal of Adolescent Health 52 (2013) 707e715 711
+Table 2
+Multivariate associations between school drug testing and student past 30-Day illicit substance use
+  School Student Use frequency Any/none use
+N N Coeff. (SE) p OR (95% CI) p
+    Middle School General population
+Marijuana use
+Any testing 883 Any for-cause testing 883 Any random testing 882
+OTM use
+Any testing 883 Any for-cause testing 883 Any random testing 882
+Student athletes Marijuana use
+Any athlete testing 812
+Any random athlete testing 512 OTM use
+Any athlete testing 812
+Any random athlete testing 512 Students participating in nonathletic extracurricular activities
+87,815  .053 (.065) .97 87,815  .021 (.082) .98 87,798 .008 (.111) 1.00
+88,827 .012 (.008) 1.03 88,827 .009 (.010) 1.00 88,810 .017 (.015) 1.10
+19,861  .272 (.081) ** .77 13,067  .243 (.085) ** .71
+20,050  .004 (.010) 1.11 13,183 .001 (.012) 1.18
+(.834, 1.132) (.828,1.162) (.797,1.266)
+(.893,1.195) (.838,1.186) (.898, 1.343)
+(.527, 1.131) (.464, 1.078)
+(.781, 1.584) (.780, 1.781)
+(.727, 1.662) (.636, 1.379)
+(.869, 2.579) (1.041, 2.857)
+Marijuana use
+Any nonathlete extracurricular testing
+Any random nonathlete extracurricular testing
+OTM use
+Any nonathlete extracurricular testing
+Any random nonathlete extracurricular testing
+High School
+General population
+Marijuana use
+Any testing
+Any for-cause testing
+Volume of for-cause testinga
+Any random testing
+Volume of random testinga
+Random testing among all students
+When any random testing was implementeda
+This or last year 2e3 years ago 4þ years ago
+OTM use
+Any testing
+Any for-cause testing
+Volume of for-cause testing
+Any random testing
+Volume of random testing
+Random testing among all students
+When any random testing was implemented
+This or last year 2e3 years ago 4þ years ago
+Student athletes Marijuana use
+Any athlete testing
+Any random athlete testing OTM use
+Any athlete testing
+814 21,616 .129 (.176) 1.10 512 13,840 .016 (.125) .94
+814 21,776 .045 (.045) 1.50 512 13,931 .614 (.566) 1.72
+1,463 154,337 .062 (.084) 1.03 1,462 154,198 .182 (.092) * 1.08 279 32,585  .006 (.003) * 1.00 1,461 154,105  .253 (.102) * .85 114 12,913  .001 (.001) 1.00 1,460 153,966  .323 (.190) þ .77
+105 11,325 .209 (.259) 1.03  .318 (.212) .95 (ref.) (ref.)
+1,463 156,583 .015 (.006) * 1.10 1,462 156,440 .013 (.007) þ 1.11 279 33,016 .000 (.000) 1.00 1,461 156,346 .027 (.011) * 1.11 114 13,103 .000 (.000) 1.00 1,460 156,203 .027 (.023) 1.20
+105 11,501 .086 (.036) * 1.22  .032 (.024) .87 (ref.) (ref.)
+1,341 29,252  .328 (.137) * .80 831 19,536  .420 (.169) * .76
+1,341 29,609 .004 (.014) 1.21 831 19,777  .001 (.017) 1.19
+*
+Any random athlete testing
+Students participating in nonathletic extracurricular activities
+Marijuana use
+Any nonathlete extracurricular testing 1,346 Any random nonathlete extracurricular testing 832
+OTM use
+Any nonathlete extracurricular testing 1,346 Any random nonathlete extracurricular testing 832
+34,170  .135 (.189) .78 22,368  .308 (.206) .71
+(.668, .909) (.591, .848)
+** ***
+34,527 .039 (.020) * 1.24 22,610 .010 (.017)
+(.965, 1.104)
+(1.006, 1.165) * (.997, 1.001)
+(.772, .940) ** (.999, 1.000) þ (.597, 1.003) þ
+(.790, 1.346) (.777, 1.162)
+(1.025, 1.184) **
+(1.024, 1.196)
+(.997, 1.003)
+(1.002, 1.220) * (.999, 1.000)
+(1.008, 1.440)
+(.937, 1.588) (.720, 1.053)
+(.689, .935) ** (.631, .924) **
+(.998, 1.474) þ (.916, 1.534)
+(.987, 1.547) þ 1.07 (.810, 1.415)
+* *
+   Student athletes defined as those who reported moderate to great participation in school athletic teams. Participants in nonathletic extracurricular activities defined as students who reported moderate to great participation in any of a variety of nonathletic extracurricular activities (academic clubs, performing arts, student publications, student government, etc.). All models simultaneously controlled for both student-level sociodemographics (gender, race/ethnicity, presence of both parents in the home, and average parental education), school characteristics (grade [for high school models], region, sector, grade size, majority student race/ethnicity, population density, student socioeconomic status), and year.
+CI 1⁄4 confidence interval; Coeff 1⁄4 estimated regression coefficient; High school 1⁄4 10th and 12th grades combined; Middle school 1⁄4 8th grade; OR 1⁄4 odds ratio; OTM 1⁄4 illicit drugs other than marijuana; SE 1⁄4 standard error.
+a Only for students in schools with any of the type of testing specified. þ p<.10.
+* p<.05. ** p<.01. *** p < .001.
+712 Y.M. Terry-McElrath et al. / Journal of Adolescent Health 52 (2013) 707e715
+ Figure 1. Predicted probabilities of school drug testing and past 30-day high school student illicit substance use, general student population. SDT 1⁄4 student drug testing; OTM 1⁄4 illicit drugs other than marijuana. Predicted probabilities obtained from models simultaneously controlling for both student-level sociodemographics (gender, race/ethnicity, presence of both parents in the home, and average parental education), school characteristics (grade, region, sector, grade size, majority student race/ethnicity, population density, student socioeconomic status), and year. þp < .10; *p < .05; **p < .01 (indicates significant difference in usage rates between students in schools with testing vs. students in schools without testing).
+Perceived risk and disapproval of occasional and regular marijuana use among the general high school student pop- ulation were significantly and negatively related to any for-cause SDT. However, among high school students attending schools with either any for-cause or any random SDT, both perceived risk and disapproval of using marijuana regularly increased with for-cause and random SDT volume. Further, implementation of random SDT programs in the current or prior year was associated with significantly lower perceived risk and disapproval of occasional marijuana use than when random SDT was implemented four or more years earlier. Among high school student athletes, perceived risk of regular marijuana use was significantly higher in schools with any athlete SDT.
+Among high school students participating in nonathletic extracurricular activities, perceived risk of regular marijuana use and disapproval of occasional marijuana use were significantly higher for students in schools with any random nonathlete extracurricular SDT.
+Student drug testing and extracurricular participation
+Multivariate models investigating relationships between SDT type and student athletic or other extracurricular participation showed no significant relationships for either middle or high school students (data not shown).
+ Figure 2. Predicted probabilities of school drug testing and past 30-day high school student illicit substance use, specific student groups. SDT 1⁄4 student drug testing; OTM 1⁄4 illicit drugs other than marijuana. Respondents include only students who reported moderate to great participation in specified activity. Predicted probabilities obtained from models simultaneously controlling for both student-level sociodemographics (gender, race/ethnicity, presence of both parents in the home, and average parental education), school characteristics (grade, region, sector, grade size, majority student race/ethnicity, population density, student socioeconomic status), and year. þp < .10; *p < .05; **p < .01; ***p < .001 (indicates significant difference in usage rates between students in schools with testing vs. students in schools without testing).
+Y.M. Terry-McElrath et al. / Journal of Adolescent Health 52 (2013) 707e715 713
+Table 3
+Multivariate associations between school drug testing and student perceived risk and disapproval of marijuana use
+ School Student Occasional use Regular use
+N N OR (95% CI) p OR (95% CI) p
+    Middle School General population
+Perceive great risk in using marijuana at specified level Any testing
+Any for-cause testing
+Any random testing
+Disapprove of using marijuana at specified level Any testing
+Any for-cause testing
+Any random testing
+Student athletes
+Perceive great risk in using marijuana at specified level
+Any athlete testing
+Any random athlete testing
+Disapprove of using marijuana at specified level
+Any athlete testing
+Any random athlete testing
+Students participating in nonathletic extracurricular activities
+Perceive great risk in using marijuana at specified level Any nonathlete extracurricular testing
+Any random nonathlete extracurricular testing
+Disapprove of using marijuana at specified level Any nonathlete extracurricular testing
+Any random nonathlete extracurricular testing
+High School
+General population
+Perceive great risk in using marijuana at specified level Any testing
+Any for-cause testing
+Volume of for-cause testinga
+Any random testing
+Volume of random testinga
+Random testing among all students
+When any random testing was implementeda
+This or last year 2e3 years ago 4þ years ago
+Disapprove of using marijuana at specified level Any testing
+Any for-cause testing
+Volume of for-cause testing
+Any random testing
+Volume of random testing
+Random testing among all students
+When any random testing was implemented
+This or last year 2e3 years ago 4þ years ago
+Student athletes
+Perceive great risk in using marijuana at specified level
+Any athlete testing
+Any random athlete testing
+Disapprove of using marijuana at specified level
+Any athlete testing
+Any random athlete testing
+Students participating in nonathletic extracurricular activities
+Perceive great risk in using marijuana at specified level Any nonathlete extracurricular testing
+Any random nonathlete extracurricular testing
+Disapprove of using marijuana at specified level Any nonathlete extracurricular testing
+Any random nonathlete extracurricular testing
+883 85,580e85,868 883 85,580e85,868 882 85,564e85,852
+883 85,244e85,601 883 85,244e85,601 882 85,228e85,585
+812 19,488e19,547 512 12,800e12,844
+812 19,270e19,349 512 12,668e12,712
+814 21,172e21,209 512 13,529e13,561
+814 21,005e21,088 512 13,420e13,468
+1,463 141,771e141,984 1,462 141,640e141,852 279 30,069e30,096 1,461 141,550e141,762 114 11,727e11,750 1,460 141,419e141,630
+105 10,228e10,248
+1,463 126,182e126,374 1,462 126,048e126,242 279 26,867e26,902 1,461 125,980e126,171 114 10,261e10,271 1,460 125,846e126,039
+105 8,815e8,828
+1,340 29,206e29,228 830 19,512e19,527
+1,340 29,042e29,064 831 19,408e19,421
+1,345 34,061e34,104 831 22,297e22,329
+1,346 33,921e33,959 832 22,200e22,229
+1.07 (.976, 1.162) 1.04 (.937, 1.159) 1.10 (.967, 1.240)
+1.10 (.974, 1.237) 1.07 (.937, 1.218) 1.09 (.909, 1.302)
+1.11 (.935, 1.328) 1.08 (.883, 1.332)
+1.24 (.957, 1.611) 1.39 (1.040, 1.870)
+1.17 (.920, 1.482) 1.19 (.934, 1.510)
+.99 (.667, 1.474) 1.11 (.808, 1.517)
+.94 (.886, 1.001)
+.92 (.857, .984) 1.00 (1.000, 1.003) .98 (.904, 1.064)
+1.00 (.999, 1.000) 1.00 (.862, 1.157)
+.71 (.566, .887)
+.84 (.715, .976) (ref)
+.95 (.893, 1.011)
+.91 (.850, .975) 1.00 (1.000, 1.003) 1.08 (.987, 1.173) 1.00 (1.000, 1.000) 1.11 (.892, 1.386)
+.74 (.608, .890)
+.90 (.752, 1.079) (ref)
+1.09 (.966, 1.238) 1.01 (.865, 1.177)
+1.12 (.984, 1.275) 1.08 (.914, 1.282)
+1.01 (.875, 1.160) 1.02 (.871, 1.184)
+1.13 (.980, 1.309) 1.20 (1.002, 1.433)
+*
+þ
+*
+þ
+** *
+**
+þ
+**
+þ
+þ
+*
+1.08 (.976, 1.204) 1.05 (.931, 1.191) 1.02 (.890, 1.180)
+1.05 (.915, 1.212) 1.08 (.929, 1.259) 1.01 (.803, 1.268)
+1.03 (.835, 1.280) 1.02 (.814, 1.273)
+1.13 (.811, 1.564) 1.35 (.925, 1.983)
+.83 (.623, 1.103) 1.00 (.763, 1.299)
+.86 (.519, 1.427) .97 (.620, 1.517)
+.95 (.895, 1.001) þ
+.92 (.867, .981) * 1.00 (1.000, 1.004) * 1.05 (.968, 1.145)
+1.00 (1.000, 1.001)
+1.11 (.901, 1.374)
+.82 (.655, 1.021) þ
+.86 (.716, 1.023) þ (ref)
+.95 (.893, 1.008) þ .92 (.856, .979) *
+1.00 (1.000, 1.004) 1.04 (.950, 1.149) 1.00 (1.000, 1.001)
+.96 (.761, 1.213)
+.87 (.694, 1.088) 1.06 (.888, 1.267) (ref)
+1.17 (1.026, 1.326) 1.12 (.947, 1.324)
+1.06 (.913, 1.238) 1.04 (.850, 1.278)
+* **
+*
+1.14 (.986, 1.320) þ
+1.22 (1.031, 1.437)
+1.03 (.865, 1.217) 1.13 (.929, 1.383)
+*
+*
+   Student athletes defined as those who reported moderate to great participation in school athletic teams. Participants in nonathletic extracurricular activities defined as students who reported moderate to great participation in any of a variety of nonathletic extracurricular activities (academic clubs, performing arts, student publications, student government, etc.). All models simultaneously controlled for both student-level sociodemographics (gender, race/ethnicity, presence of both parents in the home, and average parental education), school characteristics (grade [for high school models], region, sector, grade size, majority student race/ethnicity, population density, student socioeconomic status), and year.
+CI 1⁄4 confidence interval; Coeff 1⁄4 estimated regression coefficient; High school 1⁄4 10th and 12th grades combined; Middle school 1⁄4 8th grade; OR 1⁄4 odds ratio; OTM 1⁄4 illicit drugs other than marijuana; SE 1⁄4 standard error.
+a Only for students in schools with any of the type of testing specified. þ p<.10.
+* p<.05. ** p < .01.
+714 Y.M. Terry-McElrath et al. / Journal of Adolescent Health 52 (2013) 707e715
+Summary
+Table 4 summarizes all associations between SDT and student illicit substance use and related measures.
+Discussion
+Student drug testing impacts a sizeable proportion of U.S. students, with a growing number of schools implementing random SDT programs. The current analyses found that any for- cause testing was associated with higher marijuana and OTM use
+Table 4
+Summary of significant multivariate associations (p < .05) between school drug testing and student illicit substance use and related measures
+and lower perceived risk/disapproval of marijuana use. Yet, among students attending schools with any for-cause testing, higher for-cause testing volume was associated with lower marijuana use and higher disapproval. For-cause testing is based on appearance or behavior indicative of substance use. School- level substance use has been shown to relate to the likelihood a student will personally engage in substance use [16e18]; students attending schools with for-cause SDT may be at higher risk of substance use due to a priori higher school use. The inverse testing volume-marijuana use relationship, however, indicates that once potential a priori higher use rates are accounted for by limiting the sample to only those schools with for-cause testing, a negative association between SDT volume and marijuana usedbut not OTM usedwas observed. Throughout the models, the desired association of lower drug use with SDT seemed to occur primarily with marijuana use under the conditions of any random testing in the general student population or in specific sub-populations subject to testing. The intent of SDT as a deterrent to OTM use appears not to be supported. Indeed, these results suggest that SDT may be associated with increased OTM use.
+Little prior research examined differences in SDT-drug use associations across illicit substances. Of the significant literature contributions previously noted [1,6e11], only one study exam- ined associations separately for marijuana and other illicit drugs [10,11]. That study (which also utilized MTF data, but only for 1998e2002), found no significant results but did observe suggestive evidence of a decline in marijuana use coupled with a possible increase in OTM use. Those early findings were repli- cated in the current study and found to be significant with inclusion of 14 years of data. Literature on SDT efficacy generally indicates little association with illicit drug use among the general population [1,6e7,9] with some evidence for targeted student populations (7e9) for marijuana alone or in combination with other illicit drugs. In the current study, the higher predicted probabilities of OTM use associated with having various types of SDT were modestdranging from 1 to 2 percentage points across high school SDT types and population groups, compared with a modest 3 to 4 percentage point reduction in high school marijuana use. If marijuana and OTM were combined into one measure of illicit drug use, models would likely show little significance given the opposing nature of the associations.
+Possible mechanisms underlying the observed differences in SDT associations with marijuana and OTM include the following: (1) students may know that marijuana metabolites remain in the body for a longer time than metabolites of most other drugs, making other drugs less likely to be detected even if included in testing; and/or (2) students may move toward the use of illicit drugs not included in testing. Information on drug test detection times is readily available on the Internet [19e21]; as early as 1990, research indicated that drug-tested college athletes were significantly more knowledgeable than nontested college athletes about SDT detection-avoidance techniques including timing drug use so as to have substances clear their bodies prior to testing [22]. While middle and high school students are not likely to be as sophisticated as college students, it is likely they are aware of detection-avoidance techniques and likely to make use of informal communication networks to convey testing date estimates [22]. One experimental evaluation found that SDT significantly associated with high school student use of substances specifically tested for with no associations for overall substance use [7].
+  1. Associations between SDTa and substance use among the general student population
+No associations for middle school studentsb For high school students:
+Marijuana use
+Higher with any for-cause testing
+Lower among students in schools with any for-cause testing but high
+volume of such testing Lower with any random testing
+OTMc use
+Higher with any for-cause testing
+Higher with any random testing
+Higher with random testing among all students
+Lower in schools where random testing in place for 4þ years
+2. Associations between SDT and substance use among the population of students subject to testing
+Marijuana use
+Lower among athletes with athlete testing for both middle and high
+school students
+Lower among high school students subject to nonathlete extracurricular
+testing OTM use
+Higher among middle and high school students subject to nonathlete extracurricular testing
+3. Associations between SDT and marijuana use beliefs and attitudes Risk of marijuana use
+General student population
+Lower with any for-cause testing among high school students Higher among high school students in schools with for-cause testing
+but high volume of such testing
+Higher among high school students in schools with random testing but
+high volume of such testing
+Higher in high schools where random testing in place for 4þ years
+Populations subject to testing
+Higher among high school students subject to athlete testing Higher among high school students subject to nonathlete
+extracurricular testing Disapproval of marijuana use General student population
+Lower with any for-cause testing among high school students Higher among high school students in schools with any for-cause
+testing but high volume of such testing
+Higher among high school students in schools with random testing but
+high volume of such testing
+Higher in high schools where random testing in place for 4þ years
+Populations subject to testing
+Higher among middle school students subject to athlete testing Higher among high school students subject to nonathlete
+extracurricular testing
+4. Associations between SDT and extracurricular participation rates No associations for middle or high school students.
+ All noted associations significant in multivariate models at p < .05 or less.
+a SDT 1⁄4 Student drug testing.
+b Lack of associations for middle school general student population may be
+related to the overall lower prevalence of SDT among middle schools. c OTM 1⁄4 Illicit drugs other than marijuana.
+National estimates of past 30-day marijuana prevalence in 2011 (7%, 18%, and 23% for 8th, 10th, and 12th grade students, respectively) are clearly higher than those for OTM (estimated to be 3%, 5%, 9% for respective grade levels) [13]. Reductions in marijuana use among U.S. students are a highly desirable goal and may be associated with SDT; however, corresponding possible increases in OTM use raise serious concerns. Consider- able financial costs are also associated with conducting SDT, a particularly salient problem in times of economic stress.
+Random SDT among the general high school student pop- ulation, as well as middle and high school subgroups targeted for testing, was associated with moderately lower marijuana use; however, most forms of testing were associated with moderately higher use of other illicit drugs, particularly in high school. These findings raise the question of whether SDT is worth this apparent tradeoff. Until further research can clarify the appar- ently opposing associations, schools should approach SDT with caution.
+Strengths and limitations
+Study strengths include large national school and student samples and 14 years of observations, as well as specification of various types of testing, groups eligible for testing, and duration of random SDT implementation. Thirty-day use was chosen to ensure that outcomes occurred within the time period during which the current school year’s drug testing program was operational. Past 12-month drug use outcomes were also examined; results were similar to those for past 30-day use.
+There are several limitations. This is an observational study in which schools and school districts select themselves into testing or not testing, which may carry some selection bias. However, analyses controlled for a number of known correlates of drug use at both student and school levels, which should substantially reduce selection bias. Data were based neither on a pre-post design nor random assignment to treatment conditions; results do not prove causality. All data were based on self-report measures, but there is considerable evidence that MTF measures are likely largely reliable and valid [13]. Data on when students were subject to testing throughout the school year were not available; current analyses do not account for either the existence or level of implementation of educational drug prevention programming that may impact student substance use.
+Acknowledgments
+The Monitoring the Future study is supported by the National Institute on Drug Abuse (DA01411), and the Youth, Education, and Society (YES) project is part of a larger research initiative funded by the Robert Wood Johnson Foundation, titled Bridging the Gap: Research Informing Policy and Practice for Healthy Youth Behavior. Neither of the study sponsors had any role in (a) study design; (b) the collection, analysis, and interpretation of data; (c) the writing of the report; or (d) the decision to submit the manuscript for publication. The views expressed in this article are those of the authors and do not necessarily reflect the views of the sponsors.
+The authors are unaware of any potential, perceived, or real conflicts of interest with this work.
+The first draft of the manuscript was prepared by Y.M. Terry- McElrath. Support for manuscript production was obtained
+through the aforementioned support through the National Institute on Drug Abuse and the Robert Wood Johnson Founda- tion. No other honorariums, grants, or forms of payment were used to produce the manuscript.
+References
+[1] Roche AM, Bywood P, Pidd K, et al. Drug testing in Australian schools: Policy implications and considerations of punitive, deterrence and/or prevention measures. Int J Drug Policy 2009;20:521e8.
+[2] Office of National Drug Control Policy. What you need to know about drug testing in schools (NCJ 195522). Washington, DC: Executive Office of the President of the United States; 2002.
+[3] National Institute on Drug Abuse. Frequently asked questions about drug testing in schools. Rockville, MD: National Institutes of Health, National Institute on Drug Abuse. Available at: http://www.nida.nih.gov/drugpages/ testingfaqs.html.
+[4] Evans D. Drug testing of students. J Glob Drug Policy Pract 2010;3. Available at: http://www.globaldrugpolicy.org/Issues/Vol%203%20Issue% 204/JournalofGlobalDrugPolicyVol3Issue4.pdf.
+[5] James-BurdumyS,GoeslingB,DekeJ,etal.Theeffectivenessofmandatory- random student drug testing (NCEE 2010-4025). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education; 2010.
+[6] Sznitman SR, Dunlop SM, Nalkur P, et al. Student drug testing in the context of positive and negative school climates: Results from a national survey. J Youth Adolescence 2012;41:146e55.
+[7] James-Burdumy S, Goesling B, Deke J, et al. The effectiveness of mandatory- random student drug testing: A cluster randomized trial. J Adolesc Health 2012;50:172e8.
+[8] Goldberg L, Elliot DL, MacKinnon DP, et al. Outcomes of a prospective trial of student-athlete drug testing: The Student Athlete Testing Using Random Notification (SATURN) Study. J Adolesc Health 2007;41:421e9.
+[9] Goldberg L, Elliot DL, MacKinnon DP, et al. Drug testing athletes to prevent substance abuse: Background and pilot study results of the SATURN (Student Athlete Testing Using Random Notification) Study. J Adolesc Health 2003;32:16e25.
+[10] Yamaguchi R, Johnston LD, O’Malley PM. Relationship between student illicit drug use and school drug-testing policies. J Sch Health 2003;73: 159e64.
+[11] Yamaguchi R, Johnston LD, O’Malley PM. Drug testing in schools: Policies, practices, and association with student drug use. YES Occasional Paper #2. Ann Arbor, MI: Institute for Social Research, The University of Michigan. Available at: http://www.drugpolicy.org/docUploads/Johnston_sdt_study. pdf; 2003.
+[12] Ringwalt C, Vincus AA, Ennett ST, et al. Random drug testing in U.S. public school districts. Am J Public Health 2008;98:826e8.
+[13] Johnston LD, O’Malley PM, Bachman JG, et al. Monitoring the Future national survey results on drug use, 1975e2011. Volume I: Secondary school students. Ann Arbor, MI: Institute for Social Research, The Univer- sity of Michigan. Available at: http://www.monitoringthefuture.org/pubs/ monographs/mtf-vol1_2011.pdf; 2012.
+[14] Bachman JG, Johnston LD, O’Malley PM, et al. The Monitoring the Future project after thirty-seven years: Design and procedures. Monitoring the Future Occasional Paper No. 76. Ann Arbor, MI: Institute for Social Research, The University of Michigan. Available at: http:// monitoringthefuture.org/pubs/occpapers/mtf-occ76.pdf; 2011.
+[15] Brown TN, Schulenberg J, Bachman JG, et al. Are risk and protective factors for substance use consistent across historical time? National data from the high school classes of 1976 through 1997. Prev Sci 2001;2:29e43.
+[16] Allison KW, Crawford I, Leone P, et al. Adolescent substance use: Prelimi- nary examinations of school and neighborhood context. Am J Community Psychol 1999;27:111e41.
+[17] Mrug S, Gaines J, Su W, et al. School-level substance use: Effects on early adolescents’ alcohol, tobacco, and marijuana use. J Stud Alcohol Drugs 2010;71:488e95.
+[18] Ali MM, Amialchuk A, Dwyer DS. The social contagion effect of marijuana use among adolescents. PLoS ONE 2011;6:e16183.
+[19] California NORML: California NORML guide to interpreting drug test results. Available at: http://www.canorml.org/healthfacts/drugtestguide/ drugtestdetection.html.
+[20] IPassedMyDrugTest.com: Drug detection times. Available at: http://www. ipassedmydrugtest.com/drug_detection_times.asp.
+[21] PassingPissTests.com: Drug testing detection times for assorted drugs. Available at: http://www.passingpisstests.com/drug-test-information/drug- test-detection-times.html.
+[22] Coombs RH, Ryan FJ. Drug testing effectiveness in identifying and pre- venting drug use. Am J Drug Alcohol Abuse 1990;16:173e84.
+Y.M. Terry-McElrath et al. / Journal of Adolescent Health 52 (2013) 707e715 715

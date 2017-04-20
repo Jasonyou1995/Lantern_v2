@@ -1,0 +1,177 @@
+Addictive Behaviors 39 (2014) 824–828
+    Contents lists available at ScienceDirect Addictive Behaviors
+ Short Communication
+Reducing risk for illicit drug use and prescription drug misuse: High school gay-straight alliances and lesbian, gay, bisexual, and transgender youth
+Nicholas C. Heck a,b,⁎,1, Nicholas A. Livingston b,2, Annesa Flentje c,3, Kathryn Oost b,2, Brandon T. Stewart b,2, Bryan N. Cochran b,2
+a WarrenAlpertMedicalSchoolofBrownUniversity,UnitedStates b TheUniversityofMontana,UnitedStates
+c UniversityofCalifornia,SanFrancisco,UnitedStates
+HIGHLIGHTS
+• Assessed association between gay-straight alliances (GSAs) and illicit drug use. • LGBT youth without a GSA evidenced greater risk for illicit substance use.
+• They also evidenced greater risk for prescription drug misuse.
+• GSAs appear to promote favorable health outcomes for LGBT youth.
+            article info
+Keywords:
+Drug use
+Gay-straight alliance High school
+LGBT youth
+Sexual minority youth
+abstract
+Previous research suggests that lesbian, gay, bisexual, and transgender (LGBT) youth are at elevated risk for using illicit drugs and misusing prescription drugs relative to heterosexual youth. Previous research also indicates that LGBT youth who attend high schools with a gay-straight alliance (GSA) report having fewer alcohol problems and lower levels of cigarette smoking. The present study investigates whether the absence of a GSA is associated with risk for illicit drug use and prescription drug misuse in a sample of 475 LGBT high school students (M age =16.79) who completed an online survey. After controlling for demographic variables and risk factors associated with illicit drug use, the results of 12 logistic regression analyses revealed that LGBT youth attending a high school without a GSA evidenced increased risk for using cocaine (adjusted odds ratio [adjOR] = 3.11; 95% confidence in- terval [95% CI] = 1.23–7.86), hallucinogens (adjOR = 2.59; 95% CI = 1.18–5.70), and marijuana (adjOR = 2.22; 95% CI = 1.37–3.59) relative to peers attending a high school with a GSA. Youth without a GSA also evidenced increased risk for the misuse of ADHD medication (adjOR = 2.00; 95% CI = 1.02–3.92) and prescription pain medication (adjOR = 2.00; 95% CI = 1.10–3.65). These findings extend the research base rela- ted to GSAs and further demonstrate the importance of providing LGBT youth with opportunities for socialization and support within the school setting. Important limitations of the present study are reviewed.
+© 2014 Elsevier Ltd. All rights reserved.
+    1. Introduction
+ ⁎ Corresponding author at: Bradley/Hasbro Children's Research Center, One Hoppin Street, Suite 204, Providence, RI 02903, United States. Tel.: +1 812 320 2089; fax: +1 401 444 4645.
+E-mail address: heck.nicholas@gmail.com (N.C. Heck).
+1 Department of Psychiatry & Human Behavior, Warren Alpert Medical School of Brown
+University, Bradley/Hasbro Children's Research Center, One Hoppin Street, Suite 204, Providence, RI 02903, United States.
+2 Department of Psychology, The University of Montana, Skaggs Building Room 146, Missoula, MT 59812, United States.
+3 Department of Psychiatry, University of California, San Francisco, San Francisco General Hospital, 1001 Potrero Avenue, Suite 7M, San Francisco, CA 94110, United States.
+0306-4603/$ – see front matter © 2014 Elsevier Ltd. All rights reserved. http://dx.doi.org/10.1016/j.addbeh.2014.01.007
+When compared to heterosexual youth, lesbian, gay, and bisexual (LGB) adolescents evidence increased risk for illicit drug use (Bontempo & D'Augelli, 2002; Marshal et al., 2008; Mclaughlin, Hatzenbuehler, Xuan, & Conron, 2012). Specifically, LGB youth evidence increased risk for past-year amphetamine, cocaine, ecstasy, hallucinogen, heroin, and marijuana use, and prescription medication misuse (Corliss et al., 2010). Studies utilizing adult samples of transgender individuals indicate that this population may also be at risk for using illicit drugs and misusing prescription drugs (Benotsch et al., 2013; Herbst et al., 2008) and
+explanatory models (Meyer, 1995, 2003) for the elevated rates of mental health and substance use problems among LGB individuals may general- ize to transgender populations (Hendricks & Testa, 2012).
+Greater rates of substance use among lesbian, gay, bisexual, and transgender (LGBT) adolescents are often linked to minority-specific stressors, which are rooted in societal heterosexism (see Hendricks & Testa, 2012; Meyer, 1995, 2003). For example, LGB youth are more like- ly to experience victimization perpetrated by parents/caregivers and peers than heterosexual youth (Fedewa & Ahn, 2011; Friedman et al., 2011). Transgender youth are also likely to experience elevated rates of school-based victimization and parental rejection (Grossman, D'Augelli, Howell, & Hubbard, 2005; McGuire, Anderson, Toomey, & Russell, 2010). In turn, experiencing rejection and victimization is asso- ciated with increased illicit drug use and prescription drug misuse among LGBT youth (Bontempo & D'Augelli, 2002; Kecojevic et al., 2012; Mclaughlin et al., 2012; Rosario, Schrimshaw, & Hunter, 2009; Ryan, Huebner, Diaz, & Sanchez, 2010).
+One factor that appears to promote positive health outcomes for lesbian, gay, bisexual and transgender (LGBT) youth involves attending a high school with a gay-straight alliance (GSA). A GSA is a school-based club that works to create a supportive school environment for all stu- dents, regardless of sexual orientation and/or gender identity and expression. Research suggests that attending a high school with a GSA can reduce the burden of minority stressors (Goodenow, Szalacha, & Westheimer, 2006; Heck, Flentje, & Cochran, 2011; Heck, Lindquist, Stewart, Brennan, & Cochran, 2013). Specifically, LGBT youth attending schools with GSAs report experiencing less school-based victimization, a greater sense of school belonging, and less concealment of their sexual minority statuses (Goodenow et al., 2006; Heck et al., 2011, 2013; Kosciw, Palmer, Kull, & Greytak, 2013). Goodenow et al. (2006) reported that GSAs were associated with lower risk for suicide in adolescence, while Toomey, Ryan, Diaz, and Russell (2011) found that this reduction in suicide risk also extended into young adulthood. Attending schools with GSAs also appears to be associated with lower levels of cigarette use, alcohol consumption, and alcohol-related problems among LGBT adolescents and young adults (Heck et al., 2011; Poteat, DiGiovanni, Sinclair, Koenig, & Russell, 2013).
+The present study extends previous research by investigating the re- lationship between GSAs and drug use using a large sample of LGBT youth. It is hypothesized that after controlling for demographic and potential confounding variables, LGBT youth attending a high school without a GSA will evidence greater risk for lifetime illicit drug use and prescription drug misuse, relative to peers attending a school with a GSA.
+2. Method
+2.1. Participants and inclusion criteria
+The sample included adolescents who completed an online survey about factors and experiences that contribute to mental health and sub- stance use outcomes. Inclusion criteria specified that participants had to be at least 16 years old and attending a public or private high school. Participants also had to identify as LGBT, or with another sexual or gender minority identity (queer, pansexual, etc.). Participants who identified as heterosexual (n = 40) were included in the sample if they endorsed having same-sex sexual attractions or engaging in same-sex sexual behavior.
+Participants included 179 male, 257 female, and 39 transgender (male to female n = 7; female to male n = 17) or other (n = 15) gender-identified high school students (mean age = 16.79; SD = 0.78). Ethnic minorities represented approximately 30% of the sam- ple; 51 participants identified as Hispanic, 36 identified as African American, 17 as Native American, 16 as Asian American, and 26 selected an “other” option to reflect their ethnicities. Using United States Census Bureau (1994) coding for regions, 165 participants were from Western
+states, while 147, 82, and 81 participants were from Southern, North- eastern, and Midwestern states, respectively. Additional demographic characteristics of the sample are included in Table 1.
+2.2. Procedure
+Data were collected between September 2011 and April 2012. The study was approved by the Institutional Review Board at the authors' home institution, and a waiver of parental permission was granted for 16 and 17 year olds. Participants were recruited using a recruit- ment message (for online recruitment via the social networking site Facebook) or flyers and business cards (for recruitment from LGBT community centers, LGBT community groups, and school- based LGBT groups). As an incentive, participants could enter into a raffle to win one of ten $10 gift cards for agreeing to complete a five-item screener, and enter into a second raffle to win one of ten $20 gift cards if they qualified for the study and agreed to participate.
+2.3. Measures
+Participants reported their age, grade in school, race/ethnicity, rela- tionship status, gender, sexual orientation (both categorical: bisexual, gay or lesbian, straight or heterosexual, unsure, or other; and continu- ous: 1 [Heterosexual or Straight] to 9 [Gay or Lesbian]), the size of their city or town, and type of high school (i.e., public or private). GSA status was assessed using the item, “Does your high school have a gay-straight student alliance, queer alliance, or group for LGBT students and their allies?” with yes/no response options.
+Childhood abuse was measured using the Childhood Trauma Ques- tionnaire, Short-Form (CTQ-SF; Bernstein et al., 2003). Community cli- mate for LGBT people was assessed using the sum of two items, rated from 1 to 5 (lower scores representing safe and accepting communi- ties), “Please rate how safe your community is for LGBT people” and “Please rate how accepting your community is of LGBT people.” Parental acceptance was assessed with two items measuring reactions to learning about their child's sexual identity (ranging from 1: Rejecting to 5: Accepting). A modified Olweus Bullying and Victimization Scale (Olweus, 1994) was used to assess school victimization.
+Lifetime drug use was assessed with yes/no response options to hav- ing ever used: cocaine, ecstasy, GHB/ketamine/Rohypnol, hallucino- gens, heroin, inhalants, marijuana, methamphetamines, and steroids and “recreational/non-medical use” of: prescription stimulants, anti- anxiety medication or prescription pain medications (with examples given for the different drug classes).
+2.4. Statistical analysis
+Chi-square tests of independence for categorical variables and inde- pendent samples t-tests for continuous variables were used to test for group differences on demographic variables and the selected covariates. Covariates (childhood trauma, community climate, parental acceptance, and school victimization) were included in our models based on their relationship with drug use among sexual minority populations. For each of our 12 logistic regressions, we entered demographic variables (ethnicity, population size, gender, continuous sexual orientation, and school type [private versus public]) at block one, covariates at block two, and GSA status in block three (with GSA as reference group). The analyses were carried out using IBM SPSS Statistics 20.0 (IBM Corp., 2011).
+3. Results
+Complete results of demographic and covariate comparisons by GSA status are reported in Table 1. Participants without a GSA were more likely to identify their gender as male, identify their sexual orientation as gay or lesbian, attend private school, attend high school in smaller
+N.C. Heck et al. / Addictive Behaviors 39 (2014) 824–828 825
+826 N.C. Heck et al. / Addictive Behaviors 39 (2014) 824–828
+ Table 1
+Demographic and psychosocial characteristics of participants and comparisons of participants by GSA status.
+ Categorical Variables Overall sample (N = 475) With GSA (n = 333) Without GSA (n = 142) With and without GSA comparisons n(%) n(%) n(%) χ2
+      Gender Female
+Male
+Transgender/other Race/ethnicity
+Non-white
+White Population
+Less than 5000 5000–9999 10,000–49,999 50,000–250,000 Greater than 250,000
+Relationship status Single
+Dating/committed relationship School type
+Private
+Public
+Sexual orientation
+Bisexual
+Gay or lesbian Heterosexual Queer
+Unsure or other
+Continuous variables
+257 (54.1) 179 (37.7) 39 (8.2)
+146 (30.7) 329 (69.3)
+107 (22.7) 46 (9.7) 137 (29.0) 105 (22.2)
+77 (16.3)
+313 (65.9) 162 (34.1)
+55 (11.6) 420 (88.4)
+132 (27.8) 213 (44.8) 40 (8.4) 32 (6.7)
+58 (12.2) Mean (SD)
+204 (61.3) 103 (30.9) 26 (7.8)
+95 (28.5) 238 (71.5)
+57 (17.2)
+28 (8.5) 106 (32.0) 80 (24.2) 60 (18.1)
+217 (65.2) 116 (34.8)
+28 (8.4) 305 (91.6)
+109 (32.7) 121 (36.3) 35 (10.5) 19 (5.7) 49 (14.7)
+Mean (SD)
+53 (37.3) 76 (53.5) 13 (9.2)
+51 (35.9) 91 (64.1)
+50 (35.5) 18 (12.8) 31 (22.0) 25 (17.7) 17 (12.1)
+96 (67.6) 46 (32.4)
+27 (19.0) 115 (81.0)
+23 (16.2) 92 (64.8) 5 (3.5)
+13 (9.2) 9 (6.3)
+Mean (SD)
+24.24⁎⁎⁎
+2.55
+23.75⁎⁎⁎
+0.26
+10.94⁎⁎ 41.02⁎⁎⁎
+t statistic
+ Age
+Community climate Childhood trauma Parental acceptance Sexual orientation Peer victimization
+16.79 (0.77) 5.52 (2.02) 1.80 (0.69) 3.09 (0.88) 6.26 (2.28) 7.97 (5.54)
+16.70 (.071) 5.06 (1.87) 1.74 (0.64) 3.19 (0.86) 5.98 (2.31) 6.84 (4.74)
+16.98 (0.88) 6.58 (1.95) 1.95 (0.78) 2.85 (0.87) 6.90 (2.08)
+10.61 (6.36)
+− 3.38⁎⁎ − 7.97⁎⁎⁎ − 2.73⁎⁎
+3.85⁎⁎⁎ − 4.26⁎⁎⁎ − 6.35⁎⁎⁎
+  Note: Higher scores on the community climate variable reflect a more hostile climate for LGBT individuals. ⁎⁎ pb.01.
+ ⁎⁎⁎ p b .001.
+communities, were older, and endorsed more exclusively gay or lesbian sexual orientations. Participants without a GSA reported experiencing more victimization perpetrated by parents/caregivers and peers at school, less acceptance from parents regarding their sexual minority status, and that their communities were more hostile for LGBT people.
+Table 2 contains frequencies of illicit drug use and recreational/non- medical use of prescription medications, as well as results from the logistic regression analyses comparing youth with and without GSAs on each drug use variable. Relative to participants with a GSA, those without a GSA reported more lifetime use/misuse of illicit substances
+ Table 2
+Logistic regression results predicting risk for illicit drug use and prescription drug misuse by GSA status.
+ Substance With GSA (n = 333) Without GSA (n = 142) Final model With and without comparisons Endorse use n (%) Endorse use n (%) Omnibus χ2 (df = 12) adjOR 95% CI
+      Any use/misuse Cocaine
+Ecstasy GHB/Rohypnol Hallucinogens Heroin
+Inhalants
+Marijuana Methamphetamines Steroids
+ADHD med misuse Anxiety med misuse Pain med misuse
+127 (38.1) 11 (3.3) 19 (5.7)
+5 (1.5) 18 (5.4) 4 (1.2) 17 (5.1) 107 (32.1) 11 (3.3) 7 (2.1) 28 (8.4) 26 (7.8)
+43 (12.9)
+73 (54.1) 15 (10.6) 15 (10.6) 4 (2.8) 21 (14.8) 0 (0.0) 14 (9.9) 67 (47.2) 4 (2.8)
+7 (4.9) 27 (19.0) 26 (18.3) 34 (23.9)
+26.69⁎⁎ 1.89⁎⁎ 22.77⁎ 3.11⁎ 24.88⁎ 1.94 17.35 1.16 31.51⁎⁎ 2.59⁎ N/A N/A 19.10 1.53 28.73⁎⁎ 2.22⁎⁎ 24.30⁎ 0.30 29.25⁎⁎ 1.08 25.62⁎ 2.00⁎ 41.46⁎⁎⁎ 1.76 36.78⁎⁎⁎ 2.00⁎
+1.17–3.03 1.23–7.86 0.84–4.50 0.24–5.70 1.18–5.70 N/A 0.65–3.61 1.37–3.59 0.07–1.21 0.30–3.93 1.02–3.92 0.88–3.52 1.10–3.65
+  Note: Reference group = participants attending a school with a GSA. ⁎ pb.05.
+⁎⁎ pb.01. ⁎⁎⁎ p b .001.
+ 
+overall, and specifically were at increased odds of reporting lifetime use of cocaine, hallucinogens, marijuana, and recreational or non- medical use of ADHD medication and prescription pain medication. There was no detectable difference between participants with and without a GSA on lifetime use of ecstasy, GHB/Rohypnol, inhalants, methamphetamine, steroids, or anti-anxiety medications. As only four participants endorsed lifetime heroin use, we did not test for group differences.
+4. Discussion
+Previous research indicates that attending a high school with a GSA is associated with favorable outcomes with respect to alcohol and ciga- rette use among LGBT youth and young adults (Heck et al., 2011; Poteat et al., 2013). To our knowledge, this is the first study to detect an asso- ciation between attending a high school without a GSA and increased risk for use of illicit drugs. These important results extend previous research by further documenting the potential benefits associated with attending a high school with a GSA for a population that demon- strates increased risk for illicit drug use (Corliss et al., 2010; Marshal et al., 2008).
+We anticipated that these results are achieved because GSAs help foster school environments where the burden of minority stressors is reduced. One mechanism to explain the association between GSAs and illicit drug use may involve school-based victimization. Given that LGBT youth attending high schools with GSAs tend to re- port experiencing lower levels of victimization (Goodenow et al., 2006; Heck et al., 2011; Kosciw et al., 2013) and school-based victim- ization, especially when experienced at high levels, is associated with illicit drug use among LGB youth (Bontempo & D'Augelli, 2002), the relationship between attending a school with a GSA and illicit drug use may be moderated by the effect of victimization. GSAs may also provide LGBT youth with an environment that is mon- itored by responsible adults and a place to socialize in the absence of alcohol and drugs. Both of these factors may contribute to lower levels of illicit drug use and non-medical use of prescription drugs for LGBT youth and should be evaluated with future research.
+Attending a high school with a GSA is associated with favorable aca- demic, mental health, and substance-related outcomes for LGB and LGBT youth (Goodenow et al., 2006; Heck et al., 2011; Poteat et al., 2013; Toomey et al., 2011; Walls, Kane, & Wisneski, 2010). The present findings underscore the importance of providing LGBT youth with school-based support groups and highlight the potential damaging effects of not having these resources in our nation's schools. In a recent study of 8584 LGBT youth who participated in the 2011 National School Climate Survey (Kosciw, Greytak, Bartkiewicz, Boesen, & Palmer, 2012), nearly 54% reported that their schools did not have a GSA or similar school-based support group. Clearly there is room to increase LGBT youths' access to school-based support groups within the United States.
+Meyer and Bayer (2013) review the ethical and legal concerns that can arise when attempting to establish affirmative school-based inter- ventions conflicts with religious beliefs. Undoubtedly, in some parts of the United States where LGBT youth do not have access to affirmative school-based support, these conflicts will (and have) come about. The establishment of affirmative school-based support groups for LGBT youth in communities where the acceptance of LGBT people is low may be best achieved when researchers utilize principles of community- based participatory research so that feedback and modification from key stakeholders can inform the implementation process (Meyer & Bayer, 2013).
+Although the results of this study are important, they are not with- out limitations. First, causation cannot be inferred regarding GSAs and the substance use/misuse variables based on the present design. A second limitation involves the utilization of convenience sampling methodology. This could limit the generalizability of our findings due to self-selection bias. Future research with larger samples should
+examine whether the present findings hold true across levels of gender and ethnicity to further elucidate the potential benefits associated with attending a high school with a GSA. Researchers must continue to inves- tigate the potential benefits of having GSAs in our nation's schools, which in turn may help improve the lives and health of LGBT youth in our nation.
+Role of funding source
+This research was supported by a grant from the National GLBTQ Youth Foundation awarded to the Nicholas Heck. Nicholas Heck's contributions to the development of this manuscript were supported by NIMH T32 MH078788 (PI: Brown) and by NIAID P30 AI042853 for the Lifespan/Tufts/Brown Center for AIDS Research (PI: Carpenter). Annesa Flentje's contributions to the development of this manuscript were supported by NIDA T32 DA007250 (PI: Sorensen). Neither The National GLBTQ Youth Foundation nor NIH had any role in the study design, collection, analysis or interpretation of the data, writing the manuscript, or the decision to submit the paper for publication. The views expressed herein do not necessarily reflect the views of the funding sources.
+Contributors
+NH proposed and carried out the investigation, conducted the analyses and drafted the manuscript. NL participated in the design and assisted in drafting the introduction and discussion sections of the manuscript. AF assisted in the data analysis and the reporting of the results. KO participated in the design and assisted in drafting the introduc- tion and discussion sections of the manuscript. BS participated in the design, was largely responsible for the recruitment of participants, and drafted portions of the introduction and discussion sections of the manuscript. BC assisted in the design and execution of the study and helped to draft the manuscript.
+Conflict of interest
+All authors declare that they do not have any conflicts of interest.
+References
+Benotsch, E. G., Zimmerman, R., Cathers, L., McNulty, S., Pierce, J., Heck, T., et al. (2013). Non-medical use of prescription drugs, polysubstance use, and mental health in transgender adults. Drug and Alcohol Dependence, 132, 391–394. http://dx.doi.org/ 10.1016/j.drugalcdep.2013.02.027.
+Bernstein, D. P., Stein, J. A., Newcomb, M.D., Walker, E., Pogge, D., Ahluvalia, T., et al. (2003). Development and validation of a brief screening version of the Childhood Trauma Questionnaire. Child Abuse and Neglect, 27, 169–190. http://dx.doi.org/ 10.1016/S01452134(02)00541-0.
+Bontempo, D. E., & D'Augelli, A.R. (2002). Effects of at-school victimization and sexual orientation on lesbian, gay, or bisexual, youths' health risk behaviors. Journal of Adolescent Health, 30, 364–374. http://dx.doi.org/10.1016/s1054-139X(01)00415-3.
+Corliss, H. L., Rosario, M., Wypij, D., Wylie, S. A., Frazier, A. L., & Austin, S. B. (2010). Sexual orientation and drug use in a longitudinal cohort study of U.S. adolescents. Addictive Behaviors, 35, 517–521. http://dx.doi.org/10.1016/j.addbeh.2009.12.019.
+Fedewa, A. L., & Ahn, S. (2011). The effects of bullying and peer victimization on sexual-minority and heterosexual youth. Journal of GLBT Family Studies, 7, 398–418. http://dx.doi.org/10.1080/1550428X.2011.592968.
+Friedman, M. S., Marshal, M. P., Guadamuz, T. E., Wei, C., Wong, C. F., Saewyc, E. M., et al. (2011). A meta-analysis of disparities in childhood sexual abuse, parental physical abuse, and peer victimization among sexual minority and sexual nonminority indi- viduals. American Journal of Public Health, 101, 1481–1494. http://dx.doi.org/ 10.2105/AJPH.2009.190009.
+Goodenow, C., Szalacha, L., & Westheimer, K. (2006). School support groups, other school factors, and the safety of sexual minority adolescents. Psychology in the Schools, 43, 573–589. http://dx.doi.org/10.1002/pits.20173.
+Grossman, A. H., D'Augelli, A.R., Howell, T. J., & Hubbard, S. (2005). Parent's reactions to transgender youths' gender nonconforming expression and identity. Journal of Gay & Lesbian Social Services, 18, 3–16. http://dx.doi.org/10.1300/J041v18n01_02.
+Heck, N. C., Flentje, A., & Cochran, B. N. (2011). Offsetting risks: High school gay–straight alliances and lesbian, gay, bisexual, and transgender (LGBT) youth. School Psychology Quarterly, 26, 161–174. http://dx.doi.org/10.1037/a0023226.
+Heck, N. C., Lindquist, L., Stewart, B. T., Brennan, C., & Cochran, B. N. (2013). To join or not to join: Gay–straight alliances and the high school experiences of lesbian, gay, bi- sexual, and transgender youths. Journal of Gay and Lesbian Social Services, 25, 1–25. http://dx.doi.org/10.1080/10538720.2012.751764.
+Hendricks, M. L., & Testa, R. J. (2012). A conceptual framework for clinical work with transgender and gender nonconforming clients: An adaptation of the Minority Stress Model. Professional Psychology: Research and Practice, 43(5), 460–467. http://dx.doi.org/10.1037/a0029597.
+Herbst, J. H., Jacobs, E. D., Finlayson, T. J., McKleroy, V. S., Neuman, M. S., & Crepaz, N. (2008). Estimating HIV prevalence and risk behaviors of transgender persons in the United States: A systematic review. AIDS Behavior, 12, 1–17. http://dx.doi.org/ 10.1007/s10461-0079299-3.
+IBM SPSS Statistics for Windows (Version 20.0) [Computer software]. Armonk, NY: IBM Corp.
+Kecojevic, A., Wong, C. F., Schrager, S. M., Silva, K., Bloom, J. J., Iverson, E., et al. (2012). Initiation into prescription drug misuse: Differences between lesbian, gay, bisexual, transgender (LGBT) and heterosexual high-risk young adults in Los
+N.C. Heck et al. / Addictive Behaviors 39 (2014) 824–828 827
+828 N.C. Heck et al. / Addictive Behaviors 39 (2014) 824–828
+Angeles and New York. Addictive Behaviors, 37, 1289–1293. http://dx.doi.org/10.1016/
+j.addbeh.2012.06.006.
+Kosciw, J. G., Greytak, E. A., Bartkiewicz, M. J., Boesen, M. J., & Palmer, N. A. (2012). The
+2011 National School Climate Survey: The experiences of lesbian, gay, bisexual and transgender youth in our nation's schools. (Retrieved from the Gay, Lesbian, and Straight Education Network website http://www.glsen.org/cgibin/iowa/all/research/ index.html)
+Kosciw, J. G., Palmer, N. A., Kull, R. M., & Greytak, E. A. (2013). The effect of negative school climate on academic outcomes for LGBT youth and the role of in-school supports. Journal of School Violence, 12(1), 45–63. http://dx.doi.org/10.1080/15388220.2012.732546.
+Marshal, M. P., Friedman, M. S., Stall, R., King, K. M., Miles, J., Gold, M.A., et al. (2008). Sexual orientation and adolescent substance use: A meta-analysis and methodological review. Addiction, 103, 546–556. http://dx.doi.org/10.1111/j.13600443.2008.02149.x.
+McGuire, J. K., Anderson, C. R., Toomey, R. B., & Russell, S. T. (2010). School climate for transgender youth: A mixed method investigation of student experiences and school responses. Journal of Youth and Adolescence, 39, 1175–1188. http://dx.doi.org/ 10.1007/s10964-010-9540-7.
+Mclaughlin, K. A., Hatzenbuehler, M. L., Xuan, Z., & Conron, K. J. (2012). Dispropor- tionate exposure to early-life adversity and sexual orientation disparities in psychiatric morbidity. Child Abuse & Neglect, 36, 645–655. http://dx.doi.org/ 10.1016/j.chiabu.2012.07.004.
+Meyer, I. (1995). Minority stress and mental health in gay men. Journal of Health and Social Behavior, 36, 38–56. http://dx.doi.org/10.2307/2137286.
+Meyer, I. (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: Conceptual issues and research evidence. Psychological Bulletin, 129, 674–694. http://dx.doi.org/10.1037/0033-2909.129.5.674.
+Meyer, I., & Bayer, R. (2013). School-based gay-affirmative interventions: First amend- ment and ethical concerns. American Journal of Public Health. http://dx.doi.org/ 10.2105/AJPH.2013.301385 (Advance online publication).
+Olweus, D. (1994). Annotation: Bullying at school: Basic facts and effects of a school based intervention program. Journal of Child Psychology and Psychiatry, 35, 1171–1190. http://dx.doi.org/10.1111/j.1469-7610.1994.tb01229.x.
+Poteat, V. P., DiGiovanni, C. D., Sinclair, K. O., Koenig, B. W., & Russell, S. T. (2013). Gay– straight alliances are associated with student health: A multischool comparison of LGBTQ and heterosexual youth. Journal of Research on Adolescence, 23, 319–330. http://dx.doi.org/10.1111/j.1532-7795.2012.00832.x.
+Rosario, M., Schrimshaw, E. W., & Hunter, J. (2009). Disclosure of sexual orientation and subsequent substance use and abuse among lesbian, gay, and bisexual youths: Critical role of disclosure reactions. Psychology of Addictive Behaviors, 23, 175–184. http://dx.doi.org/10.1037/a0014284.
+Ryan, C., Huebner, D., Diaz, R., & Sanchez, J. (2010). Family rejection as a predictor of negative health outcomes in White and Latino lesbian, gay, and bisexual young adults. Pediatrics, 123, 346–352. http://dx.doi.org/10.1542/peds.2007-3524.
+Toomey, R. B., Ryan, C., Diaz, R., & Russell, S. T. (2011). High school gay–straight alliances (GSAs) and young adult well-being: An examination of GSA presence, participation, and perceived effectiveness. Applied Developmental Science, 15, 175–185. http://dx.doi.org/10.1080/10888691.2011.607378.
+United States Census Bureau (1994). Geographic areas reference guide. (Retrieved from http://www.census.gov/geo/reference/garm.html)
+Walls, N. E., Kane, S. B., & Wisneski, H. (2010). Gay–straight alliances and school experi- ences of sexual minority youth. Youth and Society, 41, 307–332. http://dx.doi.org/ 10.1177/0044118X09334957.

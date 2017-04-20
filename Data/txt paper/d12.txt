@@ -1,0 +1,465 @@
+Aggression and Violent Behavior 23 (2015) 126–136
+    Contents lists available at ScienceDirect Aggression and Violent Behavior
+  Predictors of school bullying perpetration in adolescence: A systematic review
+David Álvarez-García ⁎, Trinidad García, José Carlos Núñez University of Oviedo, Spain
+         article info
+Article history:
+Received 20 February 2015
+Received in revised form 15 April 2015 Accepted 13 May 2015
+Available online 21 May 2015
+Keywords:
+Predictors
+Risk factors Bullying Adolescence Systematic review
+Contents
+1. Introduction.............................................
+2. Method............................................... 2.1. Procedure........................................... 2.2. Sample............................................
+3. Results................................................
+3.1. Individualfactors........................................ 3.1.1. Sociodemographicfactors................................
+abstract
+Bullying has negative effects on the victim, the aggressor and the bystanders. It is essential to determine the risk factors that can predict its onset in order to facilitate early identification of students at risk of becoming future victims or bullies and to optimize the design of measures for the prevention or treatment of bullying. Any measure in this regard should be based on the most solid scientific evidence available to date. The present work aims to undertake a systematic review of the scientific empirical articles published in the last decade that have analyzed possible risk factors predicting the perpetration of traditional school bullying in adolescence. From a search in the publications databases PsycInfo, Eric, and Web of Science, 85 articles that met the search requirements were selected. As a result of the analysis of the selected items, we identified the individual, school, family and community factors that increase the risk of bullying perpetration in adolescence, according to the available empirical evidence. We underscore the main points of agreement in the research community and the controversial aspects that still deserve to be studied in more depth.
+   © 2015 Elsevier Ltd. All rights reserved.
+................. 127 ................. 127 ................. 127 ................. 128 ................. 129 ................. 129 ................. 129
+  3.1.2. Studentphysicalfactors ................................................. 129
+3.1.3. Psychologicalfactors................................................... 130
+3.2. Schoolfactors.......................................................... 131
+3.2.1. Academiccommitment.................................................. 131
+3.2.2. Relationshipwithfellowstudents............................................. 131
+3.2.3. Priorrelationshipwithbullying.............................................. 131
+3.2.4. Diversityintheeducationalcenter............................................. 132
+3.2.5. Qualityoftherelationshipwiththeteachers........................................ 132
+3.2.6. Climateofcoexistenceintheschool............................................ 132
+3.2.7. Managementofcoexistencebythecenter......................................... 132
+3.2.8. Schoolsatisfaction,senseofbelongingtoschool....................................... 132
+3.2.9. Characteristicsoftheeducationalcenter.......................................... 132
+3.3. Familyfactors.......................................................... 132
+3.3.1. Socioeconomicstatusofthefamily............................................. 132
+3.3.2. Familystructure..................................................... 133
+3.3.3. Parentaleducationalstyle................................................. 133
+3.3.4. Exposuretofamilyviolence................................................ 133
+3.3.5. Parents'mentalhealth.................................................. 133
+⁎ Correspondingauthorat:FacultyofPsychology,UniversityofOviedo,PlazaFeijóo,s/n,33003Oviedo,Spain.Tel.:+34985103278;fax:+34985104144. E-mail address: alvarezgardavid@uniovi.es (D. Álvarez-García).
+http://dx.doi.org/10.1016/j.avb.2015.05.007
+1359-1789/© 2015 Elsevier Ltd. All rights reserved.
+ 
+3.4.4. Socio-political conditions of the country . . . . . . . 4. Discussion............................ 5. Conclusionsandlimitations.................... References..............................
+1. Introduction
+School is a key context for the social development of adolescents. In general, the social relations that take place in the school are satisfactory and enriching. Students learn to interact and, by overcoming small conflicts, they forge friendships, some of which will last for a lifetime. However, occasionally some students are involved in dynamics of abuse and continued maltreatment (bullying) by their peers, which can have a negative impact on their lives.
+Bullying refers to a kind of violence among students characterized by intentional attacks, which may take various forms (physical or verbal assaults, theft, destruction, isolation ...), on a victim by one or more aggressors. These attacks are not isolated but instead continuous over time, and that continuity is facilitated by the victim's inferiority (physical inferiority, or less social or psychological support) compared to the aggressors (Olweus, 1993).
+Bullying is an international problem, whose emergence and incidence have been described in a variety of countries (Romera, Del Rey, & Ortega, 2011). These situations of abuse and intimidation not only have a negative impact on the victim or on the general climate of coexistence and learning at school, but also on the aggressor. Recent systematic reviews and meta-analyses of longitudinal studies show that being a bully at school is a significant predictor of aggression (Ttofi, Farrington, & Lösel, 2012) and offending (Ttofi, Farrington, Lösel, & Loeber, 2011) later in life. Therefore, the prevention and treatment of bullying at school are not only important to optimize students' psychosocial development and learning but also, at the social level, to prevent subsequent criminal behavior.
+It is essential to determine the risk factors that enable the predic- tion of the onset of bullying in order to facilitate the early identifica- tion of children at risk of becoming bullies in adolescence and to design preventive or intervention strategies against bullying. Any measure in this regard should start with the analysis of the scientific evidence available to date. Some published works have made a sig- nificant contribution to the understanding of the risk factors of performing traditional bullying in the general population of stu- dents, based on a review of the evidence available at the time of their publication. Most of these works are non-systematic reviews (Calderero, Salazar, & Caballo, 2011; Griffin & Gross, 2004; Hong & Espelage, 2012; Powell & Ladd, 2010; Saarento, Garandeau, & Salmivalli, 2014; Salmivalli, 2010; Thornberg, 2011). There are fewer systematic reviews or meta-analyses. Among them, some try to analyze the predictive value of specific risk factors such as so- cioeconomic status (Tippett & Wolke, 2014) or empathy (Van Noorden, Haselager, Cillessen, & Bukowski, 2014). Others have attempted to provide a global perspective, collecting and analyzing evidence referring to a whole set of risk factors (Cook, Williams, Guerra, Kim, & Sadek, 2010; Lopez, Amaral, Ferreira, & Barroso, 2011).
+The present work aims to join this scarce type of works, offering a systematic and up-to-date review of the evidence available in the last decade (2005–2014). Unlike the reviews of Cook et al. (2010) and Lopez et al. (2011), in which publications on predictors of bul- lying perpetration, bullying victimization, and bully–victim both in childhood and adolescence are discussed, this work will be limited
+.. ................................. 134 .. ................................. 134 .. ................................. 134 .. ................................. 135
+to the analysis of the predictors of bullying perpetration in adoles- cence. We thereby hope to extend the specific evidence concerning it, which will allow us to describe a greater wealth of predictor var- iables and identify coincidences and inconsistencies in the available evidence. We also expect to be more accurate about the type of stu- dents to whom the conclusions can be generalized. This work has the goal of performing a systematic review of the scientific empiri- cal articles published in the last decade that have analyzed possible risk factors predicting traditional school bullying in adolescence.
+2. Method
+2.1. Procedure
+The process of selection of the articles that were finally analyzed in this review is synthesized in Fig. 1. On December 12, 2014, we consulted the publication databases PsycInfo, Eric, and Web of Science. In PsycInfo and Eric, using as search terms “Bully*” in “Any field” AND “(Adolescen* OR Secondary)” in “Any field” AND “(Risk factor* OR Predictor*)” in “Any field”, limiting the results to “Assessed by experts” and “from 2005 to 2014”. In the Web of Science, we used the search terms “Bully*” in “Topic” AND “Adolescen* OR Secondary” in “Topic” AND “Risk factor* OR Predictor*” in “Topic”, limiting the results to only “Arti- cles” and “From 2005 to 2014”.
+The references obtained were introduced into the 4.0 Zotero bib- liography manager, to eliminate duplicates. Then, two reviewers in- dependently preselected the relevant references from the titles and
+D. Álvarez-García et al. / Aggression and Violent Behavior 23 (2015) 126–136
+127
+3.4. Communityfactors.....................................
+3.4.1. Relationshipwithfriends..............................
+3.4.2. Relationship with the mass media and entertainment media . . . . . . . . . . . . . .
+3.4.3. Aspectsrelatedtotheneighborhood ........................................... 133
+................... 133 ................... 133 ................... 133
+  Search in publication databases
+PsycInfo: 423 references.
+Eric: 186 references.
+Web of Science: 692 references.
+Total: 1301 references.
+   Elimination of duplicates with Zotero
+Total included: 952 references.
+  Preselection from titles - abstracts
+Total included: 122 references.
+Excluded:
+349 duplicates.
+  Excluded:
+830 do not meet criteria.
+    Selection from full texts
+Total included: 85 references.
+Excluded:
+37 do not meet criteria.
+   Final sample
+85 articles.
+Fig. 1. Process of selection of the sample of articles analyzed.
+128 D. Álvarez-García et al. / Aggression and Violent Behavior 23 (2015) 126–136
+abstracts of articles, using the following inclusion/exclusion criteria. The studies had to have been published in the last 10 years since the completion of the search (January 2005–December 2014), in Spanish or English. They had to report results on risk factors of tradi- tional school bullying perpetration. We therefore excluded those works focused only on bully–victim, victimization or observation; those focused on broader constructs such as youth violence, school aggression or violence; those focused only on cyberbullying; and those concerned with bullying in other settings such as workplace bullying, bullying in prisons or sibling bullying. The works had to be empirical papers (we excluded theoretical articles, reviews, systematic reviews, meta-analyses, and revisions). The sample should include at least 500 subjects, adolescents or preadolescents (12–18 years), and should not be limited to a specific gender or a mi- nority group (racial/ethnic, nationality, culture of origin, sexual ori- entation, disability). In case of discrepancy between the two reviewers, the reference was preserved for deeper analysis in the next phase. In this next phase, we repeated the process, this time with the complete texts of pre-selected references, resulting in the final sample.
+Once we had selected the references that made up the final sample, we extracted the relevant information from the full texts. For this pur- pose, we developed a form for the collection of the following data: code assigned to the article, reviewer, year of publication, journal, lan- guage, number of subjects analyzed, age range, country of the sample, informant, data collection method, type of analysis, and findings on risk factors.
+2.2. Sample
+The 85 works that make up the final sample of articles reviewed in this study are designated with an asterisk in the References section. They were published in 60 different scientific journals (Table 1),
+Table 1
+Bibliometric properties of the articles included in the systematic review (N = 85). Descriptive variable f%
+Table 2
+Methodological characteristics of articles included in the systematic referring to the analyzed sample.
+review (N = 85), %
+14.1 52.9 16.5 10.6
+3.5 2.4
+5.2 29.9 59.7 75.3 88.3 85.7 81.8 64.9 54.5 33.8 20.8 6.5
+35.3 10.6 8.2 5.9 4.7 4.7 3.5 2.4 2.4 2.4 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.2
+100
+    Year of publication
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+Language
+English
+Spanish
+English and Spanish
+Journal
+Journal of Adolescent Health
+The Journal of Early Adolescence
+Behavioral Psychology/Psicología Conductual
+Plos One
+International Journal of Adolescent Medicine and Health
+2 2.4 7 8.2 7 8.2 5 5.9 7 8.2
+12 14.1 13 15.3 14 16.5 13 15.3
+5 5.9
+80 94.1 4 4.7 1 1.2
+5 5.9 4 4.7 3 3.5 3 3.5 3 3.5 3 3.5 3 3.5 3 3.5 3 3.5 2 2.4 2 2.4 2 2.4 2 2.4
+47 56.4 85 100
+Descriptive variable
+Number of children or adolescents analyzeda 501–1000
+1001–5000
+5001–10,000
+10,001–50,000 50,001–100,000 N 100,000
+Age of the sampleb 2–9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19 20–22
+Country of the sample
+USA
+Canada
+Spain
+United Kingdom Italy
+South Korea Holland
+Norway
+Cyprus
+Taiwan
+China
+Cyprus and Turkey Austria
+Turkey
+Republic of South Africa
+Greece
+Brazil
+Vanuatu Tonga and Federated States of Micronesia Israel
+Croatia
+Slovakia
+Japan
+Lithuania
+Australia
+Portugal
+Sweden Iceland Norway Finland and Denmark
+37 countries
+Total
+a Min. = 515, Max. = 594,638.
+f
+12 45 14
+9 3 2
+4 23 46 58 68 66 63 50 42 26 16 5
+30 9 7 5 4 4 3 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 85
+ Journal of
+Journal of
+Journal of
+Journal of
+Pediatrics
+Journal of
+Schools Psychology International Child Development
+b Frequency and percentage of articles that include the age indicated in the age range analyzed. The categories, therefore, are not mutually exclusive. The percentage is calculat- ed with regard to the number of articles that inform the age range of the sample (N = 77).
+between 2005 and 2014, with a predominance of articles between 2010 and 2013, in English or Spanish, with a clear majority of articles in English.
+As for the samples appearing in reviewed articles (Table 2), the number of subjects analyzed in the different works is very variable—between 515 and 594,638 children or teenagers—, with a pre- dominance of articles with between 1001 and 5000 subjects. More spe- cifically, most of the articles (25.9%) dealt with a sample of 1001 to 2000 subjects. The age of the samples dealt with in the studies reviewed ranged from 2 to 22 years, with a predominance of ages between 12 and 16 years. The countries to which the analyzed samples belong are varied: countries of America, Europe, Asia and Oceania.
+The reviewed studies used diverse methods to collect and analyze the data (Table 3). However, they are mostly cross-sectional studies, in which the data were collected through self-report questionnaires, and the analyses were performed using regression analysis.
+School Violence
+Youth And Adolescence School Health Adolescence
+Interpersonal Violence
+Other (only one article)
+Total
+ 
+Table 3
+Methodological characteristics of the articles included in the systematic review (N = 85), relating to the collection and analysis of data.
+Age is one of the most widely analyzed variables. Some studies found no statistically significant association between age and being a bully (Larochette et al., 2010; Lee, 2010; Stefanek et al., 2011; Tippett et al., 2013). However, most of the works offer results that are consistent with the existence of a curvilinear relationship between the two vari- ables. The probability of a student being a bully increases from grade to grade until about age 14 years, when it decreases (Atik & Güneri, 2013; Barboza et al., 2009; Barker et al., 2008; Caballo et al., 2011; Carlyle & Steinman, 2007; CDC, 2011; Gendron et al., 2011; Magklara et al., 2012; Nation et al., 2008; Santinello et al., 2011; Volk et al., 2006; Wei et al., 2010; Williams & Guerra, 2011). However, some studies have found a progressive decrease in the probability of being a bully from age 11–12 years onwards (Lambert et al., 2008; Shetgiri, Lin, Avila, & Flores, 2012; Tochigi et al., 2012).
+Race/ethnicity is another relevant socio-demographic factor. Only one of the studies reviewed, carried out in South Wales, concludes that there is no statistically significant association between race/ethnic- ity and being a bully in the analyzed sample (Lambert et al., 2008). The most widespread pattern of results is that, in each setting analyzed, the students of certain ethnic, racial, or cultural minorities are more likely to be bullies than the majority group. Thus, studies carried out in the United States or in Canada have found a higher probability of being bullies among African American or Hispanic students than in white stu- dents (Carlyle & Steinman, 2007; Larochette et al., 2010; Lovegrove et al., 2012; Low & Espelage, 2013; Shetgiri, Lin, Avila, et al., 2012; Spriggs, Iannotti, Nansel, & Haynie, 2007; Wang, Iannotti, & Nansel, 2009); in Israel, there was a higher probability of being a bully in Arab students (minority group) than in Jews (majority) (Laufer et al., 2006); and in the United Kingdom, Caribbean and Pakistanis were more likely than whites to be bullies (Tippett et al., 2013). However, some ethnic minority groups tend to have a lower probability of being bullies than the majority group. Thus, in the USA, the Asian or Pacific Is- landers have a lower tendency to be bullies than white people (Barboza et al., 2009; Carlyle & Steinman, 2007; Espelage et al., 2014; Shetgiri, Lin, & Flores, 2012).
+The analysis of the condition of immigrant as a risk factor for being a bully provides inconsistent results and does not allow extracting a clear pattern. Some studies have found that immigrant students are more likely to be bullies. In this sense, in Brazil, Prodocimo et al. (2014) found that students whose mother had been born in the same state of Brazil in which they currently lived were less likely to be bullies; and in Norway, Fandrem et al. (2009) found that immigrant students report- ed performing more bullying than the native Norwegian students. How- ever, other studies have found the opposite: immigrant students are less likely to bully. Thus, Shetgiri et al. (2013) found in their USA sample that being a student born in the USA is a risk factor for being a bully; and if the primary language spoken in the student's home is not English, there is less likelihood of bullying (Shetgiri, Lin, Avila, et al., 2012; Shetgiri, Lin, & Flores, 2012; Shetgiri et al., 2013). Lastly, Stefanek et al. (2011), with a sample of pupils in Austria, found that being an immi- grant of another nationality does not have a statistically significant asso- ciation with bullying.
+3.1.2. Student physical factors
+The association between some student physical characteristics and
+being a bully has been analyzed. Children whose parents gave them high scores in motricity (skill, balance, flexibility) at preschool were more likely to be bullies and less likely to be victims at age 10– 11 years. However, this score does not allow predicting being a bully at age 13–14 years, but it does allow prediction of victimization (Jansen et al., 2011). The student's weight does not allow prediction of being a bully (Kim et al., 2009; Yang et al., 2013). Neither has students' height proven to be a particularly relevant risk of being a bully (Yang et al., 2013). Only one of the reviewed studies indicated that taller boys (not girls) had a slightly increased risk of performing some types of bullying (Kim et al., 2009). The predictive role of the Body Mass
+Descriptive variable
+Informant
+Self-report
+Self-report and peer report
+Self-report and teacher report
+Parent report
+Self-report and parent report
+Analysis of the database by researchers and self-report Peer report
+Self-report, teacher report and parent report
+Peer report and parent report
+Method of data collection
+Questionnaire
+Questionnaire and peer nomination
+Telephone interview
+Questionnaire and database analysis
+Face-to-face interview
+Peer nomination
+Questionnaire and interview
+Questionnaire and objective measurement of height and weight Questionnaire and telephone interview
+Questionnaire and focus groups
+Method of data analysisa
+Regression
+Cross comparison of averages or percentages Correlation (bivariate)
+Longitudinal
+Structural equation modeling
+Total
+a The categories are not mutually exclusive.
+3. Results
+3.1. Individual factors
+f%
+61 71.8 9 10.6 4 4.7 4 4.7 2 2.4 2 2.4 1 1.2 1 1.2 1 1.2
+65 76.5 9 10.6 3 3.5 2 2.4 1 1.2 1 1.2 1 1.2 1 1.2 1 1.2 1 1.2
+63 74.1 37 43.5 21 24.7 18 21.2 12 14.1 85 100
+D. Álvarez-García et al. / Aggression and Violent Behavior 23 (2015) 126–136 129
+   3.1.1. Sociodemographic factors
+Sex is, by far, the most analyzed variable in the reviewed works.
+There are very few studies that do not find a statistically significant as- sociation between sex and being a bully (Espelage, Polanin, & Low, 2014; Lovegrove, Henry, & Slater, 2012; Shetgiri, Lin, & Flores, 2013; Wang et al., 2012). The results consistently indicate a greater likelihood of being a bully in boys than in girls (Atik & Güneri, 2013; Barboza et al., 2009; Barker, Arseneault, Brendgen, Fontaine, & Mauchan, 2008; Caballo, Arias, Calderero, Salazar, & Irurtia, 2011; Carlyle & Steinman, 2007; Carrera-Fernández, Lameiras-Fernández, Rodríguez-Castro, & Vallejo-Medina, 2013; Centers for Disease Control & Prevention (CDC), 2011; Cerezo & Méndez, 2012; Chang et al., 2013; De Bruyn, Cillessen, & Wissink, 2010; Donnon, 2010; Fandrem, Strohmeier, & Roland, 2009; Fanti & Kimonis, 2012; Farhat, Iannotti, & Simons-Morton, 2009; Gendron, Williams, & Guerra, 2011; Guerra, Williams, & Sadek, 2011; Hemphill et al., 2012; Jansen, Veenstra, Ormel, Verhulst, & Reijneveld, 2011; Kim, Boyce, Koh, & Leventhal, 2009; Kuzman, Šimetin, & Franelić, 2007; Lambert, Scourfield, Smalley, & Jones, 2008; Larochette, Murphy, & Craig, 2010; Laufer, Harel, & Molcho, 2006; Magklara et al., 2012; Ma- rini, Dane, Bosacki, & Ylc-Cura, 2006; Méndez & Cerezo, 2010; Nation, Vieno, Perkins, & Santinello, 2008; Nocentini, Menesini, & Salmivalli, 2013; Pepler, Jiang, Craig, & Connolly, 2008; Pitel et al., 2012; Postigo, González, Mateu, & Montoya, 2012; Poteat, DiGiovanni, & Scheer, 2013; Prodocimo, Cerezo, & Arense, 2014; Santinello, Vieno, & De Vogli, 2011; Scholte, Sentse, & Granic, 2010; Shetgiri, Lin, & Flores, 2012; Stefanek, Strohmeier, Van de Schoot, & Spiel, 2011; Tippett, Wolke, & Platt, 2013; Tochigi et al., 2012; Vieno, Gini, & Santinello, 2011; Volk, Craig, Boyce, & King, 2006; Wei, Williams, Chen, & Chang, 2010; Williams & Guerra, 2011; Yang et al., 2013). Only one of the reviewed articles found a higher probability of being a bully in girls (Viding, Simmonds, Petrides, & Frederickson, 2009), and only referring to “indirect bullying”.
+130 D. Álvarez-García et al. / Aggression and Violent Behavior 23 (2015) 126–136
+Index has been studied more frequently, providing mixed results. The data of the CDC (2011) indicate that there is a higher percentage of overweight or obese students among bullies than among victims or in uninvolved students. Kukaswadia, Craig, Janssen, and Pickett (2011) found that this association occurs mainly in obese girls, who are three times more likely to be relational bullies than girls with normal weight. However, Farhat et al. (2009) found that when controlling statistically only for gender, being an obese girl (but not a boy) is a significant predictor of being a bully, but when controlling statistically also for age, socioeconomic status, race, and family composition, obesity is no longer a significant predictor of being a bully. Magklara et al. (2012) found a different pattern of results: body mass index is non-linearly associated with a low risk of being bully at both extremes.
+The predictor role of some physical health problems for being a bully has also been analyzed. In general, physical health problems reported by students are compatible with daring behavior and aggressions, as well as with certain disabilities. Bullies report having poor or bad health to a greater extent than students not involved in bullying (CDC, 2011). Bullies are at increased risk of suffering accidental or perpetrated injuries than those who are not involved in bullying (Srabstein & Piazza, 2008). Both in boys and girls, bullies are more likely to have suffered a wound or injury that required medical care in the past year (Starkuvienė & Zaborskis, 2005) or some traumatic brain injury throughout their life (Ilie et al., 2014).
+Reports of headache, stomach ache, backache, cough, or cold are more common in bullies than in people uninvolved in bullying (Volk et al., 2006). On the other hand, none of the following chronic diseases is significantly associated with being a bully: eczema, allergies, asthma, diabetes, visual impairment, speech difficulties, motor disability, gastro- intestinal problems, and epilepsy (Nordhagen, Nielsen, Stigum, & Köhler, 2005). Having a hearing impairment does increase the probabil- ity of being a bully in the study of Nordhagen et al. (2005). The percent- age of bullies who report having some kind of disability is not higher than that of the victims, but it is higher than that of students uninvolved in bullying (CDC, 2011).
+3.1.3. Psychological factors
+3.1.3.1. Personality traits. Impulsivity and hyperactivity increase the likeli- hood of being a bully (Fanti & Kimonis, 2012; Low & Espelage, 2014; Marini et al., 2006; Viding et al., 2009). However, Yang et al. (2013) found that ADHD symptoms reported by parents at age 10 are not significant predictors of being a bully at age 12. Perhaps this is due to the fact this measure includes symptoms both of impulsivity–hyperac- tivity and inattention.
+Empathy correlated negatively with being a bully (Casas, Del Rey, & Ortega-Ruiz, 2013; Poteat et al., 2013). Having a poor Theory of Mind at age 5 is a risk factor for being a bully at age 12, although this associa- tion is statistically explained by two family factors: socioeconomic status (deprivation) and child maltreatment (Shakoor et al., 2012). Callous-unemotional traits increase the probability of being a bully (Fanti & Kimonis, 2012; Viding et al., 2009), as does moral disengage- ment (Pepler et al., 2008).
+Aggressiveness is positively associated with being a bully (Kim, Leventhal, Koh, Hubbard, & Boyce, 2006; Nocentini et al., 2013). The data obtained by Fandrem et al. (2009) in Norway show that being a bully is more closely related to reactive than to proactive aggressive- ness. With the total sample, both power-related proactive aggression (aggressiveness to increase one's power in the group, intimidating others) as affiliation-related proactive aggressiveness (aggression to earn friendship, group acceptance) can predict being a bully (the former, notably so), whereas reactive aggressiveness is not a statistically significant predictor. In native Norwegians specifically, all three types of aggression are predictors of being a bully, especially power-related pro- active aggression, and the association with reactive aggression is very
+low. In immigrants, only affiliation-related proactive aggressiveness is a statistically significant predictor of being a bully.
+Students with anti-social behavior problems are more likely to be bullies (Cerezo & Méndez, 2012; Viding et al., 2009; Wei et al., 2010), especially if the behavior problems are accompanied by callous- unemotional traits (Fanti, 2013; Fanti & Kimonis, 2012; Viding et al., 2009). There is a significant association between being a bully and having run away from home or having thought about doing so (Wang et al., 2012); having been involved in physical fights (Shetgiri, Lin, & Flores, 2012; Wang et al., 2012); deliberately hurting animals and people (Srabstein & Piazza, 2008); bearing arms (Barboza et al., 2009; Bradshaw, Waasdorp, Goldweber, & Johnson, 2013; Donnon, 2010; Donnon & Hammond, 2007; Shetgiri, Lin, & Flores, 2012; Srabstein & Piazza, 2008); stealing from a shop (Donnon & Hammond, 2007); and having been arrested by the police (Méndez & Cerezo, 2010). Bullies also report a higher consumption of tobacco (Shetgiri, Lin, & Flores, 2012; Smith, Phongsavan, Bauman, Havea, & Chey, 2007; Vieno et al., 2011), alcohol (Donnon & Hammond, 2007; Laufer et al., 2006; Peleg-Oren, Cardenas, Comerford, & Galea, 2012; Shetgiri, Lin, & Flores, 2012; Smith et al., 2007; Tochigi et al., 2012; Vieno et al., 2011; Volk et al., 2006) or illegal drugs (Farhat, Simons-Morton, & Luk, 2011; Laufer et al., 2006; Shetgiri, Lin, & Flores, 2012; Smith et al., 2007; Tochigi et al., 2012; Volk et al., 2006) than do victims and people uninvolved in bully- ing (Bradshaw et al., 2013; Carlyle & Steinman, 2007; CDC, 2011; Cerezo & Méndez, 2012; Low & Espelage, 2014; Méndez & Cerezo, 2010). The rate of polydrug use is higher in bullies than in victims and uninvolved students (Cerezo & Méndez, 2012).
+The relationship between self-esteem and being a bully is complex and its study has given rise to mixed results. Some studies have found a negative association between both variables: low self-esteem levels predict high levels of bullying (Guerra et al., 2011). In this case, abuse of peers would be used by bullies to feel better about themselves, com- pensating for their low self-concept in other areas, and achieving a higher status in the group. Other works have found a positive associa- tion between self-esteem and being a bully: the probability of being a bully is greater when the student has high self-esteem (Gendron et al., 2011; Marini et al., 2006). In this case, bullies use their greater self- esteem, and probably their higher status within the group compared to the victim, to carry out the abuse. In this sense, Fanti and Kimonis (2012) found a positive association between narcissism and being a bully. Narcissism would especially contribute to the stability over time of bullying perpetration. Perhaps because of this ambivalent relation- ship between self-esteem and being a bully, the majority of the reviewed studies analyzing the relationship between the two variables have found that the association between them is nonsignificant (Atik & Güneri, 2013; Barboza et al., 2009; Nation et al., 2008; Yang et al., 2013); that is, the probability of being a bully is independent of the stu- dents' degree of self-esteem.
+Anxiety does not predict being a bully (Jansen et al., 2011; Yang et al., 2013). On the other hand, a greater presence of depressive symptoms predicts being a bully, although to a lesser extent than being a victim (Carlyle & Steinman, 2007; CDC, 2011; Marini et al., 2006; Wei et al., 2010; Yang et al., 2013). The probability of being a bully increases among those who have an external locus of causality (Atik & Güneri, 2013). Suicidal ideation and suicide attempts—like intentional self- harm (CDC, 2011; Srabstein & Piazza, 2008)—are more common among bullies than students who are not involved in bullying (CDC, 2011; Wang et al., 2012).
+Bullies tend to be more extrovert than the victims. Social anxiety is more common in victims than in bullies, and it is more common in both of them than in students not involved in bullying (Marini et al., 2006). Social anxiety does not have a statistically significant correlation with being a bully, but it does correlate with being a victim (Caballo et al., 2011). Analysis of social competence as a risk factor for being a bully offers two types of results. On the one hand, some studies have found a negative relationship between the degree of social skills and
+being a bully. Postigo et al. (2012) found that social skills are a negative predictor of maladjustment, which in turn positively predicts being a bully and negatively predicts peer acceptance. In turn, peer acceptance negatively predicts being a bully. In the same vein, Bayraktar (2012) found that coping skills and social cognition are negatively related to being a bully. However, on the other hand, some studies have found that social competence is greater in bullies than in victims and that this competence is positively associated with being a bully and nega- tively with being a victim (Nation et al., 2008). Bullies will take advan- tage of their social competence to maintain their dominance over the victim and perpetuate the abuse.
+Sensation seeking, that is, performing risky, dangerous or forbidden behaviors, is a predictor of being a bully (Laufer et al., 2006; Lee, 2010; Lovegrove et al., 2012; Méndez & Cerezo, 2010). Among other activities, bullies are more likely than victims or students uninvolved in bullying to have driven vehicles under the influence of alcohol (Méndez & Cerezo, 2010), to never or rarely use the seat belt as passengers (CDC, 2011) and to have had a sexual experience before the age of 15 (Kuzman et al., 2007).
+3.1.3.2. Attitudes and values. Certain attitudes constitute a risk factor for being a bully. Tolerant attitudes towards anti-social and aggressive behaviors (Lee, 2010; Marini et al., 2006), as well as towards bullying (Carrera-Fernández et al., 2013; Gendron et al., 2011; Guerra et al., 2011; Scholte et al., 2010; Stefanek et al., 2011), are positively associat- ed with being a bully. Competitive attitudes—a desire for social success (Nocentini et al., 2013)—, sexist attitudes towards women (Carrera- Fernández et al., 2013), and negative attitudes towards homosexuals (Carrera-Fernández et al., 2013; Poteat et al., 2013) are also positively associated with being a bully.
+With regard to values, specifically religious values, Pitel et al. (2012) found in a sample of students from Slovakia that students who declare that religious faith is very important in their lives and who also state they go to church or Mass frequently are less likely to report bullying perpetration than students who grant low importance to religion and who do not attend church services or Mass.
+3.1.3.3. Sexual orientation. Boys and girls who reported being homosex- ual (gay or lesbian) are less likely to report having been bullies during the past year than those who report being heterosexual—but they are more likely to have been victims. Bisexual girls are more likely to have been bullies—and victims—than heterosexual girls (Berlan, Corliss, Field, Goodman, & Austin, 2010).
+3.1.3.4. Mental health problems. Students involved in bullying situations, either as a bully, a victim, or both, report poorer health status than those who are not involved in bullying (CDC, 2011; Srabstein, McCarter, Shao, & Huang, 2006). In particular, the health problems that can predict being a bully to a greater extent are emotional, behavioral, or develop- mental problems (Shetgiri, Lin, Avila, et al., 2012; Van Cleave & Davis, 2006). Among these problems, helplessness, insecurity, feeling low, moodiness, nervousness, and insomnia—internalizing problems—correlate positively with being a victim and negatively with being a bully (Volk et al., 2006). Bullies are more likely to present problems like hyperactiv- ity or behavioral problems—externalizing problems (Nordhagen et al., 2005).
+3.2. School factors
+3.2.1. Academic commitment
+Bullies express less commitment to school (working hard, following
+the rules of the school) than victims and students uninvolved in bully- ing (Cunningham, 2007). Except for three works that found no statisti- cally significant relation between academic performance and being a bully (Atik & Güneri, 2013; Wang et al., 2012; Yang et al., 2013), the rest of the studies that analyzed this association coincide in highlighting
+poor academic performance as a risk factor for being a bully (Bradshaw et al., 2013; CDC, 2011; Chang et al., 2013; Hemphill et al., 2012; Lovegrove et al., 2012; Magklara et al., 2012; Mlisa, Ward, Flisher, & Lombard, 2008; Shetgiri, Lin, & Flores, 2012; Spriggs et al., 2007). The percentage of repeater bullies is greater than that of victims or students not involved in bullying (Cerezo & Méndez, 2012; Méndez & Cerezo, 2010).
+Students whose parents report that they usually or always do their homework are less likely is to be bullies (Shetgiri, Lin, Avila, et al., 2012). Students who skip classes (truancy) are more likely to be bullies (Bradshaw et al., 2013; Donnon & Hammond, 2007).
+Having changed classes within the same center during the last three years is significantly associated with being a bully (Nocentini et al., 2013). The number of discipline referrals is positively associated with the probability of the student identifying him- or herself as a bully (Totura, Green, Karver, & Gesten, 2009). Some studies indicate that the percentage of bullies who have been expelled from the school is higher than that of the victims or the students uninvolved in bullying (Méndez & Cerezo, 2010). On the other hand, other studies have found that having been expelled from school in the 7th grade is not significantly associated with being a bully in the 9th grade (Hemphill et al., 2012).
+3.2.2. Relationship with fellow students
+Having the support from the classroom, either due to classmates' pro-bullying attitude or their fear of being the next victim, is a risk factor for being a bully. The number of mutual friends, assessed by peer nomination, is positively associated with being a bully (Scholte et al., 2010). The feeling of being excluded is negatively associated with being a bully (Barboza et al., 2009) and the perception of positive interactions is positively associated with reporting being a bully—although to a lesser extent than negative interactions (Casas et al., 2013). Bullies perceive less social isolation than victims (Spriggs et al., 2007; Wang et al., 2012).
+However, being a bully is also associated with more peer rejection, either due to their aggressive behavior or to other personal characteris- tics. Thus, some studies show that bullies tend to perceive more conflicts and worse relations with peers (Bayraktar, 2012; Lovegrove et al., 2012; Pepler et al., 2008; Spriggs et al., 2007), and that the degree of sociometric acceptance (liking, being liked by classmates, being preferred as friends) is negatively associated with being a bully (De Bruyn et al., 2010; Postigo et al., 2012; Scholte et al., 2010). In any case, unsatisfactory relationships with classmates (experiences of isolation, being harassed) are more common in victims than in bullies and students uninvolved in bullying (Marini et al., 2006).
+This double relation may explain why some studies have not found a statistically significant association between being a bully and cohesion or perceived relation with classmates (Barboza et al., 2009; Wang et al., 2012).
+Being a bully is positively associated with sociometric popularity (visibility, center of attention). This association is stronger in adolescents with low levels of sociometric acceptance and also stronger in boys than in girls (De Bruyn et al., 2010).
+3.2.3. Prior relationship with bullying
+Among the reviewed works that analyze this variable, the authors are unanimous in asserting that having been a bully in the past increases the likelihood of the adolescent's being a bully currently. Having reported being a bully at the beginning of the course significantly predicts reporting being a bully at the end of the same course (Gendron et al., 2011; Williams & Guerra, 2011). Being currently a bully correlates positively with having been a bully one (Low & Espelage, 2013, 2014) or two years ago (Fanti & Kimonis, 2012; Hemphill et al., 2012; Nocentini et al., 2013; Yang et al., 2013).
+Likewise, the results are fairly consistent in asserting that having been the victim of bullying in the past increases the adolescent's current
+D. Álvarez-García et al. / Aggression and Violent Behavior 23 (2015) 126–136 131
+132 D. Álvarez-García et al. / Aggression and Violent Behavior 23 (2015) 126–136
+likelihood of being a bully (Barboza et al., 2009; Barker et al., 2008; Fanti & Kimonis, 2012; Hemphill et al., 2012; Lee, 2010; Shetgiri, Lin, & Flores, 2012), although to a lesser extent than having been a bully (Guerra et al., 2011). Only one of the reviewed works concludes that having been a victim of bullying in the past is not a significant predictor of being a bully in the sample analyzed (Yang et al., 2013).
+Finally, permissive or encouraging attitudes of their classmates towards bullying and the frequency of bullying behavior in their class are both risk factors for a student to become a bully (Nocentini et al., 2013; Perkins, Craig, & Perkins, 2011; Scholte et al., 2010).
+3.2.4. Diversity in the educational center
+The ethnic diversity of pupils in the student's class or school does not
+lead to a greater likelihood of that student reporting being a bully (Espelage et al., 2014; Larochette et al., 2010; Stefanek et al., 2011). The percentage of girls in a student's classroom had no statistically signif- icant association with that student reporting being a bully (Stefanek et al., 2011). The percentage of girls in the student's school had a negative association with that student reporting being a bully (Espelage et al., 2014).
+Regarding the diversity of the teachers, the student's perception of receiving support and assistance at school is negatively related to performing relational bullying, and this relationship is stronger when there is a higher level of diversity of teachers—the percentage of teachers who are visible minorities—in the center (Larochette et al., 2010).
+3.2.5. Quality of the relationship with the teachers
+Most of the reviewed studies that analyze this variable found that teachers' support and good personal treatment towards students is a protective factor against the student becoming a bully (Barboza et al., 2009; Casas et al., 2013; Gregory et al., 2010; Simões & Gaspar-Matos, 2011; Wei et al., 2010). Only one article concluded that the relationship with the teachers is not a statistically significant predictor of a student's reporting being a bully (Wang et al., 2012).
+The probability of being a bully is higher in students whose teachers have low expectations about their performance in school (Barboza et al., 2009).
+3.2.6. Climate of coexistence in the school
+The student's perception that the center is safe and the school has a positive climate of coexistence is negatively associated with reports of being a bully (Casas et al., 2013; Gendron et al., 2011; Spriggs et al., 2007; Stefanek et al., 2011). The student's perception that the teachers promote mutual respect in the center is negatively associated with being a bully (Bayraktar, 2012; Espelage et al., 2014; Poteat et al., 2013). Exposure to violence at school correlates positively with being a bully one year later (Low & Espelage, 2014).
+3.2.7. Management of coexistence by the center
+Students who perceive a democratic disciplinary style in their center are less likely to report being bullies (Bayraktar, 2012). A student's perception that the rules of the Center are clear and fair and also justly and consistently applied decreases the probability of being a bully (Barboza et al., 2009; Gregory et al., 2010; Lambert et al., 2008; Santinello et al., 2011). Casas et al. (2013) propose the hypothesis that this relationship is not direct: the consistency and clarity of the rules of the center are negatively associated with negative relationships among the students and positively associated with positive relation- ships. These relationships, in turn, predict the respondent's reporting being a bully.
+Bullies and victims perceive to a lesser extent that bullying is consid- ered a problem in their center and that interventions to stop it are being implemented than do students who are uninvolved in bullying (Cunningham, 2007). The development of activities in the school to
+prevent bullying reported by the teachers and the school staff decreases the probability of students' reporting being bullies (Espelage et al., 2014).
+3.2.8. School satisfaction, sense of belonging to school
+Satisfaction with the school is a protective factor against being a bully (Simões & Gaspar-Matos, 2011; Shetgiri, Lin, & Flores, 2012; Spriggs et al., 2007). The feeling of belonging to the school decreases the probability of being a bully (Lovegrove et al., 2012). However, par- ticipation in clubs, organizations or sports teams at school does not present a significant association with being a bully (Shetgiri et al., 2013).
+3.2.9. Characteristics of the educational center
+Few studies among those reviewed have analyzed the effect of class
+or center size on the probability of being a bully. The results show that the size (number of students) of a student's school is not significantly associated with that student being a bully (Tochigi et al., 2012; Wei et al., 2010). The teacher/student ratio (number of students per teacher) does not have a statistically significant association with reports of being a bully in the only article reviewed that analyzed this variable (Wei et al., 2010). On the other hand, another study found that the class size (the number of students per class) is negatively associated with being a bully (Stefanek et al., 2011).
+Only one study analyzed the socioeconomic status of the center attended by the student as a possible risk factor for being a bully (Espelage et al., 2014). Taking as an indicator the percentage of students who receive free or reduced lunch at school, no statistically significant association between this variable and the students' reports of being a bully was observed.
+3.3. Family factors
+3.3.1. Socioeconomic status of the family
+To analyze the predictive role of the family socioeconomic status on being a bully, the reviewed articles used three indicators: parents' educational level, employment status, and level of income. Overall, the results show that socioeconomic status is not a determinant, and that students with high and low status have a similar probability of being bullies.
+Regarding the parents' educational level, none of the reviewed studies that have analyzed it found a statistically significant association between the father's educational level and his son being a bully (Barboza et al., 2009; Kim et al., 2009; Magklara et al., 2012; Mohapatra et al., 2010; Shetgiri et al., 2013). With regard to the mother's educational level, most studies found no statistically signifi- cant association (Barboza et al., 2009; Espelage et al., 2014; Kim et al., 2009; Mohapatra et al., 2010; Shetgiri et al., 2013). Only Magklara et al. (2012) found that the fact that the mother had completed second- ary education is associated with a lower risk of being a bully.
+Regarding parents' employment status, the only reviewed article that analyzed this variable is that of Magklara et al. (2012). In this study, the mother's employment status does not predict being a bully, but that of the father does. Having an unemployed or self-employed father is a risk factor and having a retired father is a protective factor.
+Finally, regarding the level of family income, most of the works find that its association with the student being a bully is not statistically significant (Larochette et al., 2010; Magklara et al., 2012; Shetgiri et al., 2013; Wang et al., 2009, 2012). Two studies concluded that students with a high family income level in their samples present a greater risk of being bullies: Barboza et al. (2009) conclude that, in the analyzed sample, being a bully is more likely as the level of family income increases; and Chang et al. (2013) conclude that the student's perception of economic difficulties in the family reduces the probability of being an aggressor and increases that of being a victim, compared with students who have a higher family income. Only one study found that children living in families with low income are more likely to be
+bullies (Shetgiri, Lin, Avila, et al., 2012). Jansen et al. (2011), whereas considering the family socioeconomic status globally (level of income, educational level, and work status of father and mother taken conjointly), they found that a low status when the child is 10– 11 years old allows predicting being a bully at 10–11 years of age and also being a bully at age 13–14.
+3.3.2. Family structure
+The studies reviewed provide two types of result. On the one hand, five studies conclude that living with both biological parents, living only with the father or the mother or other situations does not significantly predict being a bully in the samples analyzed (Barboza et al., 2009; Kim et al., 2009; Mohapatra et al., 2010; Prodocimo et al., 2014; Wang et al., 2012). On the other hand, another five studies found that nontraditional family structures (not living with both biological parents) may be a risk factor for being a bully (Breivik & Olweus, 2006; Jansen et al., 2011; Pepler et al., 2008; Spriggs et al., 2007; Yang et al., 2013).
+3.3.3. Parental educational style
+Results were obtained that agree that scarce parental control is a risk
+factor for the student to be a bully. The establishment of family rules and the parents' interest in their children's schoolwork, friendships, and activities decreases the probability of the students being bullies (Atik & Güneri, 2013; Gómez-Ortiz, Del Rey, Casas, & Ortega-Ruiz, 2014; Low & Espelage, 2013, 2014; Marini et al., 2006; Pepler et al., 2008; Shetgiri, Lin, Avila, et al., 2012; Simões & Gaspar-Matos, 2011). In the same vein, the results are fairly consistent in pointing out that scarce closeness and trust towards the parents, as well as communication difficul- ties with them constitute a risk factor for the student to be a bully (Bayraktar, 2012; Gómez-Ortiz et al., 2014; Marini et al., 2006; Pepler et al., 2008; Shetgiri, Lin, Avila, et al., 2012; Shetgiri, Lin, & Flores, 2012; Shetgiri et al., 2013; Spriggs et al., 2007; Wang et al., 2012). Scarce parental emotional support perceived by the student may also be risk fac- tor to be a bully (Barboza et al., 2009; Wang et al., 2009, 2012).
+The attitudes and values transmitted by parents also have an impact on student bully behavior. Thus, for example, parents' positive attitudes towards sexual minorities are negatively associated with students' prejudice towards gays and lesbians, which, in turn, is positively associated with being a bully (Poteat et al., 2013).
+3.3.4. Exposure to family violence
+The results obtained are consistent in pointing out that exposure to family violence is a risk factor for being a bully. The presence of family conflicts and domestic violence by adults is positively associated with being a bully (Hemphill et al., 2012; Low & Espelage, 2013, 2014; Tochigi et al., 2012). More specifically, the bully is more likely to report having suffered physical harm or abuse by an adult relative (CDC, 2011; Duke, Pettingell, McMorris, & Borowsky, 2010), having suffered sexual abuse by a family member (Duke et al., 2010), or having witnessed family violence or physical abuse among family members (CDC, 2011; Duke et al., 2010). On the other hand, girls whose families were attended to at some time by the Child Protective Services (public services to attend to children who have been abused or neglected by their families) are subsequently more likely to be bullies than girls who were never attended to by those services, although in boys, this variable is not a statistically significant risk factor (Mohapatra et al., 2010).
+3.3.5. Parents' mental health
+The reviewed studies that have analyzed the impact of the parents' mental health on students' risk of being a bully are very scarce. When mental health is analyzed in general, mixed results have been found. Some studies found that if the mother's mental or emotional health is not very good or excellent, there is a greater probability that the student will be bully (Shetgiri, Lin, Avila, et al., 2012; Shetgiri, Lin, & Flores, 2012;
+Shetgiri et al., 2013). Yang et al. (2013), on the other hand, found that the parents' mental health when the child is 10 years old is not a significant predictor of being a bully at 12 years of age. Students who re- ported problematic use of alcohol or drugs in some family member are more likely to report being a bully (Duke et al., 2010).
+3.4. Community factors
+3.4.1. Relationship with friends
+The number of friends is positively associated with being a bully
+(Barboza et al., 2009; Wang et al., 2009). Students with more emotional support from their friends are more likely to be bullies (Barboza et al., 2009). Being friends of bullies (Pepler et al., 2008), delinquents (Low & Espelage, 2014) or with people with antisocial behavior (Volk et al., 2006), as well as belonging to gangs (Bradshaw et al., 2013) increases one's probability of being a bully. On the other hand, the number of gay, lesbian, or bisexual friends correlates negatively with prejudice towards homosexuals, which, in turn, correlates positively with being a bully (Poteat et al., 2013). Bullies are more susceptible to peer social pressure (Pepler et al., 2008).
+3.4.2. Relationship with the mass media and entertainment media
+The greater the number of hours that a student reports watching television, the more likely he/she will be to also report being a bully (Barboza et al., 2009).
+The scarce reviewed studies that analyzed the time spent playing videogames as a possible risk factor for being a bully have yielded incon- clusive results. On the one hand, Barboza et al. (2009) found that the number of hours spent playing videogames does not have a significant association with being a bully. On the other hand, Olson et al. (2009) found that the amount of time spent playing nonviolent videogames or M-rated videogames predicted an increased risk of emitting bullying behaviors (higher in the latter). When analyzing boys and girls separately, in boys, the predictive value of both types of videogame ceases to be statistically significant, and having an aggressive personal- ity becomes a better predictor. In girls, the predictive value of exposure to M-Rated videogames increases, whereas that of nonviolent videogames is no longer statistically significant.
+Students who reported spending more time online, even those who reported being more addicted to Internet, are more likely to report being bullies (Casas et al., 2013; Wang et al., 2012). Exchanging emails or calling up after turning off the lights at night when going to sleep is a predictor of being a bully (Tochigi et al., 2012). Students who emit risky behaviors on the Internet (sending or publishing personal information, hanging pictures, using a webcam to chat with strangers) are more likely to be bullies than students who do not perform these behaviors (Chang et al., 2013). Those who report being victims of cyberbullying and, especially, those who report being cyberbullies are more likely to report being presential bullies (Chang et al., 2013).
+3.4.3. Aspects related to the neighborhood
+The fact that the students attend a school located in an urban context
+does not increase the likelihood of being a bully (Barboza et al., 2009; Stefanek et al., 2011). Of the three reviewed studies that analyze this variable, only that of Kim et al. (2009) found a statistically significant association: girls who live in the city center are at more risk of being bullies than those who live in suburban environment (close to the city). In boys, the urban setting is not a significant predictor of being a bully in any of the three studies.
+Neither student's self-reported participation in social activities—sports teams, acting in a theater, participating in school or non-school clubs ... (Lovegrove et al., 2012)—, nor the parents' perception that the residents of their neighborhood help each other (Shetgiri et al., 2013) predicts being a bully.
+D. Álvarez-García et al. / Aggression and Violent Behavior 23 (2015) 126–136 133
+134 D. Álvarez-García et al. / Aggression and Violent Behavior 23 (2015) 126–136
+3.4.4. Socio-political conditions of the country
+Elgar et al. (2013), in their study carried out in 37 countries, found that the degree of inequality of family income in the country is positive- ly related to students' reports of being a bully (also of being a victim). The greater the inequality, the more likely it is for the student to be a bully or a victim.
+4. Discussion
+The goal of this work was to conduct a systematic review of empiri- cal scientific articles published in the last decade that have analyzed possible risk factors that predict perpetration of traditional school bullying in adolescence.
+The research reviewed yields many controversial results, still under discussion, which deserve to be investigated in more depth in order to unravel the complex relationships among risk factors. However, some trends in the results can be identified.
+Regarding the socio-demographic variables, firstly, boys are more likely to be bullies than girls. Among other causes, some authors have highlighted the impact of the transmission of gender stereotypes, in which masculinity is associated with aggressiveness, competitiveness, toughness, and insensitivity in adolescent behavior (Díaz-Aguado & Martín, 2011). Secondly, the results of most of the reviewed works are compatible with an increase in the probability of being a bully until the age of 14, after which it decreases gradually. Some authors, like Hong and Espelage (2012), indicate that early adolescence is a critical period in the exploration of new social roles and the pursuit of status within the peer group. Thirdly, adolescents belonging to some ethnic or racial minorities are more likely to be bullies in certain contexts, whereas others tend to perform less bullying than the majority racial or ethnic group.
+Regarding the student's physical factors, body mass index is the most frequently analyzed. The results show a trend for obesity to increase the risk not only of becoming a victim, as would seem more intuitive, but also of being a bully. Different explanations of the modulating variables of this relationship have been provided. Some authors underline the role of socioeconomic status or race, among other factors; others highlight the importance of the stigma and rejection that one's physical appearance can generate in the group (Farhat et al., 2009; Kukaswadia et al., 2011; Magklara et al., 2012). In any case, the discrimination received could be the origin of diverse antisocial behaviors to gain status in the group, such as being a bully, consuming alcohol, tobacco, or drugs, or even, in certain cultural contexts, bearing weapons.
+With regard to the psychological factors, being a bully is usually a part of a pattern of antisocial behavior, in which impulsivity, hyperactivity, the absence of empathy, aggressiveness (especially proactive), sensation seeking, and antisocial behavior (drug abuse, aggressive or criminal behavior) are risk factors for being a bully at school and, at the same time, being a bully in adolescence is a predictor of aggression and offending years later (Ttofi et al., 2011, 2012). This relationship between bullying and externalizing problems is very consistently found by previous research (Cook et al., 2010; Van Noorden et al., 2014). However, in addition to these externalizing problems, bullies also are more likely to present some internalizing problems—mainly related to depressive symptomatology—, even though they are more common in victims than in bullies (Cook et al., 2010). Some psycholog- ical variables, like self-esteem and social competence, have shown an ambivalent relationship with bullying perpetration. In both cases, both low and high levels can predict an increased risk of bullying and its interaction with other variables is the key to understand its effect.
+Regarding school factors, low academic achievement and the lack of interest in studies are also relevant risk factors to be a bully. This is consistent with the already extensive literature showing the relation- ship between externalizing problems and poor academic performance (Cook et al., 2010). The relationship with classmates is ambivalent. On the one hand, bullies may be rejected by most of their classmates, but
+they may also have the support of some classmates, who are the ones who, by action or omission, make abuse possible.
+Prior student participation in bullying situations, either as a victim or, above all, as an aggressor, also increases the student's likelihood of a being a bully. Belonging to a class in which bullying is frequent or in which the students encourage or allow bullying is also a risk factor. The diffusion of responsibility in the crowd, mutual reinforcement, trying to gain status by joining the bully and avoiding being close to the victim, trying to imitate a bully perceived as cool, trying to be accepted by him or her, or trying to be included in the group by adapting to its abusive behavior are some reasons that have been suggested to explain this process of social influence (Salmivalli, 2010).
+Students' perception that they receive support and good treatment by teachers, as well as the existence of clear and fair rules in the center that are applied justly, is all protective factors against bullying (Díaz- Aguado & Martínez, 2013). In addition, abuse is sometimes perpetuated and aggravated because it remains hidden from adults, so good commu- nication with students is essential to detect and address it (Thornberg, 2011).
+With regard to the family factors, socio-economic status does not seem to be the most important factor in the probability that a student will become a bully (Tippett & Wolke, 2014). The incidence of family structure also offers unclear results about assuming a greater or lesser risk of being a bully. Other family variables seem to be more important, such as the establishment of behavior limits; the parents' interest in their children's schoolwork, friendships, and activities; closeness, trust, and communication with parents; perceived parental emotional support; or the attitudes and values transmitted. Exposure to family violence is a risk factor for being a bully.
+Finally, with respect to community factors, although the number of friends outside the class correlates positively with being a bully, it seems that the relevant variable is the type of friends that the student has. Being friends of bullies or of people with antisocial behavior increases the probability of being a bully. Having friends with anti- bullying attitudes is a protective factor. Adolescents tend to be highly susceptible to the influence of peers and tend to adjust their way of thinking and acting to the standard within the group (Wölfer & Scheithauer, 2014).
+Bullies tend to devote more time to watching television and being connected to the Internet. Those who report being victims of cyberbullying and, especially, those who report being cyberbullies are more likely to report being presential bullies. There is significant overlap between online and face-to-face bullying (Del Rey, Elipe, & Ortega-Ruiz, 2012).
+5. Conclusions and limitations
+In short, this systematic review constitutes a contribution to the knowledge of the main risk factors of school bullying perpetration in adolescence. On the basis of articles published in the last 10 years in three of the main worldwide publication bases, we offer an updated and ordered overview of the scientific evidence published in recent years on the subject. From the point of view of clinical or educational practice, we hope that the evidence presented herein will facilitate early identification of children at risk of being bullies in adolescence and that it will serve as a basis for the design of preventive measures and effective treatment. From the research point of view, we expect to have highlighted consistencies and inconsistencies in the available evidence to guide future research.
+However, this study has some limitations, which should be acknowledged. Firstly, the search was limited to three publication bases which, although they are some of the most important, do not exhaust all the publications on the reviewed topic. Second, the search was limited to articles written in English or Spanish. Surely, excellent works published in other languages or other publication databases have been left out. Thirdly, and finally, only evidence published in
+articles of scientific journals were analyzed. It is therefore possible that the results may be affected to some extent by publication bias or the tendency of journals to publish works that find positive and significant differences (Perestelo-Pérez, 2013).
+References1
+*Atik, G., & Güneri, O. Y. (2013). Bullying and victimization: Predictive role of individual, parental, and academic factors. School Psychology International, 34(6), 658–673. http://dx. doi.org/10.1177/0143034313479699.
+*Barboza, G. E., Schiamberg, L. B., Oehmke, J., Korzeniewski, S. J., Post, L. A., & Heraux, C. G. (2009). Individual characteristics and the multiple contexts of adolescent bullying: An ecological perspective. Journal of Youth and Adolescence, 38, 101–121. http://dx.doi.org/10. 1007/s10964-008-9271-1.
+*Barker, E. D., Arseneault, L., Brendgen, M., Fontaine, N., & Mauchan, B. (2008). Joint development of bullying and victimization in adolescence: Relations to delinquency and self-harm. Journal of the American Academy of Child and Adolescent Psychiatry, 47(9), 1030–1038. http://dx.doi.org/10.1097/CHI.ObO13e31817eec98.
+*Bayraktar, F. (2012). Bullying among adolescents in North Cyprus and Turkey: Testing a multifactor model. Journal of Interpersonal Violence, 27(6), 1040–1065. http://dx.doi.org/ 10.1177/0886260511424502.
+*Berlan, E. D., Corliss, H. L., Field, A. E., Goodman, E., & Austin, S. B. (2010). Sexual orientation and bullying among adolescents in the Growing Up Today Study. Journal of Adolescent Health, 46(4), 366–371. http://dx.doi.org/10.1016/j.jadohealth.2009.10.015.
+*Bradshaw, C. P., Waasdorp, T. E., Goldweber, A., & Johnson, S. L. (2013). Bullies, gangs, drugs, and school: Understanding the overlap and the role of ethnicity and urbanicity. Journal of Youth and Adolescence, 42, 220–234. http://dx.doi.org/10.1007/s10964-012-9863-7.
+*Breivik, K., & Olweus, A. (2006). Children of divorce in a Scandinavian welfare state: Are they less affected than US children? Scandinavian Journal of Psychology, 47, 61–74.
+*Caballo, V. E., Arias, B., Calderero, M., Salazar, I. C., & Irurtia, M. J. (2011). Bullying and social anxiety in children (I): Analyzing their relationship and developing new self-report assessment measures. Behavioral Psychology/Psicología Conductual, 19(3), 591–609.
+Calderero, M., Salazar, I. C., & Caballo, V. E. (2011). A review of the relationships between bullying and social anxiety. Behavioral Psychology/Psicología Conductual, 19(2), 393–419.
+*Carlyle, K. E., & Steinman, K. J. (2007). Demographic differences in the prevalence, co- occurrence, and correlates of adolescent bullying at school. Journal of School Health, 77, 623–629. http://dx.doi.org/10.1111/j.1746-1561.2007.00242.x.
+*Carrera-Fernández, M. V., Lameiras-Fernández, M., Rodríguez-Castro, Y., & Vallejo-Medina, P. (2013). Bullying among Spanish secondary education students: The role of gender traits, sexism, and homophobia. Journal of Interpersonal Violence, 28(14), 2915–2940. http://dx. doi.org/10.1177/0886260513488695.
+*Casas, J. A., Del Rey, R., & Ortega-Ruiz, R. (2013). Bullying and cyberbullying: Convergent and divergent predictor variables. Computers in Human Behavior, 29, 580–587. http://dx.doi. org/10.1016/j.chb.2012.11.015.
+*Centers for Disease Control & Prevention (2011). Bullying among middle school and high school students—Massachusetts, 2009. Morbidity and Mortality Weekly Report, 60(15), 466–471.
+*Cerezo, F., & Méndez, I. (2012). Social and health risk behaviours in adolescents. Context intervention proposal for a bullying case. Anales de Psicología, 28(3), 705–719. http://dx. doi.org/10.6018/analesps.28.3.156001.
+*Chang, F., Lee, C., Chiu, C., Hsi, W., Huang, T., & Pan, Y. (2013). Relationships among cyberbullying, school bullying, and mental health in Taiwanese adolescents. Journal of School Health, 83, 454–462. http://dx.doi.org/10.1111/josh.12050.
+Cook, C. R., Williams, K. R., Guerra, N. G., Kim, T. E., & Sadek, S. (2010). Predictors of bullying and victimization in childhood and adolescence: A meta-analytic investigation. School Psychology Quarterly, 25(2), 65–83. http://dx.doi.org/10.1037/a0020149.
+*Cunningham, N. J. (2007). Level of bonding to school and perception of the school environment by bullies, victims, and bully victims. The Journal of Early Adolescence, 27(4), 457–478. http://dx.doi.org/10.1177/0272431607302940.
+*De Bruyn, E. H., Cillessen, A. H. N., & Wissink, I. B. (2010). Associations of peer acceptance and perceived popularity with bullying and victimization in early adolescence. The Journal of Early Adolescence, 30(4), 543–566 http://dx.doi.org/10.1177/0272431609340517.
+Del Rey, R., Elipe, P., & Ortega-Ruiz, R. (2012). Bullying and cyberbullying: Overlapping and predictive value of the co-occurrence. Psicothema, 24(4), 608–613.
+Díaz-Aguado, M. J., & Martín, G. (2011). School coexistence and learning in adolescence from a gender perspective. Psicothema, 23(2), 252–259.
+Díaz-Aguado, M. J., & Martínez, R. (2013). Peer bullying and disruption–coercion escalations in student–teacher relationship. Psicothema, 25(2), 206–213. http://dx.doi.org/10.7334/ psicothema2012.312.
+*Donnon, T. (2010). Understanding how resiliency development influences adolescent bullying and victimization. Canadian Journal of School Psychology, 25(1), 101–113. http://dx.doi.org/ 10.1177/0829573509345481.
+*Donnon, T., & Hammond, W. (2007). Understanding the relationship between resiliency and bullying in adolescence: An assessment of youth resiliency from five urban junior high schools. Child and Adolescent Psychiatric Clinics of North America, 16, 449–471. http://dx. doi.org/10.1016/j.chc.2006.11.007.
+*Duke, N. N., Pettingell, S. L., McMorris, B. J., & Borowsky, I. W. (2010). Adolescent violence perpetration: Associations with multiple types of adverse childhood experiences. Pediatrics, 125, e778. http://dx.doi.org/10.1542/peds.2009-0597.
+*Elgar, F. J., Pickett, K. E., Pickett, W., Craig, W., Molcho, M., Hurrelmann, K., et al. (2013). School bullying, homicide and income inequality: A cross-national pooled time series analysis. International Journal of Public Health, 58, 237–245. http://dx.doi.org/10.1007/s00038-012- 0380-y.
+*Espelage, D. L., Polanin, J. R., & Low, S. K. (2014). Teacher and staff perceptions of school environment as predictors of student aggression, victimization, and willingness to
+1 *Articles included in the sample.
+intervene in bullying situations. School Psychology Quarterly, 29(3), 287–305. http://dx.
+doi.org/10.1037/spq0000072.
+*Fandrem, H., Strohmeier, D., & Roland, E. (2009). Bullying and victimization among native and
+immigrant adolescents in Norway: The role of proactive and reactive aggressiveness. The
+Journal of Early Adolescence, 29(6), 898–923. http://dx.doi.org/10.1177/0272431609332935. *Fanti, K. A. (2013). Individual, social, and behavioral factors associated with co-occurring conduct problems and callous-unemotional traits. Journal of Abnormal Child Psychology,
+41(5), 811–824. http://dx.doi.org/10.1007/s10802-013-9726-z.
+*Fanti, K. A., & Kimonis, E. R. (2012). Bullying and victimization: The role of conduct problems
+and psychopathic traits. Journal of Research on Adolescence, 22(4), 617–631. http://dx.doi.
+org/10.1111/j.1532-7795.2012.00809.x.
+*Farhat, T., Iannotti, R. J., & Simons-Morton, B. (2009). Overweight, obesity, youth, and health-
+risk behaviors. American Journal of Preventive Medicine, 38(3), 258–267. http://dx.doi.org/
+10.1016/j.amepre.2009.10.038.
+*Farhat, T., Simons-Morton, B., & Luk, J. V. (2011). Psychosocial correlates of adolescent
+marijuana use: Variations by status of marijuana use. Addictive Behaviors, 36(4), 404–407.
+http://dx.doi.org/10.1016/j.addbeh.2010.11.017.
+*Gendron, B. P., Williams, K. R., & Guerra, N. G. (2011). An analysis of bullying among students
+within schools: Estimating the effects of individual normative beliefs, self-esteem, and school climate. Journal of School Violence, 10(2), 150–164. http://dx.doi.org/10.1080/ 15388220.2010.539166.
+*Gómez-Ortiz, O., Del Rey, R., Casas, J., & Ortega-Ruiz, R. (2014). Parenting styles and bullying involvement. Culture and Education, 26(1), 132–158. http://dx.doi.org/10.1080/11356405. 2014.908665.
+*Gregory, A., Cornell, D., Fan, X., Sheras, P., Shih, T., & Huang, F. (2010). Authoritative school dis- cipline: High school practices associated with lower bullying and victimization. Journal of Educational Psychology, 102(2), 483–496. http://dx.doi.org/10.1037/a0018562.
+Griffin, R. S., & Gross, A. M. (2004). Childhood bullying: Current empirical findings and future di- rections for research. Aggression and Violent Behavior, 9(4), 379–400. http://dx.doi.org/10. 1016/S1359-1789(03)00033-8.
+*Guerra, N. G., Williams, K. R., & Sadek, S. (2011). Understanding bullying and victimization dur- ing childhood and adolescence: A mixed methods study. Child Development, 82(1), 295–310. http://dx.doi.org/10.1111/j.1467-8624.2010.01556.x.
+*Hemphill, S. A., Kotevski, A., Tollit, M., Smith, R., Herrenkohl, T. I., Toumbourou, J. W., et al. (2012). Longitudinal predictors of cyber and traditional bullying perpetration in Australian secondary school students. Journal of Adolescent Health, 51(1), 59–65. http:// dx.doi.org/10.1016/j.jadohealth.2011.11.019.
+Hong, J. S., & Espelage, D. L. (2012). A review of research on bullying and peer victimization in school: An ecological system analysis. Aggression and Violent Behavior, 17(4), 311–322. http://dx.doi.org/10.1016/j.avb.2012.03.003.
+*Ilie, G., Adlaf, E. M., Mann, R. E., Boak, A., Hamilton, H., Asbridge, M., et al. (2014). The moder- ating effects of sex and age on the association between traumatic brain injury and harmful psychological correlates among adolescents. PLoS One, 9(9), e108167. http://dx.doi.org/10. 1371/journal.pone.0108167.
+*Jansen, D. E., Veenstra, R., Ormel, J., Verhulst, F. C., & Reijneveld, S. A. (2011). Early risk factors for being a bully, victim, or bully/victim in late elementary and early secondary education. The longitudinal TRAILS study. Public Health, 11, 440. http://dx.doi.org/10.1186/1471-2458- 11-440.
+*Kim, Y. S., Boyce, W. T., Koh, Y., & Leventhal, B. L. (2009). Time trends, trajectories, and demo- graphic predictors of bullying: A prospective study in Korean adolescents. Journal of Adolescent Health, 45, 360–367. http://dx.doi.org/10.1016/j.jadohealth.2009.02.005.
+*Kim, Y. S., Leventhal, B., Koh, Y., Hubbard, A., & Boyce, W. T. (2006). School bullying and youth violence: Causes or consequences of psychopathologic behavior? Archives of General Psychiatry, 63(9), 1035-41. http://dx.doi.org/10.1001/archpsyc.63.9.1035.
+*Kukaswadia, A., Craig, W., Janssen, I., & Pickett, W. (2011). Obesity as a determinant of two forms of bullying in Ontario youth: A short report. Obesity Facts, 4(6), 469–472 http://dx. doi.org/10.1159/000335215.
+*Kuzman, M., Šimetin, I. P., & Franelić, I. P. (2007). Early sexual intercourse and risk factors in Croatian adolescents. Collegium Antropologicum, 31(2), 121–130.
+*Lambert, P., Scourfield, J., Smalley, N., & Jones, R. (2008). The social context of school bullying: evidence from a survey of children in South Wales. Research Papers in Education, 23(3), 269–291. http://dx.doi.org/10.1080/02671520701809866.
+*Larochette, A., Murphy, A. N., & Craig, W. M. (2010). Racial bullying and victimization in Canadian school-aged children: Individual and school level effects. Relationships among cyberbullying, school bullying, and mental health in Taiwanese adolescents. School Psychology International, 31(4), 389–408. http://dx.doi.org/10.1177/0143034310377150.
+*Laufer, A., Harel, Y., & Molcho, M. (2006). Daring, substance use and involvement in violence among school children: Exploring a path model. Journal of School Violence, 5(3), 71–88. http://dx.doi.org/10.1300/J202v05n03_06.
+*Lee, C. (2010). Personal and interpersonal correlates of bullying behaviors among Korean middle school students. Journal of Interpersonal Violence, 25(1), 152–176. http://dx.doi. org/10.1177/088626050832912.
+Lopez, R., Amaral, A. F., Ferreira, J., & Barroso, T. (2011). Factors related to the bullying phenom- enon in school context: Integrative literature review. Revista de Enfermagem Referência, 3(5), 153–162. http://dx.doi.org/10.12707/RIII1169.
+*Lovegrove, P. J., Henry, K. L., & Slater, M. D. (2012). Examination of the predictors of latent class typologies of bullying involvement among middle school students. Journal of School Violence, 11(1), 75–93. http://dx.doi.org/10.1080/15388220.2011.631447.
+*Low, S., & Espelage, D. (2014). Conduits from community violence exposure to peer aggression and victimization: Contributions of parental monitoring, impulsivity, and deviancy. Journal of Counseling Psychology, 61(2), 221–231. http://dx.doi.org/10.1037/a0035207.
+*Low, S., & Espelage, D. (2013). Differentiating cyber bullying perpetration from non-physical bullying: Commonalities across race, individual, and family predictors. Psychology of Violence, 3(1), 39–52. http://dx.doi.org/10.1037/a0030308.
+*Magklara, K., Skapinakis, P., Gkatsa, T., Bellos, S., Araya, R., Stylianidis, S., et al. (2012). Bullying behaviour in schools, socioeconomic position and psychiatric morbidity: A cross-sectional study in late adolescents in Greece. Child and Adolescent Psychiatry and Mental Health, 6(8), 1–13. http://dx.doi.org/10.1186/1753-2000-6-8.
+*Marini, Z. A., Dane, A. V., Bosacki, S. L., & Ylc-Cura (2006). Direct and indirect bully–victims: Differential psychosocial risk factors associated with adolescents involved in bullying and victimization. Aggressive Behavior, 32, 551–569. http://dx.doi.org/10.1002/ab.20155.
+D. Álvarez-García et al. / Aggression and Violent Behavior 23 (2015) 126–136 135
+ 
+136 D. Álvarez-García et al. / Aggression and Violent Behavior 23 (2015) 126–136
+*Méndez, I., & Cerezo, F. (2010). Bullying and risk factors for health among students of second- ary education. European Journal of Education and Psychology, 3(2), 209–218.
+*Mlisa, L. N., Ward, C. L., Flisher, A. J., & Lombard, C. J. (2008). Bullying at rural high schools in the eastern Cape Province, South Africa: Prevalence, and risk, and protective factors at school and in the family. Journal of Psychology in Africa, 18(2), 261–268. http://dx.doi.org/10. 1080/14330237.2008.10820195.
+*Mohapatra, S., Irving, H., Paglia-Boak, A., Wekerle, C., Adlaf, E., & Rehm, J. (2010). History of family involvement with child protective services as a risk factor for bullying in Ontario schools. Child and Adolescent Mental Health, 15(3), 157–163. http://dx.doi.org/10.1111/j. 1475-3588.2009.00552.x.
+*Nation, M., Vieno, A., Perkins, D. D., & Santinello, M. (2008). Bullying in school and adolescent sense of empowerment: An analysis of relationships with parents, friends, and teachers. Journal of Community and Applied Social Psychology, 18, 211–232. http://dx.doi.org/10. 1002/cas.921.
+*Nocentini, A., Menesini, E., & Salmivalli, C. (2013). Level and change of bullying behavior during high school: A multilevel growth curve analysis. Journal of Adolescence, 36, 495–505. http:// dx.doi.org/10.1016/j.adolescence.2013.02.004.
+*Nordhagen, R., Nielsen, A., Stigum, H., & Köhler, L. (2005). Parental reported bullying among Nordic children: A population-based study. Child: Care, Health and Development, 31(6), 693–701.
+*Olson, C. K., Kutner, L. A., Baer, L., Beresin, E. V., Warner, D. E., & Nicholi, A. M., II (2009). M-rated video games and aggressive or problem behavior among young adolescents. Applied Developmental Science, 13(4), 188–198. http://dx.doi.org/10.1080/10888690903288748.
+Olweus, D. (1993). Bullying at school: What we know and what we can do. Malden, MA: Blackwell Publishing.
+*Peleg-Oren, N., Cardenas, G. A., Comerford, M., & Galea, S. (2012). An association between bullying behaviors and alcohol use among middle school students. The Journal of Early Adolescence, 32(6), 761–775. http://dx.doi.org/10.1177/0272431610387144.
+*Pepler, D., Jiang, D., Craig, W., & Connolly, J. (2008). Developmental trajectories of bullying and associated factors. Child Development, 79(2), 325–338. http://dx.doi.org/10.1111/j.1467- 8624.2007.01128.x.
+Perestelo-Pérez, L. (2013). Standards on how to develop and report systematic reviews in Psychology and Health. International Journal of Clinical and Health Psychology, 13, 49–57.
+*Perkins, H. W., Craig, D. W., & Perkins, J. M. (2011). Using social norms to reduce bullying: A research intervention among adolescents in five middle schools. Group Processes & Intergroup Relations, 14(5), 703–722. http://dx.doi.org/10.1177/1368430210398004.
+*Pitel, L., Geckova, A. M., Kolarcik, P., Halama, P., Reijneveld, S. A., & Van Dijk, J. (2012). Gender differences in the relationship between religiosity and health-related behaviour among adolescents. Journal of Epidemiology and Community Health, 66, 1122–1128. http://dx.doi. org/10.1136/jech-2011-200914.
+*Postigo, S., González, R., Mateu, C., & Montoya, I. (2012). Predicting bullying: Maladjustment, social skills and popularity. Educational Psychology: An International Journal of Experimental Educational Psychology, 5, 627–639. http://dx.doi.org/10.1080/01443410. 2012.680881.
+*Poteat, V. P., DiGiovanni, C. D., & Scheer, J. R. (2013). Predicting homophobic behavior among heterosexual youth: Domain general and sexual orientation-specific factors at the individ- ual and contextual level. Journal of Youth and Adolescence, 42, 351–362. http://dx.doi.org/10. 1007/s10964-012-9813-4.
+Powell, M. D., & Ladd, L. D. (2010). Bullying: A review of the literature and implications for family therapists. The American Journal of Family Therapy, 38(3), 189–206. http://dx.doi. org/10.1080/01926180902961662.
+*Prodocimo, E., Cerezo, F., & Arense, J. J. (2014). Bullying: Family socio-situation as risk or protective factors. Behavioral Psychology/Psicología Conductual, 22(2), 345–359.
+Romera, E. M., Del Rey, R., & Ortega, R. (2011). Prevalence and differentiating aspects related to gender with regard to the bullying phenomenon in poor countries. Psicothema, 23(4), 624–629.
+Saarento, S., Garandeau, C. F., & Salmivalli, C. (2014). Classroom- and school-level contributions to bullying and victimization: A review. Journal of Community and Applied Social Psychology. http://dx.doi.org/10.1002/casp.2207.
+Salmivalli, C. (2010). Bullying and the peer group: A review. Aggression and Violent Behavior, 15(2), 112–120. http://dx.doi.org/10.1016/j.avb.2009.08.007.
+*Santinello, M., Vieno, A., & De Vogli, R. (2011). Bullying in Italian schools: The role of perceived teacher unfairness. European Journal of Psychology of Education, 26, 235–246. http://dx.doi. org/10.1007/s10212-010-0050-5.
+*Scholte, R., Sentse, M., & Granic, I. (2010). Do actions speak louder than words? Classroom attitudes and behavior in relation to bullying in early adolescence. Journal of Clinical Child & Adolescent Psychology, 39(6), 789–799. http://dx.doi.org/10.1080/15374416.2010. 517161.
+*Shakoor, S., Jaffee, S. R., Bowes, L., Ouellet-Morin, I., Andreou, P., Happé, F., et al. (2012). A prospective longitudinal study of children's theory of mind and adolescent involvement in bullying. Journal of Child Psychology and Psychiatry, 53(3), 254–261. http://dx.doi.org/ 10.1111/j.1469-7610.2011.02488.x.
+*Shetgiri, R., Lin, H., Avila, R. M., & Flores, G. (2012a). Parental characteristics associated with bullying perpetration in us children aged 10 to 17 years. American Journal of Public Health, 102(12), 2280–2286. http://dx.doi.org/10.2105/AJPH.2012.300725.
+*Shetgiri, R., Lin, H., & Flores, G. (2012b). Identifying children at risk for being bullies in the United States. Academic Pediatrics, 12(6), 509–522. http://dx.doi.org/10.1016/j.acap.2012. 06.013.
+*Shetgiri, R., Lin, H., & Flores, G. (2013). Trends in risk and protective factors for child bullying perpetration in the United States. Child Psychiatry and Human Development, 44, 89–104. http://dx.doi.org/10.1007/s10578-012-0312-3.
+*Simões, C., & Gaspar-Matos, M. (2011). Offending, victimization, and double involvement: Differences and similarities between the three profiles. Journal of Cognitive and Behavioral Psychotherapies, 11(1), 29–41.
+*Smith, B. J., Phongsavan, P., Bauman, A. E., Havea, D., & Chey, T. (2007). Comparison of tobacco, alcohol and illegal drug usage among school students in three Pacific Island societies. Drug and Alcohol Dependence, 88, 9–18. http://dx.doi.org/10.1016/j.drugalcdep.2006.08.030.
+*Spriggs, A. L., Iannotti, R. J., Nansel, T. R., & Haynie, D. L. (2007). Adolescent bullying involvement and perceived family, peer and school relations: Commonalities and differences across race/ethnicity. Journal of Adolescent Health, 41, 283–293. http://dx.doi. org/10.1016/j.jadohealth.2007.04.00.
+*Srabstein, J. C., McCarter, R. J., Shao, C., & Huang, Z. J. (2006). Morbidities associated with bullying behaviors in adolescents. School based study of American adolescents. International Journal of Adolescent Medicine and Health, 18(4), 587–596. http://dx.doi.org/ 10.1515/IJAMH.2006.18.4.587.
+*Srabstein, J., & Piazza, T. (2008). Public health, safety and educational risks associated with bullying behaviors in American adolescents. International Journal of Adolescent Medicine and Health, 20(2), 223–233. http://dx.doi.org/10.1515/IJAMH.2008.20.2.223.
+*Starkuvienė, S., & Zaborskis, A. (2005). Links between accidents and lifestyle factors among Lithuanian school children. Medicina (Kaunas, Lithuania), 41(1), 73–80.
+*Stefanek, E., Strohmeier, D., Van de Schoot, R., & Spiel, C. (2011). Bullying and victimization in ethnically diverse schools: Risk and protective factors on the individual and class level. International Journal of Developmental Science, 5, 73–84. http://dx.doi.org/10.3233/DEV- 2011-11073.
+Thornberg, R. (2011). ‘She's weird!’ — The social construction of bullying in school: A review of qualitative research. Children & Society, 25, 258–267. http://dx.doi.org/10.1111/j.1099- 0860.2011.00374.x.
+Tippett, N., & Wolke, D. (2014). Socioeconomic status and bullying: A meta-analysis. American Journal of Public Health, 104(6), e48–e59. http://dx.doi.org/10.2105/AJPH.2014.301960. *Tippett, N., Wolke, D., & Platt, L. (2013). Ethnicity and bullying involvement in a national UK
+youth sample. Journal of Adolescence, 36, 639–649. http://dx.doi.org/10.1016/j.adoles-
+cence.2013.03.013.
+*Tochigi, M., Nishida, A., Shimodera, S., Oshima, N., Inoue, K., Okazaki, Y., et al. (2012). Irregular
+bedtime and nocturnal cellular phone usage as risk factors for being involved in bullying: A cross-sectional survey of Japanese adolescents. PLoS One, 7(9), e45736. http://dx.doi.org/10. 1371/journal.pone.0045736.
+*Totura, C. M. W., Green, A. E., Karver, M. S., & Gesten, E. L. (2009). Multiple informants in the assessment of psychological, behavioral, and academic correlates of bullying and victimiza- tion in middle school. Journal of Adolescence, 32, 193–211. http://dx.doi.org/10.1016/j.ado- lescence.2008.04.005.
+Ttofi, M. M., Farrington, D. P., & Lösel, F. (2012). School bullying as a predictor of violence later in life: A systematic review and meta-analysis of prospective longitudinal studies. Aggression and Violent Behavior, 17(5), 405–418. http://dx.doi.org/10.1016/j.avb.2012.05.002.
+Ttofi, M. M., Farrington, D. P., Lösel, F., & Loeber, R. (2011). The predictive efficiency of school bullying versus later offending: A systematic/meta-analytic review of longitudinal studies. Criminal Behaviour and Mental Health, 21(2), 80–89. http://dx.doi.org/10.1002/cbm.808.
+*Van Cleave, J., & Davis, M. M. (2006). Bullying and peer victimization among children with special health care needs. Pediatrics, 118, e1212–e1219. http://dx.doi.org/10.1542/peds. 2005-3034.
+Van Noorden, T. H., Haselager, G. J., Cillessen, A. H., & Bukowski, W. M. (2014). Empathy and involvement in bullying in children and adolescents: A systematic review. Journal of Youth and Adolescence, 43, 1–21.
+*Viding, E., Simmonds, S., Petrides, K. V., & Frederickson, N. (2009). The contribution of callous- unemotional traits and conduct problems to bullying in early adolescence. Journal of Child Psychology and Psychiatry, 50(4), 471–481. http://dx.doi.org/10.1111/j.1469-7610.2008. 02012.x.
+*Vieno, A., Gini, G., & Santinello, M. (2011). Different forms of bullying and their association to smoking and drinking behavior in Italian adolescents. Journal of School Health, 8, 393–399. http://dx.doi.org/10.1111/j.1746-1561.2011.00607.x.
+*Volk, A., Craig, W., Boyce, W., & King, M. (2006). Adolescent risk correlates of bullying and different types of victimization. International Journal of Adolescent Medicine and Health, 18(4), 375–386. http://dx.doi.org/10.1515/IJAMH.2006.18.4.575.
+*Wang, J., Iannotti, R. J., & Nansel, T. R. (2009). School bullying among adolescents in the United States: Physical, verbal, relational, and cyber. Journal of Adolescent Health, 45(4), 368–375. http://dx.doi.org/10.1016/j.jadohealth.2009.03.021.
+*Wang, H., Zhou, X., Lu, C., Wu, J., Deng, X., Hong, L., et al. (2012). Adolescent bullying involvement and psychosocial aspects of family and school life: A cross-sectional study from Guangdong Province in China. PLoS One, 7(7), e38619. http://dx.doi.org/10.1371/jour- nal.pone.0038619.
+*Wei, H., Williams, J. H., Chen, J., & Chang, H. (2010). The effects of individual characteristics, teacher practice, and school organizational factors on students' bullying: A multilevel analysis of public middle schools. Children and Youth Services Review, 32, 137–143. http:// dx.doi.org/10.1016/j.childyouth.2009.08.004.
+*Williams, K. R., & Guerra, N. G. (2011). Perceptions of collective efficacy and bullying perpetration in schools. Social Problems, 58(1), 126–143.
+Wölfer, R., & Scheithauer, H. (2014). Social influence and bullying behavior: Intervention‐based network dynamics of the fairplayer.manual bullying prevention program. Aggressive Behavior, 40(4), 309–319.
+*Yang, S., Stewart, R., Kim, J., Kim, S., Shin, I., Dewey, M. E., et al. (2013). Differences in predictors of traditional and cyber-bullying: A 2-year longitudinal study in Korean school children. European Child & Adolescent Psychiatry, 22, 309–318. http://dx.doi.org/10.1007/s00787- 012-0374-6.
