@@ -1,0 +1,541 @@
+A SEARCH FOR THE ELUSIVE SETTING EVENTS OF SCHOOL VANDALISM: A
+CORRELATIONAL STUDY
+
+
+
+
+ ABSTRACT
+ This study was conducted in 28 intermediate schools to discover factors in the school environ-
+ ment that are related to vandalism. Data were collected on vandalism and the school environ-
+ ment. Vandalism cost and frequency were found to be greater in schools that had lower scores
+ on a school discipline survey (p< .05). The results are discussed in terms of setting factors,
+ punishment, and reinforcement.
+ ★ ★ ★
+ "Crime and violence threaten the viability of our public schools," said
+ United States Attorney General William French Smith (Nicholson, 1981).
+ Speaking during June, 1981, Smith called for a crackdown on violence and
+ vandalism in the schools, stating that more than 250,000 students and 5,000
+ teachers are physically assaulted in a typical month. In addition, the National
+ School Resource Network and the California Safety Center (Nicholson, 1981)
+ report that more than $600 million is spent annually on school property repair,
+ security devices, insurance, and guards.
+ Amidst a great public outcry to address the problems of violence and van-
+ dalism, school districts have responded with so-called "hard" measures
+ (Reaves, 1981). The Los Angeles Unified School District developed a security
+ force of more than 325 agents and placed intrusion alarms in many schools.
+ Other districts have developed means of identifying violence-prone youngsters
+ This study was carried out with the assistance of a grant from the Office of the Los Angeles
+ County Superintendent of Schools. The authors are grateful to Cindy Ismael and Cheng-Ou
+ Chang for programming the data analysis. Reprints may be obtained from G. Roy Mayer, Califor-
+ nia State University, Los Angeles, Department of Counselor Education, 5151 State University
+ Drive, Los Angeles, CA 90032.
+ Pages 259-270
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:12:01 UTC
+All use subject to http://about.jstor.org/terms
+ 260 MAYER, NAFPAKTITIS, BUTTERWORTH, AND HOLLINGSWORTH
+ to all concerned agencies (i.e., juvenile court officials, the district attorney's
+ office, and local police departments) or have implemented stringent student
+ disciplinary programs (Reaves, 1981).
+ However, one of the consistent factors alleged to be associated with high
+ levels of school violence and property loss is a hostile and authoritarian at-
+ titude on the part of school staff toward students (Scrimger & Elder, 1981).
+ Yet, research is showing that today's schools are emphasizing more punitive
+ measures in managing student behavior. For example, results from a survey
+ by the American Association of School Administrators (Brodinsky, 1980)
+ indicated that personnel in school districts spend more time and energy in
+ implementing punitive measures than in positive or preventive measures.
+ Similarly, teachers, on the average, have been observed to use disapproval
+ approximately three times more frequently than approval when they respond
+ to student behavior (Heller & White, 1975; Thomas, Presland, Grant, &
+ Glynn, 1978; White, 1975).
+ This reliance on heavy security arrangements and punitive discipline
+ strategies may actually aggravate school-related violence and vandalism
+ (Greenberg, 1969, 1974). Likewise, Mayer and Butterworth (1979, 1981) and
+ Mayer, Butterworth, Nafpaktitis, and Sulzer-Azaroff (1983) have suggested
+ that relying on punishment as a school-wide and classroom management pro-
+ cedure is a condition in the school environment that can actually promote
+ school disruption and vandalism. Findings from the experimental analysis
+ of behavior have taught us that extinction and punishment tend to provoke
+ aggression and destruction by laboratory animals (Azrin, Hutchinson, &
+ Hake, 1963). Research with humans also provides "mounting evidence that
+ aversive stimulation generates an instigation to aggression in our species as
+ well as in lower orders" (Berkowitz, 1983, p. 1139). Even frustrations and
+ failures to attain a desired goal "can produce aggressive inclinations because
+ of their aversive nature" (Berkowitz, 1983, p. 1 143). It would seem reasonable
+ to hypothesize, then, that some proportion of the aggression and destruc-
+ tion that takes place in public schools is a reaction to aversive school
+ environments.
+ Mayer and his colleagues (1979, 1981, 1983) also suggest additional fac-
+ tors that may contribute to the punitive nature of the school discipline en-
+ vironment resulting in increased vandalism. These include vague rules, in-
+ consistency, lack of appropriate follow-through, and little or no allowance
+ made for individual differences. The last problem mentioned is exemplified
+ by a lack of individualized consequences so that everyone receives the same
+ punishment for the same infraction. Such misuse of behavior management
+ procedures can result in an increase, rather than a decrease, of aggressive
+ behavior (Mayer & Butterworth, 1979).
+ Several investigators (Mayer & Butterworth, 1979; Mayer, Butterworth,
+ Nafpaktitis, & Sulzer-Azaroff, 1983) have attempted to eliminate or reduce
+ some of the hypothesized conditions or setting events that produce aggres-
+ sion. By doing so, they were able to obtain significant reductions in vandalism.
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:12:01 UTC
+All use subject to http://about.jstor.org/terms
+ SCHOOL VANDALISM 261
+ However, their interventions were complex staff development packages and
+ individual factors possibly contributing to the reduction in vandalism were
+ not isolated.
+ In an attempt to establish more clearly the direction of future research,
+ the present correlational study was carried out to determine specific
+ characteristics of the school environment that are related to vandalism. Prior
+ research in applied behavior analysis has emphasized the immediate
+ antecedents and consequences of behavior. However, Wahler and Fox (1981)
+ have pointed out that socially important behaviors, such as disruptive school
+ behavior, truancy, and property destruction, may be under the control of
+ temporally remote stimuli or setting events rather than immediate antecedents
+ and consequences. To help provide descriptive analyses of these setting events,
+ Wahler and Fox advocate the use of correlational analyses. This study uses
+ correlational analyses in an attempt to identify possible setting events to school
+ vandalism.
+ Method
+ Selection of Schools
+ Twenty-eight intermediate schools (grades 6, 7, & 8; 7 & 8; or 7, 8, & 9)
+ in Los Angeles County participated in the study. These schools represented
+ communities with a wide range of socioeconomic levels as indicated by the
+ percentage of students in each school receiving aid to families with depen-
+ dent children (0% to 64%). The schools' student enrollments ranged from
+ 402 to 1639.
+ In most instances, letters were sent to school principals soliciting their par-
+ ticipation. In some cases, such solicitation occurred at a district principals'
+ meeting. Follow-up telephone calls were made with each principal to confirm
+ participation. Of 64 Los Angeles County schools contacted, 28 were selected
+ due to their willingness to participate and their having readily available van-
+ dalism data.
+ Selection of Teachers
+ In each school, three teachers were picked randomly from a list of staff
+ members using a table of random numbers. Only teachers of academic sub-
+ jects were selected. Special education teachers were ineligible. If a teacher
+ selected by a random number did not teach an academic subject, the next
+ random number was taken. All teachers selected agreed to participate in the
+ study.
+ Data Collection Procedures
+ Vandalism. Vandalism data were obtained from each school and furnished
+ by the principal or his or her secretary. The date of each incident of van-
+ dalism and the cost of repairing and replacing vandalized property were
+ recorded in the format shown in Figure 1 . If more than one entry was recorded
+ for a particular date, the school custodian was interviewed to determine if
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:12:01 UTC
+All use subject to http://about.jstor.org/terms
+ 262 MAYER, NAFPAKTITIS, BUTTERWORTH, AND HOLLINGSWORTH
+ the entries represented more than one incident. All vandalism that resulted
+ in any cost to the school was counted as an infraction. These events includ-
+ ed graffiti, breaking of glass, equipment theft, fire, and other property
+ damage.
+ Figure 1. Recording sheet for occurrence and cost of vandalism.
+ The cost and frequency of vandalism were calculated in units per 100
+ students to account for differences in school size. Vandalism cost, then, was
+ calculated by dividing the total cost of repairing or replacing property van-
+ dalized during a 9-month school year by the student enrollment. This result
+ was then multiplied by 100 to give a figure for each school. Vandalism fre-
+ quency per 100 students was obtained by dividing the total number of in-
+ cidents reported during a 9-month school year by the student enrollment.
+ This result was then multiplied by 100 to give a comparative figure for each
+ school.
+ School discipline survey . The School Discipline Survey (SDS) (Mayer, But-
+ terworth, Spaulding, et al., 1983) was used as a measure of the school
+ discipline environment (see Figure 2). Three major areas contributing to a
+ punitive school discipline environment were identified based on previous
+ research (Mayer & Butterworth, 1979; Mayer, Butterworth, Komoto, &
+ Benoit, 1983; Mayer, Butterworth, Nafpaktitis, & Sulzer-Azaroff, 1983). The
+ first included clarity of both school and classroom rules and discipline policies.
+ It was assumed that appropriate stimulus control, or rule following, cannot
+ be developed unless discipline policies and rules are clearly communicated
+ (Sulzer-Azaroff & Mayer, 1986). Further, a lack of rule following behavior
+ tends to result in more punishment being used in the school environment.
+ The second area involved administrative support for staff in student discipline
+ (i.e., consistency and follow-through). If administrative support were weak
+ or inconsistent, it certainly would not be reinforcing enough to support staff
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:12:01 UTC
+All use subject to http://about.jstor.org/terms
+ SCHOOL VANDALISM 263
+ O 5
+ mmm wmmmmmm __ . C __ __
+ z ^ S -SISU03
+ m __ __
+ u c
+ £ c ï * I ION u»m - * I ua^iO ajow
+ II I ^ S &
+ 0 (O «_■■■■-■-
+ 4J *J W t W
+ «i «t ^ s 'S °" 2 ° g S . S « °" ° s*iH*«S
+ e Zs ZB s ° à M «.= ««• "§ U -
+ £ siso S S U - J xi«j»a
+ u ZZ O. « u
+ £ °V S 5 " l- - . 2 "s " ? Š Ì ř ?c ?
+ £i II II I 3 ï e -J g ,!ï ! ìli: U 5 i ? s; le 5» *5 Ft ?»
+ ï£ s8 Si s5 So« I u « »si é s" î-s ?s t g " r E- c ' 2» îï Si So« ï 5 é "i - *S »3 r E- c
+ tí * Is ß Is £ S 55c S « "f *" ss "c -5« « " ' Si * ß £ 55c « •<!•»»♦* «~ •• -r-T- c •£ « « • "-
+ ß S* S£ £ S" S* " C i «tS •<!•»»♦* «~ gs •• -r-T- ao oí c •£ « "S « 2*5. • "- •c S£ S* S" S* 'S - C S r'S gs Is ß~ ao ul a- u > u"G u5 *32 'S l - • ß~ -s u2 u > « ° £ >,_ . ««M 5 « C TJ * t! ü ÍÍ
+ •g * B« E 3 3 2 Tu« Ï x! 3~ £" c - Q 3 "~ >, -c °* r- ' -C °c •g 2 m *- c *- c 2 Ï x! ,- W C -* * c 3 Q 2>ü * >, -c r- ' -C
+ 2 *"u m *- °5 c *- °5o c 2 " * ** ,- £ W 1/1 1! C -* 5 « * ° c "5 «i 2>ü * -o -c £S§ r- ' £ 3 •J « >. >. «••>» O- * •» C«l4*£**Op*C .
+ H •J « <s K >. < &!! >. s " -Il - Si ps 'M M I! s ¿¡2 §5õ |»1 §~s - » <s < s " g - Si » ?n i-se -o s §5õ §~s
+ ¿ ¿ ¿ 6 i » Q. i Õ - .-r-Q. «c «O L. •- *• « <3 «• - T- le »-«.eu g i » i Õ - s? .-r-Q. e » «c sut «O L. •- cíã *• « -o is <3 «• - °sř T- le »-«.eu u|í
+ •_ O *J
+ £ C « fi * ui « N «
+ •-• •»- <a
+ p u
+ ♦> « ■*-
+ o. t •<- o. « J t •<- C
+ (U
+ >
+ Uh
+ 3
+ C/5
+ (U
+ _C
+ S 'G V)
+ s
+ O
+ x:
+ o
+ in
+ <u
+ jC
+ H
+ <N
+ Si
+ .S
+ ř 1 S ï c ^ s
+ -•St-iï; * s a
+ CV f r» A O • 3 r ^ O A ■■ - - - i - - - i
+ CV So f P r» OU 4-»
+ c « o 41 V» 8S8-S t S ? Í
+ ïsigs " ° 5 J s s o - S g «j j S ë o t - o g Z ï «j j I
+ T) k II «I £ "t . h ^ S • p o c • m o o ° tt . h ^ • p S S
+ «o.«£m „2 s *-Q. n «
+ e--5.ï « : ; : sï j? " S S o >, .21 Ž .„šS£vS°-
+ I S I s ļ ! ^ I ^ -3Ž
+ * •* S • s i ^ a ^ % I JJ « § r q ^ 4| tl O 3 t| O A ¿s i> •* • ^ ^ JJ o w * s r q 4| O 3 O A i> 0 oi p u f- o w tj * s ¿S r q ? 4| 1:5 O 3 í O «a 4»
+ Síasrscí 0 oi p u f- o w tj s * r it. ¿S 5u ? 1:5 oS ôî í â" ïî «a 4» ° s e s » I Z . s i,5 ss "z ôî â" «s
+ ■5 2 S 1 i U " ç S 1; tï ïS W - >3':Î s e s » Ï>ï " . : U Is 38 H 1 V S Z i- I 2 ç Š 11 ï» ÍJ tï Ī- îî O .- 1 ; ! V i S ; Z 1 i- ? I i Š 2 i t* ï» s£ is Ī- îî š: s§¿ O .-
+ » Ü . í t¡ s § i ¿ ! g ;i °* Sr 2? c-t ! i Ü Í . i í t¡ : ? s ^ § j s S 2 ¿ ! g ;i a.. is °* u» :i Sr °c :s 2? °-4J !õ • o. wt ^ S ft -g x;g u» °c °-4J ^ n
+ !õ s * • i o. : wt i 1 5 ^ H S ft -g s i* x;g u» is °c isi °-4J ^ :K n
+ ! gE'-Sc-SSS ii;¡ ; i sj n :■ <-s5 m gE'-Sc-SSS ^ tg. "ii feSg-īSSīS S SS . * o c^i?3 Ö.«c j f 8 c^i?3 !ž ull; Ö.«c 2 = j ^ ~ 8 e S » S 2 i - i Ž m m > u k f* ** s ^ m m > E u * 2^* f* i c 55335 * 2^* S;C 2 i s c
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:12:01 UTC
+All use subject to http://about.jstor.org/terms
+ 264 MAYER, MAFPAKTITIS, BUTTERWORTH, AND HOLLINGSWORTH
+ -S1SU03
+ M «»Ml
+ u»U0 mou
+ SMn^a«os
+ M
+ «-> c
+ Ol M c»-
+ C «I i I «
+ F. v « f >, > M CO I. u _♦* t
+ m o TJ t E -r- MI Ol 3 O O» f Ol M •-
+ « 3 M Oltlr» C « O CO «V 9 >» C Cr- M,M > -r £ t- tň £ O 3 Oltlr» CO >» V* 4 ■»- ■»- C M C f- £ il O ^M-O « M í C í « O O Z» «V 2 -r- C >, «OU M*« M,M M ♦* MM** U.K ü - 5 > « Je O XJ -O «i -r- « >, «OU U«< «4J£ 3 «-> 3« ^ J *wJ5 - 5 o > "o « «S -O • ci « ë U«< >> «4J£ 3 «-> m» ^ 3« • 5:-* ^
+ il»- *wJ5 a <£ li: o "o o o «S s- S i *s • i oí ^ ci « ë » e •»- >> m ** v **l « m» g * *• ^ m t • g 5:-* Ii o.** c ¿r-m a %- o o 2( - i oí C ^ C « -T. •»- • « Wl _ g H M « r g M a <£ o o S i i oí ^ « » e •»- m v « g *• m g r o.**
+ m uk a k. l_ m L> O *r* DI n +* Q t» QIO£ C O _ C OI *" O
+ Il ■ VI V V f- O O • £ * O i- M J<r m O O UMO O-r a 3 k. O l_ M *0 m ♦-» L> O O *r* > Õ DI n C ■«- +* £ Q t» O QIO£ C ♦* ♦* O O C ♦* O UMO OC OI *" J- O-r e Sac Il ■ VI " V V f- 2 O O et« • £ ur * «i i- > M o > r m « m«» c ♦* *»->» « O» " CWÍS et« « O ur M « «i C« > o O.M« > r Or- m « > £ •> MO r- .
+ a-řifS. 5-^ £-21 ■ . Jo^-3 SJxS * «f 25 cet eux! o^S 2Ì? . - ^ M^ . S Sí? Co > O m r- - 1- .C 1_ C 1- O *- -»- "O ■>-«<■ y C C O -<r- m 2 G O Ç i- Co g > 5-^ > ■ - . Jo^-3 * >U > 25 eux! C UQ. C C O . -<r- - ^ m 2 G # h O . «•- i-
+ «in s«« sîb s: CS g« fï:« t^**e |§|| s-*s iri! *| «|* 8~*. 5«aï *ř" CS g« s t-S t^**e s-*s = O *|
+ «fefel L V t. -î~£= -m r XI f» Suï C > S£ C C *0 . si C s £- "O . Sí. MM> 2SSS M *1 «• r- -SS- t- C r- r- "eS = O i C r- "S£ V C <X L V v> t. -m r XI f» C r- > C C *0 " C £- "O ° MM> M *1 «• r- t- C r- r- i C r- V C <X
+ L «o V v> > m t. -m cS r XI -T f» « C r- o o > C £ 5. C *0 " S C M "O ° ç MM> M o t. • M CMC- ow *1 «• r- o t- ♦* « C r- o r- o I- • r- 2 ^ * 7: " «i «o e • m m i-« c u not Tj o 3 T> m 3 o ç « t. g ow u S2 TI Tï 2 2 § S ^ 7: "
+ « a2 O < c W )T) U> M •<- «/> U M «/1 U M »iVf o k M I f ř * IO S. M M »/» o Q. M M MMTI «i - a2 *■£ e • m - i-« c $22 c u not ZZě Tj 3S5 o 3 T> 3^5 m 3 ° o « g-§ g u SI u ř * S2 TI S. Tï 2 2 o B3"5 § e5£ S ^
+ i- N N (M N N «M N CSI Oí oí O N r» « ui «O £» «R
+ -S1SU03 mj6V
+ ua^iO iiM*aeoS
+ »on utqi mj6V
+ aaj&ts^O
+ «*U"»S )*i|Mawos
+ ÄlwtH mjďvsiq
+ S N
+ T3
+ 0)
+ 3
+ C
+ •H
+ 4-)
+ C
+ O
+ O
+ CM
+ OD
+ Vh
+ P
+ 00
+ •H
+ Pu
+ V-'
+ * • S S ~ fr Is ist«? ® 5» £ • S >, • o ® 5» £ x> U >, O t. • > H- r-r JL £ 5 O x> S
+ U S.Ü ii si i* li í? I U'i' s= s ž i.Hš» SS S.Ü si i* I J s= 2 "» s •; SS So lï J . t& "» •; I Is s- ss - & ■? - as "sss.sfe . ». sì íJ ř" il ■? «2. 55 as if! «I ïj ». .s ļS. sì íJ *2
+ s5 fi? 5 S řš * if || "-S *".í *I l~ļ' H¿ íia 8| s5 ¡i H Is I¡ Īss
+ ř-l ^3* Is lsè si :i f* fi à| í|! ř-l ^3* rt% Is u i :«t :i si 4$ f* h fi 1$ li ;i?
+ Ill III m ili si -üs ss- ai ži
+ •S¿¿¿¿ ¿SS2
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:12:01 UTC
+All use subject to http://about.jstor.org/terms
+ SCHOOL VANDALISM 265
+ efforts aimed at school- wide discipline programs (Mayer, Butter worth,
+ Komoto, & Benoit, 1983). Such a lack of support or reinforcement is also
+ aversive. The third area included allowances made for individual student
+ differences in carrying out discipline policies. It was assumed that when in-
+ dividual differences are recognized and addressed, the environment would
+ become less punitive and more positive (Mayer & Butterworth, 1979; Mayer,
+ Butterworth, Nafpaktitis, & Sulzer-Azaroff, 1983).
+ The original pool of items for the SDS was generated within the above
+ three categories. These items were analyzed and revised according to their
+ relevance to each specific area, and also according to their adherence to basic
+ criteria such as grammar, difficulty, ambiguity, and overlap.
+ Through a series of conferences, the final list was shaped in preparation
+ for a logical or content validation process. In this process, a panel of four
+ behavioral and measurement specialists reviewed the item pool for content
+ validity. All panel members had to agree to each item; items not agreed upon
+ were discarded or revised. Their efforts resulted in a 28-item instrument assess-
+ ing school staff perceptions of discipline policies and practices.
+ Of the items included on the questionnaire some items require a "yes - no"
+ response, while most items require responses on a Likert-type scale on which
+ the respondent must answer, "Rarely," "Sometimes," "More Often Than Not,"
+ or "Consistently." Four items require a response of "Disagree," "Somewhat
+ Disagree," "Somewhat Agree," or "Agree."
+ The survey was administered to the three randomly selected teachers in
+ each school. They were given the survey form individually and were asked
+ to return it approximately one week later. They also were told that their
+ responses were anonymous and confidential and that each school's scores
+ would be treated as a unit.
+ Scoring of the survey. The maximum possible total score on the survey
+ is 136 points, indicating a positively reinforcing environment with clear
+ discipline policies, good administrative support, and maximum allowance
+ for individual differences. Maximum score on the Clarity section (items 1-2)
+ is 32. Maximum score on the Administrative Support section (items 3-16)
+ is 56. Maximum score on the Individual Differences section (items 17-28) is 48.
+ For items la, b, c and 2a, b, c, four points are given for a "Yes" response
+ and zero points are given for a "No" response. For items 3 through 14 and
+ items 19 through 28, four points are given for the response "Consistently,"
+ three points for the response "More Often Than Not," two points for
+ "Sometimes" and one point for "Rarely." For item 15, four points are given
+ for the response "Agree," three points for "Somewhat Agree," two points
+ for "Somewhat Disagree," and one point for "Disagree." For items 16 through
+ 18, four points are given for the response "Disagree," three points for
+ "Somewhat Disagree," two points for "Somewhat Agree," and one point for
+ "Agree."
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:12:01 UTC
+All use subject to http://about.jstor.org/terms
+ 266 MAYER, MAFPAKTITIS, BUTTERWORTH, AND HOLLINGSWORTH
+ Table 1
+ School Discipline Survey Mean Total Score ,
+ Vandalism Frequency and Vandalism Cost for 28 Schools
+ School Survey Mean Vandalism Vandalism
+ School Enrollment Total Score Frequency Cost ($)
+ 1 808 120 20 904
+ 2 348 118 8 960
+ 3 857 110 2 752
+ 4 483 109 6 175
+ 5 576 107 18 3,845
+ 6 $88 107 11 1,574
+ 7 791 106 2 2,800
+ 8 587 103 9 1,097
+ 9 660 102 28 3,185
+ 10 1,639 102 12 1,103
+ 11 853 102 35 2,571
+ 12 452 101 39 3,116
+ 13 764 101 11 4,730
+ 14 467 101 15 961
+ 15 543 100 10 2,369
+ 16 429 98 20 4,040
+ 17 547 98 7 1,735
+ 18 841 98 6 2,985
+ 19 807 97 46 1,965
+ 20 471 96 16 1,180
+ 21 1,424 96 33 1,502
+ 22 720 94 4 345
+ 23 582 91 21 2,360
+ 24 512 91 8 931
+ 25 782 89 22 1,322
+ 26 448 81 26 9,130
+ 27 426 71 22 1,446
+ 28 402 69 23 3,093
+ Table 2
+ Ranges , Means, and Standard Deviations
+ of Scores and Variables for all 28 Schools
+ Range
+ Score or Variable Min. Max. Mean SD
+ Vandalism Frequency/
+ 100 students 0.2 8.6 2.9 2.0
+ Vandalism Cost/
+ 100 students $36 $2,038 $392 396
+ School Discipline Survey
+ Mean Total Score 69 120 98 11
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:12:01 UTC
+All use subject to http://about.jstor.org/terms
+ SCHOOL VANDALISM 267
+ Table 3
+ Intercorrelations for the School Discipline Survey and Vandalism
+ 1 2 3
+ 1. School Discipline
+ Survey 1.00 -.43* -.39*
+ 2. Vandalism Frequency/
+ 100 students 1.00 .54**
+ 3. Vandalism Cost/
+ 100 students 1.00
+ *p< .05
+ **p< .01
+ Reliability and validity of the school discipline survey. In order to assess
+ the test-retest reliability of the survey, a second group of 69 teachers from
+ three of the intermediate schools was requested to complete the question-
+ naire twice at an interval of two to four weeks. A Pearson correlation
+ coefficient was calculated. A high reliability coefficient of .87 was obtained
+ for the total survey, .83 for Clarity, .82 for Administrative Support, and
+ .62 for Individual Differences.
+ In addition to its use in this correlational study, the SDS was administered
+ to the staffs of six schools, four junior high schools and two high schools,
+ at the beginning of a comprehensive staff development project (Nafpaktitis,
+ Mayer, Hollingsworth, & Butterworth, 1982). On the 198 completed surveys,
+ additional support for statistical validity was provided by data on internal
+ consistency. Pearson product-moment correlation coefficients were calculated
+ for the three sub-section scores and for the total score of the SDS. The inter-
+ correlations between the three sub-sections were sufficiently low to indicate
+ construct validity. The correlation between Clarity and Administrative Sup-
+ port was .45; the correlation between Clarity and Individual Differences was
+ .23; and the correlation between Administrative Support and Individual
+ Differences was .39. These correlations suggest that each sub-section is
+ measuring a different construct related to discipline policies and practices.
+ Furthermore, Clarity and Administrative Support each correlated with the
+ total score at .80 and Individual Differences correlated with the total score
+ at .65.
+ Results
+ Table 1 presents the results of the School Discipline Survey and the van-
+ dalism data for each school. The number of incidents of vandalism reported
+ for the 9-month period ranged from 2 to 46. The cost of vandalism to a school
+ for the 9 months ranged from $175 to $9,130. Table 2 lists the ranges, means,
+ and standard deviations for all the variables. Table 3 displays a correlation
+ matrix of measures of the school discipline survey, vandalism frequency, and
+ vandalism cost. While no significant relationship was found between any of
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:12:01 UTC
+All use subject to http://about.jstor.org/terms
+ 268 MAYER, MAFPAKTITIS, BUTTERWORTH, AND HOLLINGSWORTH
+ the survey's subscores and vandalism, the total score obtained from the school
+ discipline survey was found to be related significantly to both vandalism fre-
+ quency (r = - .43) and cost (r = - .39).
+ Discussion
+ A major factor was found to relate significantly to vandalism: a punitive
+ school discipline environment, as measured by the school discipline survey.
+ The school discipline environment includes several areas: clarity of rules, ad-
+ ministrative support (i.e., consistency and follow-through), and the allowance
+ for individual differences (i.e., appropriate selection of academic materials,
+ reinforcers, and punishers). No one of these areas by itself was found to cor-
+ relate significantly with vandalism, but the combination of the three areas did.
+ Because correlations indicate strength of association only and are not
+ evidence of a cause and effect relationship, it might be concluded that these
+ findings have little relevance to the problem of school vandalism. However,
+ research evidence strongly suggests that when the predictor variables in the
+ SDS scale are manipulated as treatment variables, vandalism is indeed
+ affected. For example, when the punitive school environment and other
+ variables were treated in two different experimental studies (Mayer & But-
+ terworth, 1979; Mayer, Butterworth, Nafpaktitis, & Sulzer- Azaroff, 1983),
+ vandalism costs decreased an average of 73.5% for 23 elementary and junior
+ high schools. These findings complement those of Gold and Mann (1982),
+ who also concluded that "poor scholastic experiences are significant causes
+ of delinquent and disruptive behavior" (p. 313). They found that when cur-
+ riculum was more individualized and the environment was made more rein-
+ forcing, students behavior and scholastic performance improved.
+ Perhaps, then, a punitive school discipline environment is a major factor
+ contributing to school vandalism. The correlational evidence of this study,
+ combined with the experimental evidence of other studies (Mayer & Butter-
+ worth, 1979; Mayer, Butterworth, Nafpaktitis, & Sulzer-Azaroff, 1983),
+ would appear to support such a conclusion. Certainly, evidence is ac-
+ cumulating to suggest that the discipline environment, as measured in the
+ School Discipline Survey, may be a setting event for school vandalism.
+ Perhaps, then, by making the school environment more reinforcing, by reduc-
+ ing the frequent misuse of behavioral procedures, and by maintaining ap-
+ propriate behavior through an increased use of positive reinforcement, the
+ amount of vandalism in our schools can be significantly decreased.
+ In our opinion, the importance of the impact of setting events on van-
+ dalism has been overlooked by educators. The emphasis instead has been
+ placed on security arrangements and punishment. School staff need to be
+ educated as to the relevance of setting events. "Because setting events can
+ function powerfully, they all must be identified and dealt with effectively if
+ we are ever durably to prevent, rather than just temporarily suppress, violence
+ and vandalism in our schools" (Sulzer-Azaroff & Mayer, 1986, p. 342).
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:12:01 UTC
+All use subject to http://about.jstor.org/terms
+ SCHOOL VANDALISM 269
+ Additional support for the utility of the School Discipline Survey is sug-
+ gested by reactions of administrators in the study. They generally reported
+ that they found information on the scale to be helpful in evaluating their
+ discipline policies and in planning policy changes.
+ Finally, it should be recognized that even though the correlations obtained
+ between the School Discipline Survey and vandalism were statistically signi-
+ ficant, they were not extremely high. Addtional research studies certainly are
+ warranted to identify and substantiate the existence of setting events for van-
+ dalism in order to help us to better understand and prevent this pervasive
+ problem. More precise measurement of vandalism, for example, might im-
+ prove our identification and understanding of its setting events. Even though
+ it appears impossible to measure acts of vandalism directly, future studies
+ might attempt to assess the reliability of vandalism frequency and cost
+ statistics by using two independent reporters or observers.
+ Inter-rater reliabilities of the School Discipline Survey also should be
+ studied. Factor analysis of the items of the survey might lend additional sup-
+ port to the theoretically derived categories. Studies of student and parent
+ responses to the survey and correlations of the survey with aggressive or
+ assaultive behavior on the campus would further strengthen the survey's
+ validity.
+ In the final analysis, however, despite the low correlations, the predictors
+ in the survey as setting events constitute a major departure from the tradi-
+ tion of measuring school climate with vague, highly subjective categories.
+ The concept of setting events with objective statements of environmental
+ variables presents great potential for programmatic utility. More interven-
+ tions to reduce vandalism also need to be experimentally tested. These in-
+ clude studying the effect on vandalism of a clear discipline policy and studies
+ comparing individualized and standardized discipline approaches.
+ References
+ Azrin, N. H., Hutchinson, R. R., & Hake, D. F. (1963). Pain-induced fighting in the squirrel
+ monkey. Journal of the Experimental Analysis of Behavior, 6, 620.
+ Berkowitz, L. (1983). Aversively stimulated aggression: Some parallels and differences in research
+ with animals and humans. American Psychologist, 38, 1135-1144.
+ Brodinsky, B. (1980). A AS A critical issues report: Student discipline, problems and solutions
+ (Report No. 021-00334). Arlington, VA: American Association of School Administrators.
+ Gold, M., & Mann, D. W. (1982). Alternative schools for troublesome secondary students. The
+ Urban Review, 14, 305-316.
+ Greenberg, B. (1969, October). School vandalism: A national dilemma. Palo Alto, CA: The
+ Stanford Research Institute Research and Development Program.
+ Greenberg, B. (1974). School vandalism: Its effects and paradoxical solutions. Crime Preven-
+ tion Review, 1, 105.
+ Heller, M. C., & White, M. A. (1975). Rates of teacher verbal approval and disapproval to
+ higher and lower ability classes. Journal of Educational Psychology, 67, 796-800.
+ Mayer, G. R., & Butterworth, T. W. (1979). A preventive approach to school violence and van-
+ dalism: An experimental study. The Personnel and Guidance Journal, 57, 436-441.
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:12:01 UTC
+All use subject to http://about.jstor.org/terms
+ 270 MAYER, MAFPAKTITIS, BUTTERWORTH, AND HOLLINGSWORTH
+ Mayer, G. R., & Butterworth, T. W. (1981). Evaluating a preventive approach to reducing school
+ vandalism. Phi Delta Kappan, 62, 498-499.
+ Mayer, G. R., Butterworth, T. W., Komoto, T., & Benoit, R. (1983). The influence of the school
+ principal on the consultant's effectiveness. Elementary School Guidance and Counseling,
+ 17, 274-279.
+ Mayer, G. R., Butterworth, T., Nafpaktitis, M., & Sulzer-Azaroff, B. (1983). Preventing school
+ vandalism and improving discipline: A three year study. Journal of Applied Behavior
+ Analysis, 16, 355-369.
+ Mayer, G. R., Butterworth, T. W., Spaulding, H. L., Hollings worth, P., Amorim, M., Caldwell-
+ McElroy, C., Nafpaktitis, M., & Perez-Oserio, X. (1983). Constructive discipline: Building
+ a climate for learning. (Available from the Office of the Los Angeles County Superinten-
+ dent of Schools, 9300 E. Imperial, Downey, CA 90242).
+ Nafpaktitis, M., Mayer, G. R., Hollingsworth, P., & Butterworth, T. W. (1982). Constructive
+ discipline: Improving attendance and reducing disruption and vandalism costs. (End of
+ year report. Project No. 5867). Downey, CA: Los Angeles County Superintendent of
+ Schools.
+ Nicholson, G. (1981). Pursuing school safety in the 80's: An opinion from the attorney general's
+ office. Thrust, 11, 26-27 .
+ Reaves, A. (1981). We let it happen - we can change it. Thrust, 11, 8-10.
+ Scrimger, G. C., & Elder, R. (1981). Alternatives to vandalism: Cooperation or wreckreation.
+ Sacramento, CA: School Safety Center, California Department of Justice.
+ Sulzer-Azaroff, B., & Mayer, G. R. (1986). Achieving educational excellence using behavioral
+ strategies. New York: Holt, Rinehart and Winston.
+ Thomas, J. D., Presland, I. E., Grant, M. D., & Glynn, T. (1978). Natural rates of teacher
+ approval in grade-7 classrooms. Journal of Applied Behavior Analysis, 11, 91-94.
+ Wahler, R. G., & Fox, J. J. (1981). Setting events in applied behavior analysis: Toward a con-
+ ceptual and methodological expansion. Journal of Applied Behavior Analysis, 4, 327-338.
+ White, M. A. (1975). Natural rates of teacher approval and disapproval in the classroom. Journal
+ of Applied Behavior Analysis, 8, 367-372.
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:12:01 UTC
+All use subject to http://about.jstor.org/terms

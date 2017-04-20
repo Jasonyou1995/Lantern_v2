@@ -1,0 +1,141 @@
+School vandalism: individual and social context.
+
+
+
+
+ABSTRACT
+Six hundred Israeli students responded to a questionnaire dealing with five motives for participating in vandalism: anger/frustration, boredom, erosion, aesthetics, and catharsis (Cohen, 1984). As we did not find a coherent pattern, we created a variable comprising all five motives: general motivation. Four factors accounted for motivation to participate in destructive behavior: perceived level of vandalism at school, attitude toward school, attitude toward teacher, and school anxiety. Punishment, father's level of education, sense of hope, and class level did not have an effect on motivation to participate in vandalism. It was concluded that the social context is a crucial element in school vandalism.
+Various disciplines such as psychology and sociology have examined vandalism from different perspectives, and it is difficult to reach consensus on a definition. Nevertheless, some of the definitions have common elements, such as: "an intentional act aimed at damaging or destroying an object that is another's property" (Moser, 1992); "a voluntary degradation of the environment with no profit motive whatsoever, the results of which are considered damage by the actor(s) as well as the victim in relation to the norms that govern the situation" (Goldstein, 1996, p. 19); and "the willful or malicious destruction, injury, disfigurement, or defacement of property without the consent of the owner" (Casserly, Bass, & Garrett, 1982, p. 4). Most of the definitions highlight intentionality, destructiveness, and property ownership. This form of destructive behavior is thus motivated not by profit but by other factors. Cohen (1984) suggests that acts of vandalism are motivated by anger, boredom, catharsis, erosion of already damaged objects, or aesthetic factors.
+Research on vandalism is divided into two categories. Some studies look at vandalism from the point of view of the individual who commits it: personal traits, difficulties in adjusting to society at large and to school in particular, and emotional problems. This perspective is derived mainly from epidemiological studies. Other studies look at vandalism in a broader social context. Research on vandalism as a social phenomenon began in the 1930s with ecological studies by the Chicago School. Vandalism was explained as a malaise of modern society that is characterized by alienation and meaninglessness. Zimbardo (1969) used the term deindividuation to describe a situation in which individuals lose their uniqueness. According to Zimbardo, the malaise of modern society is related to a high level of social mobility, rapid growth, and instability. Erikson looked at modern society from the point of view of adolescents who experience social mores and values inconsistently and therefore become involved in nonnormative behavior.
+According to Casserly, Bass, and Garrett (1982), the social explanations of vandalism until the 1970s were too amorphous and unfocused; consequently, their explanatory power was limited. A new line of explanations began to look at specific institutions, one of them being school. Pioneering research on school violence and school vandalism--the Safe School Study--was conducted in the mid-1970s (U.S. Department of Health, Education and Welfare, 1978). The study, carried out in approximately 25,000 schools throughout the United States, examined objective parameters as well as subjective ones (i.e., students' perceptions). The objective parameters found to have an effect on school vandalism were school size, age of the student population, teacher turnover, and parental support for the school's discipline policy. The salient subjective parameters were the students' views of how their teachers function (e.g., how fair they are, whether they use grades to exert power over students) and whether school rules are unambiguous (U.S. Department of Health, Education and Welfare, 1978).
+Following this major study, research was conducted that focused on the connection between vandalism and school effectiveness and climate. It was found that when school climate was not positive and did not enhance students' social welfare, the rate of vandalism was high, and when the school did not effectively promote learning, vandalism tended to increase (Zeisel, 1977). It was also found that vandalism increased in schools where students did not have a sense of belonging.
+Some researchers have emphasized teacher-student interaction as a causal variable (Heller & White, 1975). Others have noted that tolerance, respect for others, and motivation to achieve are important in mitigating vandalism (Dust, 1984; Geller, 1992). In an Israeli study, Horowitz and Amir (1981) found that students who were involved in vandalism were socially marginal at school; they felt alienated from school and were low achievers though not necessarily low in terms of competence.
+METHOD
+The present study on vandalism was carried out in 1999 in four high schools in a medium-sized Israeli town. The students in these schools were representative of the social composition of Israel. The research question was as follows: What factors influence destructive behavior by students toward school property? Specifically, is motivation to participate in vandalism related to personal background, perception of school as an institution, attitude toward teacher, school anxiety, sense of hope, perception of school climate, and how discipline is applied?
+Six hundred eighth and ninth graders responded to the questionnaire, which had six sections. The first section dealt with attitudes toward school and toward the homeroom teacher. Both subscales were adapted from Epstein and McPartland's (1976) instrument: Quality of Life at School. The statements on the first subscale--attitude toward school--to which the students were asked to respond were: I do not like to go to school; I am happy at school; I would be happier if I attended a different school; there is nothing to change in my school; I would leave my school if I could; there are a lot of interesting events in my school. The reliability (alpha) of this subscale was .60. The statements on the second subscale--attitude toward homeroom teacher --were: our homeroom teacher takes care of our problems; our homeroom teacher consults with us on matters concerning our class; outside class the teacher is like us; the teacher's lessons on current affairs are very interesting. The reliability (alpha) of this subscale was .64.
+The second section of the questionnaire consisted of a scale, developed previously (see Horowitz & Amir, 1981), about school anxiety. The items in the scale were: Do you get excited when the teacher tests your knowledge on subjects he/she taught? When you read something to your class, do you get confused about material that you know? When the teacher calls on you, are you embarrassed? When you sit at home thinking about tomorrow's class, are you afraid that you will not do well in it? Are you afraid of school tests? When you take a test, do you think you will fail? Does your hand shake when you take a test? The reliability (alpha) of this scale was .71.
+The third section was the Index of Hope (Stat & Stassen, 1985). The question asked was: What do you think will happen to you next year? The students had to respond to the following statements: I will do well in school; I will have more friends; I will manage to do what I like; I will be cheerful; I will have free time; my family will understand me; I will have the freedom to do what I like. The reliability (alpha) of this scale was .77.
+The fourth section dealt with perception of level of vandalism at school. The items on the scale, developed by Horowitz, were: in my school, students like to stick chewing gum under their seats; students throw the shavings onto the floor after sharpening their pencils; students throw used paper on the floor; most of the students carve their names on their desks and draw on the classroom walls; if there is a hole in the door, students will widen it. The reliability (alpha) of this scale was .72.
+The fifth section dealt with active participation in vandalism in the last three months and the motives for participating in acts of vandalism. Each item represented a different motive based on Cohen's (1984) typology: sometimes out of anger I destroy school property (frustration motive); at times I have destroyed school property because I was bored (boredom motive); when I see damaged property, I destroy it further (erosion motive); sometimes I destroy property because I want to express my emotions (catharsis motive); when I draw on the wall, I feel creative (aesthetic or creativity motive).
+The sixth section of the questionnaire dealt with the effectiveness of punishment. The students were asked to state how effective different types of punishment are: financial penalties, such as paying for the damaged property; educational penalties, such as working with handicapped students; notifying parents; collective punishment of the class; and publicizing the names of destructive students.
+RESULTS
+We first wanted to determine whether different motives to participate in acts of vandalism (i.e., frustration, boredom, erosion, aesthetics, and catharsis) are influenced by different factors, and multiple regression was used to analyze the data. Each motive was considered separately as the dependent variable, and the independent variables were: father's level of education; class level; attitude toward school; attitude toward homeroom teacher; school anxiety; hope index; perceived level of vandalism at school; and punishment policy, which included financial penalties, educational penalties, notifying parents, collective punishment of the class, and publicizing the names of destructive students. Five regression analyses were employed, in accordance with the five motives (see Tables 1 to 5). In four of the five regression analyses, the independent variable that contributed most to the dependent variable was the perceived level of vandalism at school. In three of the five regression analyses, attitude toward school helped explain motivation to participate in vandalism. In two regression analyses, school anxiety and attitude toward homeroom teacher made a significant contribution to motivation to participate in vandalism. The following variables did not make a significant contribution: father's level of education, class level, hope index, and punishment.
+On the whole, we did not find a coherent pattern of explanatory factors for the different motives. In addition, R² was quite small in each case. Consequently, we created a variable comprising all five motives: general motivation to participate in an act of destruction. The reliability (alpha) of "general motivation" was .80.
+A regression analysis was performed with general motivation as the dependent variable and the same independent variables as in the previous analyses (R² = 19.3). Four factors made a significant contribution to motivation to participate in acts of vandalism: perceived level of vandalism at school (beta = .341), attitude toward school (beta = .166), attitude toward homeroom teacher (beta = .127), and school anxiety (beta = .127). The following variables did not make a significant contribution: father's level of education, punishment, hope index, and class level (see Table 6).
+DISCUSSION
+These findings are compatible with Goldstein's (1996) argument that setting (or context) has strong explanatory power: "Schools are a prime ecological context for vandalism, not only due to the presence of a large number of youths at a highly vandalism-prone age, the personal component, but also because of several real and symbolic qualities of the school itself, the environmental component" (pp. 28-29). This study is also in accord with the Safe School Study (U.S. Department of Health, Education and Welfare, 1978) and research by Horowitz and Amir (1981), which showed that vandalism and violence are not limited to poverty-stricken areas and children from low socioeconomic circumstances, but also occur in middle-class areas with more affluent students. For example, social class and age (i.e., father's level of education and student's class level), two personal (individual) factors investigated in the present study, did not have significant effects on motivation to participate in acts of vandalism. In contrast, level of vandalism at school had a strong impact on motivation to participate in vandalism.
+We can look at the results from the perspective of learning theory. If the perceived norm is that of destructive behavior, then the individual will more likely behave according to that dominant norm and engage in vandalism. Frustration may also play a role. We found that attitudes toward school and teachers, and anxiety as a result of experiences at school, were associated with motivation to participate in acts of vandalism.
+It was also found that punishment had no effect on motivation to participate in vandalism. Punishment--a show of strength--is the instinctive reaction to vandalism, but studies have indicated that various punishments are ineffective because they are "person-oriented" rather than "context-oriented" (Heller & White, 1975; Stoner et al., 1991; Goldstein, 1996). Some researchers have even argued that punishment provokes vandalism.
+In conclusion, the social context is a key element in adolescent vandalism. When the school climate is supportive and encourages teamwork, and students find that schooling is related to their lives and can advance their goals, and the school defines norms and rules such that students feel the system is fair, vandalism is less likely to occur (Casserly, Bass, & Garrett, 1982).
+Reprint requests should be sent to Tamar Horowitz, Department of Education, Ben-Gurion University of the Negev, P.O.B. 653, Beer Sheva, 84105, Israel. E-mail: tamarh@bgumail.bgu.ac.il
+Table 1 Dependent Variable: Frustration Motive
+Legend for Chart:
+
+A - Independent Variable
+B - B
+C - Beta
+D - t
+E - p
+
+          A              B       C      D       E
+
+Level of vandalism     0.419   0.241   5.48   .000
+School anxiety         0.338   0.186   4.23   .000
+
+Note. R² = 10.0; F = 25.88, p < .01. Variables not included
+in the equation: attitude toward homeroom teacher, attitude
+toward school, hope index, father's level of education, class
+level, and punishment.
+Table 2 Dependent Variable: Boredom Motive
+Legend for Chart:
+
+A - Independent Variable
+B - B
+C - Beta
+D - t
+E - p
+
+          A              B       C      D       E
+
+Level of vandalism     0.423   0.245   5.56   .000
+School anxiety         0.148   0.099   2.25   .000
+Attitude toward        0.287   0.158   3.62   .000
+homeroom teacher
+
+Note. R² = 10.5; F = 18.39, p < .01. Variables not included
+in the equation: attitude toward school, hope index, father's
+level of education, class level, and punishment.
+Table 3 Dependent Variable: Erosion Motive
+Legend for Chart:
+
+A - Independent Variable
+B - B
+C - Beta
+D - t
+E - p
+
+          A                  B       C      D      E
+
+Level of vandalism         0.445   0.267   6.04   .000
+Attitude toward            0.174   0.125   2.67   .007
+homeroom teacher
+Attitude toward school     0.302   0.125   2.46   .016
+
+Note. R² = 10.1; F = 17.54, p < .01. Variables not included
+in the equation: school anxiety, hope index, father's level of
+education, class level, and punishment.
+Table 4 Dependent Variable: Catharsis Motive
+Legend for Chart:
+
+A - Independent Variable
+B - B
+C - Beta
+D - t
+E - p
+
+          A                  B       C      D      E
+
+Level of vandalism         0.227   0.163   3.64   .000
+Attitude toward school     0.463   0.102   4.50   .000
+
+Note. R² = 7.0; F = 17.42, p < .01. Variables not included
+in the equation: attitude toward homeroom teacher, school
+anxiety, hope index, father's level of education, class level,
+and punishment.
+Table 5 Dependent Variable: Aesthetic (Creativity) Motive
+Legend for Chart:
+
+A - Independent Variable
+B - B
+C - Beta
+D - t
+E - p
+
+          A                  B       C      D      E
+
+Attitude toward school     0.401   0.139   3.00   .003
+
+Note. R² = 2.0; F = 9.04, p < .01. Variables not included
+in the equation: level of vandalism, attitude toward homeroom
+teacher, school anxiety, hope index, father's level of
+education, class level, and punishment.
+Table 6 Dependent Variable: General Motivation to Participate in an Act of Vandalism
+Legend for Chart:
+
+A - Independent Variable
+B - B
+C - Beta
+D - t
+E - p
+
+        A                  B       C       D      E
+
+Level of vandalism       0.378   0.341   8.09   .000
+Attitude toward school   0.164   0.166   3.89   .000
+Attitude toward          0.232   0.127   2.89   .003
+homeroom teacher
+School anxiety           0.144   0.127   2.96   .000
+
+Note. R² = 19.3; F = 26.8, p < .01. Variables not included
+in the equation: hope index, father's level of education, class
+level, and punishment.
