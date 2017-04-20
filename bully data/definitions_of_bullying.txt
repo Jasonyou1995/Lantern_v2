@@ -1,0 +1,374 @@
+hild Development, July/August 2002, Volume 73, Number 4, Pages 1119–1133
+Definitions of Bullying: A Comparison of Terms Used, and Age and Gender Differences, in a Fourteen-Country International Comparison
+Peter K. Smith, Helen Cowie, Ragnar F. Olafsson, and Andy P. D. Liefooghe
+with the collaboration of Ana Almeida, Hozumi Araki, Cristina del Barrio, Angela Costabile, Bojan Dekleva, Anastasia Houndoumadi, Kenneth Kim, Ragnar P. Olafsson, Rosario Ortega, Jacques Pain, Lena Pateraki, Mechthild Schafer, Monika Singer, Andrea Smorti, Yuichi Toda, Helgi Tomasson, and Zhang Wenxin
+The study of school bullying has recently assumed an international dimension, but is faced with difficulties in finding terms in different languages to correspond to the English word bullying. To investigate the meanings given to various terms, a set of 25 stick-figure cartoons was devised, covering a range of social situations be- tween peers. These cartoons were shown to samples of 8- and 14-year-old pupils (N   1,245; n   604 at 8 years, n   641 at 14 years) in schools in 14 different countries, who judged whether various native terms cognate to bullying, applied to them. Terms from 10 Indo-European languages and three Asian languages were sampled. Multidimensional scaling showed that 8-year-olds primarily discriminated nonaggressive and aggressive car- toon situations; however, 14-year-olds discriminated fighting from physical bullying, and also discriminated verbal bullying and social exclusion. Gender differences were less appreciable than age differences. Based on the 14-year-old data, profiles of 67 words were then constructed across the five major cartoon clusters. The main types of terms used fell into six groups: bullying (of all kinds), verbal plus physical bullying, solely ver- bal bullying, social exclusion, solely physical aggression, and mainly physical aggression. The findings are dis- cussed in relation to developmental trends in how children understand bullying, the inferences that can be made from cross-national studies, and the design of such studies.
+INTRODUCTION
+Since the publication of Olweus’s book Aggression in the Schools, in 1978, there has been a growing interest in the topic of school bullying. Spreading from Scan- dinavia to other western European countries, the United States, and Australia and New Zealand, and with a somewhat independent research tradition in Japan on ijime, the research and preventive action on this phenomenon has now reached an international dimension (Smith, Morita, et al., 1999). Correspond- ingly, there is a need to examine the use of the word bullying and cognate terms in a variety of languages, at an international level, to understand fully the sim- ilarities and differences in the phenomenon across different countries and language groups. In any cul- ture, the issue of definition is central for accurate sta- tistics on the incidence of bullying; the study of devel- opmental changes in perceptions of bullying on the part of children, adolescents and adults; the evalua- tion of the effectiveness of different interventions to combat it; and clarification of individual rights and legal responsibilities (Ananiadou & Smith, in press). Because comparisons are attempted at cross-national levels, the definition of corresponding terms in differ- ent languages becomes essential for the interpretation of cross-national findings. The present study exam-
+ined the meaning attached to the term bullying, and related terms, in 14 countries and 13 major languages (10 Indo-European, 3 Asiatic), as well as age and gen- der differences related to this issue.
+The Definition of Bullying
+Heinemann (1973) was one of the first to write on the phenomenon of bullying. He used the Norwegian term mobbning, referring to group violence against a deviant individual that occurs suddenly and subsides suddenly. This confines the process to actions carried out by a group against an individual, as does the En- glish word mobbing. A similar use of the concept of mobbing also appears in the German literature (Niedl, 1996). Olweus (1978, 1993) at first used this term, but subsequently extended the definition to in- clude systematic one-on-one attacks of a stronger child against a weaker child.
+The emphasis of earlier work on bullying was on physical bullying and verbal taunting done directly by the bully or bullies to the victim. Olweus’s earlier (1978) work did not fully recognize the extent of indi- rect bullying. However, the importance of indirect
+© 2002 by the Society for Research in Child Development, Inc. All rights reserved. 0009-3920/2002/7304-0009
+1120 Child Development
+aggression as a category was shown by the research of Björkqvist and colleagues (Björkqvist, Lagerspetz, & Kaukiainen, 1992) in Finland. They distinguished direct physical aggression (such as punching) and direct verbal aggression (such as name calling), as well as indirect aggression. Indirect aggression, characterized by its somewhat covert nature and use of third par- ties, had principal forms of gossiping and spreading rumors, and social exclusion (deliberately not allow- ing a person into a group). Somewhat similar (al- though not identical) concepts have been described by Crick and colleagues (Crick, Casas, & Mosher, 1997; Crick & Grotpeter, 1995, 1996) as relational aggres- sion, and by Galen and Underwood (1997) as social aggression; these relate more to the consequences of the negative act and the intent to damage relation- ships. There are corresponding forms of physical, verbal, and indirect or relational bullying (Rivers & Smith, 1994).
+Currently, Olweus (1999, pp. 10–11) states that “bullying is thus characterized by the following three criteria: (1) it is aggressive behavior or intentional ‘harmdoing’ (2) which is carried out repeatedly and over time (3) in an interpersonal relationship charac- terized by an imbalance of power. One might add that the bullying behavior often occurs without apparent provocation,” and “negative actions can be carried out by physical contact, by words, or in other ways, such as making faces or mean gestures, and inten- tional exclusion from a group.” This kind of defini- tion of the term bullying is now accepted by many re- searchers (Farrington, 1993; Smith & Sharp, 1994).
+Such a definition labels bullying as a subset of ag- gressive behavior. Aggressive behavior, in turn, is often defined as negative acts carried out intention- ally to harm another; thus, behavior that accidentally harms another would not be aggressive. The issue of whether the aggressive behavior is provoked, or in some sense justified, is less clearly resolved. Olweus stated that “the bullying behavior often occurs with- out apparent provocation,” but some researchers (no- tably Pikas, 1989) have suggested that there is a cate- gory of “provocative victims” who play an active part in “inviting” or “perpetuating” the bullying behavior.
+An earlier form of the Olweus definition (1993), ex- tended slightly by Whitney and Smith (1993, p. 7) in their English language version, prefaces the adminis- tration of recent versions of his questionnaire:
+We say a young person is being bullied, or picked on, when another child or young person, or a group of young people, say nasty and unpleasant things to him or her. It is also bullying when a young person is hit, kicked or threatened, locked
+inside a room, sent nasty notes, when no-one ever talks to them and things like that. These things can happen frequently and it is difficult for the young person being bullied to defend himself or herself. It is also bullying when a young person is teased re- peatedly in a nasty way. But it is not bullying when two young people of about the same strength have the odd fight or quarrel.
+This definition specifies that bullying is an aggres- sive act. In addition, it suggests an imbalance of power (the victim finds it difficult to defend himself or herself) and some element of repetition (these things can happen frequently). These two additional criteria serve to distinguish bullying as a subset of the broader concept of aggression. Notably, two sorts of actions are labeled as not being bullying: the odd fight or quarrel between two young people of about the same strength, which is aggression, is explicitly not bullying because it fails the above two additional cri- teria. The definition also implicitly labels friendly forms of teasing as not being bullying; teasing is a rather ambiguous behavior, but in friendly teasing there would not be an intent to harm, whereas in nasty teasing there would be.
+There is now widespread use of the Olweus ques- tionnaire, and similar survey instruments, on an in- ternational basis (Morita, Smith, Junger-Tas, Olweus, & Catalano, 1999; Smith et al., 1999). A modified ver- sion has been used in a cross-national comparative survey of five countries (Japan, England, The Nether- lands, Norway, and the United States) funded by the United Nations Educational, Scientific and Cultural Organization (UNESCO) and the Japanese Ministry of Education, Science, Sports, and Culture (Mon- busho; Junger-Tas & van Kesteren, 1999; Morita, 1999; Smith & Shu, 2000). One aim of such international co- operation is to compare the frequency and structural characteristics of bullying in different societies, to bet- ter understand and then plan interventions to reduce the harmful consequences that bullying can have.
+The Implications of Cross-National Research on Bullying
+A difficulty facing cross-national comparisons is the comparability of terminology. Arora (1996) drew attention to the various terms cognate with bullying in English and in several other languages. The study of bullying in a number of different countries indi- cates that the word bully is not easy to translate (Genta, Menesini, Fonzi, Costabile, & Smith, 1996; Morita, 1996; O’Connell, Pepler, & Craig, 1999; Rigby & Slee, 1991). Different terms are used both in any one
+language and in different languages. The terms bully and mobbing are familiar in the Scandinavian and Germanic languages, including English (the etymol- ogy of the word bully probably coming from the Mid- dle Dutch word boele meaning first sweetheart, then fine fellow, then blusterer; Encarta World English Dic- tionary, 1999). The word bully is familiar in other English-speaking cultures such as the United States, although less widely used (Hazler, 1996); in the United States the terms victimization and peer rejec- tion are often used to denote negative actions of peers toward another young person (Asher & Coie, 1990). Words for bullying are less familiar in the Latin lan- guages; for example, the French have no direct trans- lation of the word.
+The importance of the terms used can be illustrated within one language, English. The terms bully and bullying have been in usage for a long time, to de- scribe this kind of behavior in children at school (as in Tom Brown’s Schooldays; Hughes, 1857/1989). The term teasing is similar but can have a milder connota- tion of verbal and possibly playful aggression. An- other term, harassment, appears similar to bullying but tends to be used for adult or adolescent rather than child behaviors, as in sexual harassment, or ra- cial harassment. Yet another term, abuse, also appears similar but tends to be restricted to the family context, as in parent–child abuse or spousal abuse, or to adult– child contexts, as in physical abuse or sexual abuse. These terms have somewhat different dictionary def- initions and, more importantly, they may be under- stood differently by persons answering questionnaires.
+This issue is also highlighted when questionnaires such as the Olweus questionnaire are translated into different languages. Frequently there is not an exact translation of the term bullying. The Japanese term most equivalent to bullying appears to be ijime, which has been the subject of a rather independent research tradition in Japan, through the 1980s and 1990s (Morita, Soeda, Soeda, & Taki, 1999). However, Morita, Soeda, et al. (1999) consider that ijime does differ somewhat from bullying, in having a less physically violent connotation, and a relatively greater emphasis on social manipulation and more female types of ag- gressive behavior. In contrast, in Italy, the Italian words prepotenza and violenza tend to imply more physical, violent actions (Fonzi et al., 1999).
+The issue of comparability of terms is central for the accurate interpretation of national and cross-national findings. Exact matching of terms across languages is an unrealizable ideal, but it is necessary to know how comparable terms are, and, if they differ, on which dimensions or criteria (e.g., physical/psychological, direct/indirect, group/individual, and so forth) the
+difference is primarily located. Even if a fuller explicit definition is given (as in the Olweus questionnaire), the favored term (bullying, ijime, prepotenza, and so forth) is used throughout the questionnaire, and in summaries and wider discussion; and respondents to the questionnaire may well refer to their personal def- inition of this term rather than that given early on by the researcher (Arora, 1996; Madsen, 1997).
+In the present study’s comparison of the meaning of different terms, the intention was not to “privilege” any particular term or language, but rather to show the kinds of situational meanings attributed to each term. However, given a current strong position of En- glish language in scientific discourse, and the wide- spread use of the term bullying (including its co- option as, e.g., bullismo in Italian; Fonzi, 1997), there may be particular interest in comparing other lan- guage terms for their similarity/dissimilarity to the English term bullying.
+Such information is also important for the study of developmental changes in perceptions of bullying. There is evidence for developmental differences in the ways in which pupils construe bullying (Madsen, 1997; Smith & Levan, 1995; Smith, Madsen, & Moody, 1999). Younger pupils may not distinguish between bullying and fighting, broadening the use of the term bullying to cover nasty kinds of behavior even when no imbalance of power is involved. Younger, Schwartz- man, and Ledingham (1985) compared children’s per- ceptions of aggression, withdrawal, and likability items in Canadian children approximately 6, 9, and 12 years of age. Using multidimensional scaling (MDS) techniques, they found a shift with age from a simple evaluative dimension and low cohesiveness of clus- ters (high structure ratios in the MDS) to a more com- plex separation of clusters with an additional active– passive dimension, and higher within-cluster item cohesiveness (lower structure ratios).
+It is also possible that there are gender differences in perceptions of bullying and related terms. This is an issue, given the well-established gender differ- ences found in the use of direct and indirect or phys- ical and psychological forms of aggression, including bullying (Björkqvist et al., 1992; Crick & Grotpeter, 1995, 1996; Rivers & Smith, 1994). Although little evi- dence has been found thus far for gender differences in the understanding of aggression and bullying (Madsen, 1997), as opposed to their use, the possibil- ity of them emerging should be investigated.
+Aims of the Present Study
+This study examined the understanding of a variety of terms cognate to bullying, in 14 countries, includ-
+Smith et al. 1121
+1122 Child Development
+ing 13 major languages. Understanding was opera- tionalized in terms of applicability of a selection of 25 stick-figure cartoons that displayed situations that might or might not be bullying, based on various well-used criteria. Age differences were examined by giving the task to primary school children (8 years of age) and secondary school children (14 years of age); samples were balanced for gender to also allow for male–female comparisons.
+METHOD
+The Cartoons Task
+We first developed a series of 25 stick-figure car- toon pictures (see Table 1) that illustrated different sit- uations that might or might not be bullying, based on elements used in existing definitions of bullying (Smith, 1999). Most of the cartoons portrayed nega- tive acts; however, two prosocial cartoons (10, 18) were included. Two other nonaggressive cartoons were paired with corresponding aggressive ones: one (8) showed a negative but accidental act and was con- trasted with one (9) in which a similar act was inten- tional; the other (16) showed friendly verbal teasing and was contrasted with one (17) that depicted simi- lar teasing that upset the recipient. One cartoon (4) re- ferred to provoked aggression. The remaining car- toons covered physical forms of aggression (1–7), direct verbal aggression (11–15), social exclusion ag- gression (19–23), and indirect relational aggression (24, 25); however, embedded in these were compari- sons of the defining criteria of bullying, namely repe- tition and imbalance of power. Thus, repetition was made explicit in some cartoons (5, 12, 20), and imbal- ance of power in others (3, 7, 21). Themes such as rac- ism (13), sexism (22, 23), and discrimination on the basis of disability (14) or sexual orientation (15) were also included.
+The cartoons were piloted extensively before the set was finalized. Stick figures were used so as to avoid issues of clothing, which might vary by culture, and to avoid suggesting any particular ethnic group or skin color. Thus, identical pictures were used across all cultures. Each cartoon had a caption in the native language, as listed in Table 1 for the English language version (boys). In each language, one set of cartoons had captions with typical boys’ names in the country concerned, and a corresponding set had cap- tions with typical girls’ names; cartoons 22 and 23 were in common to both gender sets. Examples of four cartoons (3 and 10 from the boys’ set, 14 and 21 from the girls’ set) are shown in Figure 1.
+The cartoon captions were descriptive (see Table 1)
+Table 1 Captions for the 25 Cartoons (Male Version)
+1. Mike and John don’t like each other and start to fight
+2. Bill starts a fight with Joey
+3. Martin starts to fight with Akhtar, who is smaller
+4. Sean starts a fight with Ron because he said Sean was stupid 5. Chris starts a fight with Damien every break time
+6. David tells Scott that if he doesn’t give him money, he will hit him
+7. Nick and his friends start to fight Terry
+8. Nigel borrows Duncan’s ruler and accidentally breaks it 9. Harry takes Ian’s ruler and breaks it
+10. Jim forgot his pen so Kirk lends him one of his
+11. Kurt says nasty things to Ben
+12. Charles says nasty things to Marcus every week
+13. Stuart says nasty things to Jeff about the color of his skin
+(alternate caption if color of skin is not an important factor in the culture: Stuart says nasty things to Jeff about his talking in a different way)
+14. Joshua has a bad leg and must use a stick, Carl says nasty things to him about it
+15. George says nasty things to Derek about his sexual orientation 16. Ken makes fun of Graham’s hair, they both laugh
+17. Anthony makes fun about Stan’s hair, Stan is upset
+18. Mick asks Richard if he would like to play
+19. Matt won’t let Lenny play today
+20. Sebastian never lets Rob play
+21. Henry and his friends won’t let Ray play with them
+22. The girls won’t let Mark skip with them because he’s a boy 23. The boys won’t let Karen play football because she’s a girl 24. Gerry tells everyone not to talk to Guy
+25. Bill spreads nasty stories about Alan
+and avoided use of any general terms such as bully- ing. The English captions constituted a reference set. In each other country, a researcher translated these captions into the main native language as used by participants in the task. These captions were then back-translated into English by another person, and returned to the first author in London, who then checked them against the original versions and dis- cussed any discrepancies until these were resolved.
+All 25 cartoons were used identically in all 14 countries, with the exception of cartoons 13 and 15. If color of skin was not an important factor in a culture, an alternate caption about saying nasty things about a child talking in a different way was used for cartoon 13. In addition, in some countries permission was not readily forthcoming from schools to use cartoon 15, which was on sexual orientation (usually with 8-year- olds, but occasionally with 14-year-olds as well); thus, the cartoon was omitted from the main cross-national analyses.
+General Procedure
+Researchers in all 14 countries followed an agreed- on three-step procedure.
+  
+Figure 1 Examples of four of the cartoons: Numbers 3 and 10 from the boys’ set, and 14 and 21 from the girls’ set.
+Step 1: List and select terms for bullying and social ex- clusion in the relevant language. Likely terms to use in the investigation were taken from dictionaries and thesauruses, questionnaires on bullying translated into the language, and research and popular writings on the topic. Some 5 to 10 terms were then chosen, on the basis of meaning and applicability across the country/culture, to proceed to Step 2.
+Step 2: Use focus groups with children to check on usage and broad understanding of terms. At least two focus groups were held, each consisting of at least four (usu- ally more) 8-year-olds and four (usually more) 14-year- olds. The ostensible aim for the participants was to generate words that were currently used to describe antisocial/aggressive behaviors and situations at school. To engage participants in debate, a subset of the cartoons was employed as stimulus materials. For the purposes of the study, the aim was to ensure that terms selected for Step 3 were spontaneously used by some participants, and were broadly familiar to most participants.
+It was recognized that this work could not often be done on a varied sample across different sites in a country (although some research teams did use two sites). However, dialect terms that sometimes ap- peared, but were local to a region within a country, were not selected for Step 3.
+The intention was to end up with four to six terms for Step 3. Often, more terms were used and under- stood by 14-year-olds than 8-year-olds. In such cases, all terms were used with the 14-year-old sample, but only the subset of those terms that were understood by 8-year-olds were used with the younger sample. As an example from the English data, pilot work and focus groups with children established that relevant terms in English, besides bullying, included teasing, picking on, tormenting, harassment, and intimidation. All these terms were used and understood by 14-year-olds. However, only bullying, teasing, and picking on were readily understood by 8-year-olds, and thus only these three terms were used with this age group.
+Step 3: Sorting task using cartoons to delineate ways in
+Smith et al. 1123
+ 
+1124 Child Development
+which these terms are used. The work was carried out in school settings, with children withdrawn from class on an individual basis (for all 8-year-olds; in some countries the 14-year-old data were obtained on a class basis). Of the terms selected for investigation, each was taken in turn. Children were shown or given the cartoons, with the researcher also reading the cap- tion in the case of 8-year-olds. Gender-appropriate cartoon sets were used. For each term, children were required to either include or exclude each cartoon in their definition of the term with which they were pre- sented. This was done by sorting them in a pile under the heading: “this is X” or “this is not X” (where X was the term being currently considered); or, in class pre- sentation with older children, by checking a standard score sheet appropriately. The procedure was repeated until all terms were investigated. The captions were given in the order shown in Table 1. This was done to maximize consistency across cultures, and to give a “narrative” line to the task, as children moved through physical, verbal, and more indirect/relational scenar- ios. The possible drawback of order effects was recog- nized, but pilot work suggested that a random order was more confusing for the children to follow.
+Participants
+The sorting task in Step 3 was given to a minimum of 20 boys and 20 girls each at 8 years and 14 years of age(totalN 1,245;n 604at8years,n 641at14 years). They were selected from schools that were deemed reasonably representative of the education system in that country; that is, they were not drawn from extreme groups in terms of academic ability, or socioeconomic status. In all cases there were nearly equal numbers of boys and girls at each age group (exactly equal unless stated). Sample sizes are shown in Table 2, together with the district of the country from which they were recruited via local schools. Table 2 also shows the number of terms used for both 8-year-olds and 14-year-olds (only one term was available from the French team; due to a misunder- standing of instructions they chose the one term most similar to bullying, from those terms used in the focus groups with French pupils).
+RESULTS
+SPSS 10.0 for Windows was used for statistical purposes.
+Structure of Responses to the Cartoons
+The percentage of participants who included each of the 24 cartoons (cartoon 15 was excluded, see
+Method section) as part of their “definition” of each term was computed. The similarity or difference be- tween any two cartoons could be assessed by com- paring their percentage profiles. This permitted an analysis of the structure of the cartoon set, over all re- spondents. To this end, MDS was conducted, using datasets from all 14 countries.1
+Genders were combined, but analyses were sepa- rated for the 8- and 14-year-olds, using the 47 terms that were common to both age groups so that the two age groups could be compared on the same set of terms. Scores were averaged for each country before aggregating (correcting for minor differences in sample size). The MDS was run on SPSS, minimizing Young’s stress. No transformations were carried out. The Manhattan proximity measure was employed to cre- ate a single distance matrix between cartoons, the dis- tance between two items being the sum of the abso- lute differences between the values (percentages) for the items (cartoons). The matrix is square symmetric. An ordinal MDS model was specified, using Kruskal’s (1964a, 1964b) least squares monotonic transforma- tion. The Euclidean distance model was used. The Kruskal stress values (Formula 1) for one-, two-, three-, and four-dimensional solutions, respectively, were .08, .05, .03, and .01 for 8-year-olds; and .14, .08, .03, and .02 for 14-year-olds. These low values suggested two-dimensional solutions were adequate for both age groups. The MDS solutions for each age group are shown in Figures 2 and 3.
+The MDS solutions for the 8- and 14-year-olds, re- spectively, were similar in overall structure; both showed on Dimension 1 (horizontal axis in figures) those cartoons that were not aggressive (prosocial, friendly teasing, accidental damage) at one end (left- hand side of figures) and cartoons of increasing ag- gression toward the other end (right-hand side of fig- ures), whereas the second dimension (vertical axis in figures) opposed physical cartoons (bottom of fig- ures) and verbal and social exclusion cartoons (top of figures). The somewhat lower stress value for the 8- year-olds (.05) indicates a better fit, and a simpler structure, than for the 14-year-olds (.08). This is seen
+1 Multidimensional scaling attempts to find the structure in a set of distance measures between objects or cases. This is accom- plished by assigning items to specific locations in a conceptual space (usually two or three dimensional) such that the distances between the points in space match the given dissimilarities as closely as possible. Points are arranged so that similar items are represented by points that are close together (proximities) and dissimilar items are represented by points that are far apart. The stress value of an MDS solution shows the degree of fit within the number of dimensions used, with smaller stress values meaning a better fit.
+Table 2
+Details of the Samples, and Number of Terms Used, in each of 14 Countries
+Country
+Austria China
+England France Germany
+Greece Iceland Italy Japan
+Norway
+Portugal Slovenia Spain Thailand
+Language
+South Germanic Mandarin Chinese
+Number of Pupils at 8 Years
+40 50
+Number of Pupils at 14 Years
+40 50
+Number of Terms at 8 Years
+3 2
+3 1 3
+2 5 7 3
+2
+6 2 5 3
+Number of Terms at 14 Years
+4 7
+6 1 4
+3 6 7 5
+4
+6 6 5 3
+District of Sample
+Styria (southeast) and Lower Austria (northeast) Capital city of Shandong province, eastern
+coastal area
+London area
+Paris area
+Munich area in southern Germany
+Athens and Ioannina in northwest Greece Reykjavik area
+Crema and Cremona, northern Italy
+Tottori and Tokyo, on main island of Honshu
+Trondheim area, middle coastal region of Norway
+Braga area in north Portugal
+Ljubljana area
+Seville (south Spain) and Madrid (central Spain) Rural area near Lampang in north Thailand
+Smith et al. 1125
+  English 40 40 French 40 40 German 43 (22 boys, 51 (26 boys,
+21 girls) 25 girls) Greek 40 40 Icelandic 40 40 Italian 40 40
+Japanese
+Norwegian
+Portuguese Slovenian Spanish Thai
+51 (25 boys, 26 girls) 40
+40 40 60 40
+70 (37 boys, 33 girls) 40
+40 40 60 50
+  also by comparing Figures 2 and 3; the cartoons are bunched more closely in Figure 2, and are more spread out and differentiated in Figure 3. Although older children were using the same two dimensions to classify the cartoons, a greater level of differentia- tion was apparent; for example, the social exclusion items (19, 22, 23) were more clearly separated from the verbal items in this age group compared with the 8-year-olds.
+Hierarchical cluster analyses2 were conducted on the same percentage profile data as the MDS solu- tions to identify distinct groups of cartoons. Ward’s method was used to combine clusters. The distance matrix between cartoons was based on Euclidean dis- tance. These analyses further indicated a greater ca- pacity of the 14-year-olds to differentiate meaning in the cartoons. At the same level of distinctness, the so- lution for the 8-year-olds produced only two clusters, whereas the solution for the 14-year-olds showed five clusters. The solution for the 8-year-olds distin- guished between the nonaggressive cartoons (8, 10, 16, 18) on the one hand and the aggressive cartoons (all the rest) on the other. The five clusters produced
+2 Hierarchical cluster analysis attempts to identify relatively homogeneous groups of variables, using an algorithm that starts with each variable in a separate cluster and combines clusters until only one is left. By relating this to MDS, clusters can be mapped onto the MDS configuration in an attempt to identify common dimensions. Thus, the co-occurrence of items can be examined at the same time as the underlying dimensions on which they are arranged.
+Figure 2
+ture for 8-year-olds.
+Multidimensional scaling solution of cartoon struc-
+ Figure 3
+ture for 14-year-olds.
+Multidimensional scaling solution of cartoon struc-
+1126 Child Development
+  Figure 4 Multidimensional scaling solution of cartoon struc- ture for boys.
+by the 14-year-olds, however, were nonaggressive (8, 10, 16, 18), social exclusion (19, 20, 21, 22, 23), verbal: direct indirect (11, 12, 13, 14, 17, 24, 25; and nine placed more distantly), physical aggression (1, 4), and physical bullying (2, 3, 5, 6, 7).
+Gender Differences
+An analysis of the structure of the cartoons, in both MDS (corresponding to Figures 2 and 3) and hierar- chical cluster analysis solutions, was carried out sep- arately for boys and girls. For this purpose, data from 8- and 14-year-olds were combined, and the anal- yses were run on 45 terms used by both age groups, from 13 countries (Norway was not included because labeling by gender had been omitted in data collec- tion). The Kruskal stress values for one-, two-, three- and four-dimensional solutions, respectively, were .12, .07, .03, and .01 for males; and .09, .05, .03, and .02 for females. These low values indicated that two-dimensional solutions were adequate for both genders.
+The MDS solutions for both genders are shown in Figures 4 and 5. The overall structures were very sim- ilar; and, as described for Figures 2 and 3, the hori- zontal axis discriminated prosocial from aggressive cartoons, and the vertical axis opposed physical (bottom of figures) and verbal (middle of figures) aggression from social exclusion (top of figures).
+To establish the extent of similarity more objec- tively, two hierarchical cluster analyses were con- ducted, one for each gender, on the same data used in the MDS solutions above. The specifications followed were identical to those used for the earlier age com- parisons. At the level of getting a five-cluster solution as discussed above, configurations were very similar.
+Figure 5 Multidimensional scaling solution of cartoon struc- ture for girls.
+For both genders, there were clusters of nonaggres- sive (8, 10, 16, 18), social exclusion (19, 20, 21, 22, 23), and physical aggression (1, 4); both genders also had clusters of verbal:direct indirect (11, 12, 13, 14, 17, 24, 25), and physical bullying (2, 3, 5, 6, 7), with the only difference being that cartoon 9 (nonaccidentally breaking a ruler) was included in the physical bully- ing cluster for boys, but in the verbal:direct indirect cluster for girls.
+Comparison of Terms on the Cartoon Cluster Structure
+To compare terms on the cartoon cluster structure, a similar cluster analysis to that described above was used, but was based on data for all 67 terms defined by 14-year-olds, and not just the 47 also used by the 8-year-olds. This cluster analysis produced the same five main clusters, and a plot very similar to that shown in Figure 3: a nonaggressive cluster (8, 10, 16, 18) that included two prosocial items, plus friendly teasing and accidental damage; a social exclusion cluster (19, 20, 21, 22, 23) that included the five so- cial exclusion cartoons; a verbal:direct indirect cluster (9, 11, 12, 13, 14, 17, 24, 25) that included the verbal cartoons, plus nasty teasing, and the two in- direct verbal cartoons, together with the accidental damage cartoon (9), which was intermediate between this cluster (where it technically fell) and the phys- ical bullying cluster (see Figure 3); a physical ag- gression cluster (1, 4) that included the two physi- cal cartoons that most clearly did not fit a definition of bullying—an even-handed dispute and a pro- voked retaliation; and a physical bullying cluster (2, 3, 5, 6, 7) that generally implied some repetition or power imbalance.
+The above clusters were used to simplify the mean- ing profiles of the 67 terms. A mean percentage score was computed for each term on each cluster. The meaning of each term could thus be expressed in 5 percentage scores, instead of 25. The outcome is pre- sented in Table 3. The range of scores for each cluster was 0 to 100. For example (taking the fourth line in Table 3), the term angreifen was only applied in 3% of responses to the nonaggressive cartoons (i.e., aver- aged over these four cartoons individually), and only 7% of the social exclusion and 11% of the verbal bul- lying cartoons, but it was applied to 74% of the phys- ical aggression cartoons, and 83% of the physical bul- lying cartoons; this indicates that the term angreifen is used for physical aggression and bullying but not for nonphysical forms. As expected, none of the terms scored highly on the nonaggressive cluster; however, there was considerable variation in weight- ing on the other four clusters, which showed differ- ences in meaning—sometimes obvious, sometimes more subtle.
+Conceptual Structure of Terms Used in Different Languages
+For each term, the percentage of participants who included each of the 24 cartoons as part of their “def- inition” of that term was computed. The meaning of each term was operationalized with regard to the mean percentage for the cartoons in each of the five clusters. The similarity or difference in meaning be- tween any two terms could be assessed by comparing their percentage profiles across the five clusters. This permitted a comparison of the meaning of the terms across languages and cultures.
+To examine similarities and differences in their meanings, MDS was first conducted on all 67 terms for the 14-year-olds. The specifications for the analy- sis were identical to those applied in the earlier MDS analyses, except that in this case, a distance matrix was computed between terms instead of between car- toons as was done in the earlier analyses. Stress values for one- to four-dimensional solutions were, respectively, .34, .18, .09, and .06. This suggests that a three-dimensional solution was needed. Examining this, the first dimension opposed the aggressive and the nonaggressive terms, the second dimension op- posed the physical and social exclusion terms, and the third dimension differentiated the verbal and social exclusion terms. Because a three-dimensional solution is difficult to visualize or portray, a hierachi- cal cluster analysis was conducted to aid the identifi- cation of subgroups of terms. The specifications for the analysis were identical to those used before, with
+the distance matrix computed between terms. Six main groups or clusters were identified (see Figure 6). The clusters can be interpreted by referring back to Table 3, where the “meaning” of each term (with re- gard to the cartoons) can be inferred.
+The first cluster consisted of 19 terms, which were generally higher on the physical bullying, verbal, and social exclusion clusters than on the physical ag- gression cluster; thus, these terms tended to be clos- est to the definition of bullying, and did indeed in- clude the English term bullying, as well as the term picking on.
+The second cluster consisted of six terms, which scored most highly on the social exclusion cluster. The third cluster had seven terms; these all scored much more highly on the verbal:direct indirect cluster than on the physical bullying or social exclu- sion clusters. The English term teasing appeared in this cluster.
+The fourth cluster had 19 terms; these were weighted most highly on the verbal:direct indirect cluster, but moderately on the physical bullying cluster, and less on the social exclusion cluster. The English terms ha- rassment, intimidation, and tormenting appeared in this cluster.
+The fifth cluster contained three items, which were only weighted highly on physical aggression and physical bullying. The sixth cluster had 13 items, which loaded highest on either the physical aggres- sion or the physical bullying cluster, but moderately on one or two other aggressive clusters.
+Corresponding terms from different languages were not necessarily close together; thus, although different countries did contribute different numbers of terms to the analyses (range, 1–7; see Tables 2 and 3) there was no reason to suppose that this had af- fected the cluster structure obtained. For example, the four terms used in Austria all fell in different clus- ters (Table 3, Figure 6): gemein sein in the bullying cluster, sekkieren in the verbal cluster, ärgern in the ver- bal   physical cluster, and angreifen in the physical only cluster.
+Figure 6 shows that the initial bifurcation of clus- ters of terms was between the “physical” terms (Clus- ters 5 and 6) and the rest. Clusters 5 and 6 effectively included terms corresponding to violence (such as Portuguese violência, Italian violenza). The next split was to separate out the bullying terms (Cluster 1) from those that referred more specifically to verbal and social exclusion (Clusters 2, 3 and 4). The third split separated social exclusionary terms in Cluster 2 (such as Portuguese rejeição) from the verbal terms (Clusters 3 and 4). The fourth split led to the six clus- ters described above.
+Smith et al. 1127
+1128 Child Development
+Table 3 Mean Percentage of 14-Year-Olds Who Included the Cartoons in Each Cluster as Part of Their Definition of that Term
+  Austria
+A1: sekkieren A2: ärgern
+A3: gemein sein A4: angreifen
+China (romanized terms) C1: lingru
+C2: qifu
+C3: qiling
+C4: qiru C5: qiwu C6: qiya C7: wuru
+England
+E1: bullying
+E2: harassment E3: teasing
+E4: intimidation E5: tormenting E6: picking on
+France
+F1: violence
+Germany
+GE1: ärgern
+GE2: angreifen
+GE3: gemein sein
+GE4: schikanieren
+Greece
+G1: kano to magha G2: miono
+G3: taleporo
+Iceland
+IS1: radast a
+IS2: hrekkja
+IS3: skilja ut undan IS4: strida
+IS5: taka fyrir
+IS6: einelti
+Italy
+IT1: aggressività IT2: fare il duro IT3: prepotenza IT4: violenza
+IT5: approffitarse IT6: cattiveria IT7: scorretto
+Japan
+J1: ijime
+J2: ijiwaru
+J3: iyagarase
+J4: fuzake
+J5: nakamahazushi
+Norway
+N1: erting N2: mobbing N3: plaging N4: krangling
+Nonaggressive Physical Aggression
+16 40 21 56 23 65
+3 74
+2 28 3 13 2 25 2 22 2 23 3 17 2 24
+4 34 10 42 15 43
+7 42 14 59 8 39
+3 56
+7 85 2 89 4 28 6 20
+8 40 10 70 13 76
+3 71 9 40 1 4
+13 41 4 31 4 11
+10 91 12 68 10 71 10 93 12 48 11 75 15 85
+4 9 8 27 8 30
+27 26 4 8
+18 29 6 17 11 35 9 88
+Verbal:Direct  Physical Bullying Indirect
+51 73 60 85 78 94 83 11
+57 71 94 85 82 72 79 80 67 89 85 55 39 84
+94 91 88 84 35 83 78 82 76 84 95 96
+83 60
+61 65 91 72 85 93 58 80
+84 70 74 85 92 85
+95 42 75 88 12 27 52 90 81 73 86 81
+96 68 80 74 92 86 96 63 82 84 96 91 94 93
+50 87 56 94 56 97 38 56 29 55
+28 67 46 70 81 77 45 22
+Social Exclusion
+34 58 90
+7
+51 68 52 53 58 60 45
+62 49 51 46 64 67
+26
+46 30 85 55
+65 78 75
+25 60 97 64 65 75
+63 72 90 59 75 86 89
+39 56 43 19 65
+36 39 58 18
+ (Continued)
+Smith et al. 1129 Table 3 MCoenatninPuerdcentage of 14-Year-Olds Who Included the Cartoons in Each Cluster as Part of Their Definition of that Term
+   Portugal
+P1: abuso P2: armar-se P3: insulto P4: provoção P5: rejeição P6: violência
+Slovenia
+SL1: nadlegovanje SL2: nasilnisˇtvo SL3: trpincˇenje SL4: ustrahovanje SL5: zavracˇanje SL6: zlorabljanje
+Spain
+S1: maltrato S2: meterse con S3: rechazo
+S4: abuso
+S5: egoismo
+Thailand
+T1: nisai mai dee T2: klang
+T3: tum raai
+Nonaggressive Physical Aggression
+3 10 1 18 4 35 3 60 1 8 1 18
+13 51 6 88 7 58 4 45 7 43 4 40
+8 49 15 66 6 28 5 21 6 21
+15 77 19 32 10 38
+Physical Bullying
+71 72 17 69 38 74
+89 96 93 79 54 84
+96 63 42 86 54
+79 64 76
+Verbal:Direct  Indirect
+55 56 58 78 54 24
+67 48 75 49 66 59
+85 86 81 75 66
+81 86 61
+Social Exclusion
+30 75 20 44 81 16
+42 33 65 31 92 49
+65 40 96 58 94
+69 67 48
+ Note: The five clusters consist of the following cartoons: nonaggressive (8, 10, 16, 18), physical aggression 6, 7), verbal:direct indirect (9, 11, 12, 13, 14, 17, 24, 25), and social exclusion (19, 20, 21, 22, 23).
+(1, 4), physical bullying (2, 3, 5,
+DISCUSSION
+The cartoon methodology used in the present study generally proved successful; children appeared to en- joy the task and it held their attention. This was facil- itated by the narrative line used in the sequence, be- cause often one feature was changed at a time. The danger of this technique is the possibility of order ef- fects; however, these were not apparent in the results. For example, the social exclusion cartoons near the end (19–23) were clearly treated differently than other items, including the last two (24, 25). The two pro- social cartoons (10, 18), although separated by seven other cartoons, were scored almost identically (Fig- ures 2 and 3).
+As predicted, the results indicated that 8-year-olds had a less differentiated understanding of terms than did the 14-year-olds. Overall, the lack of differentia- tion between the cartoons for the 8-year-olds (two clusters versus five for the 14-year-olds) suggests a relatively limited ability in this younger age group to differentiate the situations presented in the cartoons, by means of the terms presented to them. The age comparison was based on the same 47 terms. How- ever, the 14-year-olds had a wider choice of terms in
+many countries (Table 2), and although the terms shared with 8-year-olds were usually presented first, this was not invariably done; it is conceivable that the larger number of terms available to many 14-year- olds assisted their differentiation. It is also possible that younger children might have differentiated more on a free-sorting task with the cartoons, rather than a verbal labeling task, as was used in this study. How- ever, the present finding is consistent with that of Younger et al. (1985, 1986), who also used MDS tech- niques and found a progressive differentiation in 6-, 9-, and 12-year-olds’ perceptions of classmates in terms of aggression, likeability, and withdrawal.
+The present study’s findings (Figures 2 and 3) sug- gest that at 8 years, children still primarily contrast aggressive and nonaggressive scenarios, but do not distinguish so clearly between different forms of ag- gression (physical aggression, physical bullying, ver- bal aggression, and social exclusion). This is in line with the finding in a study by Smith and Levan (1995) with 6-year-olds, that bullying and fighting are not clearly distinguished in young children. Figure 2 does show some separation between physical aggression and bullying (above the horizontal axis) and verbal plus social exclusionary aggression (below the hori-
+1130 Child Development
+ Figure 6
+Cluster analysis of 67 terms as used by 14-year-olds.
+of bullying by 8-year-olds might be due to the fact that they experience physical bullying more than the verbal or social exclusionary forms (rather than being due to cognitive limitations). However, although physical forms are more common in younger chil- dren, verbal bullying and social exclusion are cer- tainly not infrequent at this age (Genta et al., 1996; Whitney & Smith, 1993), or even younger ages (Crick et al., 1997); thus, an explanation linked to experience is considered unlikely.
+The 14-year-olds clearly discriminated the differ- ent cartoons in more detail. It is nevertheless interest- ing that the two indirect relational cartoons (24 and 25) did not begin to form a separate cluster, but were fully integrated with the other direct verbal aggres- sion items (11–15). It would be interesting to see if adults separate these two clusters more clearly; re- searchers (Björkqvist et al., 1992; Crick et al., 1997; Crick & Grotpeter, 1995, 1996) have distinguished these as two separate kinds of aggression.
+The age differences in the present study were gen- erally found to be consistent in the different countries, when this was explored on individual country data. The lesser differentiation of terms by younger chil- dren raises important issues in the measurement of bullying (Smith & Levan, 1995). There is a possibility that the higher reported rates of victimization often found in younger children are due to a more inclusive understanding of the term bullying, which does not delineate it as only a subset of aggression. Examining this possibility in relation to the large-scale survey studies using the Olweus questionnaire, Smith, Mad- sen, and Moody (1999) concluded that the more inclu- sive understanding of bullying by younger children (up to 8 years) was probably an important factor in the high rates of bullying and victimization often re- ported by these age groups.
+The present study also examined gender differ- ences in the clustering of terms, by running analyses (Figures 4 and 5) separately for each gender. There was little difference in the configurations of cartoons in the MDS solutions, and the cluster analysis pro- duced almost identical cluster structure at the five- solution level (with just one cartoon, 9, being in a dif- ferent cluster for boys than for girls). We concluded that there were no large gender differences in the un- derstanding of the kinds of social situations depicted in the cartoon set. This is consistent with other studies on the definition of bullying (Madsen, 1997; Smith & Levan, 1995), which suggests that although boys and girls differ in the kinds of bullying they give and re- ceive (Lagerspetz, Björkqvist, & Peltonen, 1988), at any particular age they share a common understand- ing of what the terms mean. Even though boys may
+zontal axis), but this separation is not as significant at 8 years as it is at 14 years. Also, the 8-year-olds did not appear to so clearly separate physical aggression and physical bullying as did the 14-year-olds (Clusters 2 and 3), nor did they so clearly separate verbal aggres- sion and social exclusion as did the 14-year-olds (Clusters 4 and 5). This lesser discrimination of types
+directly experience more physical bullying, and girls may experience more indirect bullying, there is con- siderable overlap. In addition, both boys and girls are likely to observe a considerable amount of bullying involving both same-sex and opposite-sex children (O’Connell et al., 1999).
+The cartoon methodology allowed for the ability to compare 67 terms from 14 countries, with regard to their weighting on the five major clusters obtained from Figure 3 (in a slightly modified version embod- ying 67 not 47 terms). The results (Table 3) and the cluster analysis (Figure 6) show something of the con- ceptual structure captured in different languages, and show how closely other terms relate to the term bul- lying. Naturally, the results are limited by the choice of terms used in each country, and the number of terms available. The relatively few items in the social exclusion cluster (six items) may reflect an uninten- tional lesser emphasis on these terms in the instruc- tions given to participating teams for generating terms to use. Indeed, the English data did not include such terms as social exclusion or rejection. Thus, little attention can be given to the absence of a term in the clusters in Table 3, for a particular country or lan- guage. However, it is possible to compare profiles of those terms, which are present.
+The English term bullying loaded highly on both physical and verbal bullying, moderately highly on social exclusion, less highly on an even-handed dis- pute or a provoked retaliation, and, of course, mini- mally on nonaggression (see Table 3). This is consis- tent with the general adult understanding of the term; bullying is different from aggression, and is generally thought to be both physical and verbal, but is not al- ways thought to include more psychological forms of behavior such as social exclusion. Boulton (1997) found that less than 50% of teachers and only one in five pupils in English schools defined psychological or emotional abuse as “bullying.”
+Table 3 might be used to help choose the most suit- able term, when translating a questionnaire such as the Olweus questionnaire into another language. Even if the questionnaire gives an extended definition near the beginning, it is usual that one term is used in most of the questions (e.g., “How often have you been bullied this month?”), and it is correspondingly likely that children may use their natural understanding of this term (“bullied”) rather more than the longer def- inition read earlier.
+However, the English term bullying, as used by schoolchildren, does not match perfectly with the def- initional concept used by many researchers and now widely accepted in the scientific community; this is because the term bullying, at least in England in the
+late 1990s, still did not fully include social exclusion. Thus the Portuguese term abuso might be taken as reasonably similar in common usage to the English term bullying, being high on physical and verbal bul- lying, lower on social exclusion, and very low on fighting. However, the Portuguese term armar-se could be seen as a better correspondent to the scientific def- inition, because it is higher on social exclusion. This imperfect correspondence between popular and sci- entific definition of terms such as bullying is an issue that researchers must remain aware of.
+Table 3 may also help in the interpretation of cross- national comparisons. For example, Genta et al. (1996) compared rates of bullying (using the Olweus questionnaire) in Italy, with those in the United King- dom reported by Whitney and Smith (1993). Gener- ally high rates of bullying were found in both central and southern Italy that were notably higher than the rates reported in the United Kingdom. In the Italian questionnaire, the term prepotenza was used for bully- ing. Table 3 shows that prepotenza does indeed load highly on physical, verbal, and social exclusionary bullying, but also on fighting (Cluster 2). Thus, the higher rates may reflect a more inclusive response in- corporating even-handed fighting, as well as bullying with an imbalance of power. Using the term prepo- tenza in questionnaires in Italy may therefore lead to an overestimation, if the findings are then referred to as yielding rates of bullying. Other Italian terms such as violenza, cattiveria, or scoretto suffer a similar problem.
+An alternative to using global terms such as bully- ing in questionnaire surveys is to ask for information on the experience of particular acts. For example, the Life in School checklist (Arora, 1994) asks children if they have experienced acts such as being hit, threat- ened, teased, or called names. This avoids issues of children’s understanding of the term bullying. How- ever, if researchers wish to make generalizations about the occurrence of bullying, they face the prob- lem of deciding which acts should be included as bul- lying. This amounts to a decision by the researchers, not the children. In addition, such questionnaires nor- mally do not specify that there should be an imbal- ance of power in the act experienced, so straightfor- ward fighting and aggression (rather than bullying) may be included by researchers. These drawbacks mean that there is likely to continue to be a place for questionnaires about bullying (or ijime, abuso, or whatever term is used in a particular country), and it is then important to know how children understand these terms.
+Researchers who investigate the phenomenon of bullying are involved, as are adult and child members of the community, in the process of constructing its
+Smith et al. 1131
+1132 Child Development
+meaning in a social and historical context. Histori- cally, meanings of words change. Even the core con- cept of the term bully has changed dramatically over several centuries. More subtle changes have taken place in the past 5 years, with the incorporation of more indirect and relational forms of bullying into current definitions. In addition, the term bullying is now commonly used in the workplace and is not solely confined to the school context.
+The current study therefore represents an histori- cal snapshot of the meaning of terms cognate to bul- lying, at the turn of the second millenium. This snap- shot is moreover limited by the particular samples of terms used, and of choice of respondents, in the 14 countries selected. However, the findings should as- sist in the design and interpretation of comparative cross-national studies of bullying at the present time and for some years to come. In addition, the findings concerning the greater discrimination of criteria at 14 years than 8 years, and the lack of gender differences in understanding and use of terms despite the gender differences in behavior, may be of considerable gener- alizability over time and in different countries.
+ACKNOWLEDGMENTS
+The authors thank Hidefumi Arimoto, Julius K. Bjorns- son, Cheryl Blackadder, Pamela Burton, Isabel Fernan- dez, Rosa Fera, Hector Gutierrez, Stefan Korn, Jessica Mahdavi, Ersilia Menesini, Vicky Panagiotidou, Vicky Pavlidis, Colin Pritchard, Rosario del Rey, Ebba Staven, Mitsuru Taki, and Thanes Wongyannava for help in data collection. This study was supported by contract ERBFMRX-CT-970139 from the European Commission on “The Causes and Nature of Bullying and Social Ex- clusion in Schools, and Ways of Preventing Them” (http://www.gold.ac.uk/tmr).
+ADDRESSES AND AFFILIATIONS
+Corresponding author: Peter K. Smith, Department of Psychology, Goldsmiths College, New Cross, London SE14 6NW, U.K.; e-mail: p.smith@gold.ac.uk. Helen Cowie is at the University of Surrey Roehampton, London, U.K.; Ragnar F. Olafsson is at the Institute for Educational Research, Reykjavik, Iceland; and Andy P. D. Liefooghe is at Birkbeck College, London, U.K. Collaborating authors and their affiliations are: Ana Almeida, Universidade do Minho, Braga, Portugal; Hozumi Araki, Ritsumeikan University, Kyoto, Ja- pan; Cristina del Barrio, Universidad Autonoma de Madrid, Madrid, Spain; Angela Costabile, Universitá della Calabria, Cosenza, Italy; Bojan Dekleva, Uni- versity of Ljubljana, Llubljana, Slovenia; Anastasia
+Houndoumadi, Deree College, Athens, Greece; Ken- neth Kim, University of East Anglia, Norwich, U.K.; Ragnar P. Olafsson, Institute for Educational Research, Reykjavik, Iceland; Rosario Ortega, Universidad de Sevilla, Seville, Spain; Jacques Pain, Universite Paris X Nanterre, Paris, France; Lena Pateraki, Deree Col- lege, Athens, Greece; Mechthild Schafer, Universität München, Munich, Germany; Monika Singer, Gold- smiths College, University of London, London, U.K.; Andrea Smorti, Universitá di Firenze, Florence, Italy; Yuichi Toda, Osaka University of Education, Osaka, Japan; Helgi Tomasson, University of Iceland, Reyk- javik, Iceland; Zhang Wenxin, Shandong Teacher’s University, Jinan, People’s Republic of China.
+REFERENCES
+Ananiadou, K., & Smith, P. K. (in press). Legal requirements and nationally circulated materials against school bully- ing in European countries. Criminal Justice.
+Arora, T. (1994). Measuring bullying with the “Life in School” checklist. Pastoral Care in Education, 12, 11–15. Arora, T. (1996). Defining bullying. School Psychology Inter-
+national, 17, 317–329.
+Asher, S. R., & Coie, J. (Eds.). (1990). Peer rejection in child-
+hood. New York: Press Syndicate of University of Cam-
+bridge.
+Björkqvist, K., Lagerspetz, K. M. J., & Kaukiainen, A. (1992).
+Do girls manipulate and boys fight? Aggressive Behavior,
+18, 117–127.
+Boulton, M. J. (1997). Teachers’ views on bullying defini-
+tions, attitudes and ability to cope. British Journal of Edu-
+cational Psychology, 67, 223–233.
+Crick, N. R., Casas, J. F., & Mosher, M. (1997). Relational and
+overt aggression in preschool. Child Development, 33,
+579–588.
+Crick, N. R., & Grotpeter, J. K. (1995). Relational aggression,
+gender, and social–psychological adjustment. Child De-
+velopment, 66, 710–722.
+Crick, N. R., & Grotpeter, J. K. (1996). Children’s treatment
+by peers: Victims of relational and overt aggression. De-
+velopment and Psychopathology, 8, 367–380.
+Encarta World English dictionary. (1999). London: Bloomsbury. Farrington, D. P. (1993). Understanding and preventing bul-
+lying. In M. Tonry & N. Morris (Eds.), Crime and justice: An annual review of research (Vol. 17, pp. 381–458). Chi- cago: University of Chicago Press.
+Fonzi, A. (Ed.). (1997). Il bullismo in Italia. Firenze, Italy: Giunti.
+Fonzi, A., Genta, M. L., Menesini, E., Bacchini, D., Bonino, S., & Costabile, A. (1999). Italy. In P. K. Smith, Y. Morita, J. Junger-Tas, D. Olweus, R. Catalano, & P. Slee (Eds.), The nature of school bullying: A cross-national perspective (pp. 140–156). New York: Routledge.
+Galen, B. R., & Underwood, M. K. (1997). A developmental investigation of social aggression among children. Devel- opmental Psychology, 33, 589–600.
+Genta, M. L., Menesini, E., Fonzi, A., Costabile, A., & Smith, P. K. (1996). Bullies and victims in schools in central and southern Italy. European Journal of Psychology of Education, 11, 97–110.
+Hazler, R. (1996). Breaking the cycle of violence: Interventions for bullies and victims. Bristol, PA: Accelerated Develop- ment, Inc.
+Heinemann, P. P. (1973). Mobbning: Gruppvald blant barn og vokane (Bullying: Group violence among children and adults). Stockholm: Natur och Kultur.
+Hughes, T. (1989). Tom Brown’s schooldays. Oxford: Oxford University Press. (Original work published 1857)
+Junger-Tas, J., & van Kesteren, J. N. (1999). Bullying and de- linquency in a Dutch school population. Leiden, The Neth- erlands: Kugler.
+Kruskal, J. B. (1964a). Multidimensional scaling by optimiz- ing goodness of fit to a nonmetric hypothesis. Psy- chometrika, 29, 1–27.
+Kruskal, J. B. (1964b). Nonmetric multidimensional scaling: A numerical method. Psychometrika, 29, 115–129.
+Lagerspetz, K. M. J., Björkqvist, K., & Peltonen, T. (1988). Is indirect aggression more typical of females? Gender dif- ferences in aggressiveness in 11- to 12-year-old children. Aggressive Behavior, 14, 403–414.
+Madsen, K. C. (1997). Differing perceptions of bullying. Un- published doctoral thesis, University of Sheffield, U.K.
+Morita, Y. (1996). Bullying as a contemporary behaviour problem in the context of increasing “societal privatiza- tion” in Japan. Prospects, 26, 311–329.
+Morita, Y. (1999). Ijime [bullying]: A cross-national investi- gation [Final report to Monbusho]. Tokyo: Ministry of Education.
+Morita, Y., Smith, P. K., Junger-Tas, J., Olweus, D., & Catalano, R. (Eds.). (1999). Sekai no ijime [Bullying across the world]. Tokyo: Kaneko Shobou.
+Morita, Y., Soeda, H., Soeda, K., & Taki, M. (1999). Japan. In P. K. Smith, Y. Morita, J. Junger-Tas, D. Olweus, R. Cata- lano, & P. Slee (Eds.), The nature of school bullying: A cross- national perspective (pp. 309–323). New York: Routledge.
+Niedl, K. (1996). Mobbing and well-being. European Journal of Work and Organizational Psychology, 5, 239–249.
+O’Connell, P., Pepler, D., & Craig, W. (1999). Peer involve- ment in bullying: Insights and challenges for interven- tion. Journal of Adolescence, 22, 437–452.
+Olweus, D. (1978). Aggression in the schools: Bullies and whip- ping boys. Washington, DC: Hemisphere Press (Wiley).
+Olweus, D. (1993). Bullying at school: What we know and what we can do. Oxford, U.K.: Blackwell.
+Olweus, D. (1999). Sweden. In P. K. Smith, Y. Morita, J. Junger-Tas, D. Olweus, R. Catalano, & P. Slee (Eds.), The nature of school bullying: A cross-national perspective (pp. 7– 27). New York: Routledge.
+Pikas, A. (1989). A pure conception of mobbing gives the best results for treatment. School Psychology International, 10, 95–104.
+Rigby, K., & Slee, P. T. (1991). Bullying among Australian school children: Reported behaviour and attitudes to- wards victims. Journal of Social Psychology, 131, 615–627.
+Rivers, I., & Smith, P. K. (1994). Types of bullying behavior and their correlates. Aggressive Behavior, 20, 359–368. Smith, P. K. (1999). Comparison of bullying definitions
+within and across cultures. In S. Sharp (Ed.), Bullying be-
+haviour in schools (pp. 37–38). London: NFER-Nelson. Smith, P. K., & Levan, S. (1995). Perceptions and experiences of bullying in younger pupils. British Journal of Educa-
+tional Psychology, 65, 489–500.
+Smith, P. K., Madsen, K., & Moody, J. (1999). What causes
+the age decline in reports of being bullied at school? To- wards a developmental analysis of risks of being bullied. Educational Research, 41, 267–285.
+Smith, P. K., Morita, Y., Junger-Tas, J., Olweus, D., Catalano, R., & Slee, P. (Eds.). (1999). The nature of school bullying: A cross-national perspective. New York: Routledge.
+Smith, P. K., & Sharp, S. (Eds.). (1994). School bullying: In- sights and perspectives. London: Routledge.
+Smith, P. K., & Shu, S. (2000). What good schools can do about bullying: Findings from a survey in English schools after a decade of research and action. Childhood, 7, 193–212.
+Whitney, I., & Smith, P. K. (1993). A survey of the nature and extent of bullying in junior/middle and secondary schools. Educational Research, 35, 3–25.
+Younger, A. J., Schwartzman, A. E., & Ledingham, J. (1985). Age-related changes in children’s perceptions of aggres- sion and withdrawal in their peers. Developmental Psy- chology, 21, 70–75.
+Younger, A. J., Schwartzman, A. E., & Ledingham, J. (1986). Age-related changes in children’s perceptions of social deviance: Changes in behavior or in perspective? Devel- opmental Psychology, 22, 531–542.
+Smith et al. 1133
+
