@@ -1,0 +1,326 @@
+ Original article
+Journal of Adolescent Health 52 (2013) 716e723
+Prevalence and Patterns of Polysubstance Use in a Nationally Representative Sample of 10th Graders in the United States
+Kevin P. Conway, Ph.D. a, *, Genevieve C. Vullo a, c, Brandon Nichter b, Jing Wang, Ph.D. b,
+Wilson M. Compton, M.D., M.P.E. a, Ronald J. Iannotti, Ph.D. b, and Bruce Simons-Morton, Ed.D. b
+a Division of Epidemiology, Services, and Prevention Research, National Institute on Drug Abuse, National Institutes of Health, Department of Health and Human Services, Bethesda, Maryland
+b Division of Epidemiology, Services, and Prevention Research, Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Department of Health and Human Services, Bethesda, Maryland
+c Kelly Government Solutions, Bethesda, Maryland
+Article history: Received July 31, 2012; Accepted December 11, 2012
+Keywords: Substance abuse; Polysubstance use; Latent class analysis; Medication misuse; Depression; Substance use; Adolescence; Comorbidity; Drug abuse
+ABSTRACT
+Purpose: The current study examines the prevalence and demographic correlates of self-reported substance use and identifies subgroups of polysubstance users among a cohort of United States 10th-grade students.
+Methods: A nationally representative school-based cohort of United States 10th-grade students completed the NEXT Generation Health Study baseline survey in spring 2010 (N 1⁄4 2,524). Results: Past-year use of marijuana was most common among illicit drugs (26%), followed by misuse of medication (9%) and use of other illicit drugs (8%). During the past month, alcohol use was reported by more than one third (35%), binge drinking by 27%, and cigarette smoking by 19%. Results further show that substance use varied somewhat by demographic characteristics. Results from the latent class analysis of polysubstance use indicated a four-class solution as the best-fitting model; class 1 (59%) included the nonuser group; class 2 (23%) comprised the predominant alcohol user group; class 3 (11%) formed the predominant marijuana user group; and class 4 (8%) was characterized as the predominant polysubstance user group. Somatic and depressive symptoms varied significantly by class membership, with predominant polysubstance users reporting elevated levels of somatic and depressive symptoms. Conclusions: The findings from this national study of 10th-grade students indicate high rates of substance and polysubstance use. The high level of depressive and somatic symptoms among polysubstance users indicates the need for mental health screening and referral.
+IMPLICATIONS AND CONTRIBUTION
+These findings underscore the ubiquitous yet hetero- geneous nature of adoles- cent substance use and reveal that the multiple classes of substance users differ in terms of use patterns, somatic reports, and depressive symptom- atology. The differences among classes implicate polysubstance use as a broad indicator of severity deserving research and clinical attention.
+Published by Elsevier Inc. on behalf of Society for
+National epidemiological studies estimate that most adoles- cents will engage in some form of substance use by the time they graduate from high school. The 2011 Monitoring the Future Survey (MTF) found that 26.4% have tried an illicit drug by eighth
+* Address correspondence to: Kevin P. Conway, Ph.D., Division of Epidemi- ology, Services, and Prevention Research, National Institute on Drug Abuse, 6001 Executive Boulevard, Suite 5185, Bethesda, MD 20892-9589.
+E-mail address: kconway@nida.nih.gov (K.P. Conway).
+Adolescent Health and Medicine.
+1054-139X/$ e see front matter Published by Elsevier Inc. on behalf of Society for Adolescent Health and Medicine. http://dx.doi.org/10.1016/j.jadohealth.2012.12.006
+grade, 40.8% by 10th grade, and 51.8% by 12th grade [1]. The findings of MTF further show that adolescent users tend to report using a variety of specific substances at an early age. Among 10th graders, for example, rates of past-year use were 49.8% for alcohol, 28.8% for marijuana/hashish, 6.6% for amphetamines, and a range from 2.6% to 5.9% for misuse of medications (e.g., oxycodone HCl, cough medicine) [1].
+Polysubstance use, defined as using multiple substances within a specified period of time, remains an understudied
+www.jahonline.org
+characteristic of youthful substance use [2e6]. Previous findings on polysubstance use come largely from studies applying latent class analyses (LCAs) to identify multiple classes or groups of adolescents, defined by their patterns of substance use. Among the school-based surveys of adolescents in middle or high school, between 15% and 39% of adolescents could be classified as polysubstance users. Precise estimates varied by sample, reporting period, and definition of polysubstance use [2e6]. Results from the 2005 Youth Risk Behavior Surveillance (YRBS) [6] depict four classes based on past-month use among grades 9e12, as follows: alcohol experimenters (38%), nonusers/ abstainers (27%), occasional polysubstance users (23%), and frequent polysubstance users (13%). The 2001e2002 Add Health data [5] identified five classes of students in grades 7e12 based on use during the past month or year: low use (55%), alcohol only (15%), alcohol or marijuana (8%), cigarettes (8%), and three- substance use (14%) [5]. Given that medication is now the most commonly abused substance after alcohol, marijuana, and tobacco [1,7], it seems both timely and useful that these substances be examined separately to better characterize contemporary patterns of use.
+In addition to examining prevalence of classes defined by polysubstance use, several studies have linked adolescent poly- substance use with deleterious outcomes, including substance dependence [4], smoking in adulthood [5], and risky sexual behavior [6]. Furthermore, many studies have reported that substance abuse commonly co-occurs with mental health problems in epidemiologic samples of adults [8e12] and adolescents [13e15], with psychopathology onset often predat- ing substance abuse [13,14,16]. However, past research has been limited in two key ways. First, most studies focus on a specific substance (e.g., cannabis) or on substance use at an aggregate level (e.g., any substance use), rather than a more detailed characterization based on profiles of polysubstance use. Second, most studies of comorbidity report disorder-level associations between specific substance use disorders and specific psychiatric disorders [9e11] or between any substance use disorder and specific psychiatric disorders [8,12]. Although polysubstance use has been associated with depressive symptoms in college students [17], to our knowledge only two studies examined polysubstance use and depressive symptoms among adolescents [3,5]. Additional research is needed not only on the association between adolescent polysubstance use and depressive symp- tomatology in particular, but also on somatic reports such as headaches, stomachaches, and other musculoskeletal pains, which are common expressions of underlying depression in adolescents [18,19].
+The purposes of the current study are threefold: (1) to examine the prevalence and demographic correlates of substance use; (2) to identify classes and subgroups according to substance use patterns; and (3) to examine associations between classes and subgroups and depressive and somatic symptoms.
+Methods
+The NEXT Generation Health Study is a longitudinal study of a cohort of 10th-grade United States (U.S.) students beginning in spring 2010. School-based assessments included a survey of health behaviors with a focus on four areas: obesity and obesity-related behaviors (e.g., physical activity, sedentary behavior, diet, and sleep), substance use, dating violence, and driving.
+Sample and procedure
+We recruited a nationally representative cohort of U.S. students in grade 10 using a multistage stratified design. Primary-sampling units consisted of school districts or groups of school districts stratified across the nine U.S. Census divi- sions. Within this sampling framework, we randomly selected and formally recruited 137 schools; 80 (58.4%) agreed to participate. We randomly selected 10th-grade classes within each recruited school and recruited 3,796 students to partici- pate; we obtained youth assent and parental consent from 2,619 students (69.0%). Of those consented, 2,524 completed the Wave 1 (baseline) survey, for an overall completion rate of 66.5%. We oversampled African-American students to provide better prevalence estimates and permit comparisons across subpopulations; given the prevalence of Hispanic youth in this sample, the cohort already included an adequate sample of Hispanic youth to meet these criteria. In Wave 1, trained research assistants in the 10th-grade classrooms administered confidential self-report surveys. The Institutional Review Board of the Eunice Kennedy Shriver National Institute of Child Health and Human Development reviewed and approved the study protocol.
+Measures
+Demographics. Students provided information about race/ ethnicity and family composition. Parents of youth provided parental education via a paper survey completed when they gave informed consent for their child’s participation. The item, ob- tained from the Add Health study, indicates the highest grade completed at the time of the interview.
+Substance use. Prevalence in the past month was reported separately for cigarette smoking, alcohol use, and binge drinking. On a 7-point scale (1 1⁄4 never; 2 1⁄4 once or twice; 3 1⁄4 three to five times;41⁄4sixtoninetimes;51⁄410to19times;61⁄420e39 times; and 7 1⁄4 !40 times), respondents reported on how many occasions in the past 30 days they had smoked cigarettes and on how many occasions they drank alcohol. To assess binge drinking,ona6-pointscale(11⁄4none;21⁄41;31⁄42;41⁄43e5;51⁄4 6e9; 6 1⁄4 !10 times) respondents reported how many times in the past month they had four or more (females) or five or more (males) drinks in a row on an occasion. The alcohol questions came from the European School Survey Project on Alcohol and Other Drugs and the National Longitudinal Study of Adolescent Health study (Add Health), with the measure of binge drinking conforming to the NIAAA standard [20]. Prevalence in the past year was reported separately for marijuana/hashish use, medi- cation use to get high, and other illicit drug use. On a 7-point scale(11⁄4never;21⁄4onceortwice;31⁄43e5times;41⁄4sixto nine times; 5 1⁄4 10 to 19 times; 6 1⁄4 20e39 times; 7 1⁄4 !40 times), respondents reported how often in the past 12 months they had used marijuana, ecstasy, amphetamines (methamphetamine, ice, glass, and speed), opiates (heroin, morphine, and smack), medication to get high, cocaine, glue or solvents, lysergic acid diethylamide, anabolic steroids, and other drugs (open-ended). For reporting prevalence of substance use and conducting LCAs, we created six dichotomous variables (never vs. ever used during past month or past year) on cigarette smoking, alcohol use, binge drinking, marijuana use, medication misuse, and other illicit drug use.
+K.P. Conway et al. / Journal of Adolescent Health 52 (2013) 716e723 717
+718 K.P. Conway et al. / Journal of Adolescent Health 52 (2013) 716e723
+Depressive and somatic symptomatology. Depressive symptom- atology was assessed by a self-reported screener for Diagnostic and Statistical Manual of Mental Disorderse3rd Edition, Revised depression [21]. On a 5-point scale (1 1⁄4 never; 2 1⁄4 seldom; 3 1⁄4 sometimes; 4 1⁄4 often; and 5 1⁄4 always), respondents reported how often they endorsed the following six items over the past 30 days: feeling very sad, feeling grouchy/irritable or in a bad mood, feeling hopeless about the future, feeling like not eating or eating more than usual, sleeping a lot more or a lot less than usual, and experiencing difficulty concentrating on schoolwork. The internal reliability of this scale was high (Cronbach a 1⁄4 .82). In addition, somatic symptoms were assessed through self- report [22]. On a 5-point scale (1 1⁄4 rarely or never; 2 1⁄4 about every month; 3 1⁄4 about every week; 4 1⁄4 more than once a week; and 5 1⁄4 about every day), respondents reported how often they endorsed the following four items over the past 6 months: having a headache, having a stomachache, having a backache, and feeling dizzy. The internal reliability of this scale was moderate (Cronbach a 1⁄4 .70).
+Analytical approach
+We conducted a series of LCAs in two steps. The first step was to choose the optimal number of classes by specifying separate LCA models with various numbers of classes. We tested the models with and without demographic covariates, which included gender, race/ethnicity, and parent education. We first conducted the most parsimonious one-class model, and then estimated successive models with two to five classes. For LCA with covariates, with class membership as outcome and demographic variables as predictors, the model is analo- gous to a logistic or multinomial logistic regression. We compared models on a series of statistical fit indices, as well as conceptual considerations: (1) We compared information criteria, including the Akaike Information Criterion [23], Bayesian Information Criterion (BIC) [24], and sample size adjusted BIC (ABIC); (2) Pearson and likelihood ratio chi-square statistics were reported, with nonsignificant p values indicating good fit; (3) the selected model should have adequate classifi- cation quality, as shown by relative entropy and average clas- sification probabilities (ACPs) with entropy (ACP values near 1 indicate high certainty and reliability in the classification); and (4) we considered the practical interpretability of the classes in comparing models with similarly adequate fit statis- tics. More weight was given to BIC and ABIC in choosing the number of classes, because a recent simulation study has shown that BIC performs better than other information criteria and likelihood ratio tests in identifying the appropriate number of latent classes [25]. After we chose the appropriate number of classes, we compared depressive and somatic symptoms across the extracted latent classes. We used the posterior probability-based multiple imputations to conduct paired mean comparisons.
+We used the statistical software package Mplus 6.1 [26] for model-fitting. To accommodate the complex sampling structure of the data, we examined LCA models with stratification, cluster, and sampling weights. Furthermore, Mplus enabled us to make use of all available data, including cases with some missing responses, through estimation by Full Information Maximum Likelihood [27]. We compared depressive and somatic symptoms across latent class membership with the AUXILIARY option in Mplus.
+Results
+Sample
+The demographic characteristics of the sample appear in Table 1. There were slightly more females than males: 54.4% female and 45.6% male. Race/ethnicity, parent education, family structure, and region of residence in the U.S. are also reported.
+Table 2 lists the prevalence of substance use, by sex, race, parent education, family structure, and geographic region. Of the 2,524 respondents, 29% reported using any illicit drugs in the past year (data not shown). During the past month, 35% reported alcohol use, 27% binge drinking, and 19% cigarette smoking. Past- year use of marijuana was 26%, misuse of medication was 9%, and other illicit drugs (e.g., ecstasy, amphetamine, lysergic acid diethylamide, opiates, cocaine, anabolic steroids, glue/solvents) was 8%.
+Other findings indicate that substance use varied somewhat by demographic characteristics. Marijuana use was more prev- alent among males than females. Compared with whites, Hispanics and those in the “Other” race/ethnicity category (including Asians, Hawaiians/Pacific Islanders, and American Indians/Alaska Natives) were more likely to use other illicit drugs. There were several differences by parent education cate- gory. For example, the prevalence of marijuana use, cigarette smoking, and binge drinking was lower among children of parents with graduate degrees compared with high school diploma or graduate equivalency diploma. By family structure, significantly lower prevalence was found among children with biological parents than children whose family structure falls into other categories, including stepparents (marijuana use, other
+Table 1
+Sample characteristics of NEXT Generation Health Study (N 1⁄4 2,524)
+ Categories n Weighted % SE
+ Gender (N 1⁄4 2,519) Male
+Female
+Race/ethnicity (N 1⁄4 2,510)
+White African-American Hispanic
+Othera
+Asian
+Hawaiian/Pacific Islander American Indian/Alaskan Native
+Parent education (highest of both) (N 1⁄4 2,361) Less than high school diploma
+High school/graduate equivalency diploma Some college or technical school
+Bachelor’s degree
+Graduate degree
+Family structure (N 1⁄4 2,524)
+Both biological Stepparents
+Single parentemother Single parentefather Others
+1,132 45.6 1.7 1,387 54.4 1.7
+1,092 57.9 5.5 485 17.5 3.7 801 19.6 3.3 132 4.9 1.1
+79 1.7 .5 13 .4 .2 40 2.8 1.0
+334 8.4 2.0 602 25.1 2.1 865 39.7 1.7 321 14.4 1.6 239 12.4 2.0
+1,320 52.1 2.2 419 19.2 1.3 457 16.8 1.6
+59 2.7 .6 269 9.2 1.1
+1,098 39.3 3.4 Northeast 368 17.0 4.1 West 682 24.7 2.8 Midwest 376 19.0 3.3
+Region (N 1⁄4 2,524) South
+  SE 1⁄4 standard error.
+a “Other” includes Asians, Hawaiians/Pacific Islanders, and American Indians/
+Alaskan Natives.
+K.P. Conway et al. / Journal of Adolescent Health 52 (2013) 716e723 719
+Table 2
+Prevalence of illicit drug use (past 12 months) and nicotine or alcohol use and binge drinking (past month) in U.S. adolescents in the NEXT Generation Health Study (N 1⁄4 2,524)
+  Category Past year Marijuana
+(N 1⁄4 2,485) % (SE)
+Medication to get high (N 1⁄4 2,482)
+% (SE)
+Other illicit drug (N 1⁄4 2,482)
+% (SE)
+Past 30 days Smoked cigarettes
+(N 1⁄4 2,498) % (SE)
+Drank alcohol (N 1⁄4 2,497)
+% (SE)
+Binge drinking (on one occasion) (N 1⁄4 2,477 )
+% (SE)
+          Total (N 1⁄4 2,524) Gender
+Male (n 1⁄4 1,132)
+Female (n 1⁄41,386) Race/ethnicity
+White (n 1⁄41,092) African-American (n 1⁄4 485) Hispanic (n 1⁄4 801)
+Other (n 1⁄4 132)
+Parent education
+Less than high school diploma (n 1⁄4 334)
+High school or graduate equivalency diploma (n 1⁄4 602) Some college or technical school (n 1⁄4 865)
+Bachelor’s degree (n 1⁄4 321)
+Graduate degree (n 1⁄4 239)
+Family structure
+Both biological (n 1⁄4 1,320) Stepparents (n 1⁄4 419)
+Single parentemother (n 1⁄4 457) Single parentefather (n 1⁄4 59) Others (n 1⁄4 269)
+Region
+South (n 1⁄4 1,098) Northeast (n 1⁄4 368) West (n1⁄4 682) Midwest (n 1⁄4 376)
+26.3 (2.2) 30.0 (3.5)a
+23.1 (1.8)b 25.9 (2.7)
+20.5 (3.2) 32.1 (4.6) 28.1 (7.6)
+26.1 (4.3)a,b 30.5 (3.2)a 27.1 (3.8)a,b 25.6 (7.3)a,b 15.0 (3.8)b
+22.2 (2.1)a 32.7 (2.7)b 25.9 (4.1)ab 23.0 (9.6)a,b 37.3 (7.4)b
+22.9 (3.8) 23.4 (3.1) 34.8 (5.0) 24.8 (4.5)
+8.7 (1.3)
+10.5 (2.2) 7.2 (1.3)
+8.7 (1.2)
+6.7 (3.7) 10.1 (3.0) 10.7 (6.6)
+4.0 (1.9) 9.3 (2.1) 8.1 (1.8)
+13.1 (4.2) 8.1 (3.3)
+6.9 (1.5) 12.3 (2.3) 9.0 (2.5) 8.8 (6.9) 11.2 (3.9)
+6.8 (1.5)
+6.6 (1.9) 12.0 (3.5) 10.4 (3.5)
+8.3 (.97)
+6.9 (1.3) 9.5 (1.3)
+6.7 (1.1)a
+8.2 (2.7)a,b 11.7 (1.6)b 14.4 (5.7)b
+11.0 (2.9) 7.7 (2.0) 10.3 (2.5) 5.1 (1.5) 3.6 (1.7)
+5.6 (1.0)a 12.8 (2.4)b,c 6.4 (1.7)a 11.5 (7.0)aec
+16.5 (5.0)c 8.5 (1.3)
+5.0 (2.3) 11.7 (2.2) 6.5 (2.0)
+18.9 (2.6)
+20.0 (3.0) 17.9 (2.7)
+21.3 (2.6) 9.7 (3.2) 18.8 (6.2) 23.5 (8.3)
+16.4 (7.0)a,b 25.3 (3.9)a 18.2 (3.2)b 16.8 (3.7)a,b 14.4 (3.2)b
+15.4 (1.7)a 20.3 (2.5)b 20.0 (4.3)a,b 28.6 (5.3)b 30.6 (9.2)b
+18.6 (3.8)a,b 11.7 (1.9)a 20.4 (7.4)a,b 23.7 (4.2)b
+35.3 (2.3)
+34.2 (2.7) 36.1 (2.9)
+36.4 (3.0) 31.8 (5.6) 34.5 (4.3) 39.0 (10.2)
+33.9 (5.4)a,b 34.6 (2.4)a,b 35.2 (3.1)a,b 41.3 (6.3)a 31.4 (4.7)b
+33.4 (2.6) 37.6 (3.2) 36.6 (4.7) 31.0 (2.9) 40.6 (5.7)
+33.7 (3.0) 37.1 (5.7) 36.5 (6.9) 35.6 (1.5)
+27.2 (1.9)
+28.8 (2.3) 25.9 (2.4)
+29.4 (2.4) 18.6 (4.4) 27.7 (4.2) 30.1 (7.5)
+26.1 (4.9)a,b 30.4 (3.6)a 27.4 (2.9)a,b 30.0 (6.0)a 17.6 (3.4)b
+23.9 (2.5)a 34.4 (3.7)b 29.1 (4.3)a,b 20.2 (7.0)a,b 29.3 (5.9)a,b
+25.1 (3.1) 25.8 (5.1) 29.6 (4.7) 29.8 (1.7)
+   SE 1⁄4 standard error.
+Prevalence was a weighted percentage controlling for the complex survey design. For each demographic characteristic, we conducted separate logistic regression models for each of the six substance use variables. We conducted pairwise contrast analyses when we detected an overall difference. “Other” for race/ethnicity includes Asians, Hawaiians/Pacific Islanders, and American Indians/Alaskan Natives. We conducted analyses with SAS, version 9.2.
+Within each model, two categories with different superscripts (denoted a, b, c) were significantly different in using the particular substance, according to Wald chi- square test statistics at a 1⁄4 .05. Categories with significant differences are bolded. For example, there was a significant racial/ethnic difference with regard to preva- lence of other illicit drug. Further contrast analyses showed a significant difference between whites and Hispanics, and between whites and other racial/ethnic groups.
+illicit drug use, cigarette smoking, binge drinking), single father (cigarette smoking), and other family structure (marijuana use, other illicit drug use, and cigarette smoking). In addition, chil- dren from single-mother families reported lower use of other illicit drugs compared with stepparents and other family struc- ture. Last, prevalence of smoking cigarettes was lower among those living in the Northeast than the Midwest.
+Latent classes
+Table 3 lists results of fit statistics for LCA models with one to five classes, and for the LCA with covariates models with two to five classes. Pearson and likelihood chi-square statistics test departure of the model from the observed data, and were significant for models with one to three classes, but not for models with four or five classes. In terms of the information criteria, the four-class solution without covariates had the minimum values on BIC and ABIC, and the four-class solution with covariates had the minimum values on BIC. In addition, the four-class solution also had acceptably high values on entropy (without covariates, .832; with covariates, .806) and ACPs (without covariates, range .869e.921; with covariates, range .846e.915). Thus, by model fit statistics, we chose the four-class solution as the best-fitting model. An examination on class
+interpretability for models with two to five classes further indi- cates the four-class model as optimal in terms of practical implication and distinctiveness of each latent class.
+For the four-class solution of LCA with covariates, Figure 1 reports the latent class prevalence (i.e., the proportion of the sample composing each class) and item probability (i.e., the likelihood of reporting each behavior within a particular latent class). Adolescents in class 1 (59.3%) formed the nonuser group, with very low probabilities of using any of the substances, such as medication to get high (.000), illicit drugs (.006), cigarettes (.007), marijuana (.019), alcohol (.071), and binge drinking (.023). Adolescents in class 2 (22.6%) comprised the predominant alcohol user group, with high probability of drinking (.982) and moderately high probability of binge drinking (.735), moderate probabilities of using marijuana (.418) and smoking cigarettes (.413), and low probabilities of misusing medication (.074) and using other illicit drugs (.066). Adolescents in class 3 (10.5%) formed the predominant mari- juana user group, with much higher probability of using marijuana (.578) than using other substances, such as ciga- rettes (.270) or medication to get high (.139) or other illicit drugs (.156), and virtually no use of alcohol (.000) or binge drinking (.076). Adolescents in class 4 (7.6%) formed the predominant polysubstance user group, who had moderate to
+720 K.P. Conway et al. / Journal of Adolescent Health 52 (2013) 716e723
+Table 3
+Model fit statistics for models with one to five latent classes
+(OR 1⁄4 1.57; CI 105e2.33) or the predominant marijuana user class (OR 1⁄4 3.32; CI 1.06e10.37).
+Associations
+The four classes differed with respect to depressive and somatic symptomatology, which we included as distal outcomes with the AUXILIARY option in Mplus, shown in Figure 1. We did not adjust for covariates in this analysis. Nonusers reported significantly lower levels of depressive and somatic symptoms than any other class: predominant polysubstance users (p < .01), predominant alcohol users (p < .01), and predominant marijuana users (p < .05). Predominant polysubstance users reported significantly (p < .01) higher levels of depressive and somatic symptoms than those in all other classes. Predominant alcohol users and predominant marijuana users did not significantly differ in their reports of depressive or somatic symptoms.
+Discussion
+The primary study findings are that (1) there were four classes of drug users: nonusers, predominant drinkers, marijuana users, and polysubstance users; and (2) the predominant poly- substance users scored higher on depressive and somatic symptomatology. The overall prevalence of substance use in this sample is consistent with other national studies, such as the Monitoring the Future Study, and highlights its ubiquitousness among American youth. Past-year rates of marijuana use among 10th graders, for example, were similar between the NEXT study (26%) and the 2011 MTF study (29%) [1]. Past-year rates of medication misuse among 10th graders were slightly higher in the NEXT study (8.7%) compared with the 2011 MTF study (range, 2.6%e5.9%). This difference may stem from a definitional differ- ence of medication misuse: NEXT asks about use of “medication to get high,” whereas MTF asks about use of specific medications (e.g., oxycodone HCl, hydrocodone/paracetamol, methylpheni- date) “not under a doctor’s orders.”
+Regarding noteworthy demographic factors associated with substance use, children who live with both biological parents were less likely than children who live with stepparents to use marijuana, medication to get high, other illicit drugs, or ciga- rettes, and to binge drink. This finding is consistent with the well-supported notion that lack of parental monitoring is a risk factor for substance use [7,28].
+The multiple classes defined by polysubstance use reported here compare with other studies [5,6] and underscore the considerable heterogeneity that exists among young substance users. In our sample, as in Add Health, abstainers comprised the largest and majority class of substance users [5]. By comparison, in the 2009 YRBS, with a wider age range in the sample, alcohol users formed the largest class [6]. All three studies found that polysubstance users formed a smaller class of youth: NEXT, with 7.6% of the sample characterized as predominant polysubstance users; YRBS, with 13% frequent polysubstance users and 23% occasional polysubstance users; and Add Health, with 14% three-substance users. Both the NEXT and YRBS identified that one polydrug class stood apart from the others in the serious- ness of their substance use patterns, symptomatology, and risk behaviors [6].
+In addition to these findings, several results are particu- larly important and novel. First, the analyses found a strong representation of medication misuse in the predominant
+ Without 1 2 3 4 5 covariates,
+N 1⁄4 2,524 tests
+of model fit
+ Information criteriaa
+AIC
+BIC
+Adjusted BIC
+Chi-square testb Pearson c2
+df
+p
+Likelihood ratio G2
+df
+p
+Entropyc Range of ACPs
+14,343.7 11,533.1 14,378.7 11,608.9 14,359.7 11,567.6
+582.7 221.2 55 50 .000 .000 255.0 177.3
+55 50
+.000 .000
+e .854
+e .958e.964
+11,315.2 11,147.0 11,135.5 11,431.9 11,304.5 11,333.8 11,368.3 11,218.7 11,225.8
+145.6 42.3 27.4 43 36 29 .000 .217 .550 101.5 41.5 31.5
+43 36 29
+.000 .243 .342
+.831 .832 .849 .859e.957 .869e.921 .787e.954
+ With covariates, 2 3 4 5 N 1⁄4 2,350 tests
+of model fit
+ Information criteriaa AIC
+10,783.7 10,568.2 10,365.6 10,304.0 10,893.1 10,752.6 10,624.9 10,638.2 10,832.8 10,650.9 10,481.9 10,453.9
+211.6 121.9 44.1 40.8 50 43 36 29 .000 .000 .167 .072 169.9 113.7 43.1 41.3
+50 43 36 29
+.000 .000 .195 .065
+.849 .828 .806 .819 .944e.969 .823e.976 .846e.915 .695e.920
+BIC
+Adjusted BIC c2 testb
+Pearson c2 df
+p Likelihood
+ratio G2
+Entropyc Range of ACPs
+df
+p
+e e
+   ACP 1⁄4 average latent class probabilities for most likely latent class membership; AIC 1⁄4 Akaike’s Information Criteria; BIC 1⁄4 Bayesian Information Criteria.
+a Adjusted BIC is BIC adjusted for sample size. A model with smaller AIC, BIC, and adjusted BIC value is considered to have a better fit.
+b Pearson and likelihood chi-square statistics test departure of the model from the observed data.
+c The entropy statistics range from 0 to 1, with values closer to 1 indicating a better classification quality.
+very high probabilities of using each of the substances, including marijuana (1.000), alcohol (.979), binge drinking (.906), cigarettes (.711), medication to get high (.658), and other illicit drugs (.541).
+Latent class analysis with covariates
+Covariates included gender (male as reference), race/ethnicity (white as reference), and parent education (three categories: low, median, and high, with high as reference). We excluded family structure and region because of possible multi co-linearity (with race/ethnicity and parent education) and the negative impact on statistical power of including many covariates. We set the non- user class as the reference group. Table 4 reports the results. Females were less likely than males to be in the predominant marijuana user compared with the nonuser class (odds ratio [OR] 1⁄4 .34; confidence interval [CI] .18e.65). Compared with children with high parent education (bachelor’s or graduate degrees), those with low parent education (high school degree or less) were more likely to be in the predominant alcohol user class
+ 1.0 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0
+Class 1: Non-users (59.3%)
+Class 2: Predominant Alcohol Users (22.6%) Class 3: Predominant Marijuana Users (10.5%) Class 4: Predominant Polysubstance Users (7.6%)
+K.P. Conway et al. / Journal of Adolescent Health 52 (2013) 716e723 721
+                                                 Class
+   Depressive Symptoms
+Mean SE
+       Somatic Symptoms
+Mean SE
+      Class 1: Non-users
+     2.21a
+     .02
+   1.97a
+     .03
+    Class 2: Predominant Alcohol Users
+ 2.48b
+  .05
+2.23b
+  .07
+   Class 3: Predominant Marijuana Users
+     2.34b
+      .06
+   2.21b
+      .05
+    Class 4: Predominant Polysubstance Users
+ 2.92c
+  .10
+2.59c
+   .10
+Note. Classification of individuals was based on their most likely latent class membership; the model included demographic covariates.
+Two categories with different superscripts were significantly different in mean report of symptoms, according to Wald Chi-square test statistics at an alpha of 0.05. The response options for depressive symptoms were 1=never, 2=seldom, 3=sometimes, 4=often, 5=always; and the response options for somatic symptoms were 1=rarely or never, 2=about every month, 3=about every week, 4=more than once a week, 5=about every day.
+Figure 1. Item probability for each latent class in the four-class model and associations with depressive and somatic symptomatology. SE 1⁄4 standard error.
+polysubstance user class (66%). Medication misuse is associated with serious adverse consequences including addiction and unintentional overdose [29,30]. Second, the predominant poly- substance users reported binge drinking at rates equal to, or even higher than, predominant alcohol users. Binge drinking during adolescence is a hazardous practice associated with significant short-term and long-term negative consequences [31,32]. Whereas our study measured the use of various substances over a period of time and not simultaneous poly- substance use (e.g., misusing medications while drinking alcohol), other research reported high rates and negative consequences of simultaneous use in adolescents and college students [17,33]. Third, the predominant polysubstance users reported elevated levels of depressive symptoms and more somatic problems such as headaches, stomachaches, and back- aches, which often underlie depression [18,19]. The association of polysubstance use with mental health symptoms is con- cerning, because comorbid depressive psychopathology often predicts substance use, worsened clinical course, and medical illnesses among substance abusers [34e36]. Our findings
+strongly suggest that polysubstance users in the 10th grade may already be experiencing significant impairments and may be at high risk for deleterious outcomes, an interpretation warranting confirmation by longitudinal analysis. Finally, polysubstance use may be a broad indicator of severity prevalent in over 7% of 10th graders. There is a need to reinforce the call for better substance use and mental health screening as well as referral to and availability of care, as recommended by the American Academy of Pediatrics Association and the Society for Adolescent Medi- cine [37e39].
+The results reported here should be considered in light of several limitations and strengths. Study limitations include the somewhat attenuated response rate, limited sample size relative to other national epidemiological studies, and cross-sectional design. The strengths include the nationally representative sampling frame, oversampling of African-American and Hispanic youth to allow for robust comparisons across certain race/ethnic groups, assessment of depressive and somatic symptoms, and the examination of misuse of medications separately from other illicit drugs.
+722 K.P. Conway et al. / Journal of Adolescent Health 52 (2013) 716e723
+Table 4
+Results of LCA with covariates: sociodemographic differences (n 1⁄4 2,350)
+[4] Whitesell NR, Beals J, Mitchell CM, et al. Latent class analysis of substance use: Comparison of two American Indian reservation populations and a national sample. J Stud Alcohol 2006;67:32e43.
+[5] DierkerLC,VeselF,SledjeskiEM,etal.Testingthedualpathwayhypothesis to substance use in adolescence and young adulthood. Drug Alcohol Depend 2007;87:83e93.
+[6] ConnellCM,GilreathTD,HansenNB.Amultiprocesslatentclassanalysisof the co-occurrence of substance use and sexual risk behavior among adolescents. J Stud Alcohol Drugs 2009;70:943e51.
+[7] Substance Abuse and Mental Health Services Administration, Results from the 2010 National Survey on Drug Use and Health: Summary of National Findings, NSDUH Series H-41, HHS Publication No. (SMA) 11-4658. Rock- ville, MD: Substance Abuse and Mental Health Services Administration, 2011.
+[8] KesslerRC,CrumRM,WarnerLA,etal.Lifetimeco-occurrenceofDSM-III-R alcohol abuse and dependence with other psychiatric disorders in the National Comorbidity Survey. Arch Gen Psychiatry 1997;54:313e21.
+[9] Conway KP, Compton W, Stinson FS, Grant BF. Lifetime comorbidity of DSM-IV mood and anxiety disorders and specific drug use disorders: Results from the National Epidemiologic Survey on Alcohol and Related Conditions. J Clin Psychiatry 2006;67:247e57.
+[10] Regier DA, Farmer ME, Rae DS, et al. Comorbidity of mental disorders with alcohol and other drug abuse: Results from the Epidemiologic Catchment Area (ECA) Study. JAMA 1990;264:2511e8.
+[11] Compton WM, Conway KP, Stinson FS, et al. Prevalence, correlates, and comorbidity of DSM-IV antisocial personality syndromes and alcohol and specific drug use disorders in the United States: Results from the national epidemiologic survey on alcohol and related conditions. J Clin Psychiatry 2005;66:677e85.
+[12] Merikangas KR, Mehta RL, Molnar BE, et al. Comorbidity of substance use disorders with mood and anxiety disorders: Results of the International Consortium in Psychiatric Epidemiology. Addict Behav 1998;23:893e907.
+[13] Costello EJ, Mustillo S, Erkanli A, et al. Prevalence and development of psychiatric disorders in childhood and adolescence. Arch Gen Psychiatry 2003;60:837e44.
+[14] Merikangas KR, He JP, Burstein M, et al. Lifetime prevalence of mental disorders in U.S. adolescents: Results from the National Comorbidity Survey ReplicationeAdolescent Supplement (NCS-A). J Am Acad Child Adolesc Psychiatry 2010;49:980e9.
+[15] Marmorstein NR, Iacono WG, Malone SM. Longitudinal associations between depression and substance dependence from adolescence through early adulthood. Drug Alcohol Depend 2010;107:154e60.
+[16] Burke Jr JD, Burke KC, Rae DS. Increased rates of drug abuse and depen- dence after onset of mood or anxiety disorders in adolescence. Hosp Commun Psychiatry 1994;45:451e5.
+[17] McCabeSE,CranfordJA,MoralesM,YoungA.Simultaneousandconcurrent polydrug use of alcohol and prescription drugs: Prevalence, correlates, and consequences. J Stud Alcohol 2006;67:529e37.
+[18] Bernstein GA, Massie ED, Thuras PD, et al. Somatic symptoms in anxious- depressed school refusers. J Am Acad Child Adolesc Psychiatry 1997;36: 661e8.
+[19] Egger HL, Costello EJ, Erkanli A, Angold A. Somatic complaints and psychopathology in children and adolescents: Stomach aches, musculo- skeletal pains, and headaches. J Am Acad Child Adolesc Psychiatry 1999;38: 852e60.
+[20] National Institute on Alcohol Abuse and Alcoholism. NIAAA Newsletter (NIH publication number 04-5346); 01.01.2004.
+[21] Dahlberg L, Toal S, Swahn M, Behrens C. Measuring violence-related atti- tudes, behaviors, and influences among youths: a compendium of assess- ment tools. 2. 01.01.2005. Atlanta (GA): Centers for Disease Control and Prevention, National Center for Injury Prevention and Control.
+[22] Hetland J, Torscheim T, Aura L. Subjective health complaints in adoles- cence: Dimensional structure and variation across gender and age. Scand J Public Health 2002;30:223e30.
+[23] Akaike H. On the entropy maximization principle. In: Krishnaiah P, ed. Applications of statistics. Amsterdam: North-Holland; 1977. p. 27e41.
+[24] RafteryA.Bayesianmodelselectioninsocialresearch.SociolMethod1995; 25:111e63.
+[25] Nylund KL, Asparouhov T, Muthén BO. Deciding on the number of classes in latent class analysis and growth mixture modeling: A Monte Carlo simulation study. Structural Equation Modeling 2007;14:535e69.
+[26] Muthén LK, Muthén BO. Mplus user’s guide. 5th ed; 1998.
+[27] Schafer JL, Graham JW. Missing data: Our view of the state of the art.
+Psychol Method 2002;7:147e77.
+[28] Hawkins JD, Catalano RF, Miller JY. Risk and protective factors for alcohol
+and other drug problems in adolescence and early adulthood: Implications
+for substance abuse prevention. Psychol Bull 1992;112:64e105.
+[29] Compton WM, Volkow ND. Abuse of prescription drugs and the risk of
+addiction. Drug Alcohol Depend 2006;83(Suppl 1):S4e7.
+[30] Hall AJ, Logan JE, Toblin RL, et al. Patterns of abuse among unintentional
+pharmaceutical overdose fatalities. JAMA 2008;300:2613e20.
+ Odds 95% Confidence Ratio Interval
+ Class 2. Predominant alcohol user
+Female versus male .86 .56e1.31 Race/ethnicity (vs. white)
+African-American .65 Hispanic .80 Other .82
+Parent education (vs. high school)
+Low ( high school) 1.57 Median (some college or technical school) 1.15
+Class 3. Predominant marijuana user
+Female versus male .34 Race/ethnicity (vs. white)
+African-American .97 Hispanic 1.26 Other 1.55
+Parent education (vs. high school)
+Low ( high school) 3.32 Median (some college or technical school) 2.28
+Class 4. Predominant polysubstance user
+Female versus male .95 Race/ethnicity (vs. white)
+African-American .47 Hispanic 1.52 Other 1.75
+Parent education (vs. high school)
+Low ( high school) .85 Median (some college or technical school) 1.02
+.29e1.48 .32e1.97 .31e2.15
+1.05e2.33 .86e1.54
+.18e.65
+.23e4.07 .76e2.08 .54e4.49
+1.06e10.37 .93e5.61
+.51e1.75
+.07e3.16 .58e3.99 .27e11.57
+.30e2.39 .32e3.25
+  Significant odds ratios are in bold print. The latent class of nonuser was set as the reference group for the multinomial logistic regression model. For gender, race/ ethnicity, and parent education, the reference groups were male, white, and high-parent education (bachelor’s and graduate degree). Because of missing information on covariates, we excluded 174 participants for this analysis.
+Acknowledgments
+This project (contract number HHSN267200800009C) was supported in part by the intramural research program of the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD), and the National Heart, Lung and Blood Institute (NHLBI), the National Institute on Alcohol Abuse and Alcoholism (NIAAA), and Maternal and Child Health Bureau (MCHB) of the Health Resources and Services Administration (HRSA), with supplemental support from the National Institute on Drug Abuse (NIDA).
+The views and opinions expressed in this article are those of the authors and do not necessarily represent the views of the National Institute on Drug Abuse, the Eunice Kennedy Shriver National Institute of Child Health and Human Development, the National Institutes of Health, or any other governmental agency.
+References
+[1] Johnston LD, O’Malley PM, Bachman JG, Schulenberg JE. Monitoring the Future national results on adolescent drug use: overview of key findings, 2011. Ann Arbor (MI): Institute for Social Research, University of Michigan; 2012.
+[2] Mitchell CM, Plunkett M. The latent structure of substance use among American Indian adolescents: An example using categorical variables. Am J Commun Psychol 2000;28:105e25.
+[3] Connell C, Gilreath T, Aklin W, Brex R. Social-ecological influences on patterns of substance use among non-metropolitan high school students. Am J Commun Psychol 2010;45:36e48.
+[31] Chassin L, Pitts SC, Prost J. Binge drinking trajectories from adolescence to emerging adulthood in a high-risk sample: Predictors and substance abuse outcomes. J Consult Clin Psychol 2002;70:67e78.
+[32] Donath C, Grassel E, Baier D, et al. Predictors of binge drinking in adoles- cents: Ultimate and distal factorsda representative study. BMC Public Health 2012;12:263.
+[33] McCabe SE, West BT, Teter CJ, Boyd CJ. Co-ingestion of prescription opioids and other drugs among high school seniors: Results from a national study. Drug Alcohol Depend 2012;126:65e70.
+[34] Rounsaville BJ, Dolinsky ZS, Babor TF, Meyer RE. Psychopathology as a predictor of treatment outcome in alcoholics. Arch Gen Psychiatry 1987; 44:505e13.
+[35] Compton III WM, Cottler LB, Jacobs JL, et al. The role of psychiatric disor- ders in predicting drug dependence treatment outcomes. Am J Psychiatry 2003;160:890e5.
+[36] Harter MC, Conway KP, Merikangas KR. Associations between anxiety disor- ders and physical illness. Eur Arch Psychiatry Clin Neurosci 2003;253:313e20. [37] American Academy of Pediatrics. Coding for pediatrics. 16th ed. Elk Grove
+Village (IL): American Academy of Pediatrics; 2011.
+[38] American Academy of Pediatrics. Policy statementdalcohol use by youth
+and adolescents: A pediatric concern. Pediatrics 2010;5:1078e87.
+[39] Kapphahn CJ, Morreale MC, Rickert VI, Walker LR. Financing mental health services for adolescents: A position paper of the Society for Adolescent
+Medicine. J Adolesc Health 2006;39:456e8.
+K.P. Conway et al. / Journal of Adolescent Health 52 (2013) 716e723 723

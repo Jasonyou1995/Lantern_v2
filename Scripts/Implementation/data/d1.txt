@@ -1,0 +1,226 @@
+Journal of Adolescent Health 50 (2012) 172–178
+                            www.jahonline.org
+ Original article
+The Effectiveness of Mandatory-Random Student Drug Testing: A Cluster Randomized Trial
+Susanne James-Burdumy, Ph.D.a,*, Brian Goesling, Ph.D.a, John Deke, Ph.D.a, and Eric Einspruch, Ph.D.b
+a Mathematica Policy Research, Princeton, New Jersey b RMC Research Corporation, Portland, Oregon
+Article history: Received March 9, 2011; Accepted August 18, 2011
+Keywords: Adolescent; Alcohol use; Cluster randomized trial; Drug testing; High school; Substance use
+ABSTRACT
+Purpose: This article presents findings from the largest experimental evaluation to date of school-based mandatory-random student drug testing (MRSDT). The study tested the effectiveness of MRSDT in reducing substance use among high school students.
+Methods: Cluster randomized trial included 36 high schools and more than 4,700 9th through 12th grade students. After baseline data collection in spring 2007, about half the schools were randomly assigned to a treatment group that was permitted to implement MRSDT immediately, and the remaining half were assigned to a control group that delayed MRSDT until after follow-up data collection was completed 1 year later, in spring 2008. Data from self-administered student questionnaires were used to compare rates of substance use in treatment and control schools at follow-up.
+Results: Students subject to MRSDT by their districts reported less substances use in past 30 days compared with students in schools without MRSDT. The program had no detectable spillover effects on the substance use of students not subject to testing. We found no evidence of unintentional negative effects on students’ future intentions to use substances, the proportion of students who participated in activities subject to drug testing, or on students’ attitudes toward school and perceived consequences of substance use.
+Conclusions: MRSDT shows promise in reducing illicit substance use among high school students. The impacts of this study were measured for a 1-year period and may not represent longer term effects.
+  2012 Society for Adolescent Health and Medicine. All rights reserved.
+  One approach some U.S. schools are using to reduce adoles- cent substance use is school-based mandatory-random student drug testing (MRSDT). Under MRSDT, students and their parents give written consent to the students’ participation in random drug testing as a condition of participating in athletics and other
+* Address correspondence to: Susanne James-Burdumy, Ph.D., P.O. Box 2393, Mathematica Policy Research, Princeton, NJ 08543.
+E-mail address: SJames-Burdumy@mathematica-mpr.com (S. James-Bur- dumy).
+This research was supported by a U.S. Department of Education, Institute of Education Sciences contract with Mathematica Policy Research (ED-04-CO- 0041); however, the views expressed here are those of the authors and do not necessarily reflect the views of the Institute of Education Sciences. The authors are responsible for any errors.
+extracurricular activities. The most recent national estimates indicate that 14% of U.S. public school districts conducted ran- dom drug testing during the 2004 –2005 school year [1]. Two U.S. Supreme Court decisions have upheld the use of MRSDT for students participating in athletics and in other extracurricular activities [2,3].
+MRSDT may reduce student substance use in one or more of three ways. First, the threat of testing alone may cause students to stop using substances. Such deterrent effects are most likely to occur when students are directly subject to testing (e.g., during the school sports seasons) and for the specific substances cov- ered by the school’s drug testing policy. Second, school staff can identify students who test positive for drugs and refer them to counseling services. The opportunity for such detection effects is
+ 1054-139X/$ - see front matter   2012 Society for Adolescent Health and Medicine. All rights reserved. doi:10.1016/j.jadohealth.2011.08.012
+limited to only those students who are caught using drugs. Third, MRSDT may have spillover effects on students who are not di- rectly subject to testing, as they observe and are influenced by the behavior of their peers.
+The few previous studies of MRSDT offer little definitive evi- dence on the effectiveness of these programs. Quasi-experimental studies of MRSDT programs conducted in New Jersey, Indiana, and Oregon high schools have found a link between MRSDT and lower substance use [4 – 6]. However, national surveys have found no statistically significant differences in substance use between schools with and without drug testing programs [7,8]. A previous experimental study of MRSDT produced mixed results—reduced past-year substance use at two of the four follow-up periods, but showed no effect on past-month use [9]. Some research suggests that MRSDT may have unin- tended negative consequences on students’ attitudes toward school, sports and activities participation, and other risk fac- tors for future substance use [6,9].
+The present study sought to add to prior research by ad- dressing three questions: (1) Does MRSDT reduce substance use among students who are subject to testing? (2) Are there spillover effects on other students? (3) Does MRSDT have unintended negative effects on students’ attitudes or activity participation?
+Methods
+Participants
+A total of 4,720 9th through 12th grade students from 36 high schools participated in the study (All student sample sizes are rounded to the nearest 10 in accordance with National Center for Education Statistics publication policy). The schools received grants to implement MRSDT from a competitive discretionary federal grant program administered by the U.S. Department of Education’s Office of Safe and Drug Free Schools, which awarded grants to schools for MRSDT between 2005 and 2008. School districts awarded grants in 2006 were required to participate in the study as a condition of their grant awards. The districts were located in seven states, primarily in the South and Midwest.
+Study design
+The study was designed as a cluster randomized trial with staggered implementation of the intervention. Because MRSDT programs are implemented schoolwide, with expectations of spillover to students not directly covered by the MRSDT pro- gram, we randomly assigned schools rather than individual stu- dents. After we collected baseline data in spring 2007, 20 schools were randomly assigned to a treatment group that was permit- ted to begin implementing MRSDT immediately, and 16 schools were assigned to a control group that had to delay announcing, promoting, or implementing MRSDT until after the follow-up survey was completed in spring 2008. Impacts were calculated during the 1-year period of staggered implementation. The study was approved by the Portland State University Human Subjects Research Review Committee.
+Random assignment was conducted separately within 15 blocks of two to four schools. Blocks were formed, first, by group- ing schools within the seven grantee school districts and, second, by grouping schools with similar characteristics within the three largest districts. The study was powered to detect impacts simi-
+lar to those reported in previous studies of MRSDT [6]. The final analytical sample of 4,720 students and 36 schools yielded min- imum detectable impacts of 7.2 percentage points on a dichoto- mous substance use outcome with 30% prevalence among the control group [10].
+Intervention
+Each participating school district began by specifying a list of sports and other extracurricular activities it planned to cover under its testing policy. In treatment schools, participation in these covered activities was then restricted to students provid- ing written consent to MRSDT, and these consenting students were subject to random drug testing periodically throughout the school year.
+The OSDFS grant program required all districts to follow a basic set of testing procedures: administering tests to a mini- mum of 50% of eligible students, testing for a minimum of five required substances (marijuana, amphetamines, cocaine, meth- amphetamines, and opiates), establishing safeguards to main- tain the confidentiality of the drug test results, subjecting any positive tests to review by a certified medical-review officer, and referring students with positive drug test results to treatment services. Although not explicitly required by the grant program, all districts contracted with an outside drug testing company to administer the tests.
+Other implementation decisions were left to the discretion of the individual grantees. The frequency of drug testing ranged across schools from four times per year to five or six times per month. Three districts tested for alcohol in addition to drugs. Five districts tested both student athletes and participants in compet- itive extracurricular activities (e.g., marching band and choir); two districts limited MRSDT to student athletes. In four districts, students who participated in covered activities were subject to testing all year, whereas in the three other districts, students who participated in covered activities were subject to testing only while participating in the activity. During the period of the grant awards, the amount of OSDFS funding received ranged across districts from $18 to $120 per enrolled student.
+Across the seven grantee districts, 3,480 drug tests were con- ducted during the study’s 1-year evaluation period. Of these tests, 40 positive drug tests were reported. Positive drug tests were most common for marijuana (20/40 positive drug tests). The rate of positive drug tests— 40 of 3,480 tests—was lower than the rate at which students reported using substances, which is consistent with reports in the literature [11].
+Schools assigned to both the treatment and control groups were permitted to continue implementing other substance use prevention efforts they had in place before the study. Staff in 74% of treatment schools and 68% of control schools reported offering substance use prevention assemblies, 100% of treatment schools and 63% of control schools reported offering substance use pre- vention curricula, and 16% of treatment schools and 25% of con- trol schools reported offering behavioral or therapeutic counsel- ing for students. Therefore, the study measured the effects of MRSDT as a supplement to these other substance use prevention efforts.
+Data collection
+Data were collected from students through questionnaires administered at baseline in spring 2007 and follow-up in spring
+S. James-Burdumy et al. / Journal of Adolescent Health 50 (2012) 172–178 173
+174 S. James-Burdumy et al. / Journal of Adolescent Health 50 (2012) 172–178
+2008. Responses to the questionnaires were confidential and linked across baseline and follow-up surveys using anonymous study ID numbers. For the baseline survey, we drew a stratified random sample of 9th through 11th grade students in each par- ticipating school. Students from this sample who remained in study schools were reinterviewed for the follow-up survey in spring 2008 as 10th through 12th graders. The study did not have resources to track students who moved out of study districts. For the spring 2008 follow-up survey, we also drew a stratified random sample of new 9th grade students who entered study schools for the 2007–2008 school year. Thus, the final analytical sample represents 9th through 12th grade students at the time of the spring 2008 follow-up survey.
+Primary outcome
+To measure substance use, we asked students on the baseline and follow-up surveys how frequently they used each of 10 different substances (alcohol, tobacco, marijuana, cocaine, etc.) over three reference periods: the past 30 days, the past 6 months, and ever in their lifetimes. We modeled the questions after sim- ilar items on the national Monitoring the Future Survey. We used responses to these items to create binary composite measures (yes/no) of the following: use of any substance; use of any sub- stance excluding alcohol and tobacco; and use of any substance that was covered under the drug testing policy of the student’s district. We constructed separate measures for past 30-day and 6-month use.
+Secondary outcomes
+Perceived consequences of substance use. To test for unintended negative consequences on students’ attitudes toward substance use, we included measures of both perceived negative and per- ceived positive consequences of substance use. Both scales were derived from a prior study on MRSDT [6] and had high internal reliability (for both scales, the alpha coefficient for the follow-up survey was .85). For the measure of perceived negative conse- quences, we asked students whether they agreed or disagreed with statements, such as “Using illegal drugs leads to serious health problems” and “If I used drugs, I would get into trouble.” For the measure of perceived positive consequences, we used different statements—for example, “Using illegal drugs or alco- hol makes it easier to be part of a group” and “Using illegal drugs or drinking is cool.”
+Participation in covered activities. To test for possible effects on student participation rates in activities subject to testing, we measured covered-activity participation with a binary indicator of whether the student participated in a covered activity any time during the 2007–2008 school year.
+School connectedness. To test for possible unintended negative effects on students’ attitudes toward school, we included a 16- item scale measuring students’ connection to school. The scale was developed in a prior study on school connection [12] and has high internal reliability (the alpha coefficient on the follow-up
+survey was .89). For this measure, we asked students whether they agreed or disagreed with statements, such as “I feel like I belong at this school” and “Adults at this school listen to student concerns.”
+Statistical methods
+To test for baseline differences between the treatment and control groups, we conducted descriptive analyses of baseline data, using two-tailed t tests adjusted for the clustering of stu- dents within schools. We included any measures showing statis- tically significant baseline differences as covariates in the impact analysis.
+To measure the impacts of MRSDT on student substance use and other dichotomous outcomes, we estimated multivariate logistic regression models that included a binary indicator of treatment status, random assignment block indicator variables, and any demographic or outcome measures that showed statis- tically significant baseline differences. We adjusted the standard errors for the clustering of students within schools, using the generalized estimating equations approach. We constructed weights to adjust for random assignment, sampling, consent, and nonresponse probabilities. We grouped students by the schools they attended at the time they were sampled, which yielded “intent-to-treat” estimates of the program’s impact. For continuous outcomes, we estimated comparable linear regression models.
+We conducted the analyses separately for two analysis sam- ples. First, to answer our primary research question of whether MRSDT affects the substance use and attitudes of students who are subject to testing, we limited the analysis to students who participated in athletics or other extracurricular activities cov- ered by their district’s testing program during the 2007–2008 school year. For example, in districts where football and soccer were covered activities, we examined treatment-control differ- ences in substance use reported by football and soccer players. Second, to examine our secondary question of whether MRSDT has spillover effects on other students in the school, we limited the analysis to students who did not participate in covered activ- ities during the 2007–2008 school year.
+To control for multiple hypothesis testing, we adjusted p values from the regression models to control the familywise error rate at 5%. The adjustment is based on the multivariate t-distribution and takes into account correlations among test statistics [13]. We applied the adjustment separately for each analysis sample (activity participants or nonparticipants) and for each group of related outcome measures (self-reported sub- stance use, intention to use substances, perceived consequences of substance use, covered-activity participation, or connection to school).
+Results
+Flow of study participants
+Consent and survey response rates were generally similar for the treatment and control groups (Table 1). Among the students originally sampled for the study, 82% of the treatment group and 80% of the control group were still enrolled in study schools at the time of follow-up. Among those students still enrolled in study schools at follow-up, 73% returned a consent form and 59% provided affirmative consent. We found no statistically signifi-
+To examine the impacts of MRSDT on students’ future use of substances, we measured their reported intentions to use the following in the next 12 months: (1) any substance, and (2) any substance excluding alcohol and tobacco.
+Intention to use substances.
+Table 1
+Flow of study participants
+S. James-Burdumy et al. / Journal of Adolescent Health 50 (2012) 172–178 175
+  All students Treatment group Control group T/C difference p
+ Number of students
+(1) Sampled for study
+(2) Still in study school at follow-up (3) Returned a study consent form (4) Granted consent for the study (5) Completed a follow-up survey (6) Completed a baseline survey
+Consent and response rates among students Still in study school at follow-up [(2)]/(1)] Returned study consent form [(3)]/(2)] Granted consent for the study [(4)]/(2)] Completed a follow-up survey [(5)]/(4)] Completed a baseline survey [(6)]/(5)]
+10,980 6,400 8,900 5,220 6,490 3,630 5,230 2,950 4,720 2,700 2,310 1,390
+81.1 81.6 72.9 69.5 58.8 56.5 90.2 91.5 48.9 51.5
+4,590 NA NA 3,680 NA NA 2,860 NA NA 2,280 NA NA 2,020 NA NA
+920 NA NA 80.2 1.4 .18
+77.7  8.2 .06 62.0  5.4 .15 88.6 2.9a .03 45.5 5.9 .22
+ Reported student sample sizes are rounded to the nearest 10 in accordance with NCES publication policy. Statistical significance of the difference between the treatment and control groups in consent and response rates accounts for clustering of students within schools.
+NA   not applicable.
+a Significantly different from zero at the .05 level, two-tailed test.
+cant difference in consent rates between the treatment and con- trol groups. We achieved a 90% survey response rate among consenting students (92% for the treatment group vs. 89% for the control group). Among those students who completed a follow-up survey, baseline data were available for 52% of the treatment group and 46% of the control group. No schools dropped out of the study after random assignment.
+Baseline characteristics
+The random assignment of schools yielded treatment and control groups that were similar at baseline (Table 2). For the sample of students who participated in activities covered by their district’s MRSDT policy during the 2007–2008 school year, we observed one statistically significant difference among the 27 variables examined: students in the treatment group were less likely to be 16 years old than students in the control group. We found no statistically significant baseline differences for the sam- ple of students who did not participate in covered activities [10].
+Impacts on substance use for covered-activity participants
+Students subject to MRSDT reported less substance use than comparable students in high schools without MRSDT (Table 3). In particular, covered-activity participants in treatment schools were significantly less likely than comparable students in control schools without MRSDT to report any past 30-day use of substances cov- ered by their district’s MRSDT policy (effect size    .21). Rates of self-reported substance use were also lower for covered-activity participants in treatment schools than for those in control schools on the other five substance use measures, although these differences were not statistically significant after accounting for multiple hypothesis testing.
+Spillover effects
+MRSDT had no statistically significant spillover effects on the retrospective substance use reported by students not participat- ing in covered activities (Table 4). For nonparticipants, we found no statistically significant differences in self-reported substance use between the treatment and control schools.
+Unintentional negative effects
+We found no evidence of unintentional negative conse- quences on any secondary outcome measure. For the measures of intentions to use substances, activity participants in the treat- ment schools were just as likely as those in the control schools to say they intended to use substances in the next year (Table 3). Thirty-four percent of students subject to MRSDT reported that they “definitely will” or “probably will” use substances in the next 12 months, compared with 33% of comparable students in schools without MRSDT. Results were similar for the sample of nonparticipants (Table 4).
+We found no statistically significant program impacts on stu- dents’ attitudes toward school or perceived consequences of substance use. For covered-activity participants, students in the treatment and control groups reported similar scores on the school connectedness scale and two measures of perceived con- sequences of substance use (Table 3). We found similar results for the sample of nonparticipants (Table 4).
+We found no evidence that MRSDT affected participation rates in athletics and other extracurricular activities covered by drug testing. At follow-up, 53% of students in treatment schools reported participating in an activity covered by MRSDT, com- pared with 54% of students in high schools without MRSDT (not shown). This difference was not statistically significant.
+Discussion
+MRSDT shows promise in curbing illicit substance use among high school students. The results of this study—the largest exper- imental evaluation to date of school-based MRSDT—found that students subject to MRSDT reported less 30-day use of sub- stances tested for by their districts than that reported by compa- rable students in schools without MRSDT. The program had no detectable spillover effects on the substance use of students not subject to testing. We found no evidence of unintentional nega- tive effects on students’ future intentions to use substances, the proportion of students who participated in activities subject to drug testing, or on students’ attitudes toward school and per- ceived consequences of substance use.
+176 S. James-Burdumy et al. / Journal of Adolescent Health 50 (2012) 172–178 Table 2
+Baseline equivalence for participants in covered activities
+  Measure Treatment group Control group Difference pa
+ Age (percentage)
+13–14 8.5
+8.7  .2 .83
+15 16 17 18
+Female (percentage)
+Grade level (percentage) 9th
+10th
+11th
+Hispanic (percentage) Race (percentage)
+American Indian/Alaska native
+Asian
+Black/African American
+Native Hawaiian/other Pacific islander White
+More than one race reported
+Use of the following in the past 6 months (percentage)
+Any substance
+Any substance except alcohol and tobacco
+Any substance tested by the district’s MRSDT program
+Use of the following in the past 30 days (percentage) Any substance
+Any substance except alcohol and tobacco
+Any substance tested by the district’s MRSDT program
+“Probably Will” or “Definitely Will” use the following within the next year (percentage) Any substance
+Any substance except alcohol and tobacco
+Perceived positive consequences of substance use scale score (average)b Perceived negative consequences of substance use scale score (average)c School connectedness scale score (average)d
+Sample size
+25.9 23.5 24.0 27.5 25.0 25.4 16.3 15.0 50.9 49.6
+50.7 51.7 26.7 27.4 22.7 21.0 11.8 11.9
+1.7 2.8
+1.7 1.0 21.4 22.7 1.1 1.0 70.3 67.7 3.9 4.9
+43.8 48.0 13.9 15.0 25.0 27.6
+29.0 29.7 7.8 9.9 14.6 15.9
+26.2 26.2 5.2 6.5 1.99 2.03 4.18 4.22 2.94 2.97
+1,350e 1,100e
+2.4 .28  3.5 .03*  .4 .97
+1.3 .40 1.3 .64
+ 1.0 .75  .7 .82 1.7 .13  .1 .98
+ 1.1 .17 .7 .12  1.3 .88 .1 .90 2.6 .80  1.0 .51
+ 4.2 .14  1.1 .66  2.6 .70
+ .7 .83  2.1 .25  1.3 .79
+.0 .99  1.3 .48  .04 .54  .04 .54  .03 .69
+ a Reported p values are based on two-tailed t tests that account for clustering of students within schools.
+b Scale ranges from 1 to 5. Higher values on the scale indicate more positive attitudes toward substance use.
+c Scale ranges from 1 to 5. Higher values on the scale indicate more negative attitudes toward substance use.
+d Scale ranges from 1 to 4. Higher values on the scale indicate greater connection to school.
+e Reported student sample sizes are rounded to the nearest 10 in accordance with NCES publication policy.
+* p .05.
+These findings are consistent with those from prior nonex- perimental studies showing effects of MRSDT on student sub- stance use [4,5,9]. However, the lack of impacts on all second- ary outcomes runs counter to prior research findings that random drug testing may have unintentional negative conse- quences on students’ attitudes toward school and other risk factors for future substance use [6,9]. This discrepant finding could reflect differences in the study samples or features of the particular MRSDT programs studied. For example, in the one prior experimental study of MRSDT [9], the testing program was limited to student athletes (and did not include partici- pants in other extracurricular activities), testing was con- ducted on a more uniform biweekly schedule, the testing was conducted by study personnel (not outside contractors), and the tests were analyzed for a consistent set of nine substances across study schools.
+The pattern of our results provides some suggestive evidence about how MRSDT may affect student substance use. We found no support for the hypothesis that MRSDT works primarily by identifying and treating students with substance use prob- lems, as the percentage of positive tests (about 1%) was much smaller than the estimated program impact (about 5 percent- age points). Similarly, we found no support for the hypothesis
+that MRSDT has spillover effects on students who are not subject to testing. Thus, the findings are most consistent with the explanation that MRSDT deters substance use through the threat of testing.
+Limitations
+The generalizability of the study findings is limited in three ways. First, the impacts for this study were measured for a 1-year period and may not represent longer term effects. Second, the consent rate for the study was   60%, and so findings may not generalize to all sampled students or to the overall student body. It is possible that the students who denied consent for the study were at greater risk for substance use, and the effects of MRSDT on these nonconsenting students remain unknown. Third, be- cause this study focused on a select sample of districts that applied for and received OSDFS grants, the findings may not generalize to all high schools nationwide.
+We found no evidence of bias from our reliance on self- reported substance use measures. Recent evidence comparing survey data with biological tests indicates that adolescents un- derreport their use of illicit substances on self-reported surveys [14]. However, such underreporting cannot explain the pattern
+Table 3
+Impacts of MRSDT for participants in covered activities
+of our results unless the level of underreporting was higher for students in the treatment than in the control schools. In addi- tional analyses not reported in this article, we found no such evidence of treatment-control differences in the level of under- reporting [10].
+In addition, we did not find evidence of bias from limiting our main analysis sample to the subgroup of students who partici- pated in covered activities. If MRSDT affects the proportion or types of students who participate in covered activities (e.g., by making drug users less likely to participate or nonusers more likely to participate), these groups might not be comparable across the treatment and control schools. However, the results of the study found that MRSDT did not affect the participation rate in athletics and in other extracurricular activities. Moreover, in a
+Table 4
+Impacts of MRSDT for nonparticipants
+separate set of analyses, we also estimated impacts for student subgroups defined by students’ participation in activities the year before random assignment (2006 –2007 school year), which could not have been affected by MRSDT. The results of these analyses show impacts similar to those reported in the present study for students who participated in covered activities during the 2007–2008 school year [10].
+Finally, although we found no evidence of unintentional neg- ative consequences on rates of activity participation or students’ attitudes toward school and perceived consequences of sub- stance use, we were unable to test for other possible negative consequences (e.g., students increasing their use of nontested substances or consuming diuretics or other chemicals to falsify their test results).
+S. James-Burdumy et al. / Journal of Adolescent Health 50 (2012) 172–178 177
+  Outcome Treatment group Control group Difference pa Effect sizeb
+ Percentage of students that reported using the following in the past 6 months Any substance
+Any substance except alcohol and tobacco
+Any substance tested by the district’s MRSDT program
+Percentage of students that reported using the following in the past 30 days Any substance
+Any substance except alcohol and tobacco
+Any substance tested by the district’s MRSDT program
+Percentage of students that reported they “Probably Will” or “Definitely Will” use the following within the next year
+Any substance
+Any substance except alcohol and tobacco
+Mean perceived positive consequences of substance use scalec Mean perceived negative consequences of substance use scaled Mean school connectedness scalee
+Sample size
+49.96 16.83 26.88
+32.74 10.16 16.47
+34.09 8.01 2.11 4.09 2.91
+1,350f
+54.91  4.95 19.31  2.48 32.16  5.28
+38.50  5.75 12.69  2.53 21.92  5.46
+33.31 .77 7.93 .08 2.03 .08 4.06 .03 2.91 .01
+1,100f
+.255  .12 .673  .10 .146  .15
+.126  .15 .531  .15 .045*  .21
+.960 .02 .999 .01 .467 .08 .823 .03 .862 .01
+ a The p values reported in this table account for the clustering of students within schools and for multiple hypothesis testing.
+b For dichotomous outcomes, the effect size is calculated using the Cox index, which equals the standardized log odds ratio between the treatment and control groups.
+c Scale ranges from 1 to 5. Higher values on the scale indicate more positive attitudes toward substance use.
+d Scale ranges from 1 to 5. Higher values on the scale indicate more negative attitudes toward substance use.
+e Scale ranges from 1 to 4. Higher values on the scale indicate greater connection to school.
+f Reported student sample sizes are rounded to the nearest 10 in accordance with NCES publication policy.
+* p .05.
+  Outcome Treatment group Control group Difference pa Effect sizeb
+ Percentage of students that reported using the following in the past 6 months Any substance
+Any substance except alcohol and tobacco
+Any substance tested by the district’s MRSDT program
+Percentage of students that reported using the following in the past 30 days Any substance
+Any substance except alcohol and tobacco
+Any substance tested by the district’s MRSDT program
+Percentage of students that reported they “Probably Will” or “Definitely Will” use the following within the next year
+Any substance
+Any substance except alcohol and tobacco
+Mean perceived positive consequences of substance use scalec Mean perceived negative consequences of substance use scaled Mean school connectedness scalee
+Sample size
+52.61 49.72 22.11 21.89 33.43 32.55
+36.04 35.70 15.03 16.52 20.37 22.94
+33.58 32.81 12.21 11.89 2.01 2.01 4.02 3.95 2.80 2.80
+1,350f 930f
+2.90 .835 .07 .23 1.000 .01 .89 .984 .02
+.34 1.000 .01  1.49 .910  .07  2.57 .508  .09
+.77 .937 .02 .32 .986 .02 .00 .998 .00 .07 .304 .07 .01 .902 .01
+ a The p values reported in this table account for the clustering of students within schools and for multiple hypothesis testing.
+b For dichotomous outcomes, the effect size is calculated using the Cox index, which equals the standardized log odds ratio between the treatment and control groups.
+c Scale ranges from 1 to 5. Higher values on the scale indicate more positive attitudes toward substance use.
+d Scale ranges from 1 to 5. Higher values on the scale indicate more negative attitudes toward substance use.
+e Scale ranges from 1 to 4. Higher values on the scale indicate greater connection to school.
+f Reported student sample sizes are rounded to the nearest 10 in accordance with NCES publication policy.
+178 S. James-Burdumy et al. / Journal of Adolescent Health 50 (2012) 172–178
+Directions for future research
+Our findings suggest three important directions for future research. First, studies should examine whether our findings generalize to national samples of schools and longer term follow-up periods. In looking at the long-term effects, of partic- ular importance is understanding whether changes in student behavior are limited to the period of drug testing or carry over to periods when students are not directly subject to testing (e.g., during summer break or after graduation). Second, studies should more directly explore the mechanisms through which MRSDT may influence student behaviors, focusing especially on possible deterrent effects. Studies should also explore in greater detail the possible unintended negative consequences of MRSDT. Finally, benefit-cost analyses are needed to determine whether MRSDT is cost-effective relative to other substance use preven- tion programs, and to help school and district officials in deciding whether to pursue MRSDT in their local communities.
+References
+[1] Ringwalt C, Vincus AA, Ennett ST, et al. Random drug testing in U.S. public school districts. Am J Public Health 2008;98:826 – 8.
+[2] Vernonia School District 47J vs. Acton (1995).
+[3] Board of Education of Independent School District No. 92. of Pottawatomie
+County et al. vs. Earls et al. (2002).
+[4] DupontRL,BradyLA.DrugTestinginSchools:GuidelinesforEffectiveUse. In: Center City, MN: Hazelden, 2005.
+[5] McKinney JR. The Effectiveness and Legality of Random Drug Testing Poli- cies. Available at: http://www.preventionnotpunishment.org/pubs.html. Accessed March 24, 2009.
+[6] GoldbergL,ElliotDL,MacKinnonDP,etal.Drugtestingathletestoprevent substance abuse: background and pilot study results of the SATURN (Stu- dent Athlete Testing Using Random Notification) study. J Adolesc Health 2003;32:16 –25.
+[7] Yamaguchi R, Johnston LD, O’Malley PM. Relationship between student illicit drug use and school drug-testing policies. J Sch Health 2003;73: 159 – 64.
+[8] Yamaguchi R, Johnston LD, O’Malley PM. Drug Testing in Schools: Policies, Practices, and Association with Student Drug Use. Ann Arbor, MI: Institute for Social Research, 2003.
+[9] GoldbergL,ElliotDL,MacKinnonDP,etal.Outcomesofaprospectivetrialof student-athlete drug testing: The student athlete testing using random notification (SATURN) study. J Adolesc Health 2007;41:421–9.
+[10] James-BurdumyS,GoeslingB,DekeJ,etal.TheEffectivenessofMandatory- Random Student Drug Testing (NCEE 2010–4025). Washington, DC: Na- tional Center for Education Evaluation and Regional Assistance. Institute of Education Sciences, U.S. Department of Education, 2010.
+[11] DuPont RL, Campbell TG, Campbell MD. Final Report of a Demonstration Project: Enhancing and Assessing Student Drug Testing. Rockville, MD: Institute for Behavior and Health, Inc, 2008.
+[12] Brown RB, Evans WP. Extracurricular activity and ethnicity: Creating greater school connection among diverse student populations. Urban Educ 2002;37:41–58.
+[13] Hothorn T, Bretz F, Westfall P. Simultaneous inference in general paramet- ric models. Biometrical J 2008;50:346 – 63.
+[14] Delaney-Black V, Chiodo LM, Hannigan JH, et al. Just say “I Don’t”: Lack of concordance between teen report and biological measures of drug use. Pediatrics 2010;126:887–93.
