@@ -1,0 +1,721 @@
+PEER VICTIMIZATION WITHIN THE ETHNIC CONTEXT OF HIGH SCHOOL
+
+
+
+
+Abstract
+Risk for peer victimization varies by ethnicity, but few studies explore how the
+ethnic context of the school can affect this. Using a large sample of schools
+and high school students, we used hierarchical linear modeling to explore
+victimization risk by ethnicity within the ethnic context of the school. Models
+predicted total, physical, verbal, and sexual harassment victimization. At the
+student level, the model included sex, ethnicity, and the percent of same
+ethnicity students at the school. At the school level, the model included
+diversity, mean perception of school safety, and mean perception that they
+were targeted because of their race/ethnicity. At the student level, having more
+same-ethnicity peers, and at the school level, having greater overall diversity,
+decreased victimization. Overall, the results support the use of prevention
+and intervention efforts targeted at students. C 2011 Wiley Periodicals, Inc.
+Schools are a microcosm of society and can reflect societal attitudes about aggression, race
+relations, and diversity. A significant minority of youth is victimized by their peers
+because of race, ethnicity, or immigration status (for a review, see Scherr & Larson, 2010),
+and the individual and contextual factors that affect this need empirical study to guide
+intervention and prevention efforts. However, youth can experience ethnicity-related
+victimization from both same and different ethnicity peers (Scherr & Larson). Likewise, if
+children mainly associate with same ethnicity peers, they may experience as much or
+more general victimization by same-ethnicity peers than by different ethnicity peers.
+This work was partially supported by the Hankuk University of Foreign Studies Research Fund to
+Sukkyung You.
+Correspondence to: Erika D. Felix, University of California, Gevirtz Graduate School of Education,
+Department of Counseling, Clinical, and School Psychology, Santa Barbara, CA 93106-9490.
+E-mail: efelix@education.ucsb.edu
+JOURNAL OF COMMUNITY PSYCHOLOGY, Vol. 39, No. 7, 860–875 (2011)
+Published online in Wiley Online Library (wileyonlinelibrary.com/journal/jcop).
+& 2011 Wiley Periodicals, Inc. DOI: 10.1002/jcop.20465
+Prior research has suggested there may be an ‘‘in-group’’ bias, where people
+prefer members of their own group compared with those of other groups (Brewer,
+1979). This has been applied to studies of ethnicity and peer victimization (e.g., Hanish
+& Guerra, 2000a). Young children prefer and have a more positive view of children of
+the same ethnicity (e.g., Aboud, 2003), however this tends to dissipate over time as
+children become better able to separate the individual from their group identification
+(Doyle & Aboud, 1995). Greater intergroup contact, such as having cross-ethnic
+friendships, can help reduce prejudice (Pettigrew, 1998), and this is more likely at
+schools with greater diversity (Pettigrew & Tropp, 2006). Indeed, when presented with
+ambiguous pictures of social situations with minority peers, White children attending
+ethnically homogenous schools were more likely to hold negative opinions of the
+minority peer and rate friendship as less likely than in a similar study with White
+students attending a ethnically diverse school (McGlothlin & Killen, 2006). Thus, the
+relation between ethnicity and victimization can be informed by the school context in
+which the child develops and socializes. A brief review of ethnicity, peer victimization,
+and the school context follows.
+Trends in Ethnicity and Peer Victimization
+Research on trends in victimization and ethnicity show inconsistent patterns, as various
+studies have used different definitions of violence and victimization, measures, and
+samples (Felix, Furlong, & Austin, 2009). For example, victimization risk by ethnicity
+may depend on the type of victimization (e.g., Finkelhor, Ormrod, Turner, & Hamby,
+2005). Other differences may be because of differences between samples and operational
+definitions of victimization. For example, one research program finds Latino students at
+lowest risk of peer victimization (e.g., Hanish & Guerra, 2000a,b), whereas another finds
+Latino students at higher risk than White students, but lower than African American
+(e.g., Baker, Mednick, & Carothers, 1989). Consequently, much remains to be known
+about the potentially complex relation between ethnicity and peer victimization and this
+can be informed by nationally representative and/or population-based studies.
+Using a nationally representative survey, Spriggs, Iannotti, Nansel, and Haynie
+(2007) found that African Americans had lower rates of bullying victimization (a more
+severe subtype of peer victimization based on chronicity and the existence of a power
+imbalance) than White and Latino/a youth. This study used a global definition of
+bullying, with only one item representing victimization, which means they were unable to
+examine ethnic trends in different subtypes of youth victimization. In addition, another
+limitation of the extant literature is that most studies of peer victimization or bullying
+cannot perform separate analyses on Asian American and Native American students
+because of their small sample size. Thus, little is known on their victimization risk.
+Prior research using the large, diverse California Healthy Kids Survey (CHKS)
+dataset began to address some questions on ethnic trends in school victimization
+(Felix et al., 2009). The CHKS survey is mandated for schools receiving federal
+funds and represents 94% of California schools with enrollment in Grades 7, 9, and 11.
+This study found more similarities than differences in rates of victimization across
+ethnicities. Ethnic groups were similar in their rank ordering of the most to least
+common victimization types. Overall, victimization rates for Asian Americans were
+similar or lower than that of the total sample. But, for Native Americans, the rates
+were similar or higher, indicating greater risk for victimization. This supports prior
+research that highlighted the disproportionately high rates of victimization among
+Victimization and Ethnic Context  861
+Journal of Community Psychology DOI: 10.1002/jcop
+Native Americans (Stevens, Ruggiero, Kilpatrick, Resnick, & Saunders, 2005).
+However, this study did not look at how victimization by ethnicity may be influenced
+by the school’s ethnic composition or the percent of same-ethnicity peers within the
+school. This is important to understand because victimization targeting an unchangeable
+characteristic, like race / ethnicity, can possibly increase risk of feeling helpless or
+hopeless, or lower self-esteem (Verkuyten & Thijs, 2006)
+Ethnic Context and Peer Victimization
+Victimization rates for ethnic groups may depend on the ethnic context of schools.
+Prior research has begun to address the ethnic context of peer victimization at the
+school or classroom-level among elementary and middle school students (Bellmore,
+Witkow, Graham, & Juvonen, 2004; Graham & Juvonen, 2002; Hanish & Guerra,
+2000a; Juvonen, Nishina, & Graham, 2006). There are two ways to conceptualize the
+ethnic context: at the individual and at the school level. For the individual, having
+more students of the same ethnicity may protect against victimization risk (Graham &
+Juvonen), but if victimized, may be an additional risk factor for maladjustment
+(Bellmore et al.). Ethnic context can also be explored at the classroom or school level,
+as the overall ethnic diversity can indicate something about the atmosphere of the
+school (e.g., Juvonen et al., 2006). For example, are youth more likely to be victimized
+in schools where they were the minority, or the majority?
+Percent same ethnicity. Overall, research suggests that ethnic representation within
+context may be as or more important than ethnicity itself in predicting victimization
+risk and its effects. For example, Hanish and Guerra (2000a) found that victimization
+risk was related to ethnicity and school context, in that the diversity (measured as
+percent same-ethnicity at the individual-level) of the school had a differential influence
+by ethnicity. For African American, White, and Latino students, they calculated the
+percent of same ethnicity peers at each of 14 schools. School context moderated the
+victimization rates for White and African American students, but did not affect the low
+victimization rates of Latino students. For White children, attending ethnically
+integrated schools increased their victimization rates, whereas for African American
+students it slightly lowered their victimization risk.
+Classroom or school ethnic context. Likewise, Graham and Juvonen (2002) argue that the
+ethnic composition of a setting can signal an imbalance of power, and consequently
+lead to a context for harassment. They suggest that in a diverse school classroom, the
+statistical minority might be more vulnerable to victimization, whereas the statistical
+majority may be more likely to have reputations as perpetrators, rather than victims.
+They had a sample of 418 students (Grades 6 and 7) representing the majority
+ethnic groups of Latino and African American, and the minority ethnic groups of
+White, Persian or Middle Eastern, Asian or Pacific Islander, and Other (mainly
+biracial students). They found that more students from the numerical minority ethnic
+groups in the classrooms had reputations as victims, and the numerical majority ethnic
+groups had more students with reputations as aggressors. Knowing that victimization
+risk by ethnicity varied by how ethnically integrated the school context was
+862  Journal of Community Psychology, September 2011
+Journal of Community Psychology DOI: 10.1002/jcop
+underscores the need for more research examining the nested nature of student
+victimization data.
+It remains to be seen if the overall ethnic diversity of a context creates an
+atmosphere that discourages ethnic harassment. On one hand, Juvonen, Nishina, and
+Graham (2006) found that greater ethnic diversity in the classroom was associated with
+lower levels of perceived victimization, less loneliness, and greater perceptions of
+school safety. However, in a study of peer racial discrimination in the Netherlands,
+Verkuyten and Thijs (2002) did not find that diversity of the classroom or the
+percentage of Dutch pupils compared with ethnic minority children influenced rates
+of racial discrimination.
+Ethnic minority children were still more likely to report experiencing racist namecalling
+and social exclusion because of their ethnic background than Dutch children.
+It was being in a classroom environment where teachers reacted to ethnic harassment
+that reduced victimization. In our study, we explore variables that indicate peer
+victimization in general (i.e., physical, verbal, and sexual harassment) as well as include a
+variable representing possible ethnic discrimination (harassed or bullied because of race/
+ethnicity). This allows us to ascertain how each may be influenced by ethnic context.
+Current Study
+Prior research demonstrates that the relation between ethnicity, ethnic context, and
+victimization is complex and that more research with larger sample sizes and a greater
+number of schools is needed to help elucidate trends. Whereas prior studies used
+middle or elementary school samples, our study extends the inquiry to students in
+high school. This study also uses self-report instead of peer nomination methods of
+assessing victimization, has a larger sample of schools, has a more detailed measure of
+peer victimization than some prior research (e.g., Hanish & Guerra, 2000a), and can
+include under-represented ethnic groups, such as Native American and Asian
+American students. We used hierarchical linear modeling (HLM) to address the
+individual (gender, ethnicity, percent same ethnicity at the school) and school level
+(diversity, mean perception of school safety, and mean perception that victimization is
+because of race or ethnicity) factors that affect victimization. Perception of school safety
+is included because it is a correlate of peer victimization (Felix et al., 2009) and an
+indicator of the atmosphere of the school. We examine this for total victimization as
+well as the specific subtypes of physical, verbal, and sexual harassment victimization to
+determine if patterns are consistent across victimization subtypes. This will allow for
+greater understanding of how school ethnic context influences risk for various forms
+of peer victimization.
+First, we explore general trends in peer victimization by student demographic
+characteristics to better understand our sample. Then, we hypothesize that having
+more same ethnicity peers would reduce student victimization risk. This is based on
+some support from prior research (e.g., Graham & Juvonen, 2002) and from the
+theoretical argument that victimization is possibly greatest when children are in the
+ethnic group with least representation at school, which has guided past studies (e.g.,
+Graham & Juvonen; Hanish & Guerra, 2000a). Second, we examine the school context
+factors that influence victimization risk. We focus on the school characteristics that may
+be responsible for variation in victimization among schools, such as the school’s level of
+diversity, overall perception of school safety, and mean of students’ perception that
+they are targeted for harassment or bullying because of their race/ethnicity. These
+Victimization and Ethnic Context  863
+Journal of Community Psychology DOI: 10.1002/jcop
+three variables were chosen because they indicate something about the overall
+atmosphere of a given school. We hypothesized that greater school level diversity and
+safety would be related to lower levels of victimization across the different types
+assessed. For diversity, although the research base does not provide clear direction,
+this is based on the ideas that greater diversity may represent a balance of power
+between ethnic groups. If an ethnic group is a very small percentage of the student
+population (i.e., less than 10%), they may be at greater risk of victimization because of
+lack of power and more limited opportunity for intergroup contact that leads to crossethnic
+friendship (at least for the majority group). We also expected that less school
+level harassment or bullying based on race or ethnicity (a possible indicator of ethnic
+discrimination) would be related to less victimization.
+METHOD
+Participants
+We used the 2004–2005 academic year CHKS data sample. The original 2004–2005
+CHKS dataset represents approximately 94% of California’s schools with enrollment
+for Grades 7, 9, and 11, including students at nontraditional, alternative, and
+continuation schools. To be included in the survey, schools had to obtain consent from
+at least 65% of their students; districts varied on the use of active or passive consent
+procedures. Only students who passed validity criteria (99%) were retained. Students
+were excluded for inconsistent patterns of responding, implausible reports of drug
+use, the endorsement of a fictitious drug, or failure to assent to having answered
+survey questions honestly. We selected the Grade 9 and Grade 11 students to examine
+high school students’ victimization. We focus on high school students only, because this
+age group has not been addressed in prior research. This CHKS sample is different
+from our prior research with the CHKS (e.g., Felix et al., 2009), in that it uses data
+collected in a different year and uses only high school students. We also explore the
+role of ethnicity in greater detail than in our prior work.
+Sample
+The sample included 161,838 eligible Grade 9 and Grade 11 students attending
+528 schools. There were slightly more females (52.6%) than males (47.4%). The ethnic
+groups represented include Native American (1.2%), Asian/Pacific Islander (7.5%),
+African American (4.5%), Hispanic (38.1%), White (30.5%), and Other (18.2%).
+Measures
+The CHKS is a set of modules developed by WestEd’s Human Development Program
+in collaboration with Duerr Evaluation Resources for the California Department of
+Education California. The CHKS collects ongoing youth health and risk behavior data
+as part of the No Child Left Behind Act. Items for the measures were taken from the
+Youth Risk Behavior Survey (Centers for Disease Control and Prevention) and the
+California Student Survey (WestEd). In California, the CHKS is mandated statewide
+and is administered biannually at each school that receives public funding. The CHKS
+was carefully developed having undergone more than 10 years of rigorous
+development and review by a standing panel of independent experts.
+864  Journal of Community Psychology, September 2011
+Journal of Community Psychology DOI: 10.1002/jcop
+Student-Level Variables
+Demographics. The demographic characteristics of sex, grade, and ethnicity were
+included in the hierarchical model predicting victimization.
+Victimization. A list of the victimization items used in this study to create the total
+victimization score is provided in Table 1. Items specify that the victimization occurred
+on school property and response options ranged from 1–4 were ‘‘0 times,’’ ‘‘1 time,’’ ‘‘2
+to 3 times,’’ and ‘‘4 or more times.’’ The item on ‘‘been afraid of being beaten up at
+school’’ is not behavioral like the other forms of victimization, but reflects exposure
+victimization, which also can negatively affect student well-being. For physical
+victimization, we summed the following items: ‘‘been pushed, shoved, slapped, hit,
+kicked, etc’’, ‘‘been afraid of being beaten up,’’ and ‘‘been threatened with a weapon.’’
+For sexual harassment, we used the item assessing experiencing ‘‘unwanted sexual jokes,
+comments or gestures.’’ For verbal victimization, we summed the items of ‘‘had rumors
+or lies spread about you’’ and ‘‘been made fun of because of the way you look or talk.’’
+We use total, physical, sexual harassment, and verbal victimization at the individual
+level. For HLM, the scores were continuous variables, whereas for Table 1 only they
+were dichotomized for descriptive purposes.
+Percent same ethnicity. For each student, we identified the number of other students
+who shared same ethnicity and divided that number by the total number of students in
+the school.
+School level Variables
+Perceptions of victimization because of race/ethnicity. For this item, participants were
+presented a definition of bullying, which specifically stated it is not bullying when
+students of about the same strength quarrel or fight. Students were then asked,
+‘‘During the past 12 months, how many times on school property were you harassed or
+bullied for any of the following reasons?’’ Reasons included race/ethnicity as well as
+other demographic characteristics. We used only the item related to race/ethnicity in
+this study and it has the same response scale as the victimization items. We use the
+mean level of perceived victimization because of race/ethnicity at the school level.
+School safety. This was assessed with the item ‘‘How safe do you feel when you are at
+school?’’ Response options ranged on a 5-point scale, from 1 (very safe) to 5 (very
+unsafe). We took the mean level of this at the school level.
+School diversity. This was computed using the following formula (Simpson, 1949):
+DC ¼ 1 X
+g
+i¼1
+p2
+i ;
+where DC is the ethnic diversity of a given school and p is the proportion of students in
+the school who are in ethnic group i. Then, p2
+i is summed across g groups in a school.
+Referred to as Simpson’s index of diversity, this index measures the probability that
+Victimization and Ethnic Context  865
+Journal of Community Psychology DOI: 10.1002/jcop
+Table 1. Victimization Rates by Demographic Group
+Total Gender Grade Ethnicity
+In the past 12 months,
+have youy
+Total
+N 5 161,838
+Male
+N 5 76,003
+Female
+N 5 85,835
+9th
+N 5 91,627
+11th
+N 5 70,211
+Asian/Pacific
+N 5 12,492
+Native Amer.
+N 5 1,820
+African Amer.
+N 5 7,043
+Hispanic
+N 5 60,717
+White
+N 5 50,107
+Been pushed, shoved,
+slapped, hit, or
+kicked
+30.3% 36.8% 24.6% 34.7% 24.6% 26.0% 39.9% 29.7% 29.8% 30.1%
+Been afraid of being
+beaten up at school
+20.4% 19.6% 21.0% 23.7% 16.0% 18.7% 24.3% 17.2% 20.7% 20.2%
+Had rumors or lies
+spread about you
+43.6% 35.8% 50.3% 44.4% 42.5% 36.6% 46.4% 45.3% 41.6% 45.2%
+Had unwanted sexual
+jokes, comments,
+or gestures made to
+you
+50.9% 42.0% 58.6% 50.1% 51.9% 40.6% 49.7% 54.5% 46.4% 55.2%
+Been made fun of
+because of the way
+you look/talk
+38.4% 37.0% 39.5% 39.7% 36.6% 38.9% 38.3% 42.2% 35.5% 39.4%
+Had property stolen
+or damaged
+28.9% 31.6% 26.5% 29.9% 27.5% 28.2% 34.6% 32.7% 25.4% 30.6%
+Been threatened or
+injured with a
+weapon
+8.6% 12.2% 5.5% 9.7% 7.3% 6.3% 15.6% 13.4% 8.7% 7.2%
+866
+ Journal of Community Psychology, September 2011
+Journal of Community Psychology DOI: 10.1002/jcop
+any two students randomly selected in a school are from different ethnic groups. It
+ranges from 0 to 1.00, with values closer to 1.00 indicating greater diversity.
+Analysis
+We developed two-level HLMs to test our hypotheses concerning both individual-level
+and school-level predictors. HLM allows for modeling the hierarchical relationships
+(i.e., the nesting of students within schools). This analysis strategy helps us avoid
+problems including underestimating standard errors that are smaller than they should
+be. First, we tested the null model, which contained only the outcome variable of
+victimization without any individual-level or school-level explanatory variables. The
+null model is useful to examine the proportion of variance in the outcome variables
+arising from different levels (i.e., student level and school level) by partitioning the
+outcome variance among the nested units. To explain the variation at the student level,
+we considered various individual characteristics such as ethnicity, gender, and percent
+same ethnicity within the school. Next, we developed the level two (school level)
+model. We expanded on the second step by adding school level factors (diversity, mean
+perception of school safety, and mean perception that victimization is because of race
+or ethnicity) to the level two model to explain the variance associated with school
+context. Finally, significant coefficients associated with student’s ethnicity were
+modeled by percent same ethnicity at the school level.
+RESULTS
+Demographic Trends in Victimization
+Preliminary analysis of demographic trends was conducted to provide context for
+subsequent analysis and interpretation of results. Descriptive statistics are provided in
+Table 1. For this table only, we dichotomized the various victimization experiences (no
+victimization versus any victimization) to represent ever having been victimized in that
+way during the past 12 months and ran frequencies across grade, sex, and ethnicity.
+Given the large sample size, there is the problem of all measures of association being
+statistically significant, therefore, as with our prior research (e.g., Felix et al., 2009), we
+interpret only differences that were also at least five percentage points. In our high
+school sample, physical victimization decreased with grade, however other forms of
+victimization remained similar. Native Americans had higher rates of physical
+victimization than all other ethnicities. They also had higher rates of property being
+stolen and having been threatened or injured with a weapon than most other ethnic
+groups, except African American students, who had the second highest ranking on
+these variables. Asian/ Pacific Islander students had the lower rates of sexual
+harassment than all other ethnicities. Hispanic students were lower on sexual
+harassment victimization than White or African American students.
+Means, standard deviations, and ranges for all variables used in this study are
+presented in Table 2. The means for each type of victimization are on the low end,
+indicating there are many students who reported no or infrequent victimization, which
+is consistent with much of peer victimization research and our past research using the
+CHKS. Differences in means were examined by ethnicity, with only po.01 considered
+significant because of the large sample size (see Table 2). Demographic trends were
+Victimization and Ethnic Context  867
+Journal of Community Psychology DOI: 10.1002/jcop
+generally consistent with the results from Table 1. The means for school level diversity
+were consistent with prior research (Bellmore et al., 2004; Juvonen et al., 2006).
+The means for percent same ethnicity were a little different than those found by
+Hanish and Guerra (2000a), but it is understandable given that our sample is from a
+different region in the United States. The distribution of scores on percent same
+ethnicity ranged from 0 to 100, such that any particular ethnic group comprised
+between 0% and 100% of the school populations. Ranges by ethnicity were 0% for
+Native Americans, 0%–83% (mean [M] 5 24.96%, standard deviation [SD] 5 21.60%)
+for Asian Americans, 0%–87% (M 5 11.25%, SD 5 9.65%) for African Americans,
+0%–95% (M 5 52.54%, SD 5 20.89%) for Whites, and 2%–100% (M 5 63.37%,
+SD 5 24.22%) for Hispanics.
+We conducted HLM to assess individual and school predictors of victimization
+experience by ethnicity and ethnic context of the school. First, a null model was applied
+to the data. This null model allowed us to partition the total variance in overall
+victimization into within-school and between-school variances. Most of the variability lay
+within school among students (97%). Yet the chi-square test statistic of between-school
+variability revealed that statistically significant variability existed between schools in
+students’ average victimization scores. Therefore, even though the intra-class correlation
+(3%) was not high, we proceeded with the HLM at both student and school levels to
+adequately account for aspects of school context. The HLM accounted for 48.5–50% of
+the between-school variance in total victimization and subtypes of victimization.
+Table 2. Means and Standard Deviations of Study Variables
+Parameter Mean SD Range
+Student-level variables
+Victimization (overall score) (range 1–4) 1.58 .58 1–4
+Physical victimization (range 1–4) 1.33 .53 1–4
+Native Americana 1.50 .62 1–4
+Asian/Pacifica 1.32 .50 1–4
+African Americana 1.39 .55 1–4
+Hispanica 1.33 .48 1–4
+Whiteb 1.35 .50 1–4
+Verbal victimization (range 1–4) 1.76 .89 1–4
+Native American 1.79 .92 1–4
+Asian/Pacifica 1.69 .87 1–4
+African Americana 1.85 .92 1–4
+Hispanica 1.69 .83 1–4
+Whiteb 1.80 .90 1–4
+Sexual harassment (range 1–4) 2.12 1.25 1–4
+Native Americana 2.09 1.25 1–4
+Asian/Pacifica 1.86 1.16 1–4
+African American 2.25 1.29 1–4
+Hispanica 1.97 1.19 1–4
+Whiteb 2.25 1.28 1–4
+Percent same ethnicity (range 0–1) .42 .31 0–1
+School level variables
+Diversity (range 0–1) .51 .16 .03–.93
+School safety (range 0–5) 3.60 .25 2.75–4.83
+Mean perception of being targeted due to race (range 1–4) 1.31 .11 1–4
+Note: SD 5 standard deviation. a and b Mean differences at po.01.
+868  Journal of Community Psychology, September 2011
+Journal of Community Psychology DOI: 10.1002/jcop
+Results of HLMs on total and subtypes of victimization score are shown in Table 3.
+The effect sizes are also provided for comparing the relative influence of different
+predictors from student and school level. According to Cohen’s (1988) guidelines,
+effect sizes of 0.1 and 0.2, between 0.2 and 0.5, and 0.5 or more are defined as small,
+medium, and large, respectively.
+Gender and ethnicity factors showed relatively small to large effects on the
+students’ victimization experiences. Boys reported lower rates of total, verbal, and
+sexual harassment victimization than did girls, but had higher rates of physical
+victimization. Asian Pacific Islanders were less victimized compared with their White
+peers across victimization types, but especially for sexual harassment. Hispanic
+students were also lower, with the exception of physical victimization, where there was
+no difference. The effect size was medium for sexual harassment for Hispanic
+students, which was the largest for them across victimization types. Native American
+students experienced more physical victimization compared with their White peers,
+but had lower rates of verbal and sexual harassment victimization.
+Percent Same Ethnicity and Victimization Risk
+As seen in Table 3, effect sizes (ranged from .12 to .21) indicated that there were
+significant, but relatively small effects of percent same ethnicity in the school on
+adolescents’ peer victimization experience. When more peers shared their ethnicity,
+students were less victimized.
+School Context and Victimization Risk
+The effects of school level predictors on peer victimization are shown in the bottom of
+Table 3. Mean perception of being targeted for bullying because of race or ethnicity
+was the strongest predictor of student total victimization risk. Specifically, it had large
+effects on total victimization (effect size [ES] 5 .66), sexual harassment (ES 5 .70), and
+Table 3. Multilevel Analyses Results for Ninth and Eleventh Graders’ Victimization for Total Score
+and Subtypes
+Total score Physical Verbal Sexual
+Parameter b (SE) Effect b (SE) Effect b (SE) Effect b (SE) Effect
+Effects of student characteristics
+Sex (male 5 1) .04 (.01) .07 .13 (.01) .23 .15 (.01) .26 .39 (.01) .68
+Native American .03 (.04) .01 .11 (.03) .19 -.09 (.04) .16 .18 (.04) .31
+Asian Pacific Islander .12 (.02) .21 .05 (.01) .09 .13 (.02) .23 .44 (.02) .77
+African American .03 (.02) .05 .02 (.02) .03 .02 (.02) .03 .07 (.02) .12
+Hispanic .07 (.01) .12 .01 (.01) .02 .10 (.01) .17 .26 (.01) .45
+Percent same ethnicity .09 (.01) .16 .07 (.01) .12 .10 (.02) .17 .12 (.02) .21
+Effects of school characteristics on the intercept
+Diversity .14 (.03) .24 .10 (.02) .17 .26 (.05) .45 .09 (.08) .16
+School safety .03 (.02) .05 .10 (.01) .17 .06 (.03) .11 .04 (.04) .07
+Mean perception of
+being targeted due
+to race
+.38 (.05) .66 .21 (.05) .37 .47 (.09) .82 .40 (.11) .70
+Note. SE 5 size effect. po.05.
+Victimization and Ethnic Context  869
+Journal of Community Psychology DOI: 10.1002/jcop
+verbal victimization (ES 5 .82). We subsequently explored different ethnic groups’
+perceptions of being harassed or bullied because of race or ethnicity. A one-way
+between groups analysis of variance was conducted to explore the impact of ethnicity
+on perceived victimization because of race/ethnicity. There was a statistically significant
+difference at the po.05 level, F(4,128,902) 5 382.37, in perceived victimization
+because of race/ethnicity for the five ethnic groups. Asian Pacific Islanders
+(M 5 1.49, SD 5 .93) had highest scores among five ethnic groups, followed by African
+American students (M 5 1.44, SD 5 .91). Native American, Hispanic, and White
+students reported significantly less victimization because of race/ethnicity than Asian
+Pacific Islanders and African American students.
+Interestingly, for sexual harassment victimization, neither the level of diversity at
+the school nor the perceptions of school safety affected risk for being sexually
+harassed. School diversity decreased risk of victimization for total, physical, and verbal
+victimization (ES 5 .17 to .45, practically small to medium effects). There was not a
+relation between school diversity and sexual harassment. Mean perception of school
+safety negatively affected the risk of physical victimization.
+DISCUSSION
+Within the school context, youth learn from their peers, teachers, and other adults
+about acceptable behavior, how to handle conflict, ways to assert, manage, or limit
+power and control within relationships, and appropriate social behavior. At times, this
+behavior can be influenced by an ‘‘in-group bias’’ (Brewer, 1979), where preference is
+for peers similar to oneself. As peer victimization is a problem within every school, it is
+something that students and the adults in their lives learn to avoid, resolve, or endure.
+Sometimes, peer victimization, such as teasing, is used as social control to shape a
+person’s behavior into what is considered the social norm, such as the sexual
+harassment of boys not perceived as masculine enough by their male peers (McMaster,
+Connolly, Pepler, & Craig, 2002). However, peer victimization can also target individual
+characteristics that are unchangeable, such as race/ethnicity, and can reflect negative
+societal attitudes about a particular group, which can also be a result of in-group bias
+(Brewer). Victimization targeting unchangeable personal characteristics arguably can
+increase risk of feeling helpless or hopeless, or lower self-esteem (Verkuyten & Thijs,
+2006), perhaps because of self-blaming attributions (Bellmore et al., 2004).
+This study focused on risk of peer victimization by ethnicity within the ethnic
+context of the school. We used hierarchical linear modeling to address the student
+(gender, ethnicity, percent same ethnicity at the school) and school level (diversity,
+mean perception of school safety, and mean perception that victimization is because of
+race or ethnicity) factors that affect victimization. We examined this for total
+victimization as well as the specific subtypes of physical, verbal, and sexual harassment
+victimization to determine if patterns are consistent across victimization subtypes. Our
+study yielded results that further illuminate how ethnicity and school context influence
+victimization risk.
+Demographic Trends in Victimization
+Victimization rates were examined by grade, gender, and ethnicity in Table 1. In our
+high school sample, physical victimization tended to decrease with age, which is
+consistent with school bullying research (Olweus, 1994). As expected based on prior
+870  Journal of Community Psychology, September 2011
+Journal of Community Psychology DOI: 10.1002/jcop
+research (American Association of University Women [AAUW], 2001), sexual
+harassment victimization was the most common form of victimization in this older
+sample of youth. Our other gender-related findings also support extant research (e.g.,
+Olweus; AAUW, 2001), including that female students reported higher rates of verbal
+and sexual harassment victimization and males had higher physical victimization.
+In terms of ethnicity, when examining simple frequencies, we found that Native
+American students had higher rates of physical victimization than all other ethnicities.
+They also were more likely to have property stolen or been threatened or injured with
+a weapon than all other groups, except African Americans, who were second highest.
+One possible explanation is that Native Americans are often a numerical minority at
+schools, which may increase victimization risk. Likewise, outside of the major urban
+centers of California, African American students are also often a minority in schools.
+Also, in the United States, African American and Native Americans have historically
+experienced more systematic, widespread societal oppression and racism than other
+ethnic groups (not to say that other ethnic groups have not also experienced
+prejudice). This may still be manifested in terms of more frequent prejudice and
+stereotyping that can increase risk of victimization.
+When rates of victimization by ethnicity were explored collectively using HLM,
+small to large effects were found. With Whites as the comparison group, Asian/Pacific
+Islander students reported significant lower rates of victimization than White students
+across the total and different subtypes of victimization assessed, especially for sexual
+harassment. Hispanic students also showed significantly lower rates than White students,
+with the exception of physical victimization, in which there was no difference. Among
+elementary school students, Hanish and Guerra (2000a) also found that Hispanic
+students reported significantly less victimization than White students. In the Hanish and
+Guerra (2000a) study, as with much of prior research, Asian/Pacific Islander students
+were not studied separately because of small sample size, thus our findings on their low
+victimization rates fill a gap in the research. In our study, Asian/Pacific Islander and
+African American students were significantly more likely than the other ethnicities to
+report that they perceived they were harassed or bullied because of their race/ethnicity.
+Another understudied group of youth were those who identify as Native
+American. With Whites as the comparison group, Native American students show
+significantly higher physical victimization risk, which was consistent with prior
+research (Stevens et al., 2005). However, they had lower verbal and sexual harassment
+victimization. As research on peer victimization among Native Americans is scant,
+there is not empirical guidance as to why their victimization was higher for physical,
+but not verbal subtypes. This is an area for future research.
+Percent Same Ethnicity and Victimization Risk
+Given disproportionately high rates of victimization for some groups of students, it was
+important to understand what contextual factors reduce risk. Having a greater
+number of students of the same ethnicity reduced victimization, across all types
+assessed. Graham and Juvonen (2002) point out that this increases the ethnic group’s
+power (in the numerical sense) at the school, which can reduce victimization.
+Verkuyten and Thijs (2002) argue that measuring ethnic composition of a classroom or
+school matters because the percent of same ethnicity peers may determine experience
+and attitudes. Specifically, they suggested that the greater the proportion of same
+ethnicity peers, the more the child was protected from prejudice and discrimination;
+Victimization and Ethnic Context  871
+Journal of Community Psychology DOI: 10.1002/jcop
+whereas when it was lower, discrimination may increase and there may be less social
+support to help a student cope.
+School Context and Victimization Risk
+Prior research has shown that ethnic representation within the school context matters
+when examining victimization risk and the mental health consequences of victimization
+(Graham & Juvonen, 2002). Our model of the school context included mean
+school safety, diversity, and perceiving that you were targeted because of your race/
+ethnicity. Our study explored factors related to victimization risk at the individual and
+school level. Consistent with prior research on a younger sample (Hanish & Guerra,
+2000a), we found that among high school students victimization risk was related to
+ethnicity and school context. Most variation was found at the student, not school, level.
+This finding is consistent with prior work that found that most of the variability lay
+between individuals when it comes to students’ nonacademic behavioral experiences
+(Ma, 2003; You, 2005). This supports the use of interventions targeted at students,
+such as much of the content of current violence prevention, conflict resolution, or
+other social-emotional prevention curriculum.
+Diversity. We found that greater diversity decreased victimization risk overall and across
+most subtypes. The exception was sexual harassment. Diversity may decrease peer
+victimization through its ability to reduce in-group bias and prejudice, which may be
+one cause of some forms of peer victimization. Intergroup contact theory (Allport,
+1954; Pettigrew, 1998) has been used to explain how contact between different racial
+or ethnic groups can reduce prejudice. Allport described four conditions for the
+intergroup contact to be beneficial in reducing prejudice: equal group status within the
+situation, common goals, intergroup cooperation, and authority support. Friendship
+between members of different ethnic groups can lead to all four conditions being met.
+At schools with greater diversity, there is increased probability of intergroup contact
+(Pettigrew & Tropp, 2006), which increases the chance of cross-ethnic friendships. This
+may lead to changes in stereotypes and behaviors (Pettigrew), which can reduce crossethnic
+peer victimization or ethnic discrimination.
+Victimization because of race/ethnicity. Prior research suggested that when students
+perceived they were being victimized by peers because of their race/ethnicity, they tended
+to interpret this as discrimination (Verkuyten, Kinket & Van der Wielen, 1997). Among
+the school level variables included in this study, we found that mean perception of being
+targeted for bullying because of race or ethnicity was the strongest predictor of student
+total victimization risk, and each subtype of victimization. It had large effect sizes for verbal
+(ES 5 .82) and sexual harassment (ES 5 .70) victimization, and medium for physical
+victimization (ES 5 .37). It is likely that it is more apparent that an action is because of the
+race/ethnicity of the recipient for verbal types of aggression. Verkuyten and Thijs (2002)
+contend that children are more likely to say they have seen their same-ethnicity peers
+targeted for racist name-calling and social exclusion than to have experienced it
+themselves. Thus, it may affect school climate. It is important to note that they also found
+that in classrooms where children saw teachers discipline ethnic harassment there was less
+harassment or bullying because of race.
+Perception of school safety. The overall perception of school safety at different school sites
+may be another contextual factor associated with victimization risk. Our results indicated
+872  Journal of Community Psychology, September 2011
+Journal of Community Psychology DOI: 10.1002/jcop
+that overall school safety affected risk of physical victimization. However, verbal
+victimization was unrelated to overall school safety. It could be because of the questions
+asked, ‘‘had rumors or lies spread about you’’ and ‘‘been made fun of because of the way
+you look or talk,’’ which can often occur between friends. Students may greatly dislike
+experiencing these behaviors, and may avoid school or people because of embarrassment,
+but they may not necessarily experience fear. Verbal victimization affects the
+quality of the school environment, but by itself may not lead to feeling unsafe.
+Strengths and Limitations
+Prior research has examined victimization risk within the ethnic context of the school,
+but a strength of this study was extending the inquiry to high school youth. This study
+also benefited from a large group of students and schools to help with generalizability of
+our findings. Because of the large sample size, this study was able to fill in gaps in
+peer victimization research on Native American and Asian/Pacific Islander students.
+We used HLM, which accounted for variance at the student and school level, and this
+strengthened our findings. Finally, this study assessed the model across different types
+of victimization, whereas previous research tended to look at overall victimization.
+One limitation was that this study was solely self-report, and students can vary in
+their propensity to believe they were victimized because of their race/ethnicity or
+whether behaviors were unwanted and hurtful. In addition, although intergroup
+contact theory may explain why school diversity can reduce victimization risk, the
+CHKS survey does not directly assess the components of the theory, such as equal
+status within groups and cross-ethnic contact and friendships. Finally, this study was
+cross-sectional, so direction of causality cannot be determined.
+Conclusion
+Overall, we found support that the ethnic context matters when looking at
+victimization risk. Most of the variation in victimization risk can be explained at the
+student level. At the student level, having more same ethnicity peers reduced
+victimization risk. At the school level, diversity and mean perception of being targeted
+for bullying because of race or ethnicity were related to most victimization types.
+However, like at the student level, diversity was a factor in reducing risk for many
+forms of victimization at the school level. School diversity can increase probability of
+cross-ethnic friendships that can reduce prejudice and stereotyping (Pettigrew &
+Tropp, 2006). Regardless of the balance of power between ethnic groups within a
+given school, students benefit from an environment where teachers and staff actively
+address peer victimization and harassment in all its forms (Olweus, 1994; Verkuyten &
+Thijs, 2002). This will lead to safer schools for all students.
+REFERENCES
+Aboud, F.E. (2003). The formation of in-group favoritism and out-group prejudice in young
+children: Are they distinct attitudes? Developmental Psychology 29, 48–60. DOI: 10.1037/
+0012-1649.39.1.48.
+Allport, G.W. (1954). The nature of prejudice. Reading, MA: Addison-Wesley.
+American Association of University Women. (2001). Hostile hallways: Bullying, teasing, and
+sexual harassment in school. Washington, DC: Author.
+Victimization and Ethnic Context  873
+Journal of Community Psychology DOI: 10.1002/jcop
+Baker, R.L., Mednick, B.R., & Carothers, L. (1989). Association of age, gender, and ethnicity
+with juvenille victimization in and out of school. Youth and Society, 20, 320–341. DOI:
+10.1177/0044118X89020003006.
+Bellmore, A.D., Witkow, M.R., Graham, S., & Juvonen, J. (2004). Beyond the individual: The
+impact of ethnic context and classroom behavioral norms on victims’ adjustment.
+Developmental Psychology, 40, 1159–1172. DOI: 10.1037/00121649.40.6.1159.
+Brewer, M.B. (1979). In-group bias in the minimal intergroup situation: A cognitive-motivational
+analysis. Psychological Bulletin, 86, 307–324. DOI: 10.1037/0033-2909.86.2.307.
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences. Hillsdale, NJ: Erlbaum.
+Doyle, A.B., & Aboud, F.E. (1995). A longitudinal study of White children’s racial prejudice as a
+social cognitive development. Merrill-Palmer Quarterly, 41, 210–229.
+Felix, E.D., Furlong, M.J., & Austin, G. (2009). A cluster analytic investigation of school violence
+among diverse students. Journal of Interpersonal Violence, 24, 1673–1695. DOI: 10.1177/
+0886260509331507.
+Finkelhor, D., Ormrod, R., Turner, H., & Hamby, S.L. (2005). The victimization of children and
+youth: A comprehensive, national survey. Child Maltreatment, 10, 5–25. DOI: 10.1177/
+1077559504271287.
+Graham, S., & Juvonen, J. (2002). Ethnicity, peer harassment, and adjustment in middle
+school: An exploratory study. Journal of Early Adolescence, 22, 173–199. DOI: 10.1177/
+0272431602022002003.
+Hanish, L.D., & Guerra, N.G. (2000a). The roles of ethnicity and school context in predicting
+children’s victimization by peers. American Journal of Community Psychology, 28, 201–223.
+DOI: 10.1023/A:1005187201519.
+Hanish, L.D., & Guerra, N.G. (2000b). Predictors of peer victimization among urban youth.
+Social Development, 9, 521–543. DOI: 10.1111/1467-9507.00141.
+Juvonen, J., Nishina, A., & Graham, S. (2006). Ethnic diversity and perceptions of safety
+in urban middle schools. Psychological Science, 17, 393–400. DOI: 10.1111/j.14679280.
+2006.01718.x.
+Ma, X. (2003). Sense of belonging to school: Can schools make a difference? Journal of
+Educational Research, 96, 340–349. DOI: 10.1080/00220670309596617.
+McGlothlin, H., & Killen, M. (2006). Intergroup attitudes of European American children
+attending ethnically homogenous schools. Child Development, 77, 1375–1386. DOI:
+10.1111/j.1467-8624.2006.00941.x.
+McMaster, L.E., Connolly, J., Pepler, D., & Craig, W.M. (2002). Peer to peer sexual harassment in
+early adolescence: A developmental perspective. Development and Psychopathology, 14,
+91–105. DOI: 10.1017/S0954579402001050.
+Olweus, D. (1994). Annotation: Bullying at school: Basic facts and effects of a school-based
+intervention program. Journal of Child Psychology and Psychiatry, 35, 1171–1190. DOI:
+10.1111/j.1469-7610.1994.tb01229.x.
+Pettigrew, T.F. (1998). Intergroup contact theory. Annual Review of Psychology, 49, 65–85. DOI:
+10.1146/annurev.psych.49.1.65.
+Pettigrew, T.F., & Tropp, L.R. (2006). A meta-analytic test of intergroup contact theory. Journal
+of Personality and Social Psychology, 90, 751–783. DOI: 10.1037/0022-3514.90.5.751.
+Scherr, T.G., & Larson, J. (2010). Bullying dynamics associated with race, ethnicity, and
+immigration status. In S.R. Jimerson, S.M. Swearer, & D.L. Espelage (Eds.), The
+international handbook of school bullying (pp. 223–234). New York: Routledge.
+Simpson, E.H. (1949). Measurement of diversity. Nature, 163, 688.
+Spriggs, A.L., Iannotti, R.J., Nansel, T.R., & Haynie, D.L. (2007). Adolescent bullying
+involvement and perceived family, peer, and school relations: Commonalities and
+874  Journal of Community Psychology, September 2011
+Journal of Community Psychology DOI: 10.1002/jcop
+differences across race/ethnicity. Journal of Adolescent Health, 41, 283–293. DOI: 10.1016/
+j.jadohealth.2007.04.009.
+Stevens, T.N., Ruggiero, K.J., Kilpatrick, D.G., Resnick, H.S., & Saunders, B.E. (2005). Variables
+differentiating singly and multiply victimized youth: Results from the National Survey of
+Adolescents and implications for secondary prevention. Child Maltreatment, 10, 211–223.
+DOI: 10.1177/1077559505274675.
+Verkuyten, M., Kinket, B., & Van der Wielen, C. (1997). The understanding of ethnic
+discrimination among preadolescents. The Journal of Genetic Psychology, 158, 97–112.
+DOI: 10.1080/00221329709596655.
+Verkuyten, M., & Thijs, J. (2006). Ethnic discrimination and global self-worth in early
+adolescents: The mediating role of self-esteem. International Journal of Behavioral
+Development, 30, 107–116. DOI: 10.1177/0165025406063573.
+Verkuyten, M., & Thijs, J. (2002). Racist victimization among children in The Netherlands: The
+effect of ethnic group and school. Ethnic and Racial Studies, 25, 310–331. DOI: 10.1080/
+01419870120109502.
+You, S. (2005). Identifying significant factors related to adolescents’ academic engagement using
+multilevel latent growth curve modeling (Unpublished doctoral dissertation). University of
+California, Santa Barbara.
+Victimization and Ethnic Context  875
+Journal of Community Psychology DOI: 10.1002/jcop
+Copyright of Journal of Community Psychology is the property of John Wiley & Sons, Inc. and its content may
+not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written
+permission. However, users may print, download, or email articles for individual use.

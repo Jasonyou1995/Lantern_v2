@@ -1,0 +1,1011 @@
+Examining the Intersection of Bullying and Physical Relationship Violence Among New York City High School Students
+
+
+
+
+Abstract
+Research is just beginning to explore the intersection of bullying and relationship
+violence. The relationship between these forms of youth aggression has yet
+to be examined in diverse urban centers, including New York City (NYC).
+This study seeks to identify intersections of joint victimization from bullying
+and electronic bullying (e-bullying) with physical relationship violence (pRV).
+This study examines data from the NYC Youth Risk Behavior Survey (YRBS),
+a representative sample of NYC public high school students, to assess the
+concurrent victimization from bullying at school and e-bullying with pRV,
+operationalized as physical violence by a dating partner in the past 12 months.
+Students who reported being bullied at school and e-bullied had increased
+odds (bullied: OR = 2.5, 95% CI [2.1, 2.9]; e-bullied: OR = 3.0, 95% CI [2.6,
+3.5]) of also being victimized by pRV compared with those who did not
+report being bullied or e-bullied. In logistic regression models, being bullied
+at school and being e-bullied remained significant predictors of students’ odds
+1Columbia University, New York, NY, USA
+Corresponding Author:
+Zachary J. Peters, Department of Sociomedical Sciences, Mailman School of Public Health,
+Columbia University, 722 W. 168th St. New York, NY 10032, USA.
+Email: zach.peters@me.com
+585532JIVXXX10.1177/0886260515585532Journal of Interpersonal ViolencePeters et al.
+research-article2015
+50 Journal of Interpersonal Violence 32(1)
+of reporting pRV (bullied: AOR = 2.6, 95% CI [2.2, 3.1]; e-bullied: AOR =
+3.0, 95% CI [2.5, 3.6]) while controlling for race, gender, sexual orientation,
+and age. This research is the first to assess the intersection of victimization
+from bullying and e-bullying with pRV in a large, diverse, random sample
+of urban high school students. In this sample, students who report being
+bullied or e-bullied are more likely also to report pRV than students who
+have not been bullied or e-bullied. This research has potential implications for
+educators, adolescent health and social service providers, and policy makers
+to tailor programs and enact policies that jointly address bullying and pRV.
+Future studies are needed to longitudinally assess both victimization from and
+perpetration of bullying and pRV.
+Keywords
+bullying, e-bullying, relationship violence, partner violence, peer victimization,
+dating violence
+Peer aggression in the form of bullying, electronic bullying (e-bullying), and
+physical relationship violence (pRV) continues to plague youth in the United
+States. Studies have consistently shown that more than a quarter of students
+experience involvement in bullying (Nansel et al., 2001; Seals & Young,
+2003; Wang, Iannotti, & Nansel, 2009). Similarly, more than 30% of teenagers
+have experienced physical aggression within a dating relationship, and
+even higher numbers of teenagers have experienced technology-assisted dating
+violence (Stonard, Bowen, Lawrence, & Price, 2014). Research is beginning
+to show that students who have been victimized by one form of peer
+aggression are at higher risk of further victimization from other forms of peer
+aggression. However, this nascent research has yet to investigate the intersection
+of bullying with pRV in diverse settings. This study investigates the relationship
+of bullying and e-bullying with pRV in a large, diverse, urban sample
+of high school students while controlling for important demographic
+covariates.
+Bullying can be defined as any behavior that meets the following three
+criteria: verbal or physical aggression, repeated over time, and involving a
+power differential (Olweus, 1993). Bullying can take on numerous forms
+including verbal bullying (e.g., teasing, name calling, spreading rumors),
+physical bullying (e.g., pushing, hitting, pinching), or relational bullying
+(defined by Crick and Grotpeter, 1995, as “purposeful attempts to harm
+another’s social relationships,” p. 712, such as social exclusion, spreading
+rumors, or manipulating friendships). E-bullying (also called cyberbullying) 
+Peters et al. 51
+refers to aggressive behaviors repeated over time that use technology to exert
+power over another individual (Smith et al., 2008). This includes spreading
+rumors about, teasing, or threatening someone using e-mail, text messages,
+chat rooms, or social media (David-Ferdon & Hertz, 2007). Relationship violence
+refers to the use of physical, emotional, and/or psychological aggression
+by an individual to exert control over a dating partner (Wolfe et al.,
+1996). This article will focus solely on pRV, which is defined by physical
+aggression (e.g., hitting, slapping, pushing, grabbing) within a dating relationship.
+One major distinction exists between bullying/e-bullying and pRV;
+bullies and their victims are not necessarily friends or wanting to become
+friends, whereas pRV occurs between individuals who share a romantic or
+sexual relationship.
+Youth who are bullied, e-bullied, and/or experience pRV are at an increased
+risk for many adverse health and social outcomes, many of which overlap.
+Youth who have been bullied report higher rates of suicidal ideation (Robinson
+& Espelage, 2012), depression (Fitzpatrick, Dulin, & Piko, 2010), and substance
+use (Nansel et al., 2001) than those who have not been bullied.
+E-bullying has a greater association with suicidal ideation than does traditional
+bullying (van Geel, Vedder, & Tanilon, 2014). Similarly, victims of
+pRV also report higher rates of suicidal ideation (Belshaw, Siddique, Tanner,
+& Osho, 2012), depression, substance use (Exner-Cortens, Eckenrode, &
+Rothman, 2013), eating disorders, and smoking (Bonomi, Anderson, Nemeth,
+Rivara, & Buettner, 2013) than those who have not been victimized. Victims
+of bullying, e-bullying, and pRV report more negative attitudes toward school
+and poorer school performance than students without those experiences
+(Banyard & Cross, 2008). Poor school performance can have long-term psychological,
+physical, and economic consequences. Victimization from pRV
+and bullying often begets violence and aggression in the victim. Youth often
+engage in reactive violence to avert victimization to pRV (Lamis, Leenaars,
+Jahn, & Lester, 2013) and perpetrate violence in retaliation to being bullied
+(Swearer, Song, Cary, Eagle, & Mickelson, 2001). The negative health
+behaviors and outcomes of victimization from bullying, e-bullying, and pRV
+are extensive and pervasive. These forms of aggression have immediate
+effects on the mental and physical health of victims, and many of these effects
+persist long after the initial victimization.
+Although pRV can be mutual within dating relationships (Messinger, Fry,
+Rickert, Cattallozzi, & Davidson, 2014; Palmetto, Davidson, Breitbart, &
+Rickert, 2013; Stonard et al., 2014), many instances of bullying, e-bullying,
+and pRV share one important similarity: They are often rooted in the unequal
+distribution of power within a social relationship, where an individual uses
+physical, verbal, and emotional coercion to intimidate another individual. 
+52 Journal of Interpersonal Violence 32(1)
+Researchers have expressed concern that youth who bully to maintain power
+and control among peers may also exhibit these aggressive behaviors in their
+dating relationships (Connolly, Peplar, Craig, & Tarandash, 2000; Fredland,
+2008). In addition, with the increased use of technology to communicate
+among youth, electronic aggression has emerged as a major public health
+concern, both in peer relationships and dating relationships (Stonard et al.,
+2014). Better understanding how these forms of youth aggression intersect
+will help inform policy and programs that protect youth.
+Initial research on the intersection of bullying and pRV has shown significant
+overlap, suggesting that those involved in one form of youth aggression
+are at higher risk of involvement in other forms of aggression. Connolly and
+colleagues (2000) assessed the dating activities of elementary students in a
+Canadian city who had been identified as bullies compared with a cohort of
+fellow students who were not bullies. They found that youth who bullied
+started dating earlier and were more likely to report being physically aggressive
+with a boyfriend or girlfriend than their non-bully peers. Pepler and colleagues
+(2006) assessed the intersection of perpetration of bullying with
+perpetration of sexual harassment and dating aggression among 1,896 students
+in Grades 7 to 12 in a Canadian city. They found significant correlations
+between perpetration of bullying and perpetration of both sexual harassment
+and pRV. Espelage and Holt (2007) were the first to show that victims of bullying
+also reported increased victimization from pRV compared with students
+who had not been bullied. Similar findings emerged in a recent study among
+predominantly White students from rural New York, suburban New Jersey,
+and urban Pennsylvania; Yahner, Dank, Zweig, and Lachman (2015) found
+that students who were bullied were 1.5 times as likely to also be victimized
+by relationship violence. Other researchers have begun to explore the intersection
+of bullying and other forms of youth aggression, including the possible
+pathway(s) leading from bullying to sexual bullying (e.g., sexual
+teasing, unwarranted touching/pinching, indecent exposure, or sexual rumors)
+to pRV (Espelage, Basile, & Hamburger, 2012; Fredland, 2008; Miller et al.,
+2013).
+Most studies that have investigated bullying and pRV focus on middle
+school cohorts in rural and suburban areas in middle America (Espelage &
+Holt, 2007; Robinson & Espelage, 2012). Research has yet to examine the
+intersection of victimization from different forms of bullying with pRV
+among high school students or in large urban areas. Preston (2009) highlights
+numerous characteristics of urban schools that may increase aggressive
+behaviors of students, including racially/ethnically diverse student populations,
+large student-to-teacher ratios, and large immigrant populations.
+Although studies have shown mixed results regarding increased prevalence 
+Peters et al. 53
+of peer victimization in urban compared with rural areas (Hickman, Jaycox,
+& Aronoff, 2004; Marquart, Nannini, Edwards, Stanley, & Wayman, 2007;
+Spencer & Bryant, 2000), youth in urban areas are more likely to experience
+violence of all varieties than students in rural and suburban areas (Ousey,
+2000). The present study will complement the existing literature by studying
+the intersection of bullying and e-bullying with pRV in a representative population-based
+sample of high school students in NYC, a large urban center
+that is unique in its size and socioeconomic diversity.
+Technology has increasingly offered new media for youth who wish to
+victimize their peers, sparking concern among policy makers, practitioners,
+and researchers. Technology offers perpetrators of bullying nearly universal
+access to their victims through social media, text messaging, and other forms
+of online communication. Similarly, dating partners are able to better communicate
+with each other through enhancements in technology, but as with
+e-bullying, dating partners also have new ways to exert control within relationships
+using technology. Recent research has uncovered a notable relationship
+between e-bullying and electronic relationship violence (e-RV) among
+youth. In a sample of 351 young adults, Hoff and Mitchell (2009) found that
+e-bullying often emerged as a result of relationship problems. Further
+research revealed that students who were e-bullied were 2 to 3 times as likely
+to also experience e-RV than those who were not e-bullied (Hinduja &
+Patchin, 2011; Zweig, Dank, Lachman, & Yahner, 2013). However, research
+has yet to investigate whether victims of e-bullying are at greater risk of
+experiencing pRV.
+Theoretical Frameworks
+Numerous theories have been used to help explain victimization from youth
+violence. These theories focus on various levels of influence, ranging from
+the individual to the interpersonal to the social environment. This study will
+draw on the developmental victimization framework, which suggests that
+victims of various forms of aggression share overlapping risk factors
+(Finkelhor & Asdigian, 1996; Finkelhor & Dziuba-Leatherman, 1994). This
+framework posits that once an individual is victimized, he or she begins to
+exhibit personality and behavioral characteristics that put him or her at risk
+for future victimization. Others have invoked attribution theory to explain
+multiple forms of victimization (Graham & Juvonen, 2001); victims of
+aggression may attribute the victimization experience as an internal and
+uncontrollable characteristic. This self-blame may normalize future victimization
+experiences, thereby putting individuals at risk for further
+victimization.
+54 Journal of Interpersonal Violence 32(1)
+Certain demographic groups are at higher risk for stigmatization than others,
+which may put them at higher risk for joint victimization from bullying
+or e-bullying and pRV. According to social stress theory, individuals in stigmatized
+social groups are subjected to added stress due to their minority status
+(Meyer, 2003). Individuals of minority sexual orientations experience
+more external stressful events, often in the form of bullying, than their peers.
+Similarly, racial prejudice and discrimination have been described as a unique
+class of stressors (Williams & Mohammed, 2009) because those in the racial
+majority seek to maintain their socially superior status by degrading racial
+minorities through social and behavioral means. Increased victimization
+from bullying based on stigma and discrimination faced by minority youth
+may increase their likelihood of attributing the experience as self-blame,
+thereby increasing their likelihood for future victimization.
+This study will also investigate whether the relationship between bullying
+or e-bullying and pRV is found in this large population-based sample and
+whether it remains after adjusting for sociodemographic characteristics,
+including sexual orientation, race/ethnicity, age, and gender. These covariates
+have been shown in prior research to be associated with bullying, e-bullying,
+and pRV separately, suggesting potential confounding of the relationship
+between bullying and e-bullying with pRV. However, we are unaware of any
+studies that assess these covariates as potential confounders when assessing
+the intersection of bullying and e-bullying with pRV.
+Sexual orientation plays a notable role in students’ risk of peer victimization.
+The National Youth Risk Behavior Survey (YRBS) from 2001 to 2009,
+which includes 41 states and 21 large urban school districts, has consistently
+shown that lesbian, gay, and bisexual (LGB) youth are at greater risk of victimization
+from bullying than heterosexual youth (Centers for Disease
+Control and Prevention [CDC], 2011). LGB youth are also at greater risk of
+pRV. In a separate survey of more than 5,000 7th to 12th graders in New
+York, Pennsylvania, and New Jersey, LGB youth reported much higher rates
+of victimization from all forms of relationship violence than heterosexual
+youth, including pRV (42% vs. 29%, respectively), psychological dating
+abuse (59% vs. 46%), and cyber dating abuse (37% vs. 25%; Dank, Lachman,
+Zweig, & Yahner, 2014). Zweig and colleagues (2013) highlight the need to
+further examine the overlap of cyberbullying and pRV, especially regarding
+LGB youth.
+Race/ethnicity has also been shown to be associated with pRV. According
+to the 2011 National YRBS, Black and Hispanic students report experiencing
+pRV at higher rates than non-Hispanic White students (CDC, 2012). However,
+racial and ethnic differences in victimization from bullying have been studied
+to a lesser degree, and the few existing studies have produced conflicting 
+Peters et al. 55
+results. In a nationally representative sample of more than 11,000 students in
+Grades 6 to 10, African American students were less likely to be victimized
+by bullying than White and Hispanic students (Spriggs, Iannotti, Nansel, &
+Haynie, 2007). Other studies have shown similar rates of being bullied across
+racial groups (Estell, Farmer, & Cairns, 2007; Graham & Juvonen, 2002),
+and still others have shown higher rates of bullying victimization among
+African American students compared with other racial/ethnic groups, particularly
+in urban settings (Goldweber, Waasdorp, & Bradshaw, 2013).
+Similar to race/ethnicity, research on the role that gender plays in youths’
+risk of peer victimization has produced inconsistent results. A greater number
+of boys report being physically bullied than girls, and more girls report experiencing
+victimization from verbal bullying, relational bullying (Crick &
+Nelson, 2002; Seals & Young, 2003), and cyberbullying (21% vs. 12%) than
+boys (New York Statewide School Health Services Center [NYSSHSC],
+2013). Studies have reported different conclusions regarding gender and victimization
+from pRV, which is due in part to the way that pRV is defined in
+the measures used (e.g., behavior vs. intent to harm or severity of harm). In a
+study of young women (15-24), they reported more frequently using physical
+violence against their male partners that they reported receiving from the
+same partner (Palmetto et al., 2013). In the 2011 National YRBS, boys
+reported experiencing more minor pRV than girls (CDC, 2012). However, in
+a national survey of more than 20,000 students in predominantly rural communities,
+girls reported experiencing more severe pRV than boys in each
+region of the country (Marquart et al., 2007).
+Drawing on the above research, the purpose of this study is to examine the
+association between victimization from bullying and e-bullying with victimization
+from pRV among a large random, representative sample of public
+high school students in NYC. NYC is the largest city in the United States,
+with a diverse mix of cultures and constant streams of migration and immigration
+(New York City Department of City Planning, 2013). Consequently,
+existing research on the relationship between victimization from bullying/
+e-bullying with pRV may not generalize to urban youth in NYC. Furthermore,
+this research will examine whether the intersection between bullying and
+e-bullying with pRV remains when accounting for sexual orientation, gender,
+race/ethnicity, and age. This research seeks to answer the following
+questions:
+Research Question 1: Are students who report being bullied or e-bullied
+more likely to also report experiencing pRV compared with students who
+do not report being bullied or e-bullied?
+56 Journal of Interpersonal Violence 32(1)
+Research Question 2: Does the association between bullying and
+e-bullying with pRV among NYC high school students remain significant
+after controlling for gender, sexual orientation, race/ethnicity, and age?
+We hypothesize the following:
+Hypothesis 1: Students who are bullied or e-bullied will be more likely to
+also report victimization from pRV than students who are not bullied or
+e-bullied.
+Hypothesis 2: The association between bullying and e-bullying with pRV
+will remain significant after adjusting for covariates of interest.
+By empirically identifying the relationship between victimization from
+bullying/e-bullying with pRV in NYC, this research could help inform prevention
+initiatives, response strategies, and youth aggression policies, specifically
+in urban schools.
+Method
+NYC YRBS
+This research analyzes data collected in the 2011 NYC YRBS. The YRBS
+measures demographics, environmental factors, experiences, and behaviors
+of public high school students in Grades 9 to 12 that potentially put them at
+risk for numerous adverse health outcomes. The NYC Department of Health
+and Mental Hygiene (DOHMH) administers the YRBS biennially in collaboration
+with the NYC Department of Education and the CDC. In 2011, about
+11,570 high school students from 102 schools completed the NYC YRBS
+with school and student response rates of 93% and 79%, respectively, yielding
+a 73% overall response rate (NYC DOHMH, 2012).
+Sampling Procedure
+The 2011 NYC DOHMH selected a representative sample of public high
+school students for the YRBS using a two-stage cluster sample design. First,
+schools were randomly selected across the five boroughs of NYC. In the
+second stage of sampling, classrooms were selected from either a required
+subject (i.e., social studies) or a required period (i.e., homeroom), mirroring
+the final stage of the CDC’s three-stage sampling methodology for the
+national YRBS (CDC, 2012). Consequently, students who did not attend
+these required classes because they were in non-mainstream programs were 
+Peters et al. 57
+excluded from the sampling frame, including students in English as Second
+Language (ESL) and special education programs. All assenting students in
+the selected classrooms at selected schools anonymously completed the selfadministered
+questionnaire. After data were collected, each student’s
+responses were weighted based on their probabilities of selection, nonresponse
+to questions, and other stratified adjustments. In addition to students
+who were solely in ESL and special education classes, the YRBS survey
+design excluded students who attended private or charter schools, were
+absent from school on the day of the questionnaire, had dropped out, or were
+incarcerated. More details on the survey and data set can be found at the NYC
+YRBS website (NYC DOHMH, 2012).
+Measures
+Dependent and predictor variables. The dependent variable of pRV was measured
+by the following YRBS item: “During the past 12 months, did your
+boyfriend or girlfriend ever hit, slap, or physically hurt you on purpose?”
+Responses were coded dichotomously. In a 1999 study of the test–retest reliability
+of the YRBS, this pRV item received a kappa statistic of 56%, falling
+between the moderate (41%) to substantial (61%) range of reliability (Brener
+et al., 2002).
+Two exposure variables were included in this study: (a) victimization from
+bullying at school and (b) victimization from e-bullying. The former was
+measured using the item, “During the past 12 months, have you ever been
+bullied on school property?” The latter was measured using the item, “During
+the past 12 months, have you ever been electronically bullied? (Include being
+bullied through e-mail, chat rooms, instant messaging, websites, or texting.)”
+Responses were coded dichotomously. In the 2011 YRBS, these two questions
+are prefaced with a short description of what constitutes bullying:
+“when one or more students tease, threaten, spread rumors about, hit, shove,
+or hurt another student repeatedly.” The questions were also prefaced with a
+description of what should not be considered bullying: “when two students of
+about the same strength . . . argue, fight, or tease each other in a friendly
+way.” Test–retest reliability has not been assessed as victimization from bullying
+and e-bullying were added to the NYC YRBS in 2009 (CDC, 2013).
+Covariates. Several demographic covariates were considered when investigating
+the intersection of victimization from bullying and e-bullying with
+pRV, including gender, race/ethnicity, sexual orientation, age, and grade.
+Gender was defined as male and female in the YRBS. The NYC YRBS
+includes separate items for ethnicity and race: (a) “Are you Hispanic or 
+58 Journal of Interpersonal Violence 32(1)
+Latino?” and (b) “What is your race?” Participants could choose multiple
+responses for race, which included American Indian or Alaska Native; Asian;
+Black or African American; Native Hawaiian or Other Pacific Islander; and
+White. In this study, race was grouped into five categories, which were White,
+Black/African American, Hispanic/Latino, Asian, and other (which included
+American Indian/Alaska Native, Native Hawaiian/other Pacific Islander, and
+multiple non-Hispanic due to their low frequencies in the sample). Grade was
+measured as 9th, 10th, 11th, 12th, and “ungraded/other” grades, and age was
+measured as 12 or younger, 13, 14, 15, 16, 17, and 18 years or older. Sexual
+orientation was defined using the YRBS item, “How would you describe
+yourself?” with responses of straight/heterosexual, gay/lesbian, bisexual, and
+unsure. In this study, respondents who reported being unsure (n = 372) were
+analyzed separately from lesbian/gay, bisexual, and heterosexual respondents,
+consistent with current recommendations (Badgett & Goldberg, 2009).
+Statistical Analysis
+Descriptive statistics were calculated using frequencies for the “bullied at
+school,” “e-bullied,” and “pRV” variables to determine the prevalence of students
+experiencing each form of violence. The prevalence of these variables
+was also disaggregated by gender, race/ethnicity, sexual identity, grade, and
+age to investigate which demographic groups reported the highest rates of
+youth victimization by bullying, e-bullying, and pRV separately. As shown in
+Table 1, the small number of students who reported being 12 years or younger
+(n = 36) and being in “another grade” or ungraded (n = 64) had very different
+victimization experiences from bullying, e-bullying, and pRV than their fellow
+students. Given the small sample sizes of these two groups and their
+notably different experiences from that of the others, we excluded them in all
+subsequent analyses.
+Chi-square tests were performed to explore the relationship between each
+of the bullying variables (“bullied on school property” and “e-bullied”) and
+the pRV variable to assess the unadjusted odds of being both bullied or e-bullied
+and physically abused by a dating partner. After the unadjusted relationships
+were defined, adjusted estimates were calculated through logistic
+regression. The correlation between bullied and e-bullied (φ coefficient =
+0.35) fell between a medium (0.3) and large (0.5) effect size (Pallant, 2010),
+and therefore “bullied at school” and “e-bullied” were assessed in separate
+models. The first model included being bullied at school as the predictor variable
+and the second included being e-bullied as the predictor variable. Each
+logistic regression model also included covariates that were significantly
+associated with both the predictors (bullied and e-bullied) and the outcome 
+59
+Table 1. Prevalence of Victimization From Bullying at School, e-Bullying, and pRV Among NYC Public High School Students by
+Select Demographic Covariates.
+Total Bullied at School E-Bullied
+Physical Relationship
+Violence
+N Percent N Percent OR N Percent OR N Percent OR
+Gender
+Female 6,104 53 711 11.8 1.0 (Ref) 771 12.7 1.0 (Ref) 569 9.4 1.0 (Ref)
+Male 5,424 47 594 11.2 0.94 466 8.7 0.65*** 589 11.1 1.20*
+Race/ethnicity
+White 1,283 11.6 160 12.7 1.0 (Ref) 177 13.9 1.0 (Ref) 93 7.3 1.0 (Ref)
+Black/AA 3,031 27.4 298 10.9 0.77* 274 9.1 0.62*** 327 10.9 1.55**
+Hispanic/Latino 5,078 46 593 11.9 0.93 561 11.1 0.78* 540 10.8 1.53**
+Asian 1,020 9.2 102 10.1 0.78 101 10.0 0.69* 67 6.6 0.90
+Other 632 5.7 78 12.6 1.00 71 11.4 0.80 78 12.5 1.80**
+Sexual identity
+Straight/heterosexual 8994 86.2 940 10.6 1.0 (Ref) 872 9.8 1.0 (Ref) 754 8.5 1.0 (Ref)
+Gay or lesbian 304 2.8 54 18.6 1.92*** 59 19.9 2.30*** 75 25.3 3.64***
+Bisexual 786 7.2 130 17.1 1.74*** 146 18.9 2.15*** 140 18.1 2.38***
+Unsure 373 3.8 61 17.0 1.73** 64 17.5 1.96*** 54 14.9 1.88***
+Grade
+9th 3,164 27.55 440 14.2 1.0 (Ref) 352 11.2 1.0 (Ref) 292 9.4 1.0 (Ref)
+10th 2,999 26.11 330 11.2 0.76** 325 10.9 0.97 286 9.7 1.03
+11th 2,717 23.66 271 10.2 0.68*** 276 10.2 0.90 256 9.5 1.01
+(continued)
+60
+Total Bullied at School E-Bullied
+Physical Relationship
+Violence
+N Percent N Percent OR N Percent OR N Percent OR
+12th 2,540 22.12 242 8.9 0.65*** 264 10.5 0.93 304 12.1 1.33*
+Other or ungraded 64 0.56 17 28.8 2.44* 16 26.7 2.87** 16 27.1 3.58***
+Age (years)
+≤12 36 0.31 13 41.9 3.92** 15 45.5 5.73*** 17 53.1 13.2***
+13 338 2.93 51 15.5 1.0 (Ref) 42 12.7 1.0 (Ref) 26 7.9 1.0 (Ref)
+14 2,493 21.60 347 14.2 0.90 297 12.0 0.94 216 8.8 1.13
+15 2,913 25.24 323 11.3 0.69* 310 10.7 0.83 261 9.1 1.17
+16 2,828 24.51 291 10.5 0.64* 283 10.1 0.77 305 10.9 1.43
+17 2,387 20.69 222 9.5 0.57** 230 9.7 0.74 257 10.9 1.43
+≥18 544 4.71 55 10.5 0.64* 66 12.4 0.97 80 14.9 2.04*
+Source. 2011 New York City Youth Risk Behavior Survey.
+Note. This table shows the demographic breakdown of the total population in this survey. Bullied at school, e-bullied, and pRV are then stratified by
+the demographic covariates. ORs are provided to compare groups to the reference group (Ref). pRV = physical relationship violence; NYC = New
+York City; OR = odds ratios.
+*Significant at p < .05. **Significant at p < .001. ***Significant at p < .0001.
+Table 1. (continued)
+Peters et al. 61
+(pRV), which included gender, race/ethnicity, sexual orientation, and age.
+Grade was excluded from the logistic regression models due to its strong correlation
+with age.
+All analyses were conducted in SAS 9.3 using weighted data from the
+NYC DOHMH.
+Results
+Respondents were 53% female, 46% Hispanic or Latino, 27% Black or
+African American, 11.6% White, and 9.2% Asian. Respondents were fairly
+evenly distributed across the grade levels, with 28% in the 9th grade, 26% in
+the 10th, 24% in the 11th, and 22% in 12th. Most respondents reported that
+they were straight/heterosexual (86%), with 2.8% identifying as gay/lesbian,
+7.2% as bisexual, and 3.8% of respondents reporting that they were “unsure”
+of their sexual orientation. More than 90% of respondents were between the
+ages of 13 and 17 (Table 1).
+Girls and boys reported being bullied at similar rates (Table 1), but more
+girls reported being e-bullied than boys (12.7% vs. 8.7%; p < .001).
+Conversely, boys reported victimization from pRV at higher rates than girls
+(11.1% vs. 9.4%; p = .004). Significant group differences were observed
+between gay/lesbian, bisexual, and unsure adolescents compared with heterosexual/straight
+adolescents. A higher percentage of gay/lesbian (18.6% bullied,
+19.9% e-bullied, 25.3% pRV; p < .001), bisexual (17.1% bullied, 18.9%
+e-bullied, 18.1% pRV; p < .001), and students who were unsure of their sexual
+orientation (17% bullied, 17.5% e-bullied, 14.9% pRV; p < .001) reported
+victimization from bullying, e-bullying, and pRV compared with straight/
+heterosexual students (10.6% bullied, 9.8% e-bullied, 8.5% pRV). More
+White students reported being bullied and e-bullied than Black, Hispanic,
+and Asian students. Fewer White and Asian students reported pRV than Black
+and Hispanic students (7.3%, 6.6%, 9%, and 10.8%, respectively; p < .001).
+Next, cross-tabulations were performed to assess the prevalence, and odds
+ratios were calculated of reporting pRV as well as being bullied at school or
+e-bullied in the last 12 months (Table 2). In the last 12 months, 11.7% reported
+being bullied on school property, 11% reported being e-bullied, and 10.4%
+reported being physically abused by a boyfriend or girlfriend. Of the students
+who reported being bullied in school in the past 12 months, 19.2% also reported
+being victims of pRV equating to 2.5 times the odds (95% CI [2.1, 2.9]) of also
+being victimized by pRV compared with those who were not bullied. Similarly,
+of the students who reported being e-bullied in the past 12 months, 21.9% also
+reported being victims of pRV, equating to 3 times the odds (95% CI [2.6, 3.5])
+of reporting victimization from pRV than peers who were not e-bullied. 
+62
+Table 2. Prevalence and Odds of Joint Victimization From Bullying at School, e-Bullying, and pRV Among NYC Public High School
+Students.
+Total Bullied at School E-Bullied pRV
+N Percent N Percent OR N Percent OR N Percent OR
+Bullied at school
+Yes 1,281 11.4 — — 512 40.4 9.6 (8.3-11.0)* 241 19.2 2.5 (2.1-2.9)*
+No 9,986 88.6 — — 659 6.6 1.0 (Ref) 856 8.6 1.0 (Ref)
+E-bullied
+Yes 1,233 10.8 512 43.7 9.6 (8.3-11.0)* — — 261 21.9 3.0 (2.6-3.5)*
+No 1,0155 89.3 755 7.5 1.0 (Ref) — — 852 8.5 1.0 (Ref)
+pRV
+Yes 1,139 10.1 241 22.0 2.5 (2.1-2.9)* 261 23.5 3.0 (2.6-3.5)* — —
+No 1,0155 89.9 1012 10.1 1.0 (Ref) 933 9.2 1.0 (Ref) — —
+Source. 2011 New York City Youth Risk Behavior Survey.
+Note. This table shows the number and percentage of students who reported being both bullied at school and e-bullied, both bullied at school and
+victimized by pRV, and both e-bullied and victimized by pRV. ORs are provided to compare groups with the reference group (Ref). Students who
+reported being “12 or younger” and “ungraded/other grade” were excluded from these analyses. pRV = physical relationship violence; NYC = New
+York City; OR = odds ratios.
+*Significant at p < .001.
+Peters et al. 63
+Victimization from bullying and e-bullying also significantly overlapped;
+40.4% of students who reported being bullied also reported being e-bullied
+(Table 2) equating to 9.6 times the odds (95% CI [8.3, 11]) of also reporting
+being e-bullied compared with peers who were not bullied. A Venn diagram
+was created to illustrate the intersection of victimization from bullying, e-bullying,
+and pRV (Figure 1). Overall, 3,723 students (32.2%) reported being victimized
+by at least one of these three forms of youth aggression. Just over 2,000
+Total students in 2011
+NYC YRBS:
+11570
+E-Bullied & pRV:
+131 (1.1%)
+Bullied & pRV:
+106 (0.9%)
+Bullied &
+E-bullied:
+382 (3.3%)
+B, EB,
+& pRV:
+145 (1.3%)
+Total # of students who reported victimization (in any of the circles): 2814 (24.3%)
+Total # who did not report victimization of any kind: 8756 (75.7%)
+Physical RV (pRV) only:
+784 (6.8%)
+E-bullied only:
+591 (5.1%)
+Bullied only:
+675 (5.8%)
+Figure 1. Number and prevalence of students who reported being bullied,
+e-bullied, victimized by physical relationship violence or a combination of these
+forms of aggression.
+Note. Total number of students who reported victimization (in any of the circles): 2,814
+(24.3%). Total number who did not report victimization of any kind: 8,756 (75.7%). NYC
+YRBS = New York City Youth Risk Behavior Survey; pRV = physical relationship violence; B =
+bullied; EB = e-bullied.
+64 Journal of Interpersonal Violence 32(1)
+students (17.9% of the total sample) reported victimization from bullying at
+school, e-bullying, or both, and of those students, 382 (5.3% of the total sample)
+also experienced pRV. A higher percentage of respondents reported victimization
+by all three forms of aggression (1.27%) than being bullied and pRV
+(0.97%) or being e-bullied and pRV (1.17%).
+Finally, logistic regression was performed using two models to predict the
+likelihood that students reported being victimized by pRV. The first model
+included being bullied at school as the predictor and the second model
+included being e-bullied. Both models were adjusted for gender, race/ethnicity,
+sexual orientation, and age. In the first model (Table 3), students who
+reported being bullied had 2.6 times the odds (95% CI [2.2, 3.1]) of also
+experiencing pRV compared with those who were not bullied, controlling for
+the covariates of interest. In the second model (Table 3), students who
+reported being e-bullied had 3.0 times the odds (95% CI [2.5, 3.6]) of also
+experiencing pRV compared with those who were not e-bullied, controlling
+for the covariates of interest.
+Discussion
+This research is the first to look at the intersection of victimization from bullying
+or e-bullying with pRV using a large random sample of urban public
+Table 3. Adjusted Odds of Experiencing pRV Using Logistic Regression Models
+for Bullied at School and e-Bullied (Considered Separately) and Controlling for
+Demographic Covariates.
+Model 1: Odds of pRV With
+“Bullied” in the Model
+Model 2: Odds of pRV With
+“e-Bullied” in the Model
+aOR [95% CI] p Value aOR [95% CI] p Value
+Bullied (Model 1) <.0001, df = 1
+No 1.0 (Ref.)
+Yes 2.6 [2.2, 3.1]
+E-bullied (Model 2) <.0001, df = 1
+No 1.0 (Ref.)
+Yes 3.0 [2.5,3.6]
+Source. 2011 New York City Youth Risk Behavior Survey.
+Note. This table shows the logistic regression results (adjusted ORs) of being physically hurt
+by a dating partner given that a student has also been bullied at school (Model 1) or e-bullied
+(Model 2), while controlling in both models for gender, race/ethnicity, sexual identity, and
+age. Students who self-reported being “12 or younger” were excluded from the regression
+models. pRV = physical relationship violence; OR = odds ratios; CI = confidence interval.
+Peters et al. 65
+high school students and is among the first to look at these interrelationships
+in general. In addition, this research is among the first to address potential
+confounding by gender, sexual orientation, race/ethnicity, and age on joint
+victimization from bullying and e-bullying with pRV. The findings from this
+study add to the overall understanding of bullying, e-bullying, and pRV,
+showing that victimization from bullying and e-bullying is strongly associated
+with pRV. The main findings of this research can be summarized in three
+main points.
+First, victimization from bullying, e-bullying, and pRV affects a substantial
+portion of NYC students. Univariate analyses were mostly consistent
+with published literature, showing that certain populations were significantly
+more likely to experience bullying, e-bullying, or RV separately. Similar to
+published literature (CDC, 2011; Dank et al., 2014), LGB students and students
+who were unsure of their sexual orientation had higher rates of all three
+forms of aggression than their heterosexual peers. Also consistent with published
+literature (CDC, 2012), Black and Hispanic/Latino students reported
+experiencing more relationship violence than students.
+Bullying and e-bullying tended to decrease with age and grade whereas
+pRV tended to increase with age and grade, though the associations persisted
+despite the differing age trends. In this study, Black students reported lower
+rates of being bullied and e-bullied than White and Hispanic students, differing
+from recent findings that Black students are at higher risk of being bullied
+(Goldweber et al., 2013). The sample in the study by Goldweber and colleagues
+was predominantly White (62.4%), whereas the sample in this study
+was predominantly Black and Hispanic (27% and 26%, respectively), which
+may have led to these discrepant findings.
+The second main finding shows that students who are bullied or e-bullied
+have much higher odds (ORs of 2.5 and 3.0, respectively) of victimization
+from pRV compared with those who have not been bullied or e-bullied. These
+findings regarding bullying and pRV co-occurrence support the limited prior
+research (Espelage & Holt, 2007; Yahner et al., 2015). In addition, the findings
+regarding the co-occurrence of e-bullying and pRV provide new insights
+into teen violence, and complement findings that show significant co-occurrence
+of e-bullying with a different outcome of e-dating violence (Hinduja &
+Patchin, 2011). Although there is significant overlap in victimization from
+these three forms of youth aggression, a majority of students who report any
+victimization still only report being victimized by a single form: either bullied,
+e-bullied, or victimized by pRV.
+The third major finding of this research shows that the relationship
+between being bullied or e-bullied with victimization from pRV remained
+essentially unchanged and still significant after adjusting for race, gender, 
+66 Journal of Interpersonal Violence 32(1)
+sexual orientation, and age. The lack of confounding in the present study suggests
+that once students experience victimization from bullying or e-bullying,
+their odds of victimization from pRV are higher regardless of their sociodemographic
+characteristics.
+Implications for Policy and Practice
+Nearly all states have enacted bullying legislation, with 31 states specifically
+addressing e-bullying (National Conference of State Legislatures, 2014a,
+2014b). Evaluations of anti-bullying policies have shown protective effects
+against adverse health outcomes, especially those policies that include sexual-orientation-specific
+language, for specific subpopulations (i.e., lesbian
+and gay youth; Hatzenbuehler & Keyes, 2013). States have increasingly
+implemented anti-dating violence policies in schools. As of January 2014, 21
+states (excluding New York) have introduced legislation that requires schools
+to incorporate information on pRV into their curricula (National Conference
+of State Legislatures, 2014c), yet most pRV policies in schools are separate
+from bullying policies. School policies that address bullying, e-bullying, and
+pRV jointly may help address the intersection of bullying and e-bullying with
+pRV. Rhode Island has innovatively integrated dating violence policies into
+existing school bullying policies. Rhode Island passed a law requiring each
+school to draft a dating violence policy that includes teacher and staff trainings
+and age-appropriate dating violence curricula for students in Grades 7 to
+12. However, rather than creating a separate policy to address RV in schools,
+Rhode Island expanded the existing bullying and e-bullying policy to include
+these new dating violence training and education mandates (Rhode Island
+Department of Education, 2012). Combining policy and programmatic
+approaches in schools might provide economies of scale but, to our knowledge,
+this combined policy has yet to be evaluated for efficacy, and we recommend
+a rigorous evaluation to inform further enactment of joint or separate
+bullying/e-bullying and pRV school policies. Expanding current efforts into a
+comprehensive school aggression policy may enable schools to feasibly
+streamline reporting and investigation protocols as well as prevention efforts.
+The effects of comprehensive policies need to be empirically validated
+through future evaluation.
+In addition to policy-level approaches, interventions and programs can be
+pursued that address bullying and pRV jointly. Researchers have suggested
+that prevention interventions focus on multiple domains of aggression,
+including bullying and pRV if, in fact, they do co-occur (Ozer, Tschann,
+Pasch, & Flores, 2004). The findings from this research support this view.
+Interventions addressing multiple domains of aggression have shown 
+Peters et al. 67
+positive results in preventing youth violence and the associated long-term
+health outcomes. To reduce pRV, Safe Spaces chose to intervene early in
+elementary school through a bullying and sexual harassment prevention program
+with the belief that tolerating violence early in childhood allows children
+the freedom to perpetrate bullying and pRV later in adolescence (Sanchez
+et al., 2001). Students in intervention schools had increased knowledge
+related to sexual harassment, better recognition of bullying at school, and
+increased willingness to intervene as bystanders compared with students in
+comparison schools. Espelage, Low, Polanin, and Brown (2013) recently
+implemented and evaluated a similar intervention among middle schools in
+the Midwest (Illinois and Kansas) to reduce youth aggression and sexual violence.
+Preliminary results showed decreased physical aggression in intervention
+schools compared with control schools (Espelage et al., 2013). Other
+interventions have been described that seek to address both bullying and pRV
+among students (Fredland, 2010) and promote healthy relationships among
+peers and dating partners (Wolfe et al., 2009). Despite implementation challenges
+and a lack of preliminary outcomes, these interventions used novel
+prevention approaches for multiple domains of aggression that should be
+revisited, adapted, and improved in other settings.
+Future Research
+This research focused solely on individual-level risk factors of victimization
+from bullying, e-bullying, and pRV. Future research should investigate potential
+environmental and community factors that increase students’ risk of joint
+victimization from bullying, e-bullying, and pRV, such as family violence,
+community violence, and school climate. Also, studies of the intersection of
+bullying and e-bullying with pRV should investigate perpetration in addition
+to victimization, given that students who are victimized by bullying, e-bullying,
+and pRV often also perpetrate these forms of aggression (Swearer et al.,
+2001). The YRBS does not include questions on other important aspects of
+relationship violence, given that dating aggression also includes sexual coercion
+and also occurs through the use of technology. In addition, research has
+yet to investigate whether students who experience joint victimization from
+these three forms of aggression experience different or more severe adverse
+health outcomes. Health outcomes specific to joint victimization should be a
+focus of future research.
+Temporal causality cannot be inferred about the relationship between victimization
+from bullying/e-bullying and pRV due to the cross-sectional nature
+of the NYC YRBS. Future research should utilize a longitudinal design that
+assesses perpetration and victimization of bullying, e-bullying, and pRV, 
+68 Journal of Interpersonal Violence 32(1)
+allowing for a better understanding of the development of these forms of
+coercion over time. The bullying–sexual violence pathway that has been proposed
+in the literature suggests that bullying begins very early in childhood
+(Espelage et al., 2012). Therefore, longitudinal studies should begin with
+children early in their schooling to gain a detailed understanding of this
+pathway.
+Limitations and Strengths
+There are limitations to this study regarding sampling and measurement.
+These findings only represent public high school students in NYC and are not
+generalizable to behaviors of students who attend private and charter schools,
+are home schooled, or do not attend school. LGB students are more likely to
+stay home from school due to fear of victimization than heterosexual students
+(Robinson & Espelage, 2012), potentially reducing their participation in this
+survey. The level of sampling bias created by the differential exclusion of
+students who were frequent school absentees cannot be determined from the
+data available in the NYC YRBS.
+In addition, victimization from bullying, e-bullying, and pRV were all
+measured by single questions. Each of these forms of aggression comprises a
+complex set of behaviors, mentalities, and circumstances. Using single-item
+measures may miss the nuanced complexities of perceived bullying, e-bullying,
+and pRV. This narrow operationalization could threaten the content
+validity of this study by differentially representing or misrepresenting the
+constructs of bullying, e-bullying, and pRV. In a recent review of pRV among
+teenagers, surveys that used multi-item scales consistently reported prevalence
+rates of pRV at 20% to 25% of the survey population, whereas studies
+that relied on the single-item scale in the YRBS reported half the prevalence
+rates (Stonard et al., 2014). This suggests that YRBS measures underrepresent
+the constructs of bullying, e-bullying, and pRV. In addition, this study
+was unable to assess perpetration, severity, or frequency of victimization, and
+other forms of RV, including sexual and psychological RV. Last, the NYC
+YRBS relies on self-report data from high school students about their behaviors,
+experiences, and identities. Self-reports in self-administered surveys
+introduce the possibility of numerous forms of biases (Podsakoff & Organ,
+1986). However, self-reported measures of bullying victimization are found
+to be preferable to peer and teacher nomination when the purpose of the study
+is to assess the experiences of all students in a given school (Espelage &
+Swearer, 2003).
+Despite these limitations, this research has many design attributes that
+bolster the strength of the findings. The NYC YRBS uses a large, random 
+Peters et al. 69
+sample of urban high school students from diverse backgrounds and neighborhoods.
+This research provides a solid foundation for practitioners and
+policy makers to rethink programmatic and policy strategies, as well as
+directing future research into joint victimization of bullying and dating
+violence.
+Conclusion
+Victimization from bullying (both at school and electronic) and pRV significantly
+co-occur among high school students in NYC after controlling for
+race/ethnicity, gender, sexual orientation, or age. These experiences undoubtedly
+affect students in adverse ways. Although further research is needed on
+joint victimization that includes joint perpetration and the direction of temporal
+causation, policy makers, practitioners, and school administrators should
+consider the findings of this research, within the existing state of the literature,
+to strategically combine resources for bullying, e-bullying, and pRV
+prevention and intervention.
+Ethical Standards
+The Columbia University Medical Center Institutional Review Board
+approved this secondary analysis as exempt (Protocol IRB-AAM5806).
+Acknowledgments
+Gratitude must first be extended to the NYC Network for Healthy Teen Relationships
+for providing the inspiration for this practice-based research. It is the authors’ hope
+that this research will provide empirical support for the Network’s mission as they
+attempt to combine resources to jointly address bullying, e-bullying, and RV among
+NYC teens. Two people deserve the authors’ sincere gratitude. Kirsten deFur, Director
+of Prevention and Outreach at the NYC Mayor’s Office to Combat Domestic Violence,
+and Catherine Stayton, Director of the Injury Epidemiology Unit at the NYC
+DOHMH, provided invaluable support and mentorship throughout the conceptualization
+of this article.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect to the research,
+authorship, and/or publication of this article.
+Funding
+The author(s) received no financial support for the research, authorship, and/or publication
+of this article.
+70 Journal of Interpersonal Violence 32(1)
+References
+Badgett, M. V. L., & Goldberg, N. (Eds.). (2009). Best practices for asking questions
+about sexual orientation on surveys. Los Angeles, CA: Williams Institute.
+Banyard, V. L., & Cross, C. (2008). Consequences of teen dating violence:
+Understanding intervening variables in ecological context. Violence Against
+Women, 14, 998-1013.
+Belshaw, S. H., Siddique, J. A., Tanner, J., & Osho, G. S. (2012). The relationship
+between dating violence and suicidal behaviors in a national sample of adolescents.
+Violence and Victims, 27, 580-591.
+Bonomi, A. E., Anderson, M. L., Nemeth, J., Rivara, F. P., & Buettner, C. (2013).
+History of dating violence and the association with late adolescent health. BMC
+Public Health, 13(1), Article 821.
+Brener, N. D., Kann, L., McManus, T., Kinchen, S. A., Sundberg, E. C., & Ross, J. G.
+(2002). Reliability of the 1999 youth risk behavior survey questionnaire. Journal
+of Adolescent Health, 31, 336-342.
+Centers for Disease Control and Prevention. (2011). Sexual identity, sex of sexual contact
+and health-risk behaviors among students in grades 9-12—Youth Risk Behavior
+Surveillance, selected sites, United States, 2001-2009. Morbidity and Mortality
+Weekly Report, 60. Retrieved from http://www.cdc.gov/mmwr/pdf/ss/ss60e0606.pdf
+Centers for Disease Control and Prevention. (2012). Youth risk behavior surveillance—United
+States, 2011. Morbidity and Mortality Weekly Report, 61(4).
+Retrieved from http://www.cdc.gov/mmwr/pdf/ss/ss6104.pdf
+Centers for Disease Control and Prevention. (2013). Methodology of the Youth Risk
+Behavior Surveillance System—2013. Morbidity and Mortality Weekly Report,
+62(1). Retrieved from http://www.cdc.gov/mmwr/pdf/rr/rr6201.pdf
+Connolly, J., Peplar, D., Craig, W., & Tarandash, A. (2000). Dating experiences of
+bullies in early adolescence. Child Maltreatment, 5, 299-310.
+Crick, N. R., & Grotpeter, J. K. (1995). Relational aggression, gender, and socialpsychological
+adjustment. Child Development, 66, 710-722.
+Crick, N. R., & Nelson, D. A. (2002). Relational and physical victimization within
+friendships: Nobody told me there’d be friends like these. Journal of Abnormal
+Child Psychology, 30, 599-607.
+Dank, M., Lachman, P., Zweig, J. M., & Yahner, J. (2014). Dating violence experiences
+of lesbian, gay, bisexual, and transgender youth. Journal of Youth and
+Adolescence, 43, 846-857.
+David-Ferdon, C., & Hertz, M. F. (2007). Electronic media, violence, and adolescents:
+An emerging public health problem. Journal of Adolescent Health, 41(6,
+Suppl. 1), S1-S5.
+Espelage, D. L., Basile, K. C., & Hamburger, M. E. (2012). Bullying perpetration and
+subsequent sexual violence perpetration among middle school students. Journal
+of Adolescent Health, 50, 60-65.
+Espelage, D. L., & Holt, M. K. (2007). Dating violence & sexual harassment across
+the bully-victim continuum among middle and high school students. Journal of
+Youth and Adolescence, 36, 799-811.
+Peters et al. 71
+Espelage, D. L., Low, S., Polanin, J. R., & Brown, E. C. (2013). The impact of a
+middle school program to reduce aggression, victimization, and sexual violence.
+Journal of Adolescent Health, 53, 180-186.
+Espelage, D. L., & Swearer, S. M. (2003). Research on school bullying and victimization:
+What have we learned and where do we go from here? School Psychology
+Review, 32, 365-383.
+Estell, D. B., Farmer, T. W., & Cairns, B. D. (2007). Bullies and victims in rural
+African American youth: Behavioral characteristics and social network placement.
+Aggressive Behavior, 33, 145-159.
+Exner-Cortens, D., Eckenrode, J., & Rothman, E. (2013). Longitudinal associations
+between teen dating violence victimization and adverse health outcomes.
+Pediatrics, 131, 71-78.
+Finkelhor, D., & Asdigian, N. L. (1996). Risk factors for youth victimization: Beyond
+a lifestyles/routine activities theory approach. Violence and Victims, 11, 3-19.
+Finkelhor, D., & Dziuba-Leatherman, J. (1994). Victimization of children. American
+Psychologist, 49, 173-183.
+Fitzpatrick, K. M., Dulin, A., & Piko, B. (2010). Bullying and depressive symptomatology
+among low-income, African-American youth. Journal of Youth and
+Adolescence, 39, 634-645.
+Fredland, N. M. (2008). Sexual bullying addressing the gap between bullying and
+dating violence. Advances in Nursing Science, 31, 95-105.
+Fredland, N. M. (2010). Nurturing healthy relationships through a community-based
+interactive theater program. Journal of Community Health Nursing, 27, 107-118.
+Goldweber, A., Waasdorp, T. E., & Bradshaw, C. P. (2013). Examining associations
+between race, urbanicity, and patterns of bullying involvement. Journal of Youth
+and Adolescence, 42, 206-219.
+Graham, S., & Juvonen, J. (2001). An attributional approach to peer victimization.
+In J. Juvonen & S. Graham (Eds.), Peer harassment in school: The plight of the
+vulnerable and victimized (pp. 49-72). New York, NY: Guilford Press.
+Graham, S., & Juvonen, J. (2002). Ethnicity, peer harassment, and adjustment in
+middle school: An exploratory study. Journal of Early Adolescence, 22, 173-199.
+Hatzenbuehler, M. L., & Keyes, K. M. (2013). Inclusive anti-bullying policies and
+reduced risk of suicide attempts in lesbian and gay youth. Journal of Adolescent
+Health, 53(1 Suppl.), S21-S26.
+Hickman, L. J., Jaycox, L. H., & Aronoff, J. (2004). Dating violence among adolescents:
+Prevalence, gender distribution, and prevention program effectiveness.
+Trauma, Violence, & Abuse, 5, 123-142.
+Hinduja, H., & Patchin, J. (2011). Electronic dating violence: A brief guide for educators
+and parents. Cyberbullying Research Center. Retrieved from http://www.
+cyberbullying.us/electronic_dating_violence_fact_sheet.pdf
+Hoff, D. L., & Mitchell, S. N. (2009). Cyberbullying: Causes, effects, and remedies.
+Journal of Educational Administration, 47, 652-665.
+Lamis, D. A., Leenaars, L. S., Jahn, D. R., & Lester, D. (2013). Intimate partner
+violence: Are perpetrators also victims and are they more likely to experience
+suicide ideation? Journal of Interpersonal Violence, 28, 3109-3128.
+72 Journal of Interpersonal Violence 32(1)
+Marquart, B. S., Nannini, D. K., Edwards, R. W., Stanley, L. R., & Wayman, J. C.
+(2007). Prevalence of dating violence and victimization: Regional and gender
+differences. Adolescence, 42, 645-657.
+Messinger, A. M., Fry, D. A., Rickert, V. I., Catallozzi, M., & Davidson, L. L. (2014).
+Extending Johnson’s intimate partner violence typology: Lessons from an adolescent
+sample. Violence Against Women, 20, 948-971.
+Meyer, I. H. (2003). Prejudice, social stress, and mental health in lesbian, gay, and
+bisexual populations: Conceptual issues and research evidence. Psychological
+Bulletin, 129, 674-697.
+Miller, S., Williams, J., Cutbush, S., Gibbs, D., Clinton-Sherrod, M., & Jones, S.
+(2013). Dating violence, bullying, and sexual harassment: Longitudinal profiles
+and transitions over time. Journal of Youth and Adolescence, 42, 607-618.
+Nansel, T. R., Overpeck, M., Pilla, R. S., Ruan, W. J., Simons-Morton, B., & Scheidt,
+P. (2001). Bullying behaviors among US youth: Prevalence and association with
+psychosocial adjustment. Journal of the American Medical Association, 285,
+2094-2100.
+National Conference of State Legislature. (2014a). Cyberbullying. Retrieved from
+http://www.ncsl.org/research/education/cyberbullying.aspx
+National Conference of State Legislature. (2014b). State bullying legislation since
+2008. Retrieved from http://www.ncsl.org/research/education/bullying-legislationsince-2008.aspx
+National Conference of State Legislature. (2014c). Teen dating violence. Retrieved
+from http://www.ncsl.org/research/health/teen-dating-violence.aspx
+New York City Department of City Planning. (2013). The newest New Yorkers:
+Characteristics of the City’s foreign-born population. Retrieved from http://
+www.nyc.gov/html/dcp/html/census/nny.shtml
+New York City Department of Health and Mental Hygiene. (2012). Comprehensive
+YRBS methodology report. Bureau of Epidemiology Services. Retrieved from
+http://www.nyc.gov/html/doh/downloads/pdf/survey/yrbs-long-methodsreport-2011.pdf
+New York Statewide School Health Services Center. (2013). NYS YRBS fact sheets
+and interactive tools. Retrieved from http://www.schoolhealthservicesny.com/
+datareporting.cfm?subpage=283
+Olweus, D. (1993). Bullying at school: What we know and what we can do. Cambridge,
+MA: Blackwell.
+Ousey, G. C. (2000). Explaining regional and urban variation in crime: A review
+of research. In G. LaFree (Ed.), The nature of crime: Continuity and change
+(pp. 261-308). Washington, DC: U.S. Department of Justice, National Institute
+of Justice.
+Ozer, E. J., Tschann, J. M., Pasch, L. A., & Flores, E. (2004). Violence perpetration
+across peer and partner relationships: Co-occurrence and longitudinal patterns
+among adolescents. Journal of Adolescent Health, 34, 64-71.
+Pallant, J. (2010). SPSS survival manual: A step by step guide to data analysis using
+SPSS. Berkshire, England: McGraw-Hill Education.
+Peters et al. 73
+Palmetto, N., Davidson, L. L., Breitbart, V., & Rickert, V. I. (2013). Predictors of
+physical intimate partner violence in the lives of young women: Victimization,
+perpetration, and bidirectional violence. Violence and Victims, 28, 103-121.
+Pepler, D. J., Craig, W. M., Connolly, J. A., Yuile, A., McMaster, L., & Jiang, D.
+(2006). A developmental perspective on bullying. Aggressive Behavior, 32, 376-
+384.
+Podsakoff, P. M., & Organ, D. W. (1986). Self-reports in organizational research:
+Problems and prospects. Journal of Management, 12, 531-544.
+Preston, J. P. (2009). Rural and urban teaching experiences: Crossing borders.
+Saarbucken, Germany: Verlag Dr. Muller Aktiengesellschaft.
+Rhode Island Department of Education. (2012). A guide to preventing bullying, teen
+dating violence, and sexual violence in Rhode Island schools. Rhode Island
+Board of Regents, Elementary and Secondary Education. Retrieved from http://
+www.thriveri.org/documents/GUIDE_Bullying_TDVSV_Amended2012.pdf
+Robinson, J. P., & Espelage, D. L. (2012). Bullying explains only part of LGBTQheterosexual
+risk disparities: Implications for policy and practice. Educational
+Researcher, 41, 309-319.
+Sanchez, E., Robertson, T. R., Lewis, C. M., Rosenbluth, B., Bohman, T., & Casey,
+D. M. (2001). Preventing bullying and sexual harassment in elementary schools:
+The expect respect model. Journal of Emotional Abuse, 2, 157-180.
+Seals, D., & Young, J. (2003). Bullying and victimization: Prevalence and relationship
+to gender, grade level, ethnicity, self-esteem, and depression. Adolescence,
+38, 735-747.
+Smith, P. K., Mahdavi, J., Carvalho, M., Fisher, S., Russell, S., & Tippett, N. (2008).
+Cyberbullying: Its nature and impact in secondary school pupils. Journal of Child
+Psychology and Psychiatry and Allied Disciplines, 49, 376-385.
+Spencer, G. A., & Bryant, S. A. (2000). Dating violence: A comparison of rural, suburban,
+and urban teens. Journal of Adolescent Health, 27, 302-305.
+Spriggs, A. L., Iannotti, R. J., Nansel, T. R., & Haynie, D. L. (2007). Adolescent bullying
+involvement and perceived family, peer and school relations: Commonalities
+and differences across race/ethnicity. Journal of Adolescent Health, 41, 283-293.
+Stonard, K. E., Bowen, E., Lawrence, T. R., & Price, S. A. (2014). The relevance of
+technology to the nature, prevalence and impact of adolescent dating violence
+and abuse: A research synthesis. Aggression and Violent Behavior, 19, 390-417.
+Swearer, S. M., Song, S. Y., Cary, P. T., Eagle, J. W., & Mickelson, W. T. (2001).
+Psychosocial correlates in bullying and victimization: The relationship between
+depression, anxiety, and bully/victim status. Journal of Emotional Abuse, 2, 95-
+121.
+van Geel, M., Vedder, P., & Tanilon, J. (2014). Relationship between peer victimization,
+cyberbullying, and suicide in children and adolescents: A meta-analysis.
+JAMA Pediatrics, 168, 435-442. doi:10.1001/jamapediatrics.2013.4143
+Wang, J., Iannotti, R. J., & Nansel, T. R. (2009). School bullying among adolescents
+in the United States: Physical, verbal, relational, and cyber. Journal of Adolescent
+Health, 45, 368-375.
+74 Journal of Interpersonal Violence 32(1)
+Williams, D. R., & Mohammed, S. A. (2009). Discrimination and racial disparities
+in health: Evidence and needed research. Journal of Behavioral Medicine, 32,
+20-47.
+Wolfe, D. A., Crooks, C., Jaffe, P., Chiodo, D., Hughes, R., Ellis, W., . . . Donner, A.
+(2009). A school-based program to prevent adolescent dating violence: A cluster
+randomized trial. Archives of Pediatrics and Adolescent Medicine, 163, 692-699.
+Wolfe, D. A., Wekerle, C., Gough, R., Reitzel-Jaffe, D., Grasley, C., Pittman, A., &
+Stumpf, J. (1996). Youth relationships manual: A group approach with adolescents
+for the prevention of woman abuse and the promotion of healthy relationships.
+Thousand Oaks, CA: Sage.
+Yahner, J., Dank, M., Zweig, J. M., & Lachman, P. (2015). The co-occurrence
+of physical and cyber dating violence and bullying among teens. Journal of
+Interpersonal Violence, 30, 1079-1089.
+Zweig, J. M., Dank, M., Lachman, P., & Yahner, J. (2013). Technology, teen dating
+violence and abuse, and bullying: Final report 2013. Washington, DC: Justice
+Policy Center, Urban Institute. Retrieved from https://ncjrs.gov/pdffiles1/nij/
+grants/243296.pdf
+Author Biographies
+Zachary J. Peters is a research coordinator at ICAP at Columbia University, in the
+Mailman School of Public Health. He recently graduated from the Mailman School of
+Public Health in the Department of Sociomedical Sciences with a concentration in
+health promotion, research and practice. He has worked in the areas of domestic violence
+with a focus on teen dating violence, HIV prevention in domestic and global
+settings, and health promotion among populations affected by incarceration. Currently,
+he is working on several studies seeking to identify clinic-, household-, and individual-level
+factors that affect provision of and access to HIV care and treatment in several
+countries in Sub-Saharan Africa.
+Mark L. Hatzenbuehler is an assistant professor in the Department of Sociomedical
+Sciences in the Mailman School of Public Health at Columbia University where he
+co-directs the Center for the study of social inequalities and health at Columbia. He is
+a leading expert on structural stigma, a concept that refers to societal-level conditions,
+cultural norms, and institutional policies that constrain the opportunities, resources,
+and well-being of the stigmatized. His work has focused on how social policies that
+differentially target gays and lesbians for social exclusion affect the mental health of
+lesbian, gay, and bisexual (LGB) populations. He has published extensively in the
+areas of stigma, social/contextual determinants of sexual orientation health disparities,
+and psychological mechanisms linking stigma to health. He has received multiple
+awards for this research, including the James B. Grossman Dissertation Prize from
+Yale University, the Division 44 Maylon Smith Award from the American
+Psychological Association, the Kenneth Lutterman and Walter J. Lear Awards from
+the American Public Health Association, and the Emerson Award from Harvard
+Medical School for excellence in published psychological research. He was invited to 
+Peters et al. 75
+present his research on anti-bullying policies as part of an expert panel at the CDC and
+as part of an Institute of Medicine Workshop on Building Capacity to Reduce Bullying
+and its Impact on Youth Across the Lifecourse. He is currently funded on a K01
+award from National Institute of Drug Abuse (NIDA) to identify social determinants
+of sexual-orientation-related disparities in substance use and HIV risk disparities.
+Leslie L. Davidson is a professor of epidemiology and pediatrics at the Columbia
+University Medical Center, in the Mailman School of Public Health and College of
+Physicians and Surgeons, where she currently leads the doctoral programs in epidemiology.
+She worked throughout her career in the broad areas of disability, injury, and
+violence, working particularly with women, children, and adolescents. Among her
+primary research interests are the epidemiology and prevention of intimate partner
+violence with an emphasis on adolescents and young adults. Her research has explored
+the occurrence and correlates of dating violence in a range of populations as well as a
+trial of screening approaches for partner violence in young women. She has studied
+the epidemiology of disability in children in low and middle income countries. She
+was a member of the team of researchers evaluating the Ten Questions, a screen for
+low and middle income countries with few professional resources addressing neurodevelopmental
+disability. More recently, she has been principal investigator for a
+cohort study of neurodevelopmental disability in preschool children in South Africa
+(the Asenze Study). She was a co-investigator of a study in Benin assessing neurodisability
+in children whose mothers were anemic during pregnancy. She trained in pediatrics
+at Columbia, in epidemiology at the London School of Hygiene, and in child
+mental health research through a postdoctoral fellowship at the Institute of Psychiatry
+in London.

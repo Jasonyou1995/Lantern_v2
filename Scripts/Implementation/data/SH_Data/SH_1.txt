@@ -1,0 +1,681 @@
+
+Sexual Harassment Victimization and Perpetration Among High School Students
+
+
+
+
+Abstract
+This large, population-based study is one of the few to examine prevalence rates
+of sexual harassment occurring during the past 12 months by victimization and
+perpetration among adolescents. In this large, cross-sectional survey of students
+attending 26 high schools, sexual harassment was defined using three questions
+from the Sexual Experiences Questionnaire. Among 18,090 students completing the
+survey, 30% disclosed sexual harassment victimization (37% of females, 21% of males)
+and 8.5% reported perpetration (5% of females, 12% of males). Sexual harassment
+perpetration was highly correlated with male sex, minority race/ethnicity, same-sex
+attraction, bullying, alcohol binge drinking, and intraparental partner violence.
+Keywords
+adolescents, high school, perpetration, sexual harassment, victimization
+Although sexual harassment has often been associated with the adult workplace environment,
+a shift toward exploring rates in high school-aged adolescents has emerged
+(Fineran & Bennett, 1999; Fineran & Bolen, 2006; Hill, Kearl, & American Association
+1University of Kentucky, Lexington, KY, USA
+2University of Cincinnati, OH, USA
+Corresponding Author:
+Emily R. Clear, Department of Obstetrics and Gynecology, A. B. Chandler Medical Center, University of
+Kentucky, 800 Rose Street, C347, Lexington, KY 40536-0293, USA.
+Email: Emily.Clear@uky.edu
+551287 VAWXXX10.1177/1077801214551287Clear et al.Violence Against Women
+research-article2014
+1204 Violence Against Women 20(10)
+of University Women, 2011). Sexual harassment as it relates to the school environment
+is defined as conduct that is sexual in nature, unwelcome, denies or limits a student’s
+ability to participate in or benefit from a school’s education program, and
+interferes with a student’s right to a supportive, respectful, and safe learning environment
+(U.S. Department of Education, Office for Civil Rights, 2008; Witkowska &
+Kjellberg, 2005). School-based definitions also address unwanted sexual behavior that
+interferes with a student’s educational opportunities, which may not be face-to-face,
+including cyberbullying through text messages and other social media (Hill et al.,
+2011).
+It is worth noting the difference between bullying and sexual harassment. Unlike
+bullying behaviors, sexual harassment incorporates a strong sexual component with
+little to no physical contact. Sexual harassment is an illegal form of sex discrimination
+that violates Title VII of the Civil Rights Act of 1964 (U.S. Equal Employment
+Opportunity Commission, 2009) and Title IX of the Education Amendments of 1972
+(U.S. Department of Education, Office for Civil Rights, 1997). When bullying is used
+to describe sexual harassment, it takes away the role of gender and sex, which are key
+parts of the definition (Stein & Mennemeier, 2011). Nansel and colleagues used a definition
+that addressed the three components used in bullying definitions among
+researchers:
+Bullying is a specific type of aggression in which (1) the behavior is intended to harm or
+disturb, (2) the behavior occurs repeatedly over time, (3) there is an imbalance of power
+(physical or psychological), with a more powerful person or group attacking a less
+powerful one. (Nansel et al., 2001, p. 2094; Salmivalli, Kaukiainen, Kaistaniemi, &
+Lagerspetz, 1999; Swearer & Espelage, 2011)
+Sexual harassment could be viewed as a form of non-physical aggression on a continuum
+with sexual violence (Basile & Saltzman, 2002); thus, understanding correlates
+of sexual harassment victimization, and particularly perpetration, could be very
+important for sexual and dating violence prevention.
+A review of research shows estimated rates of sexual harassment among students to
+be between 23% and 87% (Attar-Schwartz, 2009; Fineran & Bennett, 1999; Harris &
+Associates, 1993; Hill et al., 2011; Langelan, 1993; Lipson & American Association of
+University Women Educational Foundation, 2001; Martin, 2008; McMaster, Connolly,
+Pepler, & Craig, 2002; Ormerod, Collinsworth, & Perry, 2008; Permanent Commission
+on the Status of Women [PCSW], 1995; Stein, Marshall, & Tropp 1993; Strauss &
+Espeland, 1992). Variance in rates may be attributed to differences in the methodology
+for identifying the sample, study power, and the operational definition of sexual
+harassment. In a small study of 21 female students attending an alternative high school,
+researchers found that 52% disclosed sexual harassment (Martin, 2008), whereas in a
+much larger study of 16,604 Israeli students in Grades 7 to 11, 26% reported at least
+one incident of sexual harassment (Attar-Schwartz, 2009). In a more recent study of
+students in Grades 7 to 12, approximately half (48%) experienced some form of sexual
+harassment in the 2010-2011 school year (Hill et al., 2011). Prior research indicated 
+Clear et al. 1205
+that females were more likely than males to be sexually harassed (Hill et al., 2011;
+Lipson & American Association of University Women Educational Foundation, 2001;
+Ormerod et al., 2008; Sagrestano, 2009), and males were identified as perpetrators in
+more than 90% of the incidents of sexual harassment against females (Fineran &
+Bennett, 1999; Harris & Associates, 1993; Langelan, 1993; McMaster et al., 2002;
+PCSW, 1995; Robers, Zhang, Truman, Department of Justice, & National Center for
+Education Statistics, 2012; Stein et al., 1993; Strauss & Espeland, 1992).
+The limited research that has addressed the prevalence and health impact of sexual
+harassment victimization indicated that among adolescents, females were psychologically
+more affected by sexual harassment, had lower self-esteem, admitted to taking
+sexual harassment more personally, were victims of repeated sexual harassment, and
+were more likely to attempt suicide than males (Bagley, Bolitho, & Bertrand, 1997;
+Chiodo, Wolfe, Crooks, Hughes, & Jaffe, 2009; Gadin & Hammarstrom, 2005).
+Multiple studies have reported students feeling angry, upset, and threatened by sexual
+harassment, which contributed to lower self-esteem and confidence (Harris &
+Associates, 1993; PCSW, 1995; Stein et al., 1993; Strauss & Espeland, 1992).
+In addition to its effects on mental health, sexual harassment has consequences for
+students’ school performance, specifically poor grades, absenteeism, skipping or dropping
+classes, and poor school performance (Corbett & Gentry, 1993; Hand & Sanchez,
+2000; Harris & Associates, 1993, 1993; Lee, Croninger, Linn, & Chen, 1996; Lipson
+& American Association of University Women Educational Foundation, 2001; Robers
+et al., 2012). Collectively, these findings indicate a need to more comprehensively
+document gender differences in sexual harassment victimization and perpetration and
+to identify other demographic or social factors associated with increased risk of sexual
+harassment.
+The purpose of the present study was to add to the limited research available on
+sexual harassment victimization and perpetration of high school students. We hypothesized
+that females reported higher rates of victimization, and males disclosed higher
+rates of perpetration. Rates of sexual harassment by tactic, direction, and sex were
+reported, including the co-occurrence of victimization and perpetration in the past 12
+months. This research fills an important gap in the existing research by providing estimates
+of the frequency of sexual harassment victimization and perpetration among
+adolescents and by sex and other demographic and violence risk factors.
+Method
+Participants
+All high school students (freshmen-seniors) attending 1 of 26 participating high
+schools and present during surveying were asked to complete a self-administered survey.
+The survey was a 95-item anonymous paper-and-pencil questionnaire that took
+approximately 25 to 40 min to complete. Between January and May 2010, study personnel
+traveled to the high schools and administered surveys either in a class administration
+setting in the school during a selected class (for example, English classes for 
+1206 Violence Against Women 20(10)
+the whole day; n = 16), or a school group administration during which the whole
+school was surveyed in one class period (for example, first period; n = 10). The model
+for survey administration was familiar to schools, as it was used when conducting the
+Youth Risk Behavior Survey (YRBS; Centers for Disease Control and Prevention,
+2009).
+All parents and guardians of enrolled students were mailed an informational letter
+describing the study purpose and the types of questions to be included on the survey.
+If parents or guardians did not wish for their student to participate in the survey, they
+were asked to call or email with the name and school of their student. So as not to
+single these students out from other classmates, study staff worked with the teachers
+to identify students whose parents did not wish for them to participate on the day of
+administration. Staff gave these students an identical survey booklet that did not contain
+any questions, but included the same face page and instructions as well as a
+Scantron® form. Students whose parents or guardians did not grant permission for
+them to participate were asked to bubble in the letter J for all answers on the Scantron®
+form so it would look as if they were participating.
+In the classroom, all students were asked not to write their name or birth date on the
+Scantron® forms. Elements of assent were read to all students by Collaborative
+Institutional Training Initiative trained staff. If the methodology was a school-wide
+one-period administration, a DVD with instructions was played for students. During
+the all-day administrations, study staff read the assent information to each class period.
+All students were directed to review the assent form in the survey booklet and decide
+for themselves whether they wished to complete the survey. Those opting not to complete
+the survey were asked to fill in the letter H on the Scantron® form and then
+quietly remain in their seat. All survey Scantron® forms were collected at the end of
+administration. Resources, including websites and toll-free numbers for national agencies
+available at all times to address domestic violence, sexual assaults, depression, or
+suicide ideation, were provided at the end of survey booklets. These resources were
+also given on pencils the students used to complete the survey and were able to keep.
+The national hotlines and websites linked individuals to local services. The study protocol
+was approved by the University of Kentucky Institutional Review Board
+09-0680-F1V.
+Measures
+Three items based on the Sexual Experiences Questionnaire (SEQ) were used to measure
+perpetration and victimization of sexual harassment (Fitzgerald, Magley,
+Drasgow, & Waldo, 1999). Items asked specifically about victimization and perpetration
+using the introduction of either, “In the past 12 months, how many times did
+another high school student . . .” or “In the past 12 months, how many times did YOU
+. . .” Items included the following: (a) Tell you sexual stories or jokes that made you
+uneasy? (b) Make gestures, rude remarks or use sexual body language to embarrass or
+upset you? (c) Keep asking you out on a date or asking you to hookup although you
+said “No”? Response options for all items ranged from never (0), 1 to 2 times (1), 3 to 
+Clear et al. 1207
+5 times (2), 6 or more times (3). The response of yes, but not in the past 12 months was
+also an option but, for this analysis, we included it with never, because we were only
+interested in the past 12 months, not lifetime victimization or perpetration. Students
+who reported that any of the items occurred at least 3 or more times in the past 12
+months were included in the sexual harassment definition. The Cronbach’s alpha coefficient
+for the three sexual harassment items indicated reasonable internal consistency
+for victimization (α = .66) and perpetration (α = .71). We investigated the co-occurrence
+of sexual harassment victimization and perpetration by specific sexual harassment
+tactics by gender.
+Demographic and other risk factors for sexual harassment were also evaluated.
+These included gender (female and male), high school grade (freshman, sophomore,
+junior, senior), race (categories summarized as non-White and White), receipt of a free
+or reduced price meal (yes or no, included as a proxy for family income), and sexual
+attraction (specifically, “People are different in their sexual attraction to other people.
+Which best describes your feelings?” Responses included only attracted to females,
+mostly attracted to females, equally attracted to females and males, mostly attracted
+to males, only attracted to males, and not sure). Responses were grouped as attracted
+to the opposite sex only versus attracted to the same or both sexes. The intraparental
+partner violence question was as follows: “In your family, how often did you see or
+hear one of your parents or guardians being hit, slapped, punched, shoved, kicked, or
+otherwise physically hurt by their spouse or partner?” Response options ranged from
+never to more than 10 times, but were dichotomized as yes or no. Questions regarding
+being bullied or having bullied others, respectively, were as follows: “In the past 12
+months, how many times have you been bullied by another high school student?” and
+“In the past 12 months, how many times have you bullied another high school student?”
+Response options ranged from never to more than 10 times for both questions;
+we grouped answers as more than twice, 1 to 2 times, and never in the past 12 months.
+There was one question on binge drinking: “In the past month, on how many days did
+you have 4 (if you are a female) 5 (if you are a male) or more drinks of alcohol in a
+row (within a couple of hours)?” Response options ranged from I never drink to 20 to
+31 days; a dichotomous variable was created to identify those students who reported
+binge drinking 1 or more days in the past 30, and at least 1 day in the past 30 days (yes
+vs. no).
+Statistical Analysis
+All data were analyzed using SAS, Version 9.2. Because the purpose of this article is
+to document the rates of sexual harassment victimization and perpetration in this large
+high school population, adjusted rates are presented throughout Table 1 as well as
+Table 3. However, when investigating gender differences in rates, we adjusted odds
+ratios (aOR) for demographic factors known to be covariates, including age (freshman,
+sophomore, junior, or senior), family income (the proxy of receipt of a free or
+reduced price meal: yes or no), race (White or non-White), sexual attraction (exclusively
+attracted to the opposite sex or not), and a history of parental or guardian partner 
+1208 Violence Against Women 20(10)
+violence (yes or no). In addition, these models were adjusted for the sampling design
+by blocking on the sampled high school (n = 26).
+Separate logistic regression models were used to estimate aORs by demographic correlates
+(chi-square test of proportions; presented in Table 1). Due to the large sample size
+of this study, only p values of <.0001 were considered statistically significant. Chisquare
+tests of independence were used to compare the demographic distribution for the
+Green Dot across the Bluegrass sample with high school students attending public
+schools in Kentucky in the 2009-2010 academic year (Table 2). Furthermore, state and
+national Youth Risk Behavior Survey (YRBS) data by demographic attributes were used
+to determine how comparable our high school sample was with others using a similar
+data collection methodology. Separate logistic regression models were also used to estimate
+aORs by sex for sexual harassment victimization and perpetration (Table 3).
+Results
+Student Response Rates
+Approximately 88.1% of all students enrolled in the 26 high schools on the day of the
+survey completed a Scantron® form. There were 20,806 students who completed a
+Scantron® form and 23,605 students present on survey day at their school. Of those
+20,806 completing a Scantron®, 82 were parental refusals (0.4%), 1,454 were student
+refusals (7.0%), and an additional 182 students started the survey but completed less
+than 30 of the 95 items (partial refusals, 0.9%), for an overall refusal rate of 8.3%.
+Another 419 students were excluded from further analyses because they were missing
+demographic or other covariate data; and 579 students were excluded because they did
+not complete all sexual harassment items. The total analytic sample was 18,090 students,
+which was 86.9% of the 20,806 completing a Scantron® form.
+Table 1 provides the prevalence rates of any sexual harassment victimization and
+perpetration by demographic characteristics. Rates of both victimization and perpetration
+were higher among underclassmen (freshmen and sophomores) than upperclassmen
+(juniors and seniors). Sexual harassment victimization and perpetration differed
+significantly by race; victimization was higher among non-White students (33.7%)
+compared with White students (29.1%), as was perpetration (11.9% non-White students;
+7.8% White students). The majority (86%) of our sample identified themselves
+as attracted to the opposite sex only. Students who identified themselves as not exclusively
+attracted to the opposite sex had significantly higher rates of victimization
+(40.1%) and perpetration (14.2%) relative to those exclusively attracted to the opposite
+sex. Almost half (42.4%) of the students who disclosed sexual harassment victimization
+answered that they had seen or heard intraparental partner violence. Students
+who had witnessed intraparental partner violence also had higher sexual harassment
+perpetration rates (13.0%) compared with students who had not observed intraparental
+partner violence (6.9%). Students who answered that they were bullied had significantly
+higher rates of sexual harassment victimization (57.2% among those bullied
+more than twice) and perpetration (17.6%). A similar pattern held for bullying others 
+1209
+Table 1. Demographic Profile of High School Students Completing Baseline Survey, by Sexual Harassment Rates.
+Demographic factors All students
+Sexual harassment rates: Victimization and perpetration by risk factor
+Victimization
+rate χ2 df p value
+Perpetration
+rate χ2 df p value
+All students N = 18,090 29.9% 8.5%
+Sex
+Female 9,759 (54.0%) 37.1% 529.96 1 <.0001 5.1% 305.08 1 <.0001
+Male 8,331 (46.0%) 21.4% 12.4%
+Grade
+9th 5,524 (30.6%) 31.6% 79.55 3 <.0001 8.9% 10.63 3 .0389
+10th 4,996 (27.6%) 33.3% 9.1%
+11th 4,650 (25.7%) 26.8% 7.4%
+12th 2,920 (16.1%) 25.7% 8.25%
+Race
+Non-White 3,125 (17.3%) 33.7% 26.48 1 <.0001 11.9% 56.65 1 <.0001
+White 14,965 (82.7%) 29.1% 7.8%
+Received free or reduced price meala
+Yes 7,863 (43.5%) 31.0% 7.45 1 .0063 8.8% 2.04 1 .1528
+No 10,227 (56.5%) 29.1% 8.2%
+Sexual attractionb
+Opposite sex only 15,568 (86.1%) 28.1% 171.17 1 <.0001 7.5% 126.00 1 <.0001
+Same, both sexes, not sure 2,522 (13.9%) 40.1% 14.2%
+Other Risk Factors
+Intraparental partner violencec
+Yes 4,622 (25.6%) 42.4% 462.02 1 <.0001 13.0% 166.72 1 <.0001
+No 13,468 (74.4%) 25.6% 6.9%
+Bullied at schoold
+More than twice 2,042 (11.3%) 57.2% 1,191.80 1 <.0001 17.6% 288.53 2 <.0001
+(continued)
+1210
+Demographic factors All students
+Sexual harassment rates: Victimization and perpetration by risk factor
+Victimization
+rate χ2 df p value
+Perpetration
+rate χ2 df p value
+1-2 times 3,147 (17.4%) 40.5% 10.1%
+Never 12,874 (71.3%) 22.9% 6.6%
+Bullied others at schoold
+More than twice 1,454 (8.0%) 50.6% 634.91 1 <.0001 32.5% 1,321.88 2 <.0001
+1-2 times 3,143 (17.4%) 41.2% 13.0%
+Never 13,472 (74.6%) 25.0% 4.8%
+Binge drinking on more
+than one occasion in past
+monthe
+Yes 4,786 (26.6%) 36.6% 143.36 1 <.0001 14.5% 314.85 1 <.0001
+No 13,184 (73.4%) 27.4% 6.2%
+aReceived free or reduced price meal (breakfast or lunch) [as a proxy for family income]: “Do you receive a free or reduced price meal through your high
+school” with yes/no answer options.
+bSexual attraction: “People are different in their sexual attraction to other people. Which best describes your feelings?” Responses included only attracted to
+females, mostly attracted to females, equally attracted to females and males, mostly attracted to males, only attracted to males, and not sure. A dichotomous variable
+was created to determine exclusively heterosexually oriented students based on students’ responses as well as their sex. Those not reporting that they were
+attracted only to the opposite sex were grouped as not exclusively heterosexual.
+cIntraparental Partner Violence “In your family, how often did you see or hear one of our parents or guardians being hit, slapped, punched, shoved, kicked, or
+otherwise physically hurt by their spouse or partner?” Response options ranged from never to more than 10 times but were dichotomized as yes or no.
+dBeing bullied: “In the past 12 months, how many times have you been bullied by another high school student?” and bullying others “In the past 12 months,
+how many times have you bullied another high school student?” Response options again ranged from never to more than 10 times for both questions.
+e Binge drinking: “In the past month, on how many days did you have 4 (if you are a female) or 5 (if you are a male) or more drinks of alcohol in a row (within
+a couple of hours)?” Response options ranged from I never drink to 20 to 31 days; a dichotomous variable was created to identify those students who reported
+Table 1.
+binge drinking 1 or more days in the past 30.
+(continued)
+Clear et al. 1211
+and sexual harassment victimization and perpetration. This paradigm supports prior
+research literature in terms of the potential overlap of bullying and sexually harassing
+behaviors. Students who reported any binge drinking in the past 30 days had higher
+rates of sexual harassment victimization (36.6%) and perpetration (14.5%) than those
+who did not report binge drinking.
+Table 2 presents comparisons of the demographic profiles for the 18,669 high
+school students surveyed who answered at least 30 questions in the survey with (a) the
+Kentucky Department of Education (KDE) 2009-2010 school year high school population,
+(b) the 2009 YRBS data for the Kentucky high school sample, and (c) the
+national 2009 YRBS data. Unadjusted chi-square statistics and associated p values
+were calculated to compare the demographic distribution of the Green Dot samples
+with the three full populations (KDE) or population-based samples (two YRBS
+samples).
+Female high school students were over-represented (53.5%) in the Green Dot baseline
+data relative to those attending public high schools in Kentucky in 2009-2010 (n
+= 203,614; 48.6% female) and relative to both the Kentucky 2009 YRBS sample (n =
+1,777; 48.7% female) and the national 2009 YRBS sample (n = 16,410; 47.8% female).
+Seniors were under-represented in the Green Dot baseline data relative to the KDE
+populations as well as the Kentucky YRBS and the national YRBS data. There were
+no differences in the proportion of students who were non-White (17.7%) or receiving
+a free or reduced price meal (56.2%) in the Green Dot sample relative to the KDE data
+(17.5% and 55.0%, respectively). Kentucky YRBS data had fewer non-White students
+(14.4%) and, as anticipated, given the racial composition of Kentucky, a significantly
+greater proportion of the YRBS national sample was non-White (41.3%).
+Among the 18,090 students with no missing data (see Table 3), 29.9% disclosed
+experiencing behaviors consistent with sexual harassment victimization. Prevalence
+rates, defined as experiencing one of three sexually harassing behaviors at least 3 or
+more times in the past 12 months, were almost twice as high among females (37.1%)
+than male students (21.4%): aOR = 2.05, p < .0001. A similar pattern of consistently
+higher rates among female relative to male students held for each of the three tactics
+included in the sexual harassment victimization measure. Prevalence rates of sexual
+harassment perpetration were lower (8.5%) than the victimization rates (29.9%).
+Furthermore, the sexual harassment perpetration rate among females (5.1%) was
+lower than that among males (12.4%). This pattern held for all three tactics with aORs
+for females relative to males ranging from .22 to .36 with all aORs being statistically
+significant (p < .0001).
+The co-occurrence rate of sexual harassment victimization and perpetration
+was relatively low; 5.1% of all students reported both, 3.4% perpetration alone,
+24.8% reported victimization alone, and two thirds of the students reported neither
+sexual harassment victimization nor perpetration. Females were significantly less
+likely to report victimization and perpetration (aOR = .60) and perpetration alone
+(aOR = .22), but were more likely to report victimization alone (aOR = 2.50) relative
+to males. A similar model held for each of the three specific sexual harassment
+items.
+1212
+Table 2. Comparison of Green Dot Across the Bluegrass 2010 Survey Demographics With Kentucky Department of Education and YRBS
+2009 State and National Data.
+Total
+GD KDE GD v KDE
+YRBS-KY
+2009 GD v YRBS-KY
+YRBS-US
+2009 GD v YRBS-US
+n n n n
+18,669 % 203.614 % χ2 df p value 1.777 % χ2 df p value 16.410 % χ2 df p value
+Sex
+Females 9,995 53.5 98.886 48.6 116.21 1 .0001 865 48.7 15.39 1 .0001 7.844 47.8 115.00 1 .0001
+Males 8,674 46.5 104.728 51.4 912 51.3 8,566 52.2
+Grade
+9th 5,676 30.4 56,506 27.8 251.09 3 .0001 503 28.3 19.20 3 .001 4,611 28.1 110.30 3 .001
+10th 5,159 27.6 52,725 25.9 464 26.1 4,299 26.2
+11th 4,847 26.0 48,703 23.9 421 23.7 3,856 23.5
+12th 2,987 16.0 45,680 22.4 389 21.9 3,643 22.2
+Race
+Non-White 3,300 17.7 35,632 17.5 0.37 1 ns 256 14.4 12.08 1 .001 6,777 41.3 2,380.07 1 .0001
+White 15,369 82.3 167,982 82.5 1,521 85.6 9,633 58.7
+Received free/reduced cost meal
+Yes 10,499 56.2 111,988 55.0 10.59 1 <.01
+No 8,170 43.8 91,626 45.0
+Note. KDE = Kentucky Department of Education; GD = Green Dot Across the Bluegrass; YRBS = Youth Risk Behavior Survey.
+Clear et al. 1213
+In summary, perpetration and victimization rates were significantly higher among
+underclassmen, non-White students, students who identified as not exclusively
+attracted to the opposite sex, those who witnessed parental partner violence, students
+who were bullied and who bullied others, and students who reported binge drinking.
+Table 3. Frequency of Sexual Harassmenta
+ in the Past 12 months by Tactic and Sex.
+Sexual harassment victimization:
+“Someone did this to you”
+Adjustedb sex difference
+in rate
+All Students
+N = 18,090
+Females
+n = 9,759
+Malesc
+n = 8,331 aOR (χ2
+df = 1) p value
+Any Sexual Harassment Perpetration 8.5% 5.1% 12.4% .32 (20.95) <.0001
+Tell sexual stories or jokes that made
+another student uneasy
+5.5% 3.5% 7.8% .36 (20.31) <.0001
+Made gestures, rude remarks, or use
+body language to embarrass or upset
+another
+4.6% 2.4% 7.2% .27 (20.67) <.0001
+Kept asking another student out on a
+date or ask to hookup although they
+said “No”
+2.4% 1.1% 3.9% .22 (20.24) <.0001
+Co-Occurrence: Victimization and
+Perpetration aOR (χ2
+df = 1) p value
+Any Sexual Harassment Perpetration and
+Victimization
+5.1% 3.9% 6.5% .60 (51.93) <.0001
+Perpetration Sexual Harassment Alone 3.4% 1.2% 5.9% .22 (202.37) <.0001
+Victimization Sexual Harassment Alone 24.8% 33.3% 14.9% 2.50 (563.27) <.0001
+No Perpetration or Victimization 66.7% 61.6% 72.7% 1.00 (REF)
+Tell sexual stories or jokes: Perpetration
+and Victimization
+2.2% 1.6% 2.8% .52 (37.15) <.0001
+Perpetration Sexual Harassment Alone 3.3% 1.9% 5.0% .34 (135.93) <.0001
+Victimization Sexual Harassment
+Alone
+12.7% 16.3% 8.4% 1.90 (171.67) <.0001
+No Perpetration or Victimization 81.9% 80.2% 83.8% 1.00 (REF)
+Made gestures, rude remarks, or use
+body language: Perpetration and
+Victimization
+1.7% 1.1% 2.3% .42 (49.57) <.0001
+Perpetration Sexual Harassment Alone 3.0% 1.3% 4.9% .24 (182.08) <.0001
+Victimization Sexual Harassment
+Alone
+9.7% 13.1% 5.7% 2.22 (195.83) <.0001
+No Perpetration or Victimization 85.7% 84.5% 87.2% 1.00 (REF)
+Kept asking another student out on a
+date: Perpetration and Victimization
+1.1% 0.7% 1.5% .42 (30.19) <.0001
+Perpetration Sexual Harassment Alone 1.3% 0.4% 2.4% .18 (97.45) <.0001
+Victimization Sexual Harassment
+Alone
+17.1% 24.1% 8.9% 3.01 (575.54) <.0001
+No Perpetration or Victimization 80.5% 74.8% 87.2% 1.00 (REF)
+a
+Proportion reported as percentages occurring 3 or more times in the past 12 months.
+bAdjusted odds ratio estimate comparing females versus males adjusting for grade, received a free or reduced price
+meal, being in a dating relationship in the past 12 months, race, sexual attraction, intraparental partner violence, and
+study design (blocked by high school).
+cReferent Group.
+1214 Violence Against Women 20(10)
+Discussion
+Prior research in high school settings suggested that sexual harassment was a significant
+problem (Hill et al., 2011). One in three female students and one in five male
+students completing a survey for our large, cross-sectional study disclosed sexual
+harassment victimization. To the best of our knowledge, this was the largest population-based
+study to document the prevalence of sexual harassment perpetration. As
+anticipated, rates of sexual harassment were significantly lower for perpetration
+(8.5%) than for victimization (29.9%). Furthermore, although sexual harassment victimization
+rates were higher among females (37.1%) than males (21.4%), the inverse
+pattern was observed for perpetration by gender (females 5.1%; males 12.4%).
+Because there were no comparable data, we could not infer that our findings were
+similar to previously published results. However, we did find that a significant proportion
+of students were reporting harassment that had occurred 3 or more times, indicating
+that sexual harassment is a chronic problem in high schools.
+The findings of this study are consistent with limited research that has found males
+more likely to be perpetrators of sexual harassment against females (Fitzgerald et al.,
+1999; Stein, 1993; Strauss & Espeland, 1992). Males were significantly more likely
+than females to engage in sexually harassing behaviors, and females were more likely
+to report victimization. Similar to our findings, Hill et al. (2011) found that males were
+more likely than females to admit they had sexually harassed other students (18%
+males vs. 14% females).
+Our study found a significantly higher rate of both sexual harassment victimization
+and perpetration among those not exclusively attracted to the opposite sex, which is
+consistent with reports by Fineran (2001). Students identifying as a sexual minority
+are known to be at increased risk of substance abuse and suicide ideation (Russell,
+2003; Savin-Williams, 1994). Careful attention should be given to the unique needs of
+this potentially vulnerable group of adolescents.
+The co-occurrence of both victimization and perpetration of sexual harassment
+should be noted. Two studies reported that the majority (80% males and 92% of females)
+of students who disclosed that they had sexually harassed another were harassed themselves
+(Fineran & Bolen, 2006; Hill et al., 2011). Our findings were similar; of the 8.5%
+who disclosed sexual harassment of others, 60.2% were also sexually harassed themselves
+(75.8% of females and 52.7% of males who harassed others). These consistent
+observations suggest that intervention efforts to target sexual harassment perpetration
+likely have benefits for reducing sexual harassment victimization rates, as well as
+potentially other forms of interpersonal dating and sexual violence.
+Prevention interventions aimed at high school students could improve the consequences
+of violence. Prevention interventions with a much younger population are
+warranted given that freshman and sophomore students had the highest sexual harassment
+victimization and perpetration rates. Furthermore, our observation of high sexual
+harassment rates (42.4% sexual harassment victimization and 13.0% perpetration)
+among those disclosing intraparental partner violence strongly suggests that patterns
+of family violence directly affect children’s aggressive behaviors and their own risk of 
+Clear et al. 1215
+sexual harassment. Efforts to target aggressive behaviors such as bullying and sexual
+harassment that may be on the continuum toward dating and sexual violence could
+have an impact in reducing the longer-term mental and physical health consequences
+of these more severe forms of gender-based aggression. Clearly, adolescents raised in
+homes where partner violence was witnessed (25% of our sample) are an important
+focus of intervention attention for early sexual harassment prevention intervention.
+Bullying in schools is recognized as an important threat to students’ mental health
+and academic achievement. Rates of bullying in this high school population (28.7%
+victimization in the past 12 months) were similar to rates of sexual harassment victimization
+(29.9%). Students who disclosed being bullied also disclosed sexual harassment.
+Similarly, those who bullied others also disclosed sexually harassing others (see
+also Pepler et al., 2006). Events to reduce risk of bullying and sexual harassment have
+important implications for sexual and dating violence prevention. With an increase in
+cyber harassment and other “virtual” ways to sexually harass, new prevention efforts
+are needed. This will be difficult, however, in a school environment where school officials
+are unaware of or unable to monitor the electronic communications of students.
+Strengths and Limitations
+The demographic distribution of this sample was comparable with students attending
+public high schools in this state; yet, the race distribution differed markedly for the
+United States as a whole. To the extent that rates of sexual harassment differed by race,
+our rates of sexual harassment may not be representative of rates generalized across
+the United States.
+As anticipated, females were more likely than males to agree to participate in this
+study, which addressed dating and sexual violence. This was possibly due to females
+seeing themselves as being at greater risk of gender-based violence. We did observe
+higher rates of sexual harassment victimization among females, but higher sexual
+harassment perpetration by males. Thus, the gender-specific rates of sexual harassment
+are a more accurate reflection of population-based rates given different response
+rates by gender.
+It is worth noting that we used a somewhat conservative definition of sexual harassment
+in that we required that the specific behavior needed to have occurred at least 3
+or more times in the past 12 months. Therefore, our sexual harassment rates may be
+lower than others using a less restrictive definition.
+Conclusion
+This was the largest population-based study to provide sexual harassment victimization
+and perpetration rates by students’ self-reported sexual attraction, intraparental
+partner violence, bullying, and binge drinking. We found that females were more
+likely to self-disclose sexual harassment victimization, and males were more likely to
+self-report sexual harassment perpetration. Although schools have sexual harassment
+policies in place, awareness of what types of behaviors constitute sexual harassment, 
+1216 Violence Against Women 20(10)
+as well as prevention interventions at earlier ages, could reduce the rates of these negative
+behaviors that are affecting so many students.
+Authors’ Note
+The findings and conclusions in this report are those of the authors and do not necessarily represent
+the official position of the Centers for Disease Control and Prevention.
+Acknowledgments
+The authors would like to acknowledge everyone across the Commonwealth of Kentucky who
+contributed to this research. The authors also wish to thank Dr. Sheila Clyburn for her comments
+and suggestions on preparing the article.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect to the research, authorship,
+and/or publication of this article.
+Funding
+The author(s) disclosed receipt of the following financial support for the research, authorship,
+and/or publication of this article: Research was supported by the Centers for Control and Disease
+Prevention Cooperative Agreement 5U01CE001675.
+References
+Attar-Schwartz, S. (2009). Peer sexual harassment victimization at school: The roles of student
+characteristics, cultural affiliation, and school factors. American Journal of Orthopsychiatry,
+79, 407-420.
+Bagley, C., Bolitho, F., & Bertrand, L. (1997). Sexual assault in school, mental health, and suicidal
+behaviors in adolescent women in Canada. Adolescence, 32, 361-366.
+Basile, K. C., & Saltzman, L. E. (2002). Sexual violence surveillance: Uniform definitions and
+recommended data elements version 1.0. Atlanta, GA: Centers for Disease Control and
+Prevention, National Center for Injury Prevention and Control. Retrieved from http://www.
+cdc.gov/ViolencePrevention/pub/SV_surveillance.html
+Centers for Disease Control and Prevention. (2009). 2009 Youth Risk Behavior Survey. Retrieved
+from http://www.cdc.gov/mmwr/PDF/rr/rr5312.pdf
+Chiodo, D., Wolfe, D. A., Crooks, C., Hughes, R., & Jaffe, P. (2009). Impact of sexual harassment
+victimization by peers on subsequent adolescent victimization and adjustment: A longitudinal
+study. Journal of Adolescent Health, 45, 246-252.
+Corbett, K., & Gentry, C. S. (1993). Sexual harassment in high school. Youth & Society, 25,
+93-103.
+Fineran, S. (2001). Peer sexual harassment in high school. Journal of School Social Work,
+11(2), 50-69.
+Fineran, S., & Bennett, L. (1999). Gender and power issues of peer sexual harassment among
+teenagers. Journal of Interpersonal Violence, 14, 626-641.
+Fineran, S., & Bolen, R. M. (2006). Risk factors for peer sexual harassment in schools. Journal
+of Interpersonal Violence, 21, 1169-1190.
+Clear et al. 1217
+Fitzgerald, L. F., Magley, V. J., Drasgow, F., & Waldo, C. R. (1999). Measuring sexual
+harassment in the military: The Sexual Experiences Questionnaire (SEQ-DoD). Military
+Psychology, 11, 243-243.
+Gadin, K. G., & Hammarstrom, A. (2005). A possible contributor to the higher degree of girls
+reporting psychological symptoms compared with boys in grade nine? European Journal
+of Public Health, 15, 380-385.
+Hand, J. Z., & Sanchez, L. (2000). Badgering or bantering? Gender differences in experience
+of, and reactions to, sexual harassment among U.S. high school students. Gender & Society,
+14, 718-746.
+Harris, & Associates, Inc. (1993). Hostile hallways: The AAUW survey on sexual harassment in
+America’s schools. New York: Author.
+Hill, C., & Kearl, H., & American Association of University Women. (2011). Crossing the
+line: Sexual harassment at school (No. 978-1-8799-2241-9). Washington, DC: American
+Association of University Women.
+Langelan, M. J. (1993). Back off. New York: Simon & Schuster.
+Lee, V. E., Croninger, R. G., Linn, E., & Chen, X. (1996). The culture of sexual harassment in
+secondary schools. American Educational Research Journal, 33, 383-417.
+Lipson, J., & American Association of University Women Educational Foundation. (2001).
+Hostile hallways: Bullying, teasing, and sexual harassment in school. Washington, DC:
+American Association of University Women.
+Martin, J. L. (2008). Peer sexual harassment: Finding voice, changing culture—An intervention
+strategy for adolescent females. Violence Against Women, 14, 100-124.
+McMaster, L. E., Connolly, J., Pepler, D., & Craig, W. (2002). Peer to peer sexual harassment
+in early adolescence: A developmental perspective. Development and Psychopathology,
+14, 91-105.
+Nansel, T. R., Overpeck, M., Pilla, R. S., Ruan, W. J., Simons-Morton, B., & Scheidt, P. (2001).
+Bullying behaviors among U.S. youth: Prevalence and association with psychosocial
+adjustment. Journal of the American Medical Association, 285, 2094-2100.
+Ormerod, A. J., Collinsworth, L. L., & Perry, L. A. (2008). Critical climate: Relations among
+sexual harassment, climate, and outcomes for high school girls and boys. Psychology of
+Women Quarterly, 32, 113-125.
+Pepler, D. J., Craig, W. M., Connolly, J. A., Yuile, A., McMaster, L., & Jiang, D. P. (2006). A
+developmental perspective on bullying. Aggressive Behavior, 32, 376-384.
+Permanent Commission on the Status of Women. (1995). In our own backyard: Sexual harassment
+in Connecticut’s public high schools. Hartford, CT: Author.
+Robers, S., Zhang, J., Truman, J., Department of Justice, & National Center for Education
+Statistics. (2012). Indicators of school crime and safety: 2011 (NCES 2012-002/NCJ
+236021). Washington, DC: National Center for Education Statistics.
+Russell, S. T. (2003). Sexual minority youth and suicide risk. American Behavioral Scientist,
+46, 1241-1257.
+Sagrestano, L. (2009). Nowhere to hide: A look at the pervasive atmosphere of sexual harassment
+in Memphis middle and high schools. Memphis, TN: University of Memphis. Center
+for Research on Women.
+Salmivalli, C., Kaukiainen, A., Kaistaniemi, L., & Lagerspetz, K. M. (1999). Self-evaluated
+self-esteem, peer-evaluated self-esteem, and defensive egotism as predictors of adolescents’
+participation in bullying situations. Personality and Social Psychology Bulletin, 25,
+1268-1278.
+1218 Violence Against Women 20(10)
+Savin-Williams, R. C. (1994). Verbal and physical abuse as stressors in the lives of lesbian, gay
+male, and bisexual youths: Associations with school problems, running away, substance
+abuse, prostitution, and suicide. Journal of Consulting Clinical Psychology, 62, 261-269.
+Stein, N. D., Marshall, N. L., & Tropp, L. R. (1993). Secrets in public: Sexual harassment in our
+schools. Wellesley, MA: Center for Research on Women, Wellesley College.
+Stein, N. D., & Mennemeier, K. A. (2011). Addressing the gendered dimensions of harassment
+and bullying: What domestic and sexual violence advocates need to know. Harrisburg, PA:
+National Resource Center on Domestic Violence & the National Sexual Violence Resource
+Center. Available from http://www.vawnet.org
+Strauss, S., & Espeland, P. (1992). Sexual harassment and teens. Minneapolis, MN: Free Spirit.
+Swearer, S. M., & Espelage, D. L. (2011). Bullying in North American schools. New York:
+Routledge.
+U.S. Department of Education, Office for Civil Rights. (1997). Sexual harassment guidance.
+Retrieved from http://www2.ed.gov/about/offices/list/ocr/docs/sexhar00.html
+U.S. Department of Education, Office for Civil Rights. (2008). Sexual harassment: It’s not
+academic. Retrieved from http://www2.ed.gov/about/offices/list/ocr/docs/ocrshpam.html
+U.S. Equal Employment Opportunity Commission. (2009). Facts about sexual harassment.
+Retrieved from http://www.eeoc.gov/eeoc/publications/fs-sex.cfm
+Witkowska, E., & Kjellberg, A. (2005). Dimensions of peer sexual harassment in Swedish high
+schools: What factor structures show the best fit to girls’ and boys’ self-reports? Sex Roles,
+53, 677-687.
+Author Biographies
+Emily R. Clear, MPH, CHES, is a research coordinator in the Department of Obstetrics and
+Gynecology in the College of Medicine at the University of Kentucky. Her research interests
+include dating and sexual violence among adolescents as well as health effects of various forms
+of violence against women.
+Ann L. Coker, PhD, MPH, is a professor in the Department of Obstetrics and Gynecology in
+the College of Medicine and in the Department of Epidemiology in the College of Public Health
+at the University of Kentucky. She holds the Verizon Wireless Endowed Chair in the Center for
+Research on Violence Against Women. Her current research focuses on prevention interventions
+to reduce the impact of violence against women.
+Patricia G. Cook-Craig, MSSW, PhD, is an associate professor at the University of Kentucky
+College of Social Work. Her research interests include evaluation of violence prevention planning
+processes and intervention strategies. In addition, she is particularly interested in testing
+models of diffusion of interventions in peer and professional networks.
+Heather M. Bush, PhD, is an associate professor in the Department of Biostatistics in the
+College of Public Health at the University of Kentucky. Her current research focuses on utilizing
+statistical methodology and data visualization to better understand complex relationships.
+Lisandra S. Garcia, MPH, is a research coordinator in the Department of Obstetrics and
+Gynecology in the College of Medicine at the University of Kentucky. Her research interests
+reside primarily in the epidemiology of women’s health and in understanding the prevalence
+and effects of violence against women in the Hispanic population of the United States.
+Corrine M. Williams, ScD, is an assistant professor in obstetrics and gynecology and health
+behavior at the University of Kentucky. Her research career has focused on the effects of 
+Clear et al. 1219
+various forms of violence on women’s health, specifically understanding the role of violence
+against women in reproductive control and decision making, including patterns of contraceptive
+use and health outcomes such as unintended pregnancy and sexually transmitted infections.
+Alysha M. Lewis, MPH, is a research assistant in the department of obstetrics and gynecology
+at the University of Kentucky. Her research interests include maternal and adolescent reproductive
+health concerns among diverse populations.
+Bonnie S. Fisher, PhD, is a professor in the School of Criminal Justice at the University of
+Cincinnati, Cincinnati, Ohio. Her research focuses on the extent and nature of victimization of
+college women, including repeat sexual victimization and alcohol- and drug-enabled sexual
+assault. Recently, she, along with researchers from the University of Kentucky and University
+of South Carolina, designed and implemented a multicampus evaluation of interventions to
+prevent dating, sexual, and stalking victimization among college students; they are currently
+analyzing students’ survey data.

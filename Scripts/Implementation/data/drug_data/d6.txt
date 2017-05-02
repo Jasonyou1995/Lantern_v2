@@ -1,0 +1,526 @@
+Aggression and Violent Behavior 23 (2015) 137–146
+    Contents lists available at ScienceDirect Aggression and Violent Behavior
+  Prevalence rates of drug use among school bullies and victims: A systematic review and meta-analysis of cross-sectional studies
+Sara Valdebenito ⁎, Maria Ttofi, Manuel Eisner Institute of Criminology, University of Cambridge, United Kingdom
+         article info
+Article history:
+Received 2 April 2015 Accepted 13 May 2015 Available online 20 May 2015
+Keywords:
+Systematic review Meta-analysis
+Bullying
+Drug use Cross-sectional studies
+Contents
+1. Introduction..............
+1.1. Bullyinganddruguse:theoreticalperspectives........................................... 138 1.2. Thecurrentreview ....................................................... 139
+2. Methods............................................................... 139
+2.1. Searchstrategies ........................................................ 139
+2.2. Criteriaforinclusionorexclusionofreports ............................................ 139
+2.3. Combiningeffectsizeswithinareportrelatingtothesameoutcomemeasure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139
+3. Results................................................................ 139
+3.1. Systematicreview........................................................ 139
+3.2. Meta-analysis.......................................................... 140
+3.2.1. Theassociationbetweenbullyingperpetrationatschoolanddruguse . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140 3.2.2. Bullyingperpetrationatschoolanddruguse:publicationbiasanalysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140 3.2.3. Theassociationbetweenschoolbullyingvictimisationanddruguse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142 3.2.4. Bullyingvictimisationatschoolanddruguse:publicationbiasanalysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142
+4. Discussion .............................................................. 142 4.1. Conclusionsandimplicationsforpolicyandpractice ........................................ 142 4.2. Limitationsandfutureresearch.................................................. 143
+Declarationofinterest............................................................ 144 Appendix. ............................................................... 144 References................................................................. 145
+⁎ Corresponding author. Tel.: +44 1223767373. E-mail address: sv331@cam.ac.uk (S. Valdebenito).
+http://dx.doi.org/10.1016/j.avb.2015.05.004
+1359-1789/© 2015 Elsevier Ltd. All rights reserved.
+abstract
+Bullying is a common aggressive behaviour in school, with a number of cross-sectional studies showing that it ex- hibits a high comorbidity with other problem behaviours. The present study aims to estimate the comorbidity of school bullying (perpetration and victimisation) with drug use by incorporating and meta-analysing all available ev- idence on the cross-sectional association between the two variables. Meta-analytic results are based on a compre- hensive systematic review across 20 databases and 46 journals. A total of 61 relevant manuscripts were included in the systematic review. Following explicit methodological criteria for the inclusion/exclusion of reports, 13 of them were eligible for the meta-analysis. The association of school bullying perpetration with drug use (adjusted odds ratio OR = 2.82; 95% CI 1.97–4.02; z = 5.71; p b .001) suggests a very strong relationship. For example, if a quarter of children were bullies and a quarter were drug users, this value of the OR would correspond to 40.88% of bullies being also drug users, compared with 19.71% of non-bullies. The association of school bullying victimisation with drug use (adjusted odds ratio OR = 1.79; 95% CI 1.38–2.32; z = 4.41; p b .001) suggests a mod- erate relationship. For example, if a quarter of children were victims and a quarter were drug users, this value of the OR would correspond to 33.69% of bullied youth also being drug users, compared with 22.1% of non-bullied youth. Adjusted effect sizes are based on study findings that used statistical controls for confounding variables, thus provid- ing the unique association of school bullying with drug use over and above other important risk factors that may ex- plain this association. Implications for policy and intervention research arising from this review are highlighted.
+© 2015 Elsevier Ltd. All rights reserved.
+     ................................................ 138
+ 
+138 S. Valdebenito et al. / Aggression and Violent Behavior 23 (2015) 137–146
+1. Introduction
+Bullying is one of the most prevalent forms of aggression in school (Nansel et al., 2001). It includes a range of direct (e.g., physical damage, injurious words, threats) and indirect behaviours (e.g., rumours or re- jection of victims) characterised by being intentional, repeated over time and performed in a context of power imbalance (CDC, 2014). Al- though the prevalence varies among countries and cultures, a general trend seems to indicate that between 20% and 30% of schoolchildren are involved in school bullying (Craig et al., 2009; Juvonen, Graham, & Schuster, 2003).
+Bullying has been the focus of intervention efforts not only because of the problematic nature of the behaviour per se, but also because of its adverse effects on children's physical and psychosocial health (Fekkes, Pijpers, Fredriks, Vogels, & Verloove-Vanhorick, 2006; Gini & Pozzoli, 2009). Notably, longitudinal studies and meta-analyses suggest that bullies are more likely to develop symptoms of depression (e.g., Ttofi, Farrington, Lösel, & Loeber, 2011a) and to be involved in de- linquency (e.g., Ttofi, Farrington, Lösel, & Loeber, 2011b) as well as in vi- olence (e.g., Ttofi, Farrington, & Lösel, 2012).
+Furthermore, the cross-sectional evidence suggests that bullying can be correlated and co-occur along with other hazardous behaviours which can seriously interfere with the psychosocial development of chil- dren (Farrington, 1993, 2005; Loeber, Farrington, Stouthamer-Loeber, & Van Kammen, 1998). This includes, for instance, low self-esteem, depression, anxiety, delinquency, weapon carrying and drug use (Bradshaw, Waasdorp, Goldweber, & Johnson, 2013; Pranjic & Bajraktarevic, 2010; Ttofi & Farrington, 2008).
+This paper examines the link between school bullying and drug use. Both are prevalent problem behaviours during the school years and both of them are correlated with a broad array of negative developmen- tal outcomes (Luk, Wang, & Simons-Morton, 2012), highlighting the need for intervening early and addressing both of these risk factors which may function as a stepping stone towards other problem behav- iours in adult life (Ttofi et al., 2012). Both factors, for instance, impact negatively the academic development (Beran, Hughes, & Lupart, 2008; Schwartz, 2000) and general mental health (Birkett, Espelage, & Koenig, 2009; Fleming & Jacobsen, 2009b; Roland, 2002; Waters, Wake, Toumbourou, Wright, & Salmon, 1999; Wei, Williams, Chen, & Chang, 2010) of children.
+Despite a growing body of cross-sectional research on the link be- tween drug use and bullying behaviour during school years (Brown, Riley, Butchart, & Kann, 2008; Moon & Alarid, 2014; Niemelä et al., 2011), no previous meta-analysis has been conducted to systematically synthesize relevant evidence and to identify the magnitude and the di- rection of this association. The current paper addresses this gap by meta-analysing results from existing published and unpublished stud- ies following a comprehensive systematic review. This meta-analytic in- vestigation has obvious implications for intervention research. To the extent that a significant association between school bullying and drug use can be established, then it may be inferred that effective bullying prevention programmes could be viewed as an effective intervention strategy for the reduction of school bullying and other co-occurring problem behaviours, including drug use.
+1.1. Bullying and drug use: theoretical perspectives
+It is difficult to determine the exact prevalence of bullying involve- ment and drug use as a comorbid phenomenon, due to varying sam- pling and other methodological features across available studies. Luk et al. (2012) found that 5.4% of adolescents [Mage = 14.2; SD = 1.42] displayed a co-morbid condition, while Radliff, Wheaton, Robinson, and Morris (2012) found co-morbidity for 4.9% of high school students and for 1.6% of middle schoolchildren. In a sample of adolescents [Mage = 15.3; SD = 1.58], Garcia Continente, Pérez Giménez, and
+Nebot Adell (2010) found that 7% of boys and 9.6% of girls displayed a co-morbid condition.
+Prevalence rates of drug use also vary between school students who are involved in different bullying roles as perpetrators, victims or bully- victims. Evidence suggests that perpetrators are overrepresented in drug consumption categories compared with non-bullies (Kaltiala- Heino, Rimpelä, Rantanen, & Rimpelä, 2000). Victims are also more like- ly to use drugs compared to non-involved individuals; however, preva- lence rates are higher for perpetrators than victims of school bullying. For instance, Radliff et al. (2012) concluded that 11.4% of bullies report- ed marijuana use, compared with only 2% of victims and 1% of non- involved children. Comparable evidence is available from another American survey (Bradshaw et al., 2013), asserting that bullies are two times more likely to use drugs (OR = 2.77; 95% CI 2.4–3.2; p b .001) compared with non-involved students, while the association for victims is much weaker (OR = 1.30; 95% CI 1.1–1.5 p b .001).
+A more restricted body of research has collected information for a special group of victims who also display aggressive behaviours, known as bully-victims. The link between drug use and aggressive vic- tims is less conclusive in the literature. While Kaltiala-Heino et al. (2000) and Bradshaw et al. (2013) suggest a high association between those acting as bully-victims and drug use (with OR = 7.1; 95% CI 4.1– 12.2 and OR = 3.4; 95% CI 3.1–4.4; p b .001 accordingly), the conclusion of Niemelä et al. (2011) does not support such findings (OR = 0.3; 95% CI .04–2.6; p b .05).
+The literature offers various theoretical explanations for the link between school bullying and drug use. A notable body of research argues that drug use may function as a coping mechanism against the experience of stressful life events, including school bullying and peer victimisation. Coping theory proposes that adolescents engage in high risk behaviours in response to increased negative af- fects resulting from exposure to victimisation (Lazarus, 1993). Since bullying is characterised by repeated aggressive acts over time against less powerful (physically or emotionally) individuals, it is plausible that victims of school bullying may engage in sub- stance use as a (maladaptive) way of coping with their negative school experiences.
+A similar theoretical framework is that of Agnew's (1992) general strain theory of crime and deviance, which has been used in school bul- lying research to explain the higher prevalence of self-harm exhibited by victims as compared to non-victimised students (Hay & Meldrum, 2010). Both coping theory and general strain theory could explain the higher prevalence of substance use among school bullies. Specifically, a recent systematic review and meta-analysis of 153 studies (Cook, Williams, Guerra, Kim, & Sadek, 2010:75) concluded that bullies tend to present negative self-related cognitions, come from a conflictive fam- ily environment characterised by poor parental monitoring, and are more likely to perceive the school as having a negative atmosphere. In that context, it may be argued that the ‘typical bully’ is more likely to be involved in drug use as a way to cope with stressful life experiences within the family and school.
+Another theoretical model suggests that substance use functions as a trigger for subsequent aggression and violence due to physiological changes (Yudko, Blanchard, Henrie, & Blanchard, 1997) or due to the in- volvement of drug users with deviant/delinquent groups (Bui, Ellickson, & Bell, 2000). In particular, Goldstein (1985) argued in favour of a causal link of drug use on crime based on three mechanisms: (1) drug users become more irrational which can trigger off violent behaviours (psy- chopharmacological explanation), (2) drug users can be compelled to commit crime in order to finance their consumption (economic expla- nation), and (3) violent behaviours in drug users are the result of their participation in the illegal drug market (systemic explanation). While any argument about a causal link between bullying and drug use can only be supported by better quality methodological criteria such as by evidence from within-individual analyses and longitudinal research (Murray, Farrington, & Eisner, 2009), the focus of the current paper is
+to synthesize all available cross-sectional evidence and establish the prevalence rates of drug use among school bullies and victims com- pared with non-involved students.
+Some of the above theoretical frameworks could be transferred to the school setting in order to explain the co-occurrence of drug use and bullying behaviour. Goldstein's economically compulsive frame- work could explain networks supporting drug distribution within schools, while the systemic framework is in line with existing research on the deviant lifestyle of both drug users and school bullies. Copying theory may be a plausible framework explaining why bullies and their victims may engage in drug use to begin with, although alternative the- oretical models could shed light on other aspects of this phenomenon (e.g. differential association theory, explaining how children learn prob- lem behaviour from associations with delinquent peers).
+All in all, children involved in school bullying as perpetrators or vic- tims are children in need. Irrespective of whether children do drugs in order to cope with stressful life events or simply because of their antiso- cial lifestyle, research efforts should be invested in understanding the extant magnitude of this phenomenon. This paper aims to address this by synthesizing all available scientific evidence arising from cross- sectional studies.
+1.2. The current review
+This paper aims to produce a standardised effect size on the associ- ation between bullying and drug use based on a thorough systematic review and meta-analysis. Two summary effect sizes will be reported: one on the association of bullying perpetration with drug use; and one on the association of bullying victimisation with drug use. To the best of our knowledge, there are no previous meta-analyses based on cross-sectional studies intending to summarise findings on the drug- bullying link.
+The study is guided by the following research questions:
+• What is the size and direction of the association between school bul- lying and drug use?
+• Are victims of school bullying more likely to score highly on drug use when compared with non-involved children?
+• Areperpetratorsofschoolbullyingmorelikelytoscorehighlyondrug use when compared with non-involved children?
+• Is the bullying-drug link stronger for perpetrators or victims?
+• Aretheregender-specificeffects?Inotherwords,doesbullyinghavea
+stronger impact on boys than girls?
+• Are there ethnic-specific effects?
+2. Methods
+2.1. Search strategies
+In order to identify all possibly relevant studies and control for publication bias, an extensive search was carried out. We explored 20 databases, including searches on manuscripts produced in Latin American and other Spanish-speaking countries. In an attempt to target the grey literature (Wilson, 2009), our searches cover also databases specific to unpublished graduate theses (e.g., Ethos- Electronic Theses Online Service). We also conducted hand searches in all volumes of 46 journals. Bibliographies from earlier narrative re- views were also checked.
+2.2. Criteria for inclusion or exclusion of reports
+Studies included in the meta-analysis met the following criteria:
+• We targeted manuscripts measuring school bullying rather than other general forms of aggression. Papers on bullying within other settings, such as bullying at work, or other manifestations of victimisation or
+violence (e.g., fights, school shouting) outside or inside the school
+were excluded (Lambert, Scourfield, Smalley, & Jones, 2008).
+• In terms of the time frame, databases and journals were searched
+from inception to the end of 2014.
+• Included studies provided a statistical measure of the association be-
+tween bullying (victimisation and/or perpetration) and drug use. For this meta-analysis, drug use refers to hard drugs, for instance cocaine and/or inhalants (e.g., Kaltiala-Heino et al., 2000), or softer drugs such as marijuana/cannabis (e.g., Liang, Flisher, & Lombard, 2007). Studies reporting on combined measures of alcohol or cigarette use plus drugs (e.g., Carlyle & Steinman, 2007) were excluded. Similarly, studies reporting on other unspecified substances were excluded (i.e., Gruber & Fineran, 2007).
+• Included studies sampled children and adolescents from mainstream schools so that results are generalisable to the wider school popula- tion. Studies reporting measures for adults (e.g., Bebbington et al., 2004) or psychiatric inpatients (e.g., Luukkonen, 2010) were exclud- ed.
+• As cross-sectional studies are particularly suitable for estimating the prevalence of behaviours (Levin, 2006; Sedgwick, 2014), the present study focused only on cross-sectional research, including reports with adjusted measures of the targeted association. When the report provided adjusted and unadjusted data, we only used adjusted results for the meta-analysis.
+• Sources included were book chapters (e.g., Pepler, Craig, Connolly, & Henderson, 2002) journal articles, and academic MSc and PhD theses (e.g., Edwards, 2002).
+Appendix Table A presents the studies that were excluded from the meta-analysis as well as justifications on why this decision was reached.
+2.3. Combining effect sizes within a report relating to the same outcome measure
+In some cases reports presented more than one effect size that could be coded. For instance, some reports presented the same outcome for different groups of respondents (subgroups within the study), namely boys and girls (e.g., Pepler et al., 2002), or middle and high school stu- dents (e.g., Radliff et al., 2012) or respondents from different ethnic groups (e.g., Fernando, 2009). In these cases, the results were combined in a single summary effect size for each study under investigation.
+Additionally, some studies reported separate results for pupils who were bully-victims. Since the number of studies was limited (four stud- ies), we did not meta-analyse results for this category (e.g., comparing bully-victims and non-involved children). However, following the criteria used in previous studies (e.g., Ttofi et al., 2012) bully-victims were added (combined) to both bullies and victims categories so that the increase in the prevalence of each category was proportionate.
+3. Results
+3.1. Systematic review
+Initial online searches resulted in hundreds of hits, but only 61 re- ports were relevant to the aims of our systematic review, namely reports with relevant data on both school bullying (perpetration and/or victimisation) and drug use. Upon further screening of the full text of these reports, it was established that the majority were not be included in the meta-analyses, because they did not provide an adjusted effect size on the association of drug use with either school bullying (perpetration and/ or). The meta-analyses included studies that investigated the rela- tionship between school bullying (perpetration and/or victimisation) and drug use after controlling for other childhood risk factors (e.g. child, parental, child-rearing, peer, school, socio-economic and neighbourhood variables) that are significantly correlated with school
+S. Valdebenito et al. / Aggression and Violent Behavior 23 (2015) 137–146 139
+140 S. Valdebenito et al. / Aggression and Violent Behavior 23 (2015) 137–146
+Table 1
+Characteristics of studies included in the systematic review.a Systematic review
+systematic review, only one was based on multi-informant measures. In terms of the role played by schoolchildren in bullying, most of the studies encompassed measures for victims (46%) or bullies (15%) only. Thirty nine per cent of the studies measured more than two roles (e.g., bullies, victims and/or bully-victims).
+Table 2 reports all manuscripts included in the meta-analyses and relevant effect sizes for each report. Not all studies provided both mea- sures of association (bullying perpetration with drug use and bullying victimisation with drug use). Table 2 also presents covariates that were used in statistical controls across studies in order to provide the adjusted and un-confounded effect size on the drug-bullying associa- tion. The variability in statistical controls used across studies is evident, with some studies controlling for basic demographic measures (e.g. Brown et al., 2008) while other studies controlling for a notable number of childhood variables from the individual, family and school domain (e.g. Romera et al., 2011). This could explain the notable variability in ef- fect sizes across individual studies (see below).
+3.2. Meta-analysis
+A total of 13 studies provided enough statistical information to cal- culate an effect size on the prevalent association between bullying (per- petration and/or victimisation) and drug use. They represented a total of 152,326 cases.
+3.2.1. The association between bullying perpetration at school and drug use
+Fig. 1 illustrates that only eight eligible studies reported effect sizes on the association of bullying perpetration and drug use. Individual ef- fect sizes for each study are available in the forest plot, with most sug- gesting a positive association between bullying perpetration and drug use. For them, the adjusted summary effect size (under a random model) was OR = 2.817 (95% CI 1.974–4.020; z = 5.709; p b .001). One study (Kaltiala-Heino et al., 2000) provided a notably larger indi- vidual effect size, despite the eligibility of the study based on the inclu- sion criteria. Removal of this study marginally changed the summary effect size to an OR of 2.4 (95% CI: 1.7–3.5) hence the decision was made to keep this study in the final analyses. The final summary effect size of OR = 2.8 indicates a very strong relationship between bullying perpetration and drug use. For example, if a quarter of children were bullies and a quarter were drug users, this value of the OR would corre- spond to 40.88% of bullies becoming drug users, compared with 19.71% of non-bullies.
+Given the heterogeneity in methodological features (e.g., location and sample size) of the studies included, heterogeneity tests were con- ducted. Cochran's test, Q, was significant at p b .001 level (Q = 514.60; I2 = 99), supporting the presence of high dispersion in effect size across studies. As already mentioned, this was expected given the variability in statistical controls used across studies.
+3.2.2. Bullying perpetration at school and drug use: publication bias analysis
+We ran analyses for publication bias given the small number of studies included in this meta-analysis. Duval and Tweedie's trim- and-fill analysis exhibits the differences in effect sizes that could po- tentially be attributed to bias; the technique imputes effect sizes until the error distribution gets close to normality. In this way, the test offers the best estimate of the unbiassed effect (Borenstein, Hedges, Higgins, & Rothstein, 2009). Results suggest that there were no differences in effect sizes attributable to bias. Under a fixed effect model, the point estimate for the combined studies did not differ when comparing the original and the adjusted estimate (in both cases it was OR = 2.94; 95% CI 2.86–3.03). Correspondingly, under the random effect model, the values again did not vary (in both cases they were OR = 2.82; 95% CI 1.97–4.02). Based on the parameter of Duval and Tweedie's trim-and-fill, it seems that no studies are missing.
+ Meta-analysis
+Number % of studies
+13 100%
+– – – –
+2 16% 11 84%
+Europe
+North America
+Asia 12%––
+   Total Included Excluded
+Age of the participants
+Less than 12 years old and more than 18 years old
+Between 12 and 18 years old
+Location of the sample studied
+Number % of studies
+61 100% 22 36% 39 64%
+Latin America
+More than 1 low-income
+country (comparative) Africa
+Australia and New Zealand
+Type of publication
+Journal
+Book
+Reports (governmental) Academic Thesis
+Language
+English Spanish Italian Lithuanian Portuguese
+Type of measure
+Self-report
+Life-story
+Interview
+More than 1 measure
+Role in bullying
+Victims
+Bullies (perpetrators)
+Bullies (perpetrators) + victims More than 2 roles measured Not measured
+8 13% 1 8% 3 5% 2 15%
+3 5% 2
+1 2% – –
+22 36% 23 37%
+3 23% 5 39%
+57 93% 10
+1 1 2
+54 4 1 1 1
+58 1 1 1
+26 7 12 14 2
+2% – 2% –
+– –
+3% – in the meta-analysis.
+–
+77% 2% 1 8%
+2% – – 3% 2 15%
+88% 12 92% 6% 1 8% 2% – –
+94% 13 100%
+2% –
+2% – – 2% – –
+43% 6 46% 11% 2 15% 20% – – 23% 5 39%
+15%
+–
+ a A fraction of these studies are included
+bullying and drug use. In this way, relatively robust conclusions could be drawn about the extent to which school bullying may have an effect on the outcome measure over and above the contribution of other con- founding variables. Appendix Table A gives reasons for the exclusion of the majority of these studies from the meta-analyses.
+Table 1 provides further information about the 61 studies that were relevant for the aims of the systematic review. Most studies are based on samples from Europe and North America. Three studies (i.e., Brown et al., 2008; Rudatsikira, Muula, & Siziya, 2008; Siziya et al., 2013) exam- ined populations from low-income countries in Latin America or Africa. Seventy seven per cent of the studies were retrieved from peer- reviewed journal articles. Unpublished reports are a minority, as has been found in other recent systematic reviews and meta-analyses (e.g., Lösel & Beelmann, 2003, 2006; Ttofi et al., 2012).
+In almost all studies, the samples involved both boys and girls, with the exception of three studies that only reported results for boys (i.e., McMahon, Reulbach, Keeley, Perry, & Arensman, 2010; Stein, Dukes, & Warren, 2007; Waters et al., 1999). However, few studies pro- vided results for boys and girls separately (e.g., Siziya et al., 2013). The same is applicable with variables such as ethnicity (e.g., Liang et al., 2007). In terms of age, the mean age ranged between 11 and 15 years.
+Self-report questionnaires were the dominant tool to collect data in the screened reports. In fact, among the studies included in the
+Table 2
+Adjusted effect sizes for school bullying and drug use.a
+S. Valdebenito et al. / Aggression and Violent Behavior 23 (2015) 137–146 141
+ Study
+1) Adelmann (2005)
+2) Bradshaw et al. (2013)
+3) Brown et al. (2008)
+4) Edwards (2002)
+5) Fernando (2009)
+6) Kaltiala-Heino et al. (2000)
+7) Liang et al. (2007)
+8) McMahon, Reulbach, Keeley, et al. (2010) 9) Peltzer and Pengpid
+(2014)
+10) Pepler et al. (2002)
+11) Romera, Del Rey, and Ortega (2011)
+12) Siziya et al. (2013)
+13) Srabstein and Piazza (2008)
+Age and sample size
+11 to 12 years (sixth grade) N = 50148 12 to 16 years (65.4%)
+17 to 21 years (34.6%)
+N = 16302 13 to 15 years N = 26510
+Mage = 14.33 SD = .66
+N = 263
+12 to 18 years (high school) N = 3131
+Mage = 15.3 SD = 0.6
+N = 17643
+Two subgroups: Mage = 14.2 years (grade 10)
+Mage = 17.4 (grade 11)
+N = 5074
+15 to 17 years
+N = 1870
+13 to N16
+N = 15226
+Mage = 12.7
+SD = 0.88
+Grades 6–8
+N = 922
+Mage = 11.3
+SD = 1.6
+N = 3042
+b or =13 to
+N or =16
+N = 2257 Three subgroups M1age = 11.5 M2age = 13.5 M3age = 15.5
+N = 9938
+Adjusted effect size (bullying perpetrators)
+Drugs:
+B:β=.25pb.001
+N = 50148b
+Marijuana use:
+B: OR = 2.77 (2.439–3.155) B/V: OR = 3.71 (3.101–4.438)
+Use of stimulants: C:13[12.5%ofN=104] B:4[9.8%ofN=41] B/V: 4 [8.7% of N = 46]
+Adjusted effect size (victims)
+Marijuana use:
+V: OR = 1.30 (1.145–1.485) B/V: OR = 3.71 (3.101–4.438)
+Drug use:
+V (bullied 6–9 times in last month): OR = 6.1 (4.6–8.2)
+V (bullied 10 or more times in
+last month):
+OR = 10.8 (8.4–13.9)
+Use of stimulants:
+C: 13 [12.5% of N = 104]
+V: 9 [13.4% of N = 67]
+B/V: 4 [8.7% of N = 46]
+Used marijuana
+White
+V: OR = 1.13; 95% CI (0.87–1.46) Hispanic
+V: OR = 1.14; 95% CI (0.63–2.08) Others
+V: OR = 1.49; 95% CI (0.89–2.49) Used marijuana at school
+White
+V: OR = 1.47; 95% I/(0.88–2.44) Hispanic
+V: OR = 3.20 (1.43–7.17)
+Others
+V: OR = 3.01 (1.36–6.69)
+Use of other substances than alcohol V: OR = 2.3 (1.5–3.4)
+B/V: OR = 7.1 (7.1–12.2)
+Cannabis
+V: OR = 0.74 (0.52–1.07) B/V: OR = 0.96 (.62–1.48)
+Drug taking (boys)
+V: OR = 0.97 (0.76–1.23) Cannabis
+V: OR = 0.99 (0.71–1.36)
+Drug use
+V: OR = 0.984 (0.672–1441) B/V: OR = 2.011 (1.351–2.995)
+Use of cannabis
+V: OR = 1.77 (1.71–1.83)
+Use of drugs
+V: OR = 0.95 SE = 1.20 [N = 9574] B/V:OR=6.39SE=1.15 [N = 9574]
+Covariates
+Family violence, family substance abuse, illegal activity at school, victimisation by others, family caring, teacher civility, student civility, school safety, caring by others Gender, age, African American ethnicity, victimisation, ease of access to substance, school enrolment, % minorities in school, school suspensions, urban schools
+Age and sex
+Not specified
+Age and gender
+Age, sex, family structure and parental education
+Fighting, weapon carrying, suicidal ideation, suicide attempt, theft, vandalism, walking alone, risky passenger, risky driver, smoking, alcohol
+Age
+Age, gender, poverty, current smoking cigarettes, physical fight, injury, fast food consumption
+Gender, age, SES, sexual harassment, peer orientation
+Sex, witness of violence, negative relationship
+with peers, negative relationship with teachers, negative relationship between parents–teachers, victimisation by adults, self-esteem, antisocial behaviour
+Not specified
+Gender, race and grade
+ Use of other substances than alcohol
+B: OR = 8.2 (6.1–11.2) B/V: OR = 7.1 (7.1–12.2) Cannabis
+B: OR = 1.17 (0.80–1.71) B/V: OR = 0.96 (0.62–1.48)
+Drug use B:β=.34pb.01N=922
+Drug use
+B: OR = 1.964 (1.179–3.271) B/V: OR = 2.011 (1.351–2.995)
+Use of drugs
+B: OR = 5.22 SE = 1.11 [N = 9574]
+B/V: OR = 6.39 SE = 1.15 [N = 9574]
+ a Abbreviations: ES, effect size; OR, odd ratio; (confidence interval); M, mean; SD, standard deviation; SE, standard error; r, Pearson correlation; β, Beta correlation; V, victims; C, children non-involved in bullying; B, bullies or perpetrators; B/V, bully-victims.
+b β was inputted in CMA software as a correlation coefficient. In fact, it should be said that regression coefficients and correlation coefficients are quite similar, though their distribution is different. This assumption was also confirmed by Peterson and Brown (2005).
+Additionally, Rosenthal's fail-safe N test is a technique for computing the number of missing studies that would be necessary to nullify the found effect. Small numbers of missing studies would reveal likelihood
+of biassed effects. Test was equal 777.3, suggesting that it would be nec- essary to allocate and include 777.3 missing studies with no effects for every observed one to achieve the combined 2-tailed p-value exceeding
+142 S. Valdebenito et al. / Aggression and Violent Behavior 23 (2015) 137–146
+0.05. It therefore is highly unlikely that missing studies could alter the substantive conclusion.
+3.2.3. The association between school bullying victimisation and drug use
+Eleven studies were concerned with the association between bul- lying victimisation and drug use. Individual effect sizes across stud- ies are shown in Fig. 2. The adjusted effect size for the association between bullying victimisation and drug use, after controlling for co- variates, was OR = 1.790 (95% CI 1.382–2.318; z = 4.409 p b .001). One study (Brown et al., 2008) provided a notably larger individual effect size, despite the eligibility of the study based on the inclusion criteria. Removal of this study marginally changed the summary ef- fect size to an OR of 1.5 (95% CI: 1.3–1.9) hence the decision was made to keep this study in the final analyses. A summary effect size of OR = 1.8 indicates a moderate relationship between bullying victimisation and drug use. For example, if a quarter of children were victims and a quarter were drug users, this value of the OR would correspond to 33.69% of bullied youth becoming drug users, compared with 22.1% of non-bullied youth. Cochran's Q suggests substantial variability in the estimates between studies (Cochran's Q = 220.682; p b .001; I2 = 95).
+3.2.4. Bullying victimisation at school and drug use: publication bias analysis
+After running Duval and Tweedie's trim-and-fill procedure, there were no differences in effect sizes attributable to bias resulting from systematically missing studies from the meta-analysis. Results re- vealed that under a fixed effect model, the point estimate for the combined studies did not vary when comparing the original and the adjusted estimated (in both cases it was OR = 1.78; 95% CI 1.72–1.83). Correspondingly, under a random effect model, the point estimate for the combined studies did not vary (in both cases it was OR = 1.78; 95% CI 1.38–2.31). In other words, Duval and Tweedie's trim-and-fill procedure shows that results cannot be invalidated because of publication bias.
+Rosenthal's fail-safe N test was equal to 141.3, suggesting that it would be necessary to allocate and include 141.3 missing studies with no effects for every observed one to achieve the combined 2-tailed p- value exceeding .05. After a systematic review that involved a search on 20 databases from different countries and in different languages, it seems improbable that this huge number of studies could be available yet missed.
+4. Discussion
+4.1. Conclusions and implications for policy and practice
+This meta-analysis provides support for the strong link between bullying at school and drug use. Specifically, bullies are roughly three times more likely to take drugs compared with non-involved children. Victims, on the other hand, are roughly twice as likely to take drugs compared with non-involved youth. Although the corre- lational nature of these cross-sectional studies precludes any causal inference, they are consistent with the notion that bullying is an im- portant childhood risk for the physical and mental health of students (Bradshaw et al., 2013; Brown et al., 2008). Notably, meta-analytic results are based on an adjusted effect size, indicating the association of school bullying with drug use over and above the impact of other major childhood risk factors, thus providing the independent bullying-drug link.
+Meta-analytic results are concordant with earlier research that chil- dren involved in school bullying as either perpetrators or victims are at increased risk for drug use (Sullivan, Farrell, & Kliewer, 2006). In fact, both cross-sectional and longitudinal studies suggest that bullying per- petration at school is a strong co-current correlate (Bradshaw et al., 2013) or predictor of future drug use (Farrington & Ttofi, 2011). Find- ings are also comparable with previous results in terms of the idea that perpetrators show more externalising problems than victims. For instance, previous meta-analyses showed that the perpetration of bully- ing was more predictive of violence and offending later in life than victimisation (Ttofi et al., 2011b, 2012). In any case, following our re- sults, the odds of victims for drug use are almost double those for non-involved. Although the explanations given for the drug-bullying victimisation association are not part of this research, it seems plausible that drugs aid victims in coping with the negative effects of rejection (Carlyle & Steinman, 2007).
+Interestingly, the magnitude of the effect sizes in the present meta-analysis is similar to earlier meta-analytic findings on the drug-crime link among adults (Bennett, Holloway, & Farrington, 2008). Although these results represent a different population, it is quite reasonable to hypothesise that externalising problem behav- iours such as bullying, criminal behaviour and drug use may be viewed as manifestations of the same underlying theoretical con- struct expressed differently across life (Farrington, 1997; Loeber et al., 1998; Ttofi et al., 2012).
+Children involved in school bullying are children that could present other associated risks for their future development. Our meta-analytic
+ Model
+Fixed Random
+Study name
+Adelman2005 Bradshaw2013 Edwards2002 KaltiHeino2000 Liangetal2007 Pepleretal2002 Romeraetal2011 Srabsteinetal2008
+Subgroup within study Outcome
+Statistics for each study
+Odds Lower Upper
+ratio limit limit Z-Value p-Value
+Odds ratio and 95% CI
+              Bully Combined total Combined Combined total Combined Combined
+Drug use Marijuana Druguse SubsUse(NoAlc) Cannabis
+Drug use Drug use Drug use
+2.551 2.469 3.059 2.756 0.709 0.279 7.925 6.078 1.074 0.807 3.777 2.942 1.993 1.456 5.611 5.229 2.944 2.863 2.817 1.974
+2.636 55.983 3.397 20.965 1.798 -0.725
+10.334 15.287 1.430 0.489 4.849 10.428 2.728 4.307 6.021 47.909 3.028 75.604 4.020 5.709
+0.000 0.000 0.469 0.000 0.625 0.000 0.000 0.000 0.000 0.000
+         Meta Analysis
+Fig. 1. Forest plot for bullying perpetration and drug use (adjusted effect size): meta-analysis of cross-sectional studies.
+0.1 0.2 0.5 1 2 5 10 No Drug use Yes Drug use
+ 
+Model
+Studyname
+Subgroup within study
+Comparison
+Outcome
+Marijuana
+DrugUse
+Druguse
+Combined Substance(NoAlcohol) Cannabis
+Drug use Cannabis Drug use Marijuana Drug use
+Statistics for each study
+Odds Lower Upper
+ratio limit limit Z-Value p-Value
+Odds ratio and 95% CI
+S. Valdebenito et al. / Aggression and Violent Behavior 23 (2015) 137–146 143
+                Bradshaw2013 Brownetal2008 Edwards2002 Fernando2009 KaltialaHeino2000 Liangetal2007 McMahonetal2010 Peltzer2014 Romeraetal2011 Siziya2013 Srabsteinetal2008
+Combined total
+total Combined Combined Combined Boys Victim Combined Victim Combined
+Blank Combined Blank Blank Blank Blank Blank Blank Blank Blank Blank
+1.866 1.680 8.117 6.189 0.910 0.401 1.547 1.133 3.452 2.489 0.823 0.623 0.970 0.762 0.990 0.694 1.385 1.052 1.770 1.711 3.131 2.293 1.782 1.728 1.790 1.382
+2.073 11.619 10.644 15.140 2.065 -0.226 2.112 2.749 4.789 7.420 1.086 -1.376 1.234 -0.248 1.412 -0.055 1.825 2.320 1.831 33.001 4.276 7.178 1.838 36.798 2.318 4.409
+0.000 0.000 0.822 0.006 0.000 0.169 0.804 0.956 0.020 0.000 0.000 0.000 0.000
+            Fixed Random
+ 0.1 0.2 0.5 1 2 5 10 No Drug use Yes Drug use
+ Meta Analysis
+Fig. 2. Forest plot for bullying victimisation and drug use (adjusted effect size): meta-analysis of cross-sectional studies.
+investigation, based on a thorough systematic review, supports that school bullies and their victims have a heightened risk of being involved in drug use. Therefore, intervention strategies aiming at tackling school bullying and promoting safer school communities should be promoted. It can be inferred that effective bullying prevention programmes could be seen as having a potentially positive effect in reducing associated problem behaviours such as drug use.
+To the best of our knowledge, this is the first meta-analytic investi- gation to establish a clear link between bullying and drug use. There is a higher prevalence rate of drug use among bullies and their victims compared with non-aggressive children. To an extent, this is expectable given that existing research supports the comorbidity of aggressive, vi- olent and other externalising problem behaviours (Loeber et al., 1998). An important question arising from this research is why such a link ex- ists. What are the mechanisms linking bullying perpetration and victimisation with drug use? This question cannot be addressed from the current study findings although it could be hypothesised that this is related to the marked shared variance in risk factors predicting these co-morbid behaviours (Bebbington et al., 2004; Brown et al., 2008; Farrington, 2002).
+Childhood bullying is a significant risk factor for adverse outcomes in adult life (Ttofi et al., 2011a, 2011b; Ttofi, Farrington, Lösel, & Loeber, 2011c; Ttofi et al., 2012) while substance use early in youth, combined with other childhood risks, is predictive of adult substance dependence (Sartor, Lynskey, Heath, Jacob, & True, 2006). Therefore, this meta- analysis highlights the importance of early intervention research in targeting school aggressive behaviour and associated externalising problems at root before they develop into more serious problems later in life. Current meta-analytic findings have important implications for policy and practice. They underline the need for school communities and relevant authorities to create a violence-free school environment and the need to devise and implement measures that promote the healthy psychosocial development of youth. More efforts should also be made to implement evidence-based policies and programmes with individual bullies and victims, perhaps based on child skills training (Lösel & Beelmann, 2003) and family-based programmes (Farrington & Welsh, 2003). Both bullying prevention programme and more general multi-component programmes may be equally beneficial for multi- problem children (Ttofi et al., 2012), reducing aggression among schoolchildren as well as other comorbid behaviours such as drug use. In fact, early intervention aimed at preventing or stopping school bullying should be understood as an early and cost-effective way to counteract risks and prevent antisocial behaviour, including drug use
+(Beelmann & Lösel, 2006; Farrington, 1993; Gottfredson, Wilson, & Najaka, 2002).
+4.2. Limitations and future research
+Despite the large number of studies indicating a link between bully- ing and drug use, to the best of our knowledge, this is the first quantita- tive synthesis of the existing research. The results of this meta-analytic investigation show that the primary studies included were mainly based national and international large-scale surveys that intended to cover many aspects of schoolchildren's health and psychosocial devel- opment. While the epidemiological nature of many of the primary stud- ies is a positive feature supporting the meta-analytic synthesis of homogeneous studies, it also comes with some methodological con- cerns. Specifically, many of the included studies were based on the Global School-based Student Health Survey (GSHS) or the Health Be- haviour in School-aged Children Survey (HBSC). Both surveys use only few items to measure school bullying, meaning that important aspects may not be adequately covered. Although bullying shares defining fea- tures with peer aggression and harassment, the distinctions among them point towards different legal remedies and policy repercussions (Cascardi, Brown, Iannarone, & Cardona, 2014), including practical methodological implications since broad definitions of school bullying could be responsible for overestimated prevalence rates (Cornell & Cole, 2012).
+One of the initial aims of this meta-analysis was to report separate effect sizes for males and females as well as separate effect sizes for dif- ferent ethnic groups. However, only one study reported data for differ- ent ethnic groups and only two studies reported gender-specific effect sizes. These limitations were present in many other covariates, making it impossible to run analyses to explain the heterogeneity of our findings.
+It would be ideal if future research drew safe conclusions about var- iability in effect sizes based on different moderators such as gender and ethnicity. Future research should also investigate the comorbidity of bullying and drug use in low-middle income countries, especially given the higher prevalence rates of bullying in these countries (Fleming & Jacobsen, 2009a; Muula, Herring, Siziya, & Rudatsikira, 2009).
+We suggest that future research should pay more attention to bully- victims and investigate the actual rates of drug use among this specific group. Due to the fact that they tend to attack when victimised, they can also be targets of retaliation in a vicious circle of aggression
+144 S. Valdebenito et al. / Aggression and Violent Behavior 23 (2015) 137–146
+(Nansel et al., 2001). Bully-victims are also more rejected than bullies or victims, experiencing frequent isolation and avoidance (Juvonen et al., 2003). Bearing in mind that it has been identified as the most at risk group (Schwartz, 2000), more research needs to be carried out into their characteristics and comorbid risks.
+Finally, future research should focus on the development of bet- ter instruments for measuring school bullying, including multi- informant measures (surveys) that may potentially achieve a more precise perspective on the phenomenon of school bullying (Crothers & Levinson, 2004). This will enable investigations into whether school bullies are more likely to use drugs compared with children who score high on general aggression instruments and potentially address whether this differentiation is really neces- sary (Finkelhor, Turner, & Hamby, 2012).
+Declaration of interest
+None of the authors have any financial interests related to findings reported in this review.
+Appendix Appendix Table A
+Studies excluded from the meta-analyses.
+Description of exclusion criteria
+1 Alexander, Currie, and Mellor (2004). The exact Ns for female and male bullies are not given. All that is indicated is that 16.2% of female bullies used cannabis compared with 9% of female non-bullies; and 16.7% of male bullies used cannabis versus 12.7% of male non-bullies (see penultimate page of the report)
+2 Azevedo da Silva et al. (2012). Although the report offers information on the association of bullying victimisation and drug use, data is presented incomplete. They report means and standard deviations, and also percentages but sample size for subgroups are not reported (see p. 21–22)
+3 Bebbington et al. (2004). The sample population consisted of school children (aged 16 onwards) and also adults up to age 74 (p. 220)
+4 Birkett et al. (2009). Data on drug use is included in a general report of alcohol consumption (p. 993). Fig. 4 (p. 996) doesn't offer enough statistical information.
+5 Brunner et al. (2007). Bullying and illicit drug use are both included as predictors for self-harm (Table 1 p. 644) but statistical data on the association between bullying and drug use is not provided in this report (p. 632–646).
+6 Carmona-Torres, Cangas, García, Langer, and Zárate (2012) The study compares a paper-based and computer-based questionnaire that aims to measure bullying and drug use. Psychometric properties of the two instruments and results from factor analyses are shown (p. 44). The paper does not report the association between bullying and drug use (see Table 2 and 3 in p. 45–46).
+7 Carlyle and Steinman (2007). The concept substance use involves alcohol and cigarettes (p. 625)
+8 Cruzeiro and Azevedo da Silva (2008). Bullying and drug use are used as predictors for conduct problems (relevant OR given in Table 1, p. 2015) but the association between both variables is not reported.
+9 Cuevas, Finkelhor, Turner, and Ormrod (2007). The outcome measure includes alcohol and drug combined (Table 2 and 3 p. 1591 and 1592)
+10 Cullen, Unnever, Hartman, Turner, and Agnew (2008). Statistical information on bullying victimisation versus drug use is presented on Table 2 (p. 355) but the outcome measure included both drug use and alcohol use (see
+p. 353)
+11 Duffecy, Bleil, Labott, Browne, and Galvani (2008). Data on bullying and drug use are presented in Table 2 (p. 624) but statistical information on the association between bullying and drug use is not provided in this report.
+12 Gruber and Fineran (2007). The study presents data on the association of bullying with substance abuse (Table 3, p. 637) but it is not clear whether substance abuse includes only drugs. On p. 633 the authors refer to the questionnaire they used to measure substance abuse by Hanisch and Hulin (1991) but the paper makes no mention of drug use at all. Additionally it is not helpful in clarifying what involves ‘substance abuse’.
+13 Gruber and Fineran (2008). The study presents data on the association of bullying and substance abuse (Table 3, p. 9), which involves alcohol and drug use combined (p. 6).
+Appendix Table A (continued)
+Description of exclusion criteria
+14 Hinduja and Patchin (2008). It refers to cyber bullying (p. 138) and also the consumption of drugs measure is combined with liquor use (p. 140).
+15 Jablonska and Lindberg (2007). Although drug use is measured (p. 657), the study did not regard the association between bullying and drug use. OR on drug use is given for adolescents who had different family structures (p. 659).
+16 Kaltiala-Heino, Marttunen, Rantanen, and Rimpelä (2003). Data on bullying perpetration and substance use are presented on Table 3 (p. 1060) but the statistical information on their association is not presented.
+17 Konu and Lintonen (2006). The outcome drug use is not measured.
+18 Konu, Lintonen, and Rimpelä (2002). Although drug use is measured (Table 1,
+p. 159), the study doesn't present statistical results regarding the association
+between bullying and drug use.
+19 Lambert et al. (2008). Bullying victimisation was measured along with ‘being
+badly treated’; and the equivalent for bullying perpetration (see p. 272). 20 Luk, Wang, and Simons-Morton (2010) Substance use includes alcohol and
+drugs (p. 356).
+21 Luk et al. (2012). Although marijuana use is measured (p. 1354), the results
+refer to ‘substance-using bullies’. The category of substance use, combine
+alcohol and marijuana (Fig. 1 and Table 3, p. 1356).
+22 Martinelli et al. (2011). Data on bullying and cannabis use are presented in
+Table 1 (p. 341) but statistical information on the association between them is not provided. The authors present results only for significant variables and results on cannabis use are not indicated because they were non significant (p. 341).
+23 McMahon, Reulbach, Corcoran, et al. (2010). Bullying perpetration and drug abuse are used as predictors for self harm (adjusted ORs are given on Table 2, p. 4) but no statistical information is given on the association between bullying and drug abuse.
+24 Messerschmidt (2011). Qualitative study (p. 207), which does not report statistical results for meta-analysis.
+25 Muula et al. (2009). Although drug use is measured, its results are presented combined with alcohol use (p. 2 and Table 1 p. 3). The association between bullying and drug (substance abuse) is not given in this report.
+26 Nansel et al. (2001). The study reports information for alcohol and smoking instead of actual drugs (p. 2098).
+27 Pérez Milena et al. (2010). Table 2 (p. 27) gives the percentage of non-victims, victims and perpetrators who do drugs. However, the exact sample size of each group is not specified and the OR cannot be calculated (see also p. 23 where the percentage of each group is given, but there is an overlap between groups that total more than 100%).
+28 Peeters, Cillessen, and Scholte (2010). Excluded for two reasons: a) drug use and bullying are used as predictors for suicidal ideation but the association of the two predictors is not given (see Table 2 p. 268); and b) also, bullying is part of a total score which also includes “abuse and taunting” (see Table 2,
+p. 268).
+29 Rivers, Poteat, Noret, and Ashurst (2009). The outcome measure, substance
+use, includes both drugs and alcohol use (p. 215).
+30 Romani and Gutiérrez (2010). Although the paper includes data on the
+association of school bullying and drug use, it was incomplete for effect sizes calculation. The author was contacted by mail, but the additional information is not yet available.
+31 Saluja et al. (2004). Although drug use is measured (p. 762). Bullying and drug use are both used as predictors for depression (see Tables 2 and 3
+p. 763), but the study didn't present statistical results regarding the association between bullying and drug use.
+32 Santinello and Vieno (2008). Although bullying perpetration and cannabis use are measured (p. 15), their association is not presented in subsequent analyses.
+33 Sobotkova, Blatny, Jelinek, and Hrdlicka (2012). The study focuses on Antisocial behaviour. Although the authors report results on marijuana use at school (see Table 3 p. 9), there is not measure (p. 8) referring to bullying behaviour.
+34 Tharp-taylor, Haviland, and D'Amico (2009). The paper shows effect sizes for bullying victimisation versus drug use after controlling for prior drug use (see Table 3b, p. 565). However, the study is excluded because Risk Ratios are presented and they cannot be included in the meta-analysis.
+35 Vaughn et al. (2010). The sample involves individuals aged 18 or older.
+36 Volk, Craig, Boyce, and King (2006). The statistical information provided does
+not allow calculating effect sizes for all the categories defined for the
+meta-analysis.
+37 Wang, Iannotti, and Luk (2012). Substance use includes alcohol and drugs
+(p. 525).
+38 Waters et al. (1999). The outcome measure is ‘drug concern’ (see Table 2, p.
+30) and the report does not provide statistical information for bullied children
+versus drug use (Tables 3 and 4, p. 31).
+39 Zaborskis and Vareikiene (2008) A translation of this report was required.
+However, the report with results in English is not yet available.
+      
+References1
+**Adelmann, P.K. (2005). Social environmental factors and preteen health-related behav- iors. The Journal of Adolescent Health, 36(1), 36–47http://dx.doi.org/10.1016/j. jadohealth.2003.07.027.
+Agnew, R. (1992). Foundation for a general strain theory of crime and delinquency. Criminology, 30(1), 47–87.
+Alexander, L., Currie, C., & Mellor, A. (2004). Bullying: Health, well-being and risk behav- iours. No. HBSC briefing paper 10 (pp. 1–6).
+Azevedo da Silva, R., Cardoso, T., Jansen, K., Dias de Mattos, L., Vanila, R., Sica, A.L., et al. (2012). Bullying and associated factors in adolescents aged 11 to 15 years. Trends in Psychiatry and Psychotherapy, 34(1), 19–24.
+Bebbington, P.E., Bhugra, D., Brugha, T., Singleton, N., Farrell, M., Jenkins, R., et al. (2004). Psychosis, victimisation and childhood disadvantage: Evidence from the second Brit- ish National Survey of Psychiatric Morbidity. The British Journal of Psychiatry, 185, 220–226http://dx.doi.org/10.1192/bjp.185.3.220.
+Beelmann, A., & Lösel, F. (2006). Child social skills training in developmental crime pre- vention: Effects on antisocial behavior and social competence. Psicothema, 18, 603–610.
+Bennett, T., Holloway, K., & Farrington, D. (2008). The statistical association between drug misuse and crime: A meta-analysis. Aggression and Violent Behavior, 13(2), 107–118http://dx.doi.org/10.1016/j.avb.2008.02.001.
+Beran, T.N., Hughes, G., & Lupart, J. (2008). A model of achievement and bullying: Analy- ses of the Canadian National Longitudinal Survey of Children and Youth Data. Educational Research, 50(1), 25–39http://dx.doi.org/10.1080/00131880801920379.
+Birkett, M., Espelage, D.L., & Koenig, B. (2009). LGB and questioning students in schools: The moderating effects of homophobic bullying and school climate on negative out- comes. Journal of Youth and Adolescence, 38(7), 989–1000http://dx.doi.org/10.1007/ s10964-008-9389-1.
+Borenstein, M., Hedges, L., Higgins, J.P.T., & Rothstein, H.R. (2009). Introduction to meta- analysis. Chichester, UK: John Wiley & Sons, Ltd (pp. i-421).
+**Bradshaw, C.P., Waasdorp, T.E., Goldweber, A., & Johnson, S.L. (2013). Bullies, gangs, drugs, and school: Understanding the overlap and the role of ethnicity and urbanicity. Journal of Youth and Adolescence, 42(2), 220–234http://dx.doi.org/10.1007/s10964- 012-9863-7.
+**Brown, D.W., Riley, L., Butchart, A., & Kann, L. (2008). Bullying among youth from eight African countries and associations with adverse health behaviors. Pediatric Health, 2(3), 289–299.
+Brunner, R., Parzer, P., Haffner, J., Steen, R., Roos, J., Klett, M., et al. (2007). Prevalence and psychological correlates of occasional and repetitive deliberate self-harm in adoles- cents. Archives of Pediatrics & Adolescent Medicine, 161(7), 641–649http://dx.doi. org/10.1001/archpedi.161.7.641.
+Bui, K.V., Ellickson, P.L., & Bell, R.M. (2000). Cross-lagged relationships among adolescent problem drug use, delinquent behavior, and emotional distress. Journal of Drug Issues, 30(2), 283–303.
+Carlyle, K.E., & Steinman, K.J. (2007). Demographic differences in the correlates of adoles- cent bullying at school. Journal of School Health, 77(9), 623–629.
+Carmona-Torres, J.A., Cangas, A.J., García, G.R., Langer, A.I., & Zárate, R. (2012). Early detec- tion of drug use and bullying in secondary school children by using a three- dimensional simulation program. Cyberpsychology, Behavior and Social Networking, 15(1), 43–49http://dx.doi.org/10.1089/cyber.2010.0589.
+Cascardi, M., Brown, C., Iannarone, M., & Cardona, N. (2014). The problem with overly broad definitions of bullying: Implications for the schoolhouse, the statehouse, and the ivory tower. Journal of School Violence, 13(3), 253–276http://dx.doi.org/10.1080/ 15388220.2013.846861.
+Centers for Disease Control and Prevention (2014). Bullying surveillance among school- aged children: Uniform definitions and recommended data elements. Washington, DC: Centers for Disease Control and Prevention (CDC), Author.
+Cook, C.R., Williams, K.R., Guerra, N.G., Kim, T.E., & Sadek, S. (2010). Predictors of bullying and victimization in childhood and adolescence: A meta-analytic investigation. School Psychology Quarterly, 25(2), 65–83http://dx.doi.org/10.1037/a0020149.
+Cornell, D.G., & Cole, J.C.M. (2012). Assessment of bullying. In S.R. Jimerson, & M.J. Furlong (Eds.), Handbook of school violence and school safety. From research to practice (pp. 289–303) (2nd ed.). New York: Routledge.
+Craig, W., Harel-Fisch, Y., Fogel-Grinvald, H., Dostaler, S., Hetland, J., Simons-Morton, B., et al. (2009). A cross-national profile of bullying and victimization among adolescents in 40 countries. International Journal of Public Health, 54(S2), 216–224http://dx.doi. org/10.1007/s00038-009-5413-9.
+Crothers, L.M., & Levinson, E.M. (2004). Assessment of bullying: A review of methods and instruments. Assessment & Diagnosis, 82, 496–503.
+Cruzeiro, A.L.S., & Azevedo da Silva, R. (2008). Prevalence and factors associated with be- havioral disorders in adolescents: A population-based study. Cadernos de Saúde Pública, 24(9), 2013–2020.
+Cuevas, C.A., Finkelhor, D., Turner, H.A., & Ormrod, R.K. (2007). Juvenile delinquency and victimization: A theoretical typology. Journal of Interpersonal Violence, 22(12), 1581–1602http://dx.doi.org/10.1177/0886260507306498.
+Cullen, F.T., Unnever, J.D., Hartman, J.L., Turner, M.G., & Agnew, R. (2008). Gender, bullying victimization, and juvenile delinquency: A test of general strain theory. Victims & Offenders, 3(4), 346–364http://dx.doi.org/10.1080/15564880802338468.
+Duffecy, J., Bleil, M.E., Labott, S.M., Browne, A., & Galvani, C. (2008). Psychopathology in adolescents presenting for laparoscopic banding. Journal of Adolescent Health, 43(6), 623–625http://dx.doi.org/10.1016/j.jadohealth.2008.05.007.
+1 References marked with asterisks (**) indicate studies included in the meta-analysis.
+**Edwards, V. (2002). Adolescent substance use and bullying: Is there a link? University of Leicester.
+Farrington, D.P. (1993). Understanding and preventing bullying. Crime and Justice, 17, 381–458.
+Farrington, D.P. (1997). Human development and criminal careers. In M. Maguire, R. Morgan, & R. Reiner (Eds.), The Oxford handbook of criminology (2nd ed.) (Oxford).
+Farrington, D.P. (2002). Multiple risk factors for multiple problem violent boys. In R.R. Corrado, R. Roesch, S.D. Hart, & J.K. Gierowski (Eds.), Multi-problem violent youth: A foundation for comparative research on needs, interventions and outcomes. Series I: Life and Behavioural Sciences, vol. 324. (pp. 23–34). Netherlands: IOS Press.
+Farrington, D.P. (2005). Childhood origins of antisocial behavior. Clinical Psychology & Psychotherapy, 12(3), 177–190http://dx.doi.org/10.1002/cpp.448.
+Farrington, D.P., & Ttofi, M.M. (2011). Bullying as a predictor of offending, violence and later life outcomes. Criminal Behaviour and Mental Health, 21, 90–98.
+Farrington, D.P., & Welsh, B.C. (2003). Family-based prevention of offending: A meta- analysis. Australian and New Zealand Journal of Criminology, 36(2), 127–151http:// dx.doi.org/10.1375/acri.36.2.127.
+Fekkes, M., Pijpers, F., Fredriks, A.M., Vogels, T., & Verloove-Vanhorick, P. (2006). Do bul- lied children get ill, or do ill children get bullied? A prospective cohort study on the relationship between bullying and health-related symptoms. Pediatrics, 117(5), 1568–1574http://dx.doi.org/10.1542/peds.2005-0187.
+**Fernando, S. (2009). The association between bully victimization and risky behaviors among youth. (Master's thesis) University of Massachusetts.
+Finkelhor, D., Turner, H.A., & Hamby, S. (2012). Let's prevent peer victimization, not just bullying. Child Abuse & Neglect, 36(4), 271–274http://dx.doi.org/10.1016/j.chiabu. 2011.12.001.
+Fleming, L.C., & Jacobsen, K.H. (2009a). Bullying among middle-school students in low and middle income countries. Health Promotion International, 25(1), 73–84http://dx. doi.org/10.1093/heapro/dap046.
+Fleming, L.C., & Jacobsen, K.H. (2009b). Bullying and symptoms of depression in Chilean middle school students. Journal of School Health, 79(3), 130–137.
+Garcia Continente, X., Pérez Giménez, A., & Nebot Adell, M. (2010). Factores Relacionados con el Acoso Escolar (Bullying) en los Adolescentes de Barcelona. Gaceta Sanitaria/ S.E.S.P.A.S., 24(2), 103–108http://dx.doi.org/10.1016/j.gaceta.2009.09.017.
+Gini, G., & Pozzoli, T. (2009). Association between bullying and psychosomatic problems: A meta-analysis. Pediatrics, 123, 1059–1065http://dx.doi.org/10.1542/peds.2008- 1215.
+Goldstein, P.J. (1985). The drugs violence nexus: A tripartite conceptual framework. Journal of Drug Issues, 15(4), 493–506.
+Gottfredson, D., Wilson, D.B., & Najaka, S. (2002). School-based crime prevention. In L.W. Sherman, D.P. Farrington, B.C. Welsh, & D. MacKenzie (Eds.), Evidence-based crime prevention (pp. 56–164). London: Routledge.
+Gruber, J.E., & Fineran, S. (2007). The impact of bullying and sexual harassment on middle and high school girls. Violence Against Women, 13(6), 627–643http://dx.doi.org/10. 1177/1077801207301557.
+Gruber, J.E., & Fineran, S. (2008). Comparing the impact of bullying and sexual harassment victimization on the mental and physical health of adolescents. Sex Roles, 59(1–2), 1–13http://dx.doi.org/10.1007/s11199-008-9431-5.
+Hanisch, K.A., & Hulin, C.L. (1991). General attitudes and organizational withdrawal: An evaluation of a causal model. Journal of Vocational Behavior, 39(1), 110–128http:// dx.doi.org/10.1016/0001-8791(91)90006-8.
+Hay, C., & Meldrum, R. (2010). Bullying victimization and adolescent self-harm: Testing hypotheses from general strain theory. Journal of Youth and Adolescence, 39(5), 446–459http://dx.doi.org/10.1007/s10964-009-9502-0.
+Hinduja, S., & Patchin, J.W. (2008). Cyberbullying: An exploratory analysis of factors relat- ed to offending and victimization. Deviant Behaviour, 29, 129–156.
+Jablonska, B., & Lindberg, L. (2007). Risk behaviours, victimisation and mental distress among adolescents in different family structures. Social Psychiatry and Psychiatric Epidemiology, 42(8), 656–663http://dx.doi.org/10.1007/s00127-007-0210-3.
+Juvonen, J., Graham, S., & Schuster, M.A. (2003). Bullying among young adolescents: The strong, the weak, and the troubled. Pediatrics, 112, 1231–1238.
+Kaltiala-Heino, R., Marttunen, M., Rantanen, P., & Rimpelä, M. (2003). Early puberty is as- sociated with mental health problems in middle adolescence. Social Science & Medicine, 57(6), 1055–1064 (Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/ 12878105).
+**Kaltiala-Heino, R., Rimpelä, M., Rantanen, P., & Rimpelä, A. (2000). Bullying at school: An indicator of adolescents at risk for mental disorders. Journal of Adolescence, 23(6), 661–764http://dx.doi.org/10.1006/jado.2000.0351.
+Konu, A., & Lintonen, T. (2006). Theory-based survey analysis of well-being in secondary schools in Finland. Health Promotion International, 21(1), 27–36http://dx.doi.org/10. 1093/heapro/dai028.
+Konu, A.I., Lintonen, T.P., & Rimpelä, M.K. (2002). Factors associated with schoolchildren's general subjective well-being. Health Education Research, 17(2), 155–165 (Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/12036232).
+Lambert, P., Scourfield, J., Smalley, N., & Jones, R. (2008). The social context of school bul- lying: Evidence from a survey of children in South Wales. Research Papers in Education, 23(3), 269–291http://dx.doi.org/10.1080/02671520701809866.
+Lazarus, R.S. (1993). Coping theory and research: Past, present, and future. Psychosomatic Medicine, 55(3), 234–247 (Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/ 8346332).
+Levin, K.A. (2006). Study design III: Cross-sectional studies. Evidence-Based Dentistry, 7, 24–25http://dx.doi.org/10.1038/sj.ebd.6400375.
+**Liang, H., Flisher, A.J., & Lombard, C.J. (2007). Bullying, violence, and risk behavior in South African school students. Child Abuse & Neglect, 31(2), 161–171http://dx.doi. org/10.1016/j.chiabu.2006.08.007.
+S. Valdebenito et al. / Aggression and Violent Behavior 23 (2015) 137–146 145
+ 
+146 S. Valdebenito et al. / Aggression and Violent Behavior 23 (2015) 137–146
+Loeber, R., Farrington, D.P., Stouthamer-Loeber, M., & Van Kammen, W.B. (1998). Multiple risk factors for multi-problem boys: Co-occurrence of delinquency, substance use, at- tention deficit, conduct problems, physical aggression, covert behavior, depressed mood, and shy/withdrawn behavior. In R. Jessor (Ed.), New perspectives on adolescent risk behaviour (pp. 90–149). Cambridge: Cambridge University Press.
+Lösel, F., & Beelmann, A. (2003). Effects of child skills training in preventing antisocial be- havior: A systematic review of randomized evaluations. The ANNALS of the American Academy of Political and Social Science, 587(1), 84–109http://dx.doi.org/10.1177/ 0002716202250793.
+Lösel, F., & Beelmann, A. (2006). Child social skills training. In B.C. Welsh, & D.P. Farrington (Eds.), Preventing crime. What works for children, offenders, victims and places (pp. 32–54). Dordrecht, The Netherlands: Springer.
+Luk, J.W., Wang, J., & Simons-Morton, B.G. (2010). Bullying victimization and substance use among U.S. adolescents: Mediation by depression. Prevention Science, 11(4), 355–359http://dx.doi.org/10.1007/s11121-010-0179-0.
+Luk, J.W., Wang, J., & Simons-Morton, B.G. (2012). The co-occurrence of substance use and bullying behaviors among U.S. adolescents: Understanding demographic characteris- tics and social influences. Journal of Adolescence, 35(5), 1351–1360http://dx.doi.org/ 10.1016/j.adolescence.2012.05.003.
+Luukkonen, A. (2010). Bullying behaviour in relation to psychiatric disorders, suicidality and criminal offences. A study of under-age adolescent inpatients in Northern Finland. Uni- versity of Oulu.
+Martinelli, V., Brondino, N., Rossi, S., Panigati, R., Magnani, R., Cappucciati, M., et al. (2011). Bullying behaviours among students in Pavia, Italy: Prevalence and association with stress and cannabis use. Epidemiology and Psychiatric Sciences, 20(4), 339–343http://dx.doi.org/10.1017/S2045796011000461.
+McMahon, E.M., Reulbach, U., Corcoran, P., Keely, H.S., Perry, I.J., & Arensman, E. (2010a).
+Factors associated with deliberate self-harm among Irish adolescents. Psychological
+Medicine, 40(11), 1811–1819.
+**McMahon, E.M., Reulbach, U., Keeley, H., Perry, I.J., & Arensman, E. (2010b). Bullying
+victimisation, self harm and associated factors in Irish adolescent boys. Social
+Science & Medicine, 11, 490–497http://dx.doi.org/10.1016/j.socscimed.2011.12.001. Messerschmidt, J.W. (2011). The struggle for heterofeminine recognition: Bullying, em- bodiment, and reactive sexual offending by adolescent girls. Feminist Criminology,
+6(3), 203–233http://dx.doi.org/10.1177/1557085111408062.
+Moon, B., & Alarid, L.F. (2014). School bullying, low self-control, and opportunity. Journal
+of Interpersonal Violence, 1–18http://dx.doi.org/10.1177/0886260514536281. Murray, J., Farrington, D.P., & Eisner, M.P. (2009). Drawing conclusions about causes from systematic reviews of risk factors: The Cambridge Quality Checklists. Journal of
+Experimental Criminology, 5(1), 1–23http://dx.doi.org/10.1007/s11292-008-9066-0. Muula, A.S., Herring, P., Siziya, S., & Rudatsikira, E. (2009). Bullying victimization and physical fighting among Venezuelan adolescents in Barinas: Results from the Global School-Based Health Survey 2003. Italian Journal of Pediatrics, 5, 1–5http://dx.doi.
+org/10.1186/1824-7288-35-38.
+Nansel, T.R., Overpeck, M., Pilla, R.S., Ruan, W.J., Simons-Morton, B., & Scheidt, P. (2001).
+Bullying behaviors among US youth: Prevalence and association with psychosocial
+adjustment. JAMA, 285(16), 2094–2100.
+Niemelä, S., Brunstein-Klomek, A., Sillanmäki, L., Helenius, H., Piha, J., Kumpulainen, K.,
+et al. (2011). Childhood bullying behaviors at age eight and substance use at age 18 among males. A nationwide prospective study. Addictive Behaviors, 36(3), 256–260http://dx.doi.org/10.1016/j.addbeh.2010.10.012.
+Peeters, M., Cillessen, A.H.N., & Scholte, R.H.J. (2010). Clueless or powerful? Identifying subtypes of bullies in adolescence. Journal of Youth and Adolescence, 39(9), 1041–1052http://dx.doi.org/10.1007/s10964-009-9478-9.
+**Peltzer, K., & Pengpid, S. (2014). Cannabis use and its social correlates among in-school adolescents in Algeria, Morocco, Palestine, Peru, and Tonga. Mediterranean Journal of Social Sciences, 5(9), 558–563http://dx.doi.org/10.5901/mjss.2014.v5n9p558.
+**Pepler, D.J., Craig, W.M., Connolly, J.A., & Henderson, K. (2002). Bullying, sexual harass- ment, dating violence, and substance use among adolescents. In C. Wekerle, & A.M. Wall (Eds.), The violence and addiction equation: Theoretical and clinical issues in sub- stance abuse and relationship violence (pp. 153–168). New York: Brunner-Routledge.
+Pérez Milena, A., Jiménez Pulido, I., Leal Helmling, F.J., Perez Milena, A., Martínez Fernáandez, M.L., & Alvaro Nieto, C. (2010). The relationship between the consump- tion of alcohol, tobacco, and illegal drugs during adolescence and school violence. Medicina Familiar Andalucía, 11(1), 21–29.
+Peterson, R.A., & Brown, S.P. (2005). On the use of beta coefficients in meta-analysis. The Journal of Applied Psychology, 90(1), 175–181http://dx.doi.org/10.1037/0021-9010. 90.1.175.
+Pranjic, N., & Bajraktarevic, A. (2010). Depression and suicide ideation among secondary school adolescents involved in school bullying. Primary Health Care Research & Development, 11(1998), 349–362.
+Radliff, K.M., Wheaton, J.E., Robinson, K., & Morris, J. (2012). Illuminating the relationship between bullying and substance use among middle and high school youth. Addictive Behaviors, 37(4), 569–572http://dx.doi.org/10.1016/j.addbeh.2012.01.001.
+Rivers, I., Poteat, V.P., Noret, N., & Ashurst, N. (2009). Observing bullying at school: The mental health implications of witness status. School Psychology Quarterly, 24(4), 211–223http://dx.doi.org/10.1037/a0018164.
+Roland, E. (2002). Aggression, depression, and bullying others. Aggressive Behavior, 28(3), 198–206http://dx.doi.org/10.1002/ab.90022.
+Romani, F., & Gutiérrez, C. (2010). Self-reporting of bullying victimization and related fac- tors in Peruvian students of secondary education, 2007. Revista Peruana de Epidemiología, 14(3), 1–9.
+**Romera, E.M., Del Rey, R., & Ortega, R. (2011). Factors associated with involvement in bullying: A study in Nicaragua. Psychosocial Intervention, 20(2), 161–170.
+Rudatsikira, E., Muula, A.S., & Siziya, S. (2008). Prevalence and correlates of physical fight- ing among school-going adolescents in Santiago, Chile. Revista Brasilera de Psiquiatría, 30(3), 197–202.
+Saluja, G., Iachan, R., Scheidt, P.C., Overpeck, M.D., Sun, W., & Giedd, J.N. (2004). Preva- lence of and risk factors for depressive symptoms among young adolescents. Archives of Pediatrics & Adolescent Medicine, 158, 760–765.
+Santinello, M., & Vieno, A. (2008). Comportamenti a Rischio e Sintomi Psicologici e Somatici Negli Adolescenti Italiani. Psicoterapia Cognitiva E Comportamentale, 14(1), 11–26.
+Sartor, C.E., Lynskey, M.T., Heath, A.C., Jacob, T., & True, W. (2006). The role of childhood risk factors in initiation of alcohol use and progression to alcohol dependence. Addiction, 102, 216–225.
+Schwartz, D. (2000). Subtypes of victims and aggressors in children's peer groups. Journal of Abnormal Child Psychology, 28(2), 181–192.
+Sedgwick, P. (2014, March). Cross sectional studies: Advantages and disadvantages. BMJ, 348http://dx.doi.org/10.1136/bmj.g2276 (g2276-g2276).
+**Siziya, S., Muula, A.S., Besa, C., Babaniyi, O., Songolo, P., Kankiza, N., et al. (2013). Canna- bis use and its socio-demographic correlates among in-school adolescents in Zambia. Italian Journal of Pediatrics, 39(1), 13http://dx.doi.org/10.1186/1824-7288-39-13.
+Sobotkova, V., Blatny, M., Jelinek, M., & Hrdlicka, M. (2012). Antisocial behavior in adoles- cence: Typology and relation to family context. The Journal of Early Adolescence, 33(8), 1091–1115http://dx.doi.org/10.1177/0272431612445377.
+**Srabstein, J., & Piazza, T. (2008). Public health, safety and educational risks associated with bullying behaviors in American adolescents. International Journal of Adolescent Medicine and Health, 20(2), 223–233.
+Stein, J.A., Dukes, R.L., & Warren, J.I. (2007). Adolescent male bullies, victims, and bully- victims: A comparison of psychosocial and behavioral characteristics. Journal of Pediatric Psychology, 32(3), 273–282http://dx.doi.org/10.1093/jpepsy/jsl023.
+Sullivan, T.N., Farrell, A.D., & Kliewer, W. (2006). Peer victimization in early adolescence: Association between physical and relational victimization and drug use, aggression, and delinquent behaviors among urban middle school students. Developmental Psychopathology, 18, 119–137.
+Tharp-taylor, S., Haviland, A., & D'Amico, E.J. (2009). Victimization from mental and phys- ical bullying and substance use in early adolescence. Addictive Behaviors, 34(6–7), 561–567http://dx.doi.org/10.1016/j.addbeh.2009.03.012.
+Ttofi, M.M., & Farrington, D.P. (2008). Bullying: Short-term and long-term effects, and the importance of defiance theory in explanation and prevention. Victims & Offenders, 3(2–3), 289–312http://dx.doi.org/10.1080/15564880802143397.
+Ttofi, M.M., Farrington, D.P., & Lösel, F. (2012). School bullying as a predictor of violence later in life: A systematic review and meta-analysis of prospective longitudinal stud- ies. Aggression and Violent Behavior, 17(5), 405–418.
+Ttofi, M.M., Farrington, D.P., Lösel, F., & Loeber, R. (2011a). Do the victims of school bullies tend to become depressed later in life? A systematic review and meta-analysis of lon- gitudinal studies. Journal of Aggression, Conflict and Peace Research, 3(2), 63–73http:// dx.doi.org/10.1108/17596591111132873.
+Ttofi, M.M., Farrington, D.P., Lösel, F., & Loeber, R. (2011b). The predictive efficiency of school bullying versus later offending: A systematic/meta-analytic review of longitu- dinal studies. Criminal Behaviour and Mental Health, 21, 80–89.
+Ttofi, M.M., Farrington, D.P., Lösel, F., & Loeber, R. (2011c). The predictive efficiency of school bullying versus later offending: A systematic/meta-analytic review of longitu- dinal studies. Criminal Behaviour and Mental Health, 89, 80–89.
+Vaughn, M.G., Fu, Q., Bender, K., DeLisi, M., Beaver, K.M., Perron, B.E., et al. (2010). Psychi- atric correlates of bullying in the United States: Findings from a national sample. The Psychiatric Quarterly, 81(3), 183–195http://dx.doi.org/10.1007/s11126-010-9128-0.
+Volk, A., Craig, W., Boyce, W., & King, M. (2006). Adolescent risk correlates of bullying and different types of victimization. International Journal of Adolescent Medicine and Health, 18, 575–586.
+Wang, J., Iannotti, R.J., & Luk, J.W. (2012). Patterns of adolescent bullying behaviors: Phys- ical, verbal, exclusion, rumour, and cyber. Journal of School Psychology, 50, 521–534http://dx.doi.org/10.1016/j.jsp.2012.03.004.
+Waters, E., Wake, M., Toumbourou, J., Wright, M., & Salmon, L. (1999). Prevalence of emo- tional and physical health concerns amongst young people in Victoria. Journal of Paediatric Child Health, 35, 28–33.
+Wei, H., Williams, J.H., Chen, J., & Chang, H. (2010). The effects of individual characteris- tics, teacher practice, and school organizational factors on students' bullying: A mul- tilevel analysis of public middle schools in Taiwan. Children and Youth Services Review, 32(1), 137–143http://dx.doi.org/10.1016/j.childyouth.2009.08.004.
+Wilson, D.B. (2009). Missing a critical piece of the pie: Simple document search strategies inadequate for systematic reviews. Journal of Experimental Criminology, 5(4), 429–440http://dx.doi.org/10.1007/s11292-009-9085-5.
+Yudko, E., Blanchard, D.C., Henrie, J.A., & Blanchard, R.J. (1997). Emerging themes in pre- clinical research on alcohol and aggression. Recent Developments in Alcoholism: An Official Publication of the American Medical Society on Alcoholism, the Research Society on Alcoholism, and the National Council on Alcoholism, 13, 123–138.
+Zaborskis, A., & Vareikiene, I. (2008). School bullying and its association with health and lifestyle among children. Medicina (Kaunas, Lithuania), 44(3), 232–239.

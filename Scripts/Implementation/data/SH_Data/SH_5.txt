@@ -1,0 +1,804 @@
+Sexual Harassment in Middle and High School Children and Effects on Physical and Mental Health
+
+Abstract
+Sexual harassment can be physical interaction and touching, as well as, psychological, environmental, or via Internet and text messaging. An online survey in an urban clinic asked children, aged 12 to 18 years the following: demographic
+data, height and weight, chronic medical conditions, healthcare use, questions concerning sexual harassment—witnessed and exposure, and finally questions from the Pediatric Symptom Checklist (PSC-35). Overall, 124 of 210
+(59%) of the 12- to 18-year-olds surveyed had experienced sexual harassment, with the predominance being female
+69% (80/116) versus 48% (49/92) male. Participants who had experienced sexual harassment were significantly
+more likely to score positive for psychological impairment than those who had not experienced sexual harassment
+(chi-square test P < .001; odds ratio: 4.7 (95% confidence interval, 1.9-11.8). There was a borderline significant
+association between elevated body mass index and having experienced sexual harassment (2-sample t test P = .08).
+Sexual harassment has a direct correlation to psychological impairment in adolescents, especially females.
+Keywords
+sexual harassment, adolescent, mental health
+Defining sexual harassment can be challenging, since it
+is not only considered physical face-to-face interaction
+and touching, it can be psychological, environmental,
+and via Internet and text messaging.1
+ Since there is no
+universal definition and sexual harassment has commonly
+been paired with bullying, widely variable rates
+of sexual harassment have occurred across studies. In a
+recent national survey done by telephone in the United
+States in 2011, the respondents of youths aged (10-13
+years) and (14-17 years) had experienced sexual harassment
+in the past year at rates of 2.8% and 9.3% respectively.2
+ However, in studies directly surveying children
+and adolescents from fifth grade throughout high
+school, who were asked if they experienced some form
+of sexual harassment within the past 2 weeks or ever,
+the reported rates of sexual harassment varied anywhere
+from 15% to 81%.3-5
+Some studies have shown females to be much more
+likely to experience sexual harassment, and other studies
+have shown males and females to have an equal likelihood
+of experiencing sexual harassment.2,5 Gender
+differences in how a student might experience sexual
+harassment have been noted. Females are likely to experience
+belittlement and objectification because of their
+sex, whereas males experience vulgar and homophobic
+comments.6,7 Youth with more advanced pubertal status
+are also more likely than their less advanced peers to be
+victims of harassment.7,8
+Despite the frequency and awareness of sexual
+harassment, there is little research found in the pediatric
+literature concerning the longitudinal mental and physical
+health effects on both male and females as they progress
+through school. Goldstein et al8
+ reported that sexual
+harassment in eighth grade predicted increased problems
+with substance use, lower self-esteem, and symptoms
+of depression 3 years later. It has also been reported
+that sexual harassment can increase school absences,
+worsen academic performance, and create mental stress
+leading to mental health problems.9
+ In addition, sexual
+harassment can increase an adolescent’s preoccupation
+with appearance and thus increase the risk of developing
+eating disorders.10 Chiodo et al11 reported on multiple
+553430 CPJXXX10.1177/0009922814553430Clinical PediatricsEom et al
+research-article2014
+1
+Eastern Virginia Medical School, Norfolk, VA, USA
+2
+Children’s Hospital of The King’s Daughters, Norfolk, VA, USA
+Corresponding Author:
+John W. Harrington, Department of Pediatrics, Children’s Hospital
+of The King’s Daughters, 601 Children’s Lane, Norfolk, VA 23507,
+USA.
+Email: john.harrington@chkd.org
+Sexual Harassment in Middle and High
+School Children and Effects on Physical
+and Mental Health
+Elizabeth Eom, MS1,2
+, Stephen Restaino, DO1,2
+, Amy M. Perkins, MS1,2
+,
+Nicole Neveln, MS1,2
+, and John W. Harrington, MD1,2
+Abstract
+Sexual harassment can be physical interaction and touching, as well as, psychological, environmental, or via Internet
+and text messaging. An online survey in an urban clinic asked children, aged 12 to 18 years the following: demographic
+data, height and weight, chronic medical conditions, healthcare use, questions concerning sexual harassment—
+witnessed and exposure, and finally questions from the Pediatric Symptom Checklist (PSC-35). Overall, 124 of 210
+(59%) of the 12- to 18-year-olds surveyed had experienced sexual harassment, with the predominance being female
+69% (80/116) versus 48% (49/92) male. Participants who had experienced sexual harassment were significantly
+more likely to score positive for psychological impairment than those who had not experienced sexual harassment
+(chi-square test P < .001; odds ratio: 4.7 (95% confidence interval, 1.9-11.8). There was a borderline significant
+association between elevated body mass index and having experienced sexual harassment (2-sample t test P = .08).
+Sexual harassment has a direct correlation to psychological impairment in adolescents, especially females.
+Keywords
+sexual harassment, adolescent, mental health
+Eom et al 431
+psychosomatic parameters in their longitudinal study
+utilizing 12 items from the depression and anxiety subscales
+of the Brief Symptom Inventory.12 Their study
+showed strong correlations with sexual harassment and
+emotional distress, self-harming behaviors, and suicidal
+ideation.
+Although studies have focused on psychosomatic
+complaints related to sexual harassment, few have
+looked directly at physical complaints or ailments. It has
+been shown that students who are bullied, perhaps a
+proxy for sexual harassment, can be affected by poor
+physical health. This can be manifested by a variety of
+symptoms including headache, backache, abdominal
+pain, skin problems, sleeping problems, bed-wetting,
+and dizziness.13-17 Some schools consider sexual harassment
+as a form of bullying.18,19 Distinguishing between
+the 2 terms is important because they have different
+definitions and therefore may not have similar longitudinal
+outcomes.
+Sexual harassment, for our purposes, will be defined
+as unwelcome conduct of a sexual nature which can
+include unwelcome sexual advances, requests for sexual
+favors, or other verbal, nonverbal, or physical conduct
+of a sexual nature.20,21 This study seeks to specifically
+look at sexual harassment in the teenager age population
+by (1) assessing the prevalence of sexual harassment
+amongst adolescents, who present for well and sick care
+at a General Academic Pediatric practice, in a predominantly
+urban African American population and (2) determining
+whether exposure to sexual harassment correlates
+with psychological impairment on the Pediatric
+Symptom Checklist-35–Youth Report (Y-PSC-35), and
+(3) if exposure to sexual harassment has any effect on
+overall body mass index (BMI), increased listing of
+chronic illnesses, or increased health care utilization.
+Methods
+This study applied a questionnaire to adolescents in the
+clinic setting to investigate their experiences with sexual
+harassment at school and outside of school.
+Survey Population
+Participants were patients between the ages of 12 and 18
+years, scheduled for a well or sick visit in the General
+Academic Pediatrics practice located on the main floor
+of the Children’s Hospital of The King’s Daughters, in
+Norfolk, Virginia. The patient population is predominantly
+African American (85%) with Medicaid or
+Medicaid managed care as their primary insurance.
+Participation required both—consent from parent or
+legal guardian and assent from the adolescent.
+Development of the Survey
+The online survey tool SurveyMonkey was used to create
+the questionnaire used in this study. We included questions
+on demographic data (age, sex, grade, and ethnicity);
+height and weight; questions on chronic medical
+conditions and on the use of health care; questions about
+the frequency of sexual harassment witnessed; questions
+concerning exposure to sexual harassment from
+American Association of University Women,20 and 35
+questions from the Y-PSC-35.22 A copy of the full survey
+is available on request. Psychological impairment was
+defined as any score ≥ 30 on the Y-PSC-35. Participants
+were defined as having experienced sexual harassment
+if they reported “rare”, “occasional”, “often”, or “very
+often” occurrences of at least 1 of the following: (1) I
+have been the target of sexual comments, jokes, teasing,
+gestures, or looks; (2) I have had my clothing pulled in a
+sexual way; (3) I have had sexual rumors spread about
+me; (4) I have had my way blocked in a sexual way; (5)
+I have been touched, grabbed, or pinched in a sexual
+way; or (6) I have been shown or given sexual pictures,
+photographs, illustrations, messages, or notes.
+Survey Administration
+We collected data over 2 time periods—from June 2012
+through August 2012 and from April 2013 through June
+2013. An additional question concerning how the participant
+handles exposure to sexual harassment via electronic
+and social media was included in the second time
+period. Participants completed the survey in the clinic at
+the time of their medical appointment using an iPad provided
+by the researcher. The research assistant reviewed
+all the patients scheduled for the day in the General
+Academic Pediatric outpatient area and identified adolescents
+that met the study inclusion criteria as they
+were being triaged. Once the patient was placed in a
+room, the research assistant entered and explained to the
+patient and parent/guardian that they are recruiting the
+adolescent for an anonymous survey that will ask questions
+concerning their experiences with sexual harassment
+at school and outside of school. Once the parent/
+guardian consented and the adolescent assented to the
+study, the survey software was explained and the survey
+was completed by the adolescent. A research team member
+was present to ensure software functionality and
+ensure that there was no parental input in answering the
+survey questions. After the final question was completed,
+the participant alerted the assistant and the connection
+to SurveyMonkey was discontinued (generally
+this occurred automatically, but was confirmed by the
+assistant).
+432 Clinical Pediatrics 54(5)
+Statistical Analysis
+The data were analyzed using SAS 9.3 (SAS Institute,
+Cary, NC) and SPSS 19 (IBM, Armonk, NY) software.
+Descriptive statistics were reported for the survey
+responses, and unknown or missing values were excluded
+from the analysis. P values less than .05 were considered
+statistically significant. Comparisons of means between
+groups were performed using 2-sample t tests. Proportions
+were compared using chi-square or Fisher’s exact tests,
+where appropriate. A logistic regression model for having
+experienced sexual harassment assessed the significance
+of the relationship with psychological impairment
+after adjusting for school level, gender, ethnicity, BMI,
+chronic illness, and health care utilization.
+Results
+Demographics and Medical Conditions
+Of the 238 patients approached, 210 (88%) agreed to
+participate in this study. Data was not collected on the
+27 patients who did not participate. Approximately
+89% of the patients surveyed were African American or
+multiracial and most were currently in high school
+(Table 1). Asthma and allergies were the most common
+medical conditions indicated by participants and the
+most common interval to visit a doctor was every 6
+months (Table 2).
+Psychological Impairment
+Overall, 39 participants (18.6%) had psychological
+impairment as measured by the Y-PSC-35. After excluding
+participants with ADHD (attention deficit hyperactivity
+disorder), 33 of the 191 participants without ADHD
+(17.3%) had psychological impairment (Table 3).
+Sexual Harassment
+In response to the question “How much do you think
+sexual harassment happens in your school?”, 57 (27.5%)
+said “It doesn’t happen,” 73 (35.3%) said “It happens to
+only a few people,” 38 (18.4%) said “It happens to a fair
+number of people,” and 39 (18.8%) said “It goes on all
+the time” (Table 4). One hundred five (50.5%) had
+Table 1. Demographics (N = 210).
+n %
+Age (years), mean ±SD 14.6 1.8
+Gender
+Male 92 43.8
+Female 118 56.2
+School level
+Middle school 81 38.5
+High school 109 51.9
+Graduated high school 18 8.6
+Dropped out 2 1.0
+Race/ethnicity
+African American 169 80.4
+Caucasian 12 5.7
+Latino/Hispanic 5 2.4
+Native American 3 1.4
+Asian 1 0.5
+Multiracial 18 8.6
+Other 2 1.0
+Height (in.), mean ± SDa 64.2 3.6
+Weight (lb), mean ± SDb 145.1 38.0
+BMI (kg/m2
+) mean ± SDc 24.76 6.10
+Abbreviations: SD, standard deviation; BMI, body mass index.
+a
+Seventeen participants did not respond.
+b
+Ten participants did not respond.
+c
+Data missing for 20 participants.
+Table 2. Chronic Medical Conditions and Doctor Visits
+(N = 210).
+n %
+Long-term medical conditions
+Asthma 74 35.2
+Eczema 25 11.9
+Constipation 3 1.4
+Attention deficit hyperactivity
+disorder
+19 9.1
+Allergies 69 32.9
+Diabetes 0 0.0
+Obesity 6 2.9
+Headaches/migraines 21 10.0
+Seizures 0 0.0
+Acne 21 10.0
+Abdominal pain 4 1.9
+Sickle cell disease 0 0.0
+Heart problems 5 2.4
+Other 9 4.3
+Frequency of seeing doctora
+Today is the first time I
+remember seeing a doctor
+3 1.4
+About once every 2 years 7 3.4
+About once a year 54 26.0
+About once every 6 months 59 28.4
+About once every 3 months 25 12.0
+About once a month 18 8.7
+About twice a month 7 3.4
+Weekly 4 1.9
+Not sure 31 14.9
+a
+Two participants did not respond.
+Eom et al 433
+Table 3. Pediatric Symptom Checklist—Youth Report
+(N = 210).
+Question
+Number n %
+Total Y-PSC-35 score, mean ± SD — 20.3 10.5
+Total Y-PSC-35 score (excluding
+ADHD) (N = 191), mean ± SD
+— 19.8 10.4
+Y-PSC-35 score ≥30 — 39 18.6
+Y-PSC-35 score ≥30 (excluding
+ADHD) (N = 191)
+— 33 17.3
+Ranked Y-PSC-35 questions for participants with score ≥30 (N =
+39)
+Distract easilya 9 38 100.0
+Are irritable, angry 12 38 97.4
+Worry a lota 22 36 94.7
+Feel sad, unhappy 11 36 92.3
+School grades dropping 18 36 92.3
+Have trouble concentrating 14 35 89.7
+Have trouble sleeping 21 35 89.7
+Complain of aches or painsa 1 34 89.5
+Tire easily, little energy 3 34 87.2
+Feel that you are bad 24 34 87.2
+Take unnecessary risks 25 34 87.2
+Do not listen to rules 29 34 87.2
+Seem to be having less funb 27 32 86.5
+Spend more time alone 2 33 84.6
+Daydream too much 8 33 84.6
+Do no show feelings 30 33 84.6
+Fidgety, unable to sit still 4 32 82.1
+Have trouble with teacher 5 31 79.5
+Less interested in school 6 31 79.5
+Visit doctor with doctor finding
+nothing wronga
+20 30 78.9
+Are afraid of new situations 10 30 76.9
+Down on yourself 19 30 76.9
+Absent from schoola 17 29 76.3
+Get hurt frequently 26 29 74.4
+Feel hopeless 13 26 66.7
+Want to be with parent more
+than before
+23 26 66.7
+Do not understand other
+people’s feelingsa
+31 25 65.8
+Fight with other children 16 25 64.1
+Less interested in friends 15 24 61.5
+Refuse to share 35 24 61.5
+Blame others for your troublesa 33 23 60.5
+Act as if driven by motor 7 23 59.0
+Tease othersb 32 20 54.1
+Act younger than children your
+age
+28 20 51.3
+Take things that do not belong
+to youa
+34 18 47.4
+Abbreviations: Y-PSC-35, Pediatric Symptom Checklist–Youth Report; SD,
+standard deviation; ADHD, attention deficit hyper-activity disorder.
+a
+One participant did not respond.
+b
+Two participants did not respond.
+witnessed or seen sexual harassment at their school; 68
+(32.7%) said they had not, and 35 (16.8%) were not
+sure. Overall, 19 (9.2%) had seen or heard of 1 instance
+of sexual harassment, 36 (17.5%) said 2 to 5 instances,
+44 (21.4%) said 6 or more instances in the past year, and
+107 (51.9%) said none/not applicable. One hundred
+twenty-four (59.6%) reported that they had experienced
+sexual harassment. More specifically, 44 of 92 males
+(47.8%) and 80 of 116 females (69.0%) had experienced
+sexual harassment. Females were statistically significantly
+more likely to have experienced sexual harassment
+than males (chi-square test P = .002; odds ratio
+[OR] = 2.4; 95% confidence interval [CI] = 1.4-4.3;
+Figure 1). There were no significant differences in having
+witnessed or experienced sexual harassment between
+African American and Caucasian participants (Fisher’s
+exact test, both P > .05).
+Psychological Impairment and Sexual
+Harassment
+Thirty-three of the 124 participants (26.6%) who had
+experienced sexual harassment scored positive for psychological
+impairment on the Y-PSC-35. Six of the 84
+participants (7.1%) who had not experienced sexual
+harassment scored positive for psychological impairment.
+Participants who had experienced sexual harassment
+were statistically significantly more likely to score
+positive for psychological impairment than comparable
+participants who had not experienced sexual harassment
+(chi-square test P < .001; OR = 4.7; 95% CI = 1.9-11.8;
+Figure 2). A logistic regression model was used to determine
+that this relationship remained significant after
+adjusting for school level, gender, ethnicity, BMI,
+chronic illness, and health care utilization (P = .048; OR =
+2.9; 95% CI = 1.0-8.5; Table 5).
+After excluding participants with ADHD, 30 of the
+113 participants (26.6%) who had experienced sexual
+harassment scored positive for psychological impairment.
+Three of the 76 participants (4.0%) who had not
+experienced sexual harassment scored positive for psychological
+impairment. After excluding participants
+with ADHD, those who had experienced sexual harassment
+remained statistically significantly more likely to
+score positive for psychological impairment than were
+comparable participants who had not experienced sexual
+harassment (N = 189; chi-square test P < .001; OR =
+8.8; 95% CI = 2.6-30.0). Conversely, the Y-PSC-35
+symptoms were not made worse by the combination of
+ADHD with sexual harassment (Fisher’s exact test, all P
+> .05), but this negative finding is most likely because of
+a lack of power given the small number of subjects with
+ADHD (n = 19). This analysis compared the Y-PSC-35
+responses (“never” vs “sometimes” or “often”) for participants
+with ADHD who had experienced sexual 
+434 Clinical Pediatrics 54(5)
+harassment (n = 11) versus those with ADHD who had
+not experienced sexual harassment (n = 8).
+Health Status
+The mean BMI and standard deviation (± SD) was 25.22
+± 6.46 kg/m2
+ for participants who had experienced sexual
+harassment and 23.74 ± 4.99 kg/m2
+ for participants
+Table 4. Responses to Sexual Harassment Questions
+(N = 210).
+n %
+How much do you think sexual harassment happens in your
+school?a
+It doesn’t happen 57 27.5
+It happens to only a
+few people
+73 35.3
+It happens to a fair
+number of people
+38 18.4
+It goes on all the time 39 18.8
+Have you witnessed or seen sexual harassment at your
+school?b
+No 68 32.7
+Yes 105 50.5
+Not sure 35 16.8
+How many instances have your seen or heard of in the past
+year?c
+1 19 9.2
+2-5 36 17.5
+6+ 44 21.4
+Not applicable 107 51.9
+Experienced sexual
+harassmentd
+124 59.6
+I have been the target of sexual comments, jokes, teasing,
+gestures, or looksb
+Very often 4 1.9
+Often 13 6.3
+Occasionally 19 9.1
+Rarely 58 27.9
+Never 114 54.8
+I have had my clothing pulled in a sexual wayb
+Very often 3 1.4
+Often 2 1.0
+Occasionally 14 6.7
+Rarely 15 7.2
+Never 174 83.7
+I have had sexual rumors spread about mec
+Very often 4 1.9
+Often 3 1.5
+Occasionally 9 4.4
+Rarely 24 11.7
+Never 166 80.6
+I have had my way blocked in a sexual wayb
+Very often 2 1.0
+Often 5 2.4
+Occasionally 7 3.4
+Rarely 17 8.2
+Never 177 85.1
+I have been touched, grabbed, or pinched in a sexual waya
+Very often 7 3.4
+Often 7 3.4
+Occasionally 21 10.1
+n %
+Rarely 37 17.9
+Never 135 65.2
+I have been shown or given sexual pictures, photographs,
+illustrations, messages, or notesc
+Very often 10 4.9
+Often 6 2.9
+Occasionally 17 8.3
+Rarely 22 10.7
+Never 151 73.3
+I have been physically intimidated by another student or
+personb
+Very often 6 2.9
+Often 3 1.4
+Occasionally 17 8.2
+Rarely 19 9.1
+Never 163 78.4
+I have stayed home, cut class, or missed work because I felt
+intimidatedb
+Very often 1 0.5
+Often 3 1.4
+Occasionally 6 2.9
+Rarely 8 3.9
+Never 190 91.4
+I have felt unsafe in school or outside homec
+Very often 5 2.4
+Often 6 2.9
+Occasionally 4 1.9
+Rarely 22 10.7
+Never 169 82.0
+I have been punished, threatened, or harassed more
+as a result of complaining about or reporting sexual
+harassmente
+Very often 2 1.0
+Often 8 3.9
+Occasionally 6 2.9
+Rarely 7 3.4
+Never 182 88.8
+a
+Three participants did not respond.
+b
+Two participants did not respond.
+c
+Four participants did not respond.
+d
+Data missing for 2 participants.
+e
+Five participants did not respond.
+(continued)
+Table 4. (continued)
+Eom et al 435
+Figure 2. Student psychological impairment on the
+Y-PSC-35 stratified by whether they had experienced sexual
+harassment (N = 208). The result remained significant after
+excluding students with attention deficit hyper activity
+disorder (P < .001, N = 189).
+Abbreviation: Y-PSC-35, Pediatric Symptom Checklist—Youth
+Report.
+who had not experienced sexual harassment. There was
+a borderline statistically significant association between
+BMI and having experienced sexual harassment (2-sample
+t test P = .08). Ninety of 143 participants (62.9%)
+with a chronic disease had experienced sexual harassment,
+and 34 of 65 participants (52.3%) without a
+chronic disease had experienced sexual harassment.
+There was, however, no association between having a
+chronic illness (or each individual illness) and having
+experienced sexual harassment (chi-square or Fisher’s
+exact test, all P >.05). In addition, there was no association
+between health care utilization and having experienced
+sexual harassment (chi-square test P =.37).
+Discussion
+Our study demonstrates that females in middle and high
+school are more likely to be sexually harassed than
+males. Although recent studies have shown equal sexual
+harassment in males and females,11our study mirrors
+many of the findings in Goldstein et al8
+ and Nadeem et
+al,23 where African American females were more likely
+to be harassed and more likely to have negative psychological
+outcomes from exposure. This current study also
+suggests that there may be differences in the pattern of
+sexual harassment based on a child’s ethnicity and
+socioeconomic class.
+Our study reinforces the fact that exposure to sexual
+harassment can affect the emotional well-being of a
+child. The data clearly show a correlation for adolescents
+who experienced sexual harassment to be more
+likely to have a positive score on the Y-PSC-35.
+Although the Y-PSC-35 is not a screen that can provide
+an avenue to a specific diagnosis, data from previous
+studies show that 67% of children or adolescents with a
+positive score will have a moderate to severe impairment
+in psychosocial functioning with the other 33%
+with a positive score having at least a mild impairment,
+and all would likely benefit from more specific mental
+health testing.24,25
+Although the mean BMI had SD that overlapped for
+those who had experienced sexual harassment (25.22 ±
+6.46) and those who had not experienced sexual harassment
+(23.74 ± 4.99), there was a borderline statistically significant
+association with the 2-sample t test yielding a P
+value of .08. This may be related to the possibility that
+females who are heavier may have started their pubertal
+growth spurts earlier and this may have made them targets
+for harassment, or perhaps after being harassed they may
+have been more likely to eat for comfort from being emotionally
+distraught. There does not appear to be any correlation
+with sexual harassment and any chronic underlying
+Figure 1. Student responses to whether they had
+experienced sexual harassment stratified by gender (N = 208).
+436 Clinical Pediatrics 54(5)
+illnesses such as ADHD, diabetes, or asthma. There also
+did not appear to be an increased use of health care via
+more primary care visits, emergency department, or subspecialty
+visits. Interestingly, the question added in our second
+wave of data collection concerning, “what action taken
+after you were harassed?” approximately two thirds of the
+respondents answered “nothing” and only 25% spoke with
+a parent, teacher, or counselor (Table 6).
+Limitations
+There is no preassessment data prior to middle school to
+determine if symptoms verified by the Y-PSC-35 existed
+prior to middle school. Correlation does not always
+mean causation, and children who are harassed may be
+preyed upon because of existing psychological disorders.
+Our data may not be generalizable because it is
+only from one primary care office but does provide
+intriguing data that could be replicated in a larger study.
+Unfortunately, our health indicators and health care utilization
+were by report and could not accurately be
+cross-referenced to the personal medical records in the
+study. There was 88% participation; however data was
+not collected on the 28 patients who did not participate.
+It is impossible to predict if they did not participate
+because they were concerned about talking about previous
+harassment or if they would have been less likely to
+have been victims of sexual harassment. Obviously
+there is overlap between bullying, physical intimidation,
+and sexual harassment. We did not collect data on specific
+antibullying campaigns within the schools that the
+participants’ attended and this may have affected overall
+prevalence and recall, since some data was collected
+during the school year and some was collected during
+Table 5. Multiple Logistic Regression Model for Psychological Impairment Using SAS PROC LOGISTIC.a
+Variable Coefficient (β) SE Wald χ2 P Value OR 95% CI
+Intercept −7.3 1.8 15.6 <.001 NA NA
+School level
+Middle vs senior 0.2 0.5 0.2 .62 1.3 0.5-3.4
+Gender
+Female vs male 0.1 0.5 0.1 .79 1.1 0.4-3.0
+Ethnicity
+African American vs other 1.8 1.1 2.8 .10 6.0 0.7-50.3
+Caucasian vs other 1.7 1.3 1.8 .18 5.6 0.5-69.0
+BMI 0.1 0.0 2.9 .09 1.1 1.0-1.2
+Chronic illness
+Yes vs no 1.1 0.6 3.1 .08 3.0 0.9-10.4
+Health care utilization
+≥5 visits/year vs ≤1 visit/year 1.2 0.7 2.7 .10 3.4 0.8-14.6
+2-4 visits/year vs ≤1 visit/year 0.9 0.6 2.2 .14 2.5 0.8-8.3
+Experienced sexual harassment
+Yes vs nob 1.1 0.5 3.9 .048 2.9 1.0-8.5
+Abbreviations: CI, confidence interval; OR, odds ratio; SE, standard error; NA, not applicable; BMI, body mass index.
+aOdds ratio—controlling for other variables in the model, for example, the odds of psychological impairment for a participant who has
+experienced sexual harassment compared with an otherwise similar participant who has not experienced sexual harassment increase by 2.9.
+Model evaluation: Likelihood ratio test χ2
+ = 21.7, df = 9, P = .01; score test χ2
+ = 18.0, df = 9, P = .03; Hosmer-Lemeshow goodness-of-fit test
+χ2
+ = 7.0, df = 8, P = .54. b
+Having experienced sexual harassment is a significant independent predictor of psychological impairment.
+Table 6. Action Taken After Experiencing Sexual
+Harassment in Some Way (N = 93).
+n %
+Does not apply to me 31 33.3
+Action(s) takena,b 62 66.7
+Nothing 41 66.1
+Talked with a friend about it 11 17.7
+Talked with a parent about it 9 14.5
+Talked with a relative about it 7 11.3
+Talked to the person who sent the
+message or picture
+6 9.7
+Talked with a teacher about it 4 6.5
+Talked with a school counselor about it 3 4.8
+Talked with someone in my church
+including priest/reverend/clergy/
+parishioner
+2 3.2
+Other 2 3.2
+Brought a complaint to the police 1 1.6
+a
+Multiple selections permitted.
+b
+Question was only included during the second time period.
+Eom et al 437
+the summer. However, the effectiveness of school-based
+antibullying programs have only shown small to moderate
+effects on victimization.26
+Conclusions
+Sexual harassment appears to have a direct correlation
+to psychological impairment in adolescents, especially
+females. Although it did not reach statistical significance,
+there was an elevated BMI in children who had
+been sexually harassed; however, no other chronic disease
+or health care utilization appears to be effected in
+our cohort. The plausible relationship between elevated
+BMI and sexual harassment should be studied further. In
+addition, children who were harassed were not likely to
+do or say anything about that harassment. Pediatricians
+therefore should ask specific questions about sexual
+harassment during their adolescent health care visits
+commonly known as the HEADDSS (Home, Education/
+Employment, Activities, Diet, Drugs, Sexuality, and
+Suicide/Depression) assessment.27 If questions concerning
+sexual harassment are affirmative, then the physician
+should consider further screening for mental health
+and/or psychosomatic concerns.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with
+respect to the research, authorship, and/or publication of this
+article.
+Funding
+The author(s) received no financial support for the research,
+authorship, and/or publication of this article.
+References
+1. Ybarra M, Espelage D, Mitchell KJ. The co-occurrence
+of Internet harassment and unwanted sexual solicitation
+victimization and perpetration: associations with
+psychosocial indicators. J Adolesc Health. 2007;41
+(6 suppl 1):S31-S41.
+2. Finkelhor D, Turner HA, Shattuck A, Hamby SL.
+Violence, crime, and abuse exposure in a national sample
+of children and youth: an update. JAMA Pediatr.
+2013;167:614-621.
+3. Walsh M, Duffy J, Gallagher-Duffy J. A more accurate
+approach to measuring the prevalence of sexual harassment
+among high school students. Can J Behav Sci.
+2007;39:110-118.
+4. Petersen JL, Hyde JS. A longitudinal investigation of
+peer sexual harassment victimization in adolescence. J
+Adolesc. 2009;32:1173-1188.
+5. American Association of University Women Educational
+Foundation. Hostile Hallways: Bullying, Teasing, and
+Sexual Harassment in School. New York, NY: Harris/
+Scholastic Research; 2001.
+6. Lindberg SM, Grabe S, Hyde JS. Gender, pubertal
+development, and peer sexual harassment predict objectified
+body consciousness in early adolescence. J Res
+Adolescence. 2007;17:723-742.
+7. McMaster LE, Connolly J, Pepler D, Craig WM. Peer to
+peer sexual harassment in early adolescence: a developmental
+perspective. Dev Psychopathol. 2002;14:91-105.
+8. Goldstein SE, Malanchuk O, Davis-Kean PE, Eccles
+JS. Risk factors of sexual harassment by peer: a longitudinal
+investigation of African American and European
+American adolescents. J Res Adolescence. 2007;17:285-
+300.
+9. Houle JN, Staff J, Mortimer JT, Uggen C, Blackstone A.
+The impact of sexual harassment on depressive symptoms
+during the early occupational career. Soc Ment
+Health. 2011;1:89-105
+10. Peterson JL, Hyde JS. Peer sexual harassment and
+disordered eating in early adolescence. Dev Psychol.
+2013;49:184-195.
+11. Chiodo D, Wolfe DA, Crooks C, Hughes R, Jaffe P.
+Impact of sexual harassment victimization by peers on
+subsequent adolescent victimization and adjustment: a
+longitudinal study. J Adolesc Health. 2009;45:246-252.
+12. Derogatis LR. Brief Symptom Inventory (BSI)-18.
+Administration, Scoring and Procedures Manual.
+Minneapolis, MN: NCS Pearson; 2001.
+13. Fekkes M, Pijpers FI, Verloove-Vanhorick SP. Bullying
+behavior and associations with psychosomatic complaints
+and depression in victims. J Pediatr. 2004;144:17-22.
+14. Forero R, McLellan L, Rissel C, Bauman A. Bullying
+behaviour and psychosocial health among school students
+in New South Wales, Australia: cross sectional survey.
+BMJ. 1999;319(7206):344-348.
+15. Berntsson LT, Köhler L, Gustafsson JE. Psychosomatic
+complaints in schoolchildren: a Nordic comparison.
+Scand J Public Health. 2001;29:44-54.
+16. Gini G. Associations between bullying behaviour, psychosomatic
+complaints, emotional and behavioural problems.
+J Paediatr Child Health. 2008;44:492-497.
+17. Rigby K. Peer victimisation at school and the health of
+secondary school students. Br J Educ Psychol. 1999;69
+(pt 1):95-104.
+18. Ashbaugh L, Cornell D. Sexual harassment and bullying
+behaviors in sixth graders. J Sch Violence. 2008;7:21-38.
+19. Brown LM. Chesney-Lind M, Stein N. Patriarchy matters:
+toward a gendered theory of teen violence and victimization.
+Violence Against Women. 2007;13:1249-1273.
+20. American Association of University Women. 2011
+Survey on sexual harassment: Harassment-free hallways:
+How to stop sexual harassment in America’s schools.
+Washington, DC. http://www.aauw.org/files/2013/02/
+Crossing-the-Line-Sexual-Harassment-at-School.pdf
+21. Mitchell KJ, Ybarra ML, Korchmaros JD. Sexual harassment
+among adolescents of different sexual orientations
+and gender identities. Child Abuse Negl. 2014;38:280-295.
+438 Clinical Pediatrics 54(5)
+22. Youth Pediatric Symptom Checklist 35. Massachusetts
+General Hospital Psychiatry Web site. http://www.
+massgeneral.org/psychiatry/services/psc_forms.aspx.
+Accessed September 16, 2014.
+23. Nadeem E, Graham S. Early puberty, peer victimization,
+and internalizing symptoms in ethnic minority adolescents.
+J Early Adolescence. 2005;25:197-222.
+24. Jellinek MS, Murphy JM, Little M, Pagano ME, Comer
+DM, Kelleher KJ. Use of the Pediatric Symptom Checklist
+to screen for psychosocial problems in pediatric primary
+care: a national feasibility study. Arch Pediatr Adolesc
+Med. 1999;153:254-260.
+25. Little M, Murphy JM, Jellinek MS, Bishop SJ. Screening
+4- and 5-year-old children for psychosocial dysfunction: a
+preliminary study with the Pediatric Symptom Checklist.
+J Dev Behav Pediatr. 1994;15:191-197.
+26. Lee S, Kim CJ, Kim DH. A meta-analysis of the
+effect of school-based anti-bullying programs [published
+online October 3, 2013]. J Child Health Care.
+doi:10.1177/1367493513503581.
+27. Cohen E, Mackenzie RG, Yates GL. HEADSS, a psychosocial
+risk assessment instrument: implications for
+designing effective intervention programs for runaway
+youth. J Adolesc Health. 1991;12:539-544.

@@ -1,0 +1,1510 @@
+Three Ideological Orientations in School Vandalism Research
+
+
+
+
+ ABSTRACT. School vandalism is one of the major problems threatening
+ the educational system of various western countries. We review the
+ literature on this topic and point out some of the difficulties that hamper
+ a thorough understanding of this social phenomenon. We emphasize those
+ strategies that have been found to be successful in reducing the incidence
+ of this offence. We interpret the available information in terms of three
+ ideological orientations: conservative, liberal, and radical, each of which
+ can be shown to result in effective policies. The choice as to which strategy
+ to employ on a national basis thus depends less on its proven efficacy
+ than on the values and attitudes of those concerned with the problem.
+ Hence, we argue that future investigations into school vandalism must
+ adopt an "action research" approach, that is, research that continually
+ assesses the effect that certain manipulations have on a specific school
+ system. Representatives of all interested parties (teachers, parents, and
+ students) must decide with the principal which particular strategy changes
+ the existing conditions most favorably for all concerned.
+ Over the last 20 years educators, policymakers, and the public at large have
+ shown increasing concern about the waste due to school vandalism. The Safe
+ School Study Report, published by the U.S. National Institute of Education (NIE,
+ 1977) noted that the estimates of school vandalism in the United States run from
+ about $50 million to $600 million, with most estimates in the $100-200 million
+ range (p. 3). The NIE itself estimated that the yearly cost of replacing and repairing
+ items damaged by vandalism was about $200 million.
+ Because of the costs involved and the implied detrimental effect on the educa-
+ tional process, the problem of school vandalism has led to many attempts to
+ discover why it occurs and how it can be solved. Numerous explanations have been
+ offered and many solutions expounded. As is often the case in social science,
+ disagreement is rife.
+ It is common for school principals and teachers to lament the loss of discipline,
+ the violent attitude of contemporary youth, and their apparent inability to respect
+ property. More and more, alarm systems and security officers are employed to
+ catch the juvenile delinquent, and calls are made for a restructuring of the court
+ system or the proper implementation of (parent) restitution programs. Yet other
+ The literature search presented in this report was made possible by a grant obtained from
+ the New Zealand Department of Education and the Winnifred Gimblett Scholarship awarded
+ to the first author.
+ 263
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ZWIER AND VAUGHAN
+ school administrators believe that the fault lies in the school system itself. They
+ urge changes in the physical surroundings (i.e., building design and grounds) and
+ in the school's social climate. Change in climate might follow from changes in
+ curricula, size of school, degree of student participation in decisionmaking proce-
+ dures, assessment methods, special programs, and so on.
+ The inability of social scientists to pinpoint the causes or cures of school
+ vandalism has added to the general confusion. Correlations exist between a high
+ incidence of vandalism and variables such as the age of the principal (the older, the
+ more vandalism!), teacher apathy, academic failure, a derelict appearance of the
+ school, and community disinterest in school affairs. Hundreds of studies report
+ what school vandalism is "actually" due to, and even more document many and
+ various successful programs that can be put into effect; but there is virtually no
+ consensus about the causes of vandalism, and even less agreement about effective
+ methods in dealing with the problem.
+ The present analysis' attempts to bring some order to this field by drawing out
+ the theoretical and methodological problems that have plagued research and by
+ offering an ideological framework within which investigations have proceeded.
+ School vandalism is a complex phenomenon, the causes of which change with
+ the ideology that researchers impose on it. Thus, although it is obvious that a brick
+ actually does go through a window pane and smashes the glass, the identification
+ of the reason(s) for the act, and what should be done to prevent it from recurring,
+ presuppose social values and an ideological orientation in the investigator. Our
+ argument hinges on three main reasons.
+ First, a study of the causes of school vandalism can be approached on various
+ levels of analysis. Let us take the analogy of a bridge collapsing during a heavy
+ traffic flow. Was it due to an overstress of its materials (lack of foresight by the
+ consultant engineers); to a traffic flow exceeding its rating (negligence by the bridge
+ controllers on duty); or to a weakening of foundations through successive earth
+ tremors (an act of God)? Such explanations may compete, may overlap, and may
+ be offered as attack or defense in a legal inquiry. In a similar way, the question
+ "Why does school vandalism occur?" can be answered by pointing the finger at the
+ deviant individual, a particularly rigid and authoritarian school administration, or
+ to apathy in the school and the community alike.
+ It is our view that there is no criterion for judging that one level of explanation
+ is more "correct" than another. They may be independently correct, or they may
+ be parts of a chain of causal processes, as in Figure 1.
+ Even where such a chain may seem plausible, there may be yet another chain
+ emphasizing different causal agencies, such as poor background of pupil -> aca-
+ demic failure - pupil-teacher conflict - vandalistic act.
+ Second, social scientists are not immune from holding preconceived notions.
+ They can hold an opinion about solving a problem and then seek support for both
+ 'Most of the material that the report draws on was obtained through a computerized
+ retrieval system provided by the Auckland University Science Library. Their intercontinental
+ satellite communication system taps the memory banks of a California-based computer. For
+ reasons of access, the study focuses almost exclusively on studies from the United States and
+ Commonwealth countries.
+ 264
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ORIENTATIONS IN SCHOOL VANDALISM RESEARCH
+ opinion and solution. The result is that scientific evidence can be obtained for
+ virtually any relationship which common sense may suggest. If no such evidence
+ exists, the resourceful researcher can predict that someday someone will discover a
+ situation in which the correlation holds. Scientific practice does not need to consist
+ of hypothesis testing in the "real" world, but may merely delineate the conditions
+ under which a particular hypothesis may be true (McGuire, 1980). This issue is
+ important in evaluating school vandalism research and will be raised again. Suffice
+ it to note here that there is no criterion for judging which test (and which correlation)
+ should be regarded as most important.
+ Third, even a repeatedly confirmed correlation between a variable and a vandal-
+ istic act does not imply a causal connection. Although more vandalism occurs in
+ larger schools, not every small school experiences less vandalism. Again, largeness
+ of school may be nested in another factor, such as largeness of town or teacher
+ turnover. Although evidence may show a correlation, the basis on which causal
+ chains are inferred is intuitive. In the theoretical murk surrounding school vandal-
+ ism, there is no criterion for judging if a particular causal inference is justified.
+ We will propose that, because there is no compelling evidence for one major
+ cause or several minor causes of school vandalism, the choice of which variable to
+ study or strategy to employ is ideological. The choice depends on, and to an extent
+ characterizes, the values of the individual. Because ideological orientations are best
+ known through political expression, we have adopted that terminology in distin-
+ guishing three: conservative, liberal, and radical.
+ However, before the ideological dimension of school vandalism research can be
+ explored and its implications understood, we must note that studies in the field
+ suffer from problems that make it difficult to provide a systematic, heuristic, and
+ comprehensive review. Two such problems are (a) a definition of school vandalism,
+ and (b) measures used to indicate incidence and trends. We propose a three-by-
+ three matrix, incorporating the ideological dimension, to classify the numerous
+ strategies that have been employed to solve school vandalism. The description of
+ this taxonomy and a review of several cruder classifications suggested by other
+ authors, namely Koch (1975), Marvin, Connolly, McCann, Temkin, and Henning
+ (1976) and Rubel (1978), precede an application of the matrix to some strategies
+ that have been used.
+ 265
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ZWIER AND VAUGHAN
+ Finally, some implications of our proposals are examined. Here we suggest that,
+ because the study of school vandalism suffers from conceptual confusion and from
+ serious methodological flaws, a radical change in research strategy is in order. We
+ argue that future investigations of school vandalism must adopt an "action research"
+ approach, that is, research that continually assesses the effect of certain manipula-
+ tions on a specific school system.
+ What Is School Vandalism?
+ There may be as many definitions of school vandalism as there are teachers,
+ principals, and social science researchers concerned with the problem. All such
+ definitions are arbitrary.
+ Panko (1979), attempting to obtain a consensus by sorting 2,516 statements,
+ arrived at the following definition: School vandalism is "unauthorized intentional
+ damage and theft of school and district property, excluding theft for material gain
+ of the actor and associated damages, if any" (p. 592). Thus for an act to be
+ vandalistic, it needs to be intentional or, as Thaw (1980) noted, "hostility directed."
+ As such, broken furniture and smashed windows do not ipso facto constitute acts
+ of vandalism, and certainly not if they are due to thoughtlessness and/or careless-
+ ness. One can never be sure that a broken window is due to malicious intent, unless
+ the vandal is caught in flagrante delictu.
+ Moreover, some intentional acts such as scratching one's desk, are so common
+ that they might be regarded as part of normal wear and tear. At an English school,
+ it was found that 85% of the boys admitted to having scratched their desks, 65%
+ admitted to having written on walls in the street and more than 25% confessed
+ they had broken furniture or a window at school (Gladstone, 1978).
+ The practice of adding up the costs of replacing broken windows, furniture, and
+ fittings, and labeling this "expenditure due to vandalism," assumes that the damage
+ was intentional and the action criminal. To regard the same as "wear and tear," on
+ the other hand, can lead to reserving the label for damage to expensive items such
+ as sound equipment or to damage that might follow from breaking and entering
+ school buildings.
+ It is important to keep this observation in mind, because a modification in one's
+ definition of vandalism will affect the response strategies developed. If a certain
+ behavior were regarded as "fairly normal," it would be sensible to concentrate on
+ changes in the environment (e.g., by replacing glass by Lexan, a hard-to-break glass
+ substitute), rather than to attempt a change in pupil behaviour (e.g., by using
+ behavior modification techniques).
+ Incidence and Measurement: How Do We Go About It?
+ The fact that acts of school vandalism can be reported in various ways has
+ constituted a major source of incongruity among the results of many studies, and
+ signals the need for a standard record maintenance system (McCrosky, 1979). Most
+ used indices are repair costs, number of incidents (i.e., break-in and entry, appear-
+ ance of graffiti, damage or theft), number of convictions during a certain period,
+ and self-reports. More recently, the psychological impact of vandalistic acts also
+ has been used to evaluate their seriousness.
+ 266
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ORIENTATIONS IN SCHOOL VANDALISM RESEARCH
+ Each index of school vandalism has faults that are compounded when used
+ indiscriminately. For instance, records showing number of incidents or monetary
+ loss due to vandalism are subject to the ambiguity with which school vandalism
+ has been defined: What one school principal records as normal wear and tear,
+ another reports as an act of school vandalism. Also, it has become practice for
+ some school officials to want to "hush up" the problem for fear of giving the school
+ a bad name. It would also be consistent that because more vandalism is expected
+ in lower socioeconomic areas, school officials would be more vigilant in detecting
+ incidents. Finally, variables outside the system may further modify the indices:
+ Young and Soldatis (1970) suggest that a decrease in the breaking of school windows
+ may be offset by an increase in the unit repair cost, so that an overall increased
+ expenditure may be reported (e.g., Steele, 1978).
+ The idea that there should be more concern with the social impact of school
+ vandalism than with repair costs deviates from the tendency to view the issue in
+ purely monetary terms. Instead, it encourages people to take note of the social cost
+ involved.2 Vestermark and Blauvelt (1978) have proposed a two-by-two matrix to
+ show that some incidents can be high in monetary costs but low in social costs,
+ and vice versa, and other incidents can be both high or both low in social and
+ monetary costs.
+ Self-reports are rarely used. When they are (e.g., Gladstone, 1978), they can be
+ very revealing, especially with respect to motives and the relative incidence of
+ certain practices. Yet they suffer the drawback common to all self-report measures
+ when taken at face value: The extent of bias is not known.
+ Even an apparently objective method of assessing the incidence of vandalism,
+ such as the number of convictions per year, is subject to influence. The NIE (1977)
+ suggests that in one case changes in the law were resnonsible for an increase in the
+ number of offenses. Although it seemed that the nurt er of vandalism offenses had
+ increased, closer inspection revealed a decrease in the proportion of vandalism
+ offenses compared to the total number of criminal offenses (see also Stace, 1978).
+ Added to the confusion of difference among methods, there is a wide variation
+ in scientific quality of research projects. Some studies include control schools or
+ schools matched on various criteria (e.g., Daniels, 1976; Mayer & Butterworth,
+ 1981). Sometimes specific sampling procedures are followed, for example, stratified
+ (Daniels, 1976) or random (Schrock, 1979). Structured interviews (e.g., Hevern,
+ 1977; Smith, 1966) are conspicuous by their absence.
+ When questionnaires are used, they tend to be developed for the specific study
+ in question, making comparison among such studies difficult. This is despite the
+ existence of two well-elaborated instruments: the Organization Climate Description
+ Questionnaire (e.g., Kaiser, 1972) and the Purdue Teacher Opinionnaire (e.g.,
+ Ellison, 1975).
+ On the theoretical side, there are few truly insightful analyses such as Cohen's
+ (1968, 1971). Literature reviews (e.g., Davis, 1972; Sturm, 1979) do little more
+ 2 This method has only recently been introduced and, perhaps partly because of the
+ difficulties involved in the actual measure of social impact, has so far had little response from
+ the educational community.
+ 267
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ZWIER AND VAUGHAN
+ than describe previous research and summarize correlational data. Although many
+ researchers note many variables, most give personal, piecemeal accounts of how a
+ particular school has dealt with, or failed to deal with, vandalism.
+ To be fair, all kinds of factors, some inherent in the system and others imposed
+ on it, can make a research project extremely difficult. A detailed enumeration and
+ analysis of these problems would require a study in itself. Instead, we argue that
+ most difficulties can be overcome by reconceptualizing the scientific process used
+ to study school vandalism.
+ Finally, the abundance of alternative reporting methods and types of research
+ has led to widespread disagreement over whether the incidence of school vandalism
+ is increasing or decreasing. Many (e.g., Sabatino, Heald, Rothman, & Miller 1978;
+ "Violence in the Schools," 1975) hold that school vandalism is increasing through-
+ out the United States. Several recent extensive surveys have found, however, that
+ although there probably was an increase in American school vandalism through
+ the sixties and early seventies, there has since been a leveling off (Hevern, 1977;
+ NIE, 1977; Rubel, 1978; Steele, 1978; Watson & Darling-Hammond, 1978; Wilson,
+ 1976). The apparent increase in vandalism for a given community over time may,
+ of course, dissipate in light of variations in reporting, measurement, and even the
+ expectations of the investigator. The decision to use one measure rather than
+ another seems to depend as much on its availability and ease of access as it does
+ on personal inclinations and biases.
+ The Ideological Dimension
+ Most acts of school vandalism are against a system, the school. Blame therefore
+ could be attributed to the individual or the system. To blame the individual is to
+ emphasize the importance of preserving the system as is. The school system,
+ according to this view, is functioning well. The same view regards the act as
+ meaningless and likely to be executed by an aberrant, sick individual. Thus, the
+ system is preserved, but the person's behavior should be changed.
+ In the alternative view, the vandalistic act is regarded as meaningful and symp-
+ tomatic of an important shortcoming in the school system. The act, although not
+ justifiable, is a predictable response to a sickness inherent in the system. Thus, the
+ solution is to change the system, thereby reducing or eliminating circumstances
+ conducive to vandalism.
+ Of course, most everyday instances of school vandalism are not blamed on either
+ one or the other; the reasons for its occurrence are more often attributed to both.
+ Only for clarity do we separate these opposing viewpoints (and introduce an
+ intermediate viewpoint) in our proposal. Our matrix incorporates the three political
+ orientations: conservative, liberal, and radical (see Table I).
+ The conservative stance entails, by definition, the preservation and maintenance
+ of existing institutions. This and the following definitions are taken from the
+ Random House Dictionary (Stein & Urdang, 1973). School vandalism is regarded,
+ like any other crime, as a threat to the system. Studies that adopt this political
+ perspective identify the person as the cause of school vandalism: School vandalism
+ is the intentional destruction of school property by a person or persons.
+ A liberal framework moves away from traditional values and conventional ideas
+ about the need to preserve and maintain established institutions at all costs and
+ 268
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ TABLE I
+ The Relationship Between Ideological Orientation, Assumption Concerning the Cause of School Vandalism, and Type of Solution Offered
+ Ideological orientation and assumption of
+ cause
+ Conservative
+ Vandals are deviant. They must be
+ caught and punished.
+ Liberal
+ The school system is malfunction-
+ ing. Vandals capitalize on this.
+ Radical
+ The school system is debilitating.
+ Vandalism is a response of normal
+ individuals to abnormal condi-
+ tions.
+ Specific -- -
+ Physical
+ environment
+ protection of school and scho
+ grounds, employment of se
+ rity officers and caretakersa
+ (superficial) improvement of
+ design, appearance, and lay
+ out of the school and schoc
+ grounds
+ promotion of radical changes
+ the structure and appearan<
+ of the school, approval of p
+ icy to decrease the size of h
+ schools and maintain small
+ schools
+ Type of solution
+ _n Diffuse
+ School
+ system
+ Community
+ at large
+ encouragement and enforcement of involvement of community in anti-
+ school rules, use of contingency vandalism patrols and (parent)
+ contracts restitution programs, dependence
+ on judicial system
+ modifications in school climate, cur-
+ riculum, and use of special conflict
+ management programsa
+ provision of student involvement in
+ decisionmaking processes, adop-
+ tion of changes in assessment pro-
+ cedures, and exploration of alter-
+ native schooling methods
+ extension of recreational activities,
+ use of school after hours for health
+ and social services
+ involvement of the whole commu-
+ nity in school affairs, installment
+ of community education pro-
+ grams, improvement of social sit-
+ uation in society at large'
+ a The solution considered most favorably by the particular ideological orientation.
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ZWIER AND VAUGHAN
+ admits that the cause may lie in the school system. Possible causes may be the
+ irrelevance of the curriculum, aggressive leadership by the principal, extreme
+ competition induced by the grading system, and the teaching style of the staff.
+ Finally, the radical stance is based on the assumption that the existing social
+ system, of which the school is part, is in some way debilitating and therefore must
+ change. The radical attitude is not Marxist in the sense that it advocates drastic
+ political, economic, or social reforms (although it does exist-e.g., see Liazos,
+ 1978). Rather, it emphasizes that the cause of school vandalism lies neither in the
+ individual nor in the school system, but in the immorality, violence, and general
+ apathy evident in our society.
+ Each of these ideological orientations is apparent in the literature. The conserv-
+ atives will show that school vandalism is due to deviant individuals, who must be
+ deterred; the liberals will produce evidence blaming the school; the radicals will
+ contend that the disinterest of the whole community is at fault.
+ The second dimension of the matrix (see Table I) denotes the level of analysis
+ on which the solution to the problem is sought. Many researchers and school
+ administrators focus on a specific solution to the problem, namely, deterring or
+ apprehending the school vandal, or, better still, designing and protecting the school
+ in such a way that no damage can be done. Others, however, have less specific
+ solutions, such as programs set up to beautify the school or to instill pride, teaching
+ conflict resolution techniques for teachers, special programs for students, encour-
+ aging positive student attitudes, or involving students in decisionmaking processes.
+ Finally, there are those who believe that changes brought about in the relationship
+ between community and school will have an effect on the incidence of vandalism.
+ This strategy is very diffuse: Any changes in the incidence of vandalism could be
+ due to many variables. Examples are the involvement of the community in school
+ affairs or in antivandalism patrols, the use of the school for after-hour activities
+ such as sport or health and social services, and "community education."
+ It is no accident that this level-of-analysis dimension corresponds conceptually
+ to the ideological dimension to which it is juxtaposed in our matrix. We must
+ remember that the identification of the cause of a social problem is tantamount to
+ the discovery of its solution. In fact, at first we presumed that each ideological
+ orientation would search for its particular solution, that is, the conservatives,
+ content with dealing with symptoms only, would focus on specific solutions, while
+ the radicals, intent on going to the "causes," would suggest diffuse solutions (Zwier
+ & Vaughan, 1980). This is not the case.
+ Our three-by-three matrix shows that each ideological orientation (conservative,
+ liberal, radical) can be combined with the level of analysis (specific, diffuse) on
+ which the solution is sought, resulting in nine categories. These categories provide
+ the schema in terms of which we discuss our overview of the research.
+ Previous Classificatory Research
+ Social science researchers have made several attempts to tidy up the myriad of
+ studies. One group of investigators, Marvin et al. (1976), suggested that programs
+ set up to deal with student violence could be classified as: (a) organizational
+ modification, which focuses on educational changes; (b) curricular/instructional
+ 270
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ORIENTATIONS IN SCHOOL VANDALISM RESEARCH
+ programs, which deal with students in need; (c) security systems; and (d) counseling
+ services.
+ Similar, but more inclusive, models and approaches were developed by Lemert
+ (1967) and Cohen (1973a, 1973b), and extended by Koch (1975) to include the
+ following strategies:
+ (1) writing-off: the problem is insolvable, bearable, or too costly to solve;
+ (2) functional alternatives: controlled destructiveness or other energy outlets;
+ (3) technological: technical (e.g., bugging) or architectural (e.g., building design);
+ (4) social structural: applies to rules, roles, communication, and grouping in the
+ school;
+ (5) educative: communication media and formal teaching;
+ (6) legal-punitive: strict enforcement, punishment, and restitution;
+ (7) therapeutic: treatment;
+ (8) cooperative or primary participative: making the controllees controllers, or
+ involving localized communities in youth control;
+ (9) societal change: eliminating or minimizing crimogenic conditions in the
+ larger society.
+ The problem with classifying programs in this manner is that it is insufficiently
+ heuristic. Although it is useful as a mopping-up operation by categorizing programs,
+ it lacks a model specifying the unifying principle(s). Examples of such principles in
+ science are the common lineage of species; similarity between artifacts; personality
+ types or, as in our case, the type of assumptions embedded in each of these
+ programs. Although the classifications outlined take note of assumptions, they do
+ not, and cannot, specify the types of cause or solution (or strategies, programs,
+ methods) that are being used; the dimensionality of the unifying principle is not
+ explicit. By placing the ideological dimension by which causes are identified
+ orthogonal to the degree of specificity of the solution, we derive a system that
+ accommodates every instance and subsumes any system of categories previously
+ offered.
+ It is evident that the first program described by Marvin et al. (1976) is liberal,
+ and the other three are conservative. The conservative programs regard the vandal
+ as maladjusted, as a person who has not developed adequate skills to cope with the
+ school environment, and from whom we have to protect the school, staff, and other
+ students.
+ Koch's (1975) strategies (1), (3), (6), and (7) are conservative in character, because
+ school vandalism is regarded as a threat to the system. Although strategy (2) implies
+ that the "need" for destruction can be in some way redirected, strategies (4) and
+ (5) suggest that it may be transformed into acceptable behavior within the school
+ environment. Both imply a liberal orientation leading to a modification of the
+ school system. Finally, strategies (8) and (9) endorse a radical position because the
+ potential school vandal and the community are required to be involved in organ-
+ izing and running the school system so that the system itself is changed.
+ Rubel (1978) provides an exception in specifying a unifying principle. He
+ suggested a dichotomy between programs that assume that students can make
+ rational decisions and those that do not. One implies that students should be
+ included in, and the other suggests they should be excluded from, the decisionmak-
+ ing process by which antivandalism strategies are implemented. In our approach,
+ 271
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ZWIER AND VAUGHAN
+ a program that excluded students from decisionmaking would be deemed authori-
+ tarian and would derive from a conservative orientation. Our idea of a radical
+ orientation is one that implies a collective responsibility of teachers, students, and
+ parents, and certainly that students be involved at the beginning of the process.
+ While Rubel's framework is not without merit, it is our view that an analysis
+ highlighting the ideological assumptions concerning the phenomenon is more
+ fundamental.
+ Our orientation-solution matrix provides a new perspective for discussing several
+ selected studies. Space precludes including program details of all of the studies
+ referred to. Several, however, are chosen to illustrate in some depth the implications
+ of our propositions.
+ An Overview of Causes and Strategies
+ The Conservative Orientation
+ Pupils who commit acts of vandalism must be deviant. They must be deterred
+ or, better still, caught and punished. Several preventative strategies may be adopted
+ to deal with the problem. First, the physical environment must be protected.
+ Second, with the students' cooperation, school vandalism may be prevented and
+ offenders detected more often. Third, the community must become involved in
+ antivandalism patrols and programs. From the literature it appears that most
+ schools that endorse the conservative orientation have adopted the first strategy.
+ The physical environment. Nearly half of the literature on school vandalism
+ concerns itself with the design and protection of school buildings. Many detailed
+ accounts have been written on how best to "vandal proof' the school (Irwin, 1978;
+ Sabatino, 1980; Zeisel, 1976) and the classroom (Hathaway & Edwards, 1972;
+ James, 1974). The illumination of school buildings is a favorite preventative strategy
+ among school administrators (e.g., Falk & Coletti, 1982). Eight ways to prevent or
+ contain fires are listed in Juillerat (1972), and more general information is given in
+ "Arson, How To Defend Against the Most Destructive School Crime" (1976).
+ A whole series of electronic gadgets are available to deter or capture vandals.
+ Besides the more conventional siren or revolving red light, there are various "space
+ detection alarms," such as microwave and ultrasonic sensors and infrared alarms
+ (e.g., Faily & Roundtree, 1979). There are mechanical detectors, for example,
+ magnetic contact switches, door buttons, taut wires, pressure pads, light beams or,
+ among the more expensive, closed circuit television (e.g., Kravontka, 1974). The
+ decision to employ these methods and instruments may reduce to a cost-effective-
+ ness balance (Irgang & Gelber, 1981; Schnabolk, 1974), and may depend on the
+ kind of damage being done to the school (Huntington, 1981; "School security
+ systems," 1974).
+ As with other strategies, the effects of alarm systems are difficult to assess because
+ they are often used in conjunction with other methods (e.g., volunteer patrols).
+ Their effectiveness increases of course when used for a dual purpose (e.g., as a fire
+ detection service).
+ Although most research appears to indicate that sophisticated alarm systems are
+ fairly effective (Canadian Education Association, 1977; Jacobs, 1980; Sabatino et
+ al., 1978; Sabatino, 1980; "Vandalism, a Special Report," 1973), some is less
+ 272
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ORIENTATIONS IN SCHOOL VANDALISM RESEARCH
+ encouraging (e.g., Greenberg, 1974; NIE, 1977; Schnabolk, 1979). In a survey of
+ 4,000 U.S. principals, many considered some of the more complicated electronic
+ alarm systems undependable (NIE, 1977).
+ One massive project focused on crime prevention through environmental design
+ (CPTED). It took 4 years and $4 million to complete and was undertaken on the
+ premise that "the proper design and effective use of the physical environment can
+ be combined to reduce the propensity of the physical environment to support
+ criminal behavior" (Westinghouse Electric, 1976, p. xiii).3
+ The operating hypotheses, which we would describe as stipulations, were (a) to
+ keep unwanted persons out (with locks and gates, signs and hedges); (b) to keep
+ intruders under observation (either by means of mechanical techniques and/or by
+ authorized personnel); (c) to reinforce certain activities or add new ones, making
+ use of the already existing facilities (e.g., by encouraging interaction between
+ students and staff, by promoting school pride, etc.); (d) to change criminal moti-
+ vation by providing psychological deterrents and by promoting public awareness
+ and involvement.
+ Although the short time span and small sample size (four schools) makes it
+ difficult to assess whether the exercise was a success statistically, the actual effect
+ on the incidence of school vandalism was weak: Only one of the four schools
+ showed a decrease in the number of incidents of school vandalism over a 3-year
+ period. The other three schools followed the country trend of a threefold increase
+ in vandalism from the first to the second year and a plateau from the second to the
+ third. The authors state, "No reliable conclusions can be drawn regarding the
+ institutionalization of the CPTED concept" (Westinghouse Electric, 1978, sec. 7,
+ p. 65). However, they do suggest that "in future projects, a greater effort should be
+ made to have key local resource persons-including students, faculty and princi-
+ pals-play key decisionmaking roles" (sec. 8, p. 3).
+ Notwithstanding the above, others have reported that schools employing resident
+ caretakers have a lower incidence of vandalism (Clarke, 1979) and, conversely, that
+ inadequate custodial services contribute to school vandalism (Brenton, 1975;
+ Goldman, 1959). Principals often prefer security personnel over electronic security
+ systems. In large schools, the use of the security personnel is highly recommended
+ (NIE, 1977, p. 7). It would seem, however, that the successful custodian is interested
+ in the students of that school (e.g., Ertukel, 1974).
+ These results, however, cannot be generalized because the methods used are
+ unscientific and usually there is no research design (i.e., lack of controls or
+ standardized tests or choice of parameters that differ radically between situations).
+ In short, the failures or successes of these projects do not bear on the effectiveness
+ of the various strategies, but if any inference can be made at all, it is that the
+ impoverished role assigned to students and members of the community could
+ underlie many project failures.
+ The school system. Instead of seeing the social processes of peer group interaction
+ as leading to school vandalism, the same basic need for prestige and self-affirmation
+ 3 Although this project appears to focus on environmental design, and may conceivably be
+ categorized as part of the liberal orientation, the stipulations made explicit by the authors
+ reveal that a significant role is played by the protection of the school.
+ 273
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ZWIER AND VAUGHAN
+ can be usefully employed to fight vandalism (see "Conflict Management Student
+ Leadership Program," in Reed & Avis, 1978). Two instances of this strategy were
+ reported in "Ways of Fighting Vandalism" (1968) and by Ertukel (1974). The first
+ of these described the "Youth Vacation Vigil," which watched over school property
+ during the summer vacation months and on the celebratory night of Halloween.
+ This program commenced when local police trained high school junior and senior
+ students selected because of peer group respect for their ability as students or
+ athletes. As "area captains," their task was to visit the various schools in the district
+ and to inform the pupils of a planned antivandalism program. The purpose was to
+ make more students proud of their school, thus stimulating their sense of respon-
+ sibility. The effectiveness of involving respected students as spokespersons for the
+ program appeared to be great. Over a 2-year period, vandalism expenditure in
+ Akron, Ohio, was cut in half(from $10,000 in 1962 to $5,000 in 1964). The same
+ strategy used in conjunction with several others also appeared to be successful at
+ the Memorial High School in Madison, Wisconsin, where 97 vandalism incidents
+ in 1 year were reduced to 30 in the following year (Olson, 1981; see also Clement,
+ 1975, and Ertukel, 1974).
+ Another approach that focuses on building protection and student involvement
+ is that of a "contingency contract," that is, an agreement between students and
+ school officials that the size of the school fund allocation to students decreases as
+ the level of vandalism increases during a given year. One such program was
+ implemented at Alto Loma (California) Junior High. By reducing the school fund
+ for each act of vandalism, the district's expenditure of repairing damages due to
+ vandalism went from $40,000 one year to $7,000 the next year ("Vandalism: A
+ Special Report," 1973). The project was hailed as so successful that it was introduced
+ at other schools in the South San Francisco Unified School District (see also
+ Fernandez & Cardenas, 1976; Kiernan, 1975). Similar success was reported in
+ Liverpool, England, where members of a youth centre received financial support
+ in exchange for reducing vandalism (Gladstone, 1978). While this "give-and take"
+ exchange philosophy appears fair and promising, it does have drawbacks. Not all
+ losses attributed to students are caused by students; some may be due to outsiders.
+ Also, a few "bad kids" may spoil the contract by continuing their vandalism; and
+ if funds allocated are used up before the budgetary period runs out, the contract is
+ rendered useless, because the deterrent value of the program has evaporated (Rubel,
+ 1978).
+ Finally, in the case of the continual offender, psychological treatment may be
+ the best remedy. Indeed, some success has been achieved by psychologists using
+ individual and group therapy, including several behavior modification techniques
+ (token economy, contingency contracts, group guidance meetings). Brooks (1974)
+ and Haney (1973) report success with behavior modification for some persistently
+ troublesome adolescents.
+ The community at large. The conservative orientation is apparent in the various
+ roles assigned to the community in reducing school vandalism. First, there may be
+ a concerted effort to enhance community vigilance (e.g., all parents may be asked
+ and encouraged to report suspicious behavior). As is often the case, however,
+ opposing conclusions are drawn regarding the effectiveness of this method. It was
+ reported in a study in the Elk Grove Unified School District (California) that 17
+ 274
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ORIENTATIONS IN SCHOOL VANDALISM RESEARCH
+ schools participated in a program called "Vandal Watch." The program extended
+ the original idea of community vigilance and antivandal patrols by providing cheap
+ accommodation for people who would keep watch. Families in mobile homes next
+ to the school buildings notified the police of anything suspicious. The 17 schools
+ (with a student population of 10,000) were said to have saved the district more
+ than $20,000 a year in vandalism-related costs. The program has been seriously
+ considered by other school districts in California, New York, Hawaii, and Canada
+ (see "Live-in School Sitters," 1974).
+ Why, then, do we find in Nottingham, England, a group of policymakers who
+ conclude that the consensus is that "anti-vandal patrols by parents/teachers should
+ be positively discouraged and that closer collaboration between parents/teachers/
+ police through PTA's might achieve better results" (Consortium of Local Authori-
+ ties Special Programme, 1976, p. 5)?
+ A second strategy involving the community, but resorting to punitive measures,
+ is that of parent restitution. In 1973 the Los Angeles Juvenile Court sponsored a
+ program called the "Prevent School Vandalism Project." This was an intensive
+ effort to force all school vandals or their parents to pay for the damages done.
+ Much publicity was given to the warning that the parents of the vandals would be
+ taken to court and that the courts would actively assist schools in filing proper law
+ suits. The program turned out to be a failure. Not only was it estimated that a mere
+ 10% of all school vandals in the district were caught but, of these, only one in five
+ ever repaid any money to the school system (Sabatino et al., 1978; Tross, 1977).
+ Notwithstanding the outcome of this project, 46 American states enacted parent
+ liability statutes in 1975, 10 of which specifically dealt with the destruction of
+ school property by pupils. It is, of course, possible that these legislators hope that
+ such prosecution would have beneficial secondary effects, such as "consciousness-
+ raising" (see Grealy, 1974).
+ To conclude this section, apprehending and punishing the school vandal does
+ not eliminate the source of the problem; dealing with a symptom appears to be
+ ineffectual. Thus the Central Policy Review Staff's Report suggested that the case
+ for punitive measures was "very thin," and that no evidence existed to indicate that
+ harsh punishment would deter the vandal (Haydon, 1978). However, parents of
+ other pupils and school principals who want to see justice done are not impressed
+ by this. They complain about the leniency of courts dealing with juvenile offenders
+ and about the inadequate support they feel they are receiving from the courts (Koff,
+ 1979; Wilson, 1976). For this reason, a restructuring of the juvenile court system
+ may well be in order (cf. "Citizens' Juvenile Justice Task Force Recommendations,"
+ 1981).
+ The Liberal Orientation
+ Pupils who commit acts of vandalism do so because the school system is
+ malfunctioning. First, it may be that the design of the school and the layout of the
+ school grounds encourages students to indulge in vandalism. The solution would
+ be to modify the physical environment, for example, by making it more durable
+ or attractive. Second, the incidence of vandalism may be reduced by allowing
+ pupils and the community at large to use the school buildings after hours. This
+ could have the dual result of discouraging the pupils from vandalizing occupied
+ 275
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ZWIER AND VAUGHAN
+ buildings and keeping them off the street at the same time. Third, there may be a
+ need for changes in (a) the curriculum (such as its relevance); (b) the way teachers
+ cope with potential conflict situations or with teaching in general; or (c) the
+ leadership style of the principal.
+ Our review of the literature reveals that the liberal orientation has a predilection
+ for endorsing the third approach.
+ The physical environment. The school setting may increase the likelihood of the
+ vandalistic act taking place. Zeisel (1976) even suggests that poor school designs
+ (easy access, hidden alcoves, large hard-top surfaces) invite damage. This leads
+ some to argue that perhaps more than half of what purportedly is school vandalism
+ really is "non-intentional damage caused primarily by bad school designs" ("Van-
+ dalism, a Special Report," 1973). So how do we make the school buildings less
+ accident-prone?
+ As the literature on this subject is much too large to detail in this paper, only
+ two of the most frequently discussed variables will be examined: the use of glass
+ and the age of the school buildings.
+ According to Weiss (1974), a 1968 poll conducted by the journal Nation's Schools
+ found that 69% of school vandalism costs went toward the replacement of glass.
+ Many others have reported similarly high costs due to glass breakage (e.g., Canadian
+ Education Association, 1977; O'Grince & Hodgins, 1974). As exposed glass is
+ extremely vulnerable to playful or malicious vandalism, it must be replaced by
+ something less breakable. Many schools have found the solution in Lexan, a glass
+ substitute. The Canadian Education Association's survey of 47 school boards found
+ that those school officials who thought that there was a downward trend in the
+ incidence of vandalism costs attributed it to this glass substitute.
+ Another variable thought to relate to the incidence and cost of vandalism is the
+ age of the school building. The evidence for this hypothesis, like for so many others,
+ is far from conclusive. Goldman (1961) found that a building's age was significantly
+ related to damage: Older buildings were vandalized more often. This finding is
+ supported by evidence reported by Cohen (1970), Cramer (1978, cited in Howard,
+ 1978), and Hevern (1977). Kaiser (1972) and De Buzna (1975), however, did not
+ find such a trend. In fact, contrary data from a survey undertaken by the National
+ School Public Relations Association pointed to more vandalism in newer schools
+ (Wells, 1975).
+ Overall, it appears that it is not so much the age of the school building that
+ matters, but its appearance (De Buzna, 1975). Several studies, two of which are
+ discussed here, critically investigated the effect of this variable.
+ Pablant and Baxter's (1975) study is often quoted as rigorous in evaluating the
+ effect that landscaping and lighting have on the incidence of school vandalism.
+ Having matched 32 schools of Houston, Texas, on variables such as neighbourhood,
+ income level, ethnic background, school size, and elementary versus secondary
+ school buildings, they found that aesthetic quality and level of preservation of
+ school property (regardless of age or architecture of the buildings) was negatively
+ related to the incidence of school vandalism. Consequently, they suggested that
+ little vandalism will occur at schools high in aesthetic quality.
+ Earlier, a program developed among Baltimore City Public Schools (Lloyd, 1968)
+ produced results congruent with Pablant and Baxter's. In this experiment, various
+ 276
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ORIENTATIONS IN SCHOOL VANDALISM RESEARCH
+ multiunit, relocatable buildings were placed next to the conventional brick-and-
+ mortar school building. They were painted in bright colors and had what were
+ considered aesthetically pleasing features. After a time it became evident that,
+ although the old school buildings were heavily vandalized, the new units received
+ little damage.
+ One of the foremost theorists in project planning has been Newman. His book
+ Defensible Space: Crime Prevention Through Urban Design (1972) has received
+ much attention from social scientists interested in preventing or reducing vandalism
+ in general (e.g., Mayhew, 1979; Stace, 1978). His basic premise was that people
+ must feel that the environment belongs to them and that they can be proud of it.
+ This increases their responsibility and their desire to protect the environment.
+ However, his specific design suggestions have not always reduced the incidence
+ of vandalistic behavior (see Reppetto, 1974; Mawby, 1977a, 1977b; Wilson, 1978,
+ cited in Mayhew, 1979). Even where such projects have been successful, the results
+ may not have been an outcome of the design adopted. For instance, an action
+ project undertaken by the National Association for the Care and Resettlement of
+ Offenders (1978) in Britain, originally inspired by Newman's theory, is reported to
+ have concluded that "the improvement is attributed much less to the 'defensible
+ space' modifications, as to the greatly improved community spirit and improved
+ communications between local residents and the local council" (Clarke, 1979, p.
+ 141).
+ The school system. Research has not clarified whether the school principal should
+ adopt a "law-and-order" approach, with a strict adherence to rules, or a humani-
+ tarian" attitude, allowing the pupils some say in the educational process. Wint
+ (1975) gives examples of the approaches used at two schools. According to the
+ testimonials given by the two principals, both styles led to a positive school
+ atmosphere and a low incidence of violence and vandalism. So which manner of
+ leadership is more desirable?
+ An examination of other research clarifies this point. Goldman (1961) correlated
+ teachers' perceptions of their school administration with the incidence of vandalism
+ at their schools. Teachers in schools that suffered more vandalism thought that
+ their school administration was weak and casual. In contrast, those from relatively
+ peaceful schools regarded the administration as strong and democratic. In particular
+ "the method and clarity of communication by the principal was a factor in the
+ feeling of teacher satisfaction" (cited by Howard, 1978, p. 59).
+ However, there is no clear-cut evidence of a correlation between a positive school
+ climate and a low incidence of school vandalism: While Howell and Grahlman
+ (i977) found a correlation, Kaiser (1972) did not.
+ A factor that may eventually be found more important than student input into
+ rule formulation is the consistency with which school rules are enforced. A
+ Systematic Management Plan for School Discipline by Duke (1977) focused on the
+ school as a rule-governed institution, and incorporated six strategies: (a) compiling
+ accurate data on the sources and targets of student misdemeanors; (b) rewarding
+ students who obey school rules; (c) teaching conflict resolution skills to help make
+ students more effective in problem situations; (d) developing and maintaining an
+ awareness of the school as a rule-governed institution; (e) establishing a team
+ approach involving teachers, parents, and community, as well as students; and (f)
+ 277
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ZWIER AND VAUGHAN
+ providing inservice teacher education, in acquiring specific skills for handling
+ problem children and in continuing to offer new ideas on school discipline. The
+ specific effect of each of these measures may be difficult to determine. However,
+ the superiority of consistent rewards over consistent punishment, the failure of
+ inconsistent patterns of reinforcement, and the importance of learning through
+ modeling have all long been established by research into behavior modification
+ techniques.
+ Teacher apathy (Kiernan, 1975), or a disinterest in their pupils (Cardinelli, 1970),
+ a lower degree of identification with the school (Goldman, 1959), a high percentage
+ of teacher turnover (Leftwich, 1978), many years of service (De Buzna, 1975), and
+ even the older age of the principal (De Buzna, 1974; Leftwich, 1978) have all been
+ found to correlate with a high incidence of violence and vandalism in schools.
+ Goldman's (1959) interview with 367 teachers at 16 high schools in Syracuse,
+ New York, is one of the classic studies probing teacher attitudes toward school
+ vandalism, Damage occurring at each school was classified on a "damage scale."
+ In addition, a questionnaire was administered to 1,170 students. In comparing the
+ responses of teachers or students of two or more schools with a similar damage
+ rating, Goldman found that teachers in high-damage schools held different attitudes
+ from those in low-damage schools. In particular, teachers at high-damage schools
+ were more casual, more critical, or less enthusiastic about the school. In answer to
+ the question why some schools should suffer more vandalism than others, these
+ teachers emphasized the role of the school administration, the age and location of
+ the building, and poor teacher control in the classroom. On the other hand, teachers
+ from low-damage schools emphasized interpersonal relations as well as the role of
+ the school staff, the age and academic achievement of the student, the interest of
+ the student in school, and the experience of the teacher.
+ Goldman's research suggests that reducing vandalism may be contingent on the
+ teachers' ability to identify with the school and to appreciate it as an integral part
+ of the community. More recently, Mayer and Butterworth (1981) focused on
+ teaching teachers alternative classroom instructional and management techniques,
+ arguing that such skills were paramount in reducing school vandalism.
+ A frequently cited, successful strategy involving changes in the school curriculum
+ is the crime prevention program put into effect in 10 of Little Rock's (Arkansas)
+ Public Schools (Gibson & Jones, 1978). This program consisted of a 15-hour
+ criminal justice course curriculum and of employing specially selected crime
+ prevention personnel to visit the various schools. The result was apparently dra-
+ matic. In 1 year the number of burglaries decreased almost by half, though follow-
+ up figures were not given.
+ Duke's (1977) review reported promising results suggesting that changes in the
+ curriculum affect student behavior patterns. School discipline problems may de-
+ crease when the teaching of moral and affective education is offered, when skills
+ for coping with specified problems are developed in the pupils, and when pupils
+ are helped to understand what is important to them and what their rights and
+ responsibilities are.
+ The community at large. Lack of parental support and noninvolvement of the
+ community at large have often been correlated with vandalism at schools (Steele,
+ 1978). Thus many schools encourage parent participation and seek cooperation
+ 278
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ORIENTATIONS IN SCHOOL VANDALISM RESEARCH
+ from local businesses in setting up community-oriented programs. Sometimes the
+ aim is directed at vandalism at a chosen school and sometimes at reducing crime
+ and violence in the entire community (Palmer, 1975).
+ The liberal orientation encourages community involvement because of the
+ imagined effect on the activities of the would-be vandal. Thus, extended recreational
+ activities may be provided to keep children meaningfully engaged and off the street.
+ Again, the school premises may be used after hours for health and social services
+ to deter potential vandals. Further, school advisory councils may be established to
+ plan, implement, and evaluate programs.
+ Thus, the liberal rationale for community cooperation is primarily to combat
+ vandalism without the punitive measures advocated by the conservative approach.
+ In contrast, the radical orientation will argue that it is intrinsically wrong to permit
+ a rift between school and community, and that the effect of any strategy on the
+ incidence of school vandalism is therefore only of secondary importance.
+ What evidence is there of the effectiveness of strategies aimed at reducing the
+ opportunities for vandalistic behavior? Although school vandals are not necessarily
+ violent (NIE, 1975, p. 5), it has often been found that the crime rate and the
+ presence or absence of fighting gangs in the neighborhood of the school affect the
+ level of violence in the school (e.g., Bayh, 1975).
+ Gladstone (1978) reported one of the most thorough investigations of the peer
+ group of the English school vandal. Stratified cluster samples were obtained based
+ on age, religion, school access (selective or nonselective), and level of deprivation
+ of the schools catchment area. The questionnaire covered issues such as use of
+ leisure time, parents' attitudes, the type of groups to which boys belonged and the
+ boys' attitudes toward school, and the boys' involvement in vandalism, theft, and
+ aggressive behavior. The final form of the questionnaire was administered to 605
+ adolescent school boys.
+ Gladstone's evidence suggested that a male student was more likely to become a
+ vandal when (a) there is lax parental control, (b) the pupil is a low achiever, (c) he
+ dislikes school, and (d) he spends much of his free time in the company of a
+ "tough" street gang. There are many difficulties involved in attempts to increase
+ parental control, but new policies or new programs instigated at the school and
+ aimed at these would-be vandals may be effective. For instance, Bagley (1965, cited
+ in Gladstone, 1978) found that cities that spend more of their financial resources
+ on leisure facilities for adolescents reported a lower incidence of delinquency.
+ American research also confirmed that increasing provision for leisure leads to a
+ reduction in delinquent behavior. However, Gladstone concluded,
+ By and large, however, reliable evidence is extremely scarce and provides
+ little basis for recommending one or another form of leisure provision as a
+ remedy for vandalism. But equally the lack of evidence is no reason to dismiss
+ the approach. (pp. 38-39)
+ In concluding this section, we must mention again the difficulties involved in
+ evaluating the effect that extracurricular activities have on the incidence of school
+ vandalism. Not only is the solution very diffuse, but most studies report such a
+ conglomeration of ways to involve the community that the efficacy of a specific
+ 279
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ZWIER AND VAUGHAN
+ method cannot be evaluated. (For an "action manual" detailing the collective
+ measures that can be taken, see Goodman, 1975.)
+ The Radical Orientation
+ Vandalism is a normal reaction to debilitating conditions. The anonymity so
+ characteristic of large schools and the competitiveness induced by present assess-
+ ment procedures are perhaps the most obvious reasons why pupils come to dislike,
+ even hate, the school system and all that it symbolizes. Such feelings of malcontent
+ and aggression are generally inhibited, but now and then surface as school violence
+ and vandalism of school property. The way to reduce such behavior is to note the
+ symbolic meaning of the act. According to this view, it is as useless to deter, or
+ catch, the individual school vandal as it is to make the cosmetic changes that the
+ liberal orientation suggests. Large and impersonal schools lacking in community
+ orientation must be abandoned, as must the competitive assessment system. In the
+ final analysis, it is this system that is responsible for the low self-image and negative
+ attitude of so many students. The radical orientation emphasizes cooperation and
+ community involvement.
+ The physical environment. The finding that large schools experience more van-
+ dalism than small schools appears to be an accepted fact. A Canadian report
+ compiled for the Ottawa Board of Education indicated that large schools are more
+ likely to be vandalized (Tross, 1977; see also Rubel, 1978), while De Buzna (1975)
+ showed that the number of incidents was positively related to the number of
+ students enrolled in the school (De Buzna, 1975; Sturm, 1979). Yet correlational
+ research does not imply causality. It may be that it is not size per se that makes the
+ difference between schools that are vandalized often and schools that are not
+ (Lesser, 1978, p. 402). For example, Kingston and Gentry's (1978) conclusion
+ (cited by Howard, 1978), suggests that lack of student involvement may be
+ responsible for much antisocial behavior. In contrast to students in smaller schools,
+ those in large high schools are less likely to identify with the school or to participate
+ in various school activities, leading to more frequent disciplinary problems.
+ There appear to be three main strategies that will decrease the level of student
+ anonymity and increase the level of student identification with the school. The first
+ is the obvious one of preventing small schools from becoming larger. The second
+ is to reorganize the number of enrolled students at a large secondary school into
+ separate clusters, which, given time, would develop their own identity. Lesser
+ (1978) reported that this strategy may indeed decrease disruption to the system.
+ The third solution, often used as part of a larger program, is to somehow encourage
+ a feeling of belonging. For instance, by teaching the students at the Walker-Jones
+ School (Washington, D.C.) the importance of conservation and aesthetics in
+ relation to their school and their community, it was hoped that the students would
+ show more pride in being a Walker-Jones student. This occurred, and an increase
+ in cooperative efforts at school and community was noted. There were fewer broken
+ windows and a decrease in vandalism expenditure (Sabatino et al., 1978; "Taming
+ Campus Vandals," 1980; "Ways of Fighting Vandalism," 1968). Rose (1977) listed
+ 27 specific suggestions for establishing an atmosphere that combined improved
+ self-image with improved school-image.
+ 280
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ORIENTATIONS IN SCHOOL VANDALISM RESEARCH
+ The school system. Academic failure and a generalized resentment of everything
+ that is related to school are often cited as factors in the incidence of school
+ vandalism (Block, Covill-Servo, & Rosen, 1978; Cardinelli, 1970; Davis, 1972;
+ Frease, 1973; Goldman, 1961; Lunden, 1968; Miller, 1974; Nowakowski, 1966;
+ Palmore & Hammond, 1964; Stripling, 1978; Swift & Spivak, 1978; von Kronen-
+ berger, 1978). As expected, academic failure is often instrumental in conditioning
+ perceptions of low self-esteem among students (Gold, 1978), possibly adding to the
+ negative feelings experienced through anonymity (Murillo, 1977).
+ A recent study carried out under the auspices of the U.K. Home Office (Glad-
+ stone, 1978) found lack of success to be associated with involvement in vandalism:
+ "Those boys who saw themselves as successful at school were also much more
+ likely to see themselves as good at exams, to intend to stay on at school after 16,
+ and to aspire to a white-collar job" (p. 31).
+ Congruent with this, changes in the curriculum and in the assessment procedures
+ are suggested by Pringle (1973) and by De Buzna (1975). Pringle (1973) reported a
+ positive correlation between violent and disruptive behavior on one hand, and a
+ curriculum that emphasizes competition rather than individual achievement on
+ the other. De Buzna (1975) showed that the incidence of school vandalism is
+ inversely related to the number of alternatives the high school student has within a
+ program of study. These studies propose that a curriculum with many options and
+ a system of assessment that emphasizes individual achievement rather than inter-
+ personal competition may help reduce the number of incidents.
+ However, academic failure and a negative attitude toward school emerge as
+ independently related to the incidence of vandalism. This suggests that, even if all
+ students were successful in their work (an outcome requiring that alternative
+ learning and assessment processes are adopted-see Barr, 1981; Gold, 1978), it
+ would still not guarantee that they would regard the school in a positive light
+ (Gladstone, 1978).
+ The community at large. The radical orientation argues that the root of school
+ vandalism is in poor interaction between school and community. A problem cannot
+ be solved by strategies developed within the system that mothered the problem. Its
+ source must be approached by increasing community support for, and involvement
+ in, the school.
+ Research to date indicates that community involvement generally, but not
+ always, results in a lowered incidence of school vandalism. Studies specifically
+ concerned with this issue were carried out by Daniels (1976), De Buzna (1975),
+ Ellison (1975), Macri (1974), Palmer (1975), Pullen (1973), Schrock (1979), Sor-
+ rentino (1975), Steele (1978), and van Voorhees, Cwik, and King (1975). (There is
+ also a film showing successful student- and community-oriented strategies em-
+ ployed by six American communities-see Wales, 1978.) Ellison (1975) and
+ Schrock (1979) have reported a zero relationship between community involvement
+ in school processes and a reduction in vandalism. The others point to a range of
+ successful programs, some of which are discussed below.
+ In a large survey organized by the U.S. Community Education Association, 47
+ school boards indicated whether they had asked the community for help. Only
+ 22% replied "yes," and a great variation in the success of the strategy was reported
+ (Steele, 1978).
+ 281
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ZWIER AND VAUGHAN
+ As Chair of the Senate Subcommittee to Investigate Juvenile Delinquency, Bayh
+ (1978) attended numerous hearings and listened to more than 500 testimonies of
+ educators, teachers, and concerned citizens. Although a number of suggestions
+ were made, he was convinced "that the most important element in the prevention
+ of school violence and vandalism is the active involvement of the entire education
+ community in local efforts to accomplish this goal" (p. 301).
+ Community support and involvement is perhaps best known through the concept
+ of community education. Steele (1978) reported a nationwide survey of 1,006
+ people employed by local education agencies with community education programs.
+ According to Steele, community education consists of a program involving a
+ director advised by a council of community residents and delegates from commu-
+ nity organizations. This group would initiate research into community needs,
+ develop plans to meet these needs, and, following implementation of a project,
+ evaluate its effectiveness. Steele further noted that "the critical element identifying
+ Community Education is the involvement in decisionmaking of citizens at the
+ neighborhood level in determining needs, priorities, programs, and evaluation of
+ factors affecting the quality of life in their own communities including the schools"
+ (p. 85).
+ Sorrentino (1975) was one of the first to report a successful community program
+ carried out in the Flint School District (Michigan) over a 25-year period. The
+ school district policy involved (a) obtaining the cooperation of local community
+ organizations, (b) year-round recreation and enrichment programs, (c) a yearly
+ distribution of a handbook describing the rights and responsibilities of students, (d)
+ the employment of physical security measures, and (e) the involvement of parents
+ in security affairs (see also Koch, 1975; Steele, 1978). Although an increase in
+ school vandalism in that district has been noticed over the years, it has apparently
+ stayed well below the national average.
+ A rigorous test of the effectiveness of community involvement in schools was
+ reported by Daniels (1976), who compared 30 matched pairs of community and
+ noncommunity schools in Dade County, Florida. On average, he found a 60%
+ lower dollar cost arising from vandalism in the community schools, both elementary
+ and secondary, whether in inner city, suburban, or rural areas.
+ However, not all research has shown that community involvement is effective
+ (e.g., Greenberg, 1974). In a study of 18 San Francisco schools, Ellison (1975)
+ noted that conversion to community schools as a solution to vandalism was
+ favoured by principals whose schools were not yet converted, but was not favoured
+ by those that had been converted. It seems that an essential ingredient is a prior
+ phase in which residents have asked for such a program.
+ The lack of efficacy of (unsolicited) community education was also reported by
+ Schrock (1979) in a study in Virginia: There was no significant difference in school
+ vandalism rates between community education and noncommunity education
+ schools, though there was a suggestion that the former were an improvement. Steele
+ (1978) expresses the probable need for commitment by the community:
+ There is limited evidence to suggest that there may be less violence, vandalism
+ and delinquency in some schools with programs of Community Education,
+ but there is not enough information upon which to draw conclusions. If
+ 282
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ORIENTATIONS IN SCHOOL VANDALISM RESEARCH
+ community support represents students and residents in the development of
+ and participation in relevant programs, it is likely that school violence and
+ vandalism may be reduced. (p. 84)
+ Thus there are several factors that appear to contribute to the success of this
+ particular strategy: (a) school officials must really want to involve the community
+ (and must not do so simply because they have been told to); (b) the community
+ must want to be involved; (c) the pupil must perceive his or her own and his or
+ her parents' involvement as positive. From the literature surveyed, it appears that
+ programs with community involvement will work if, and only if, these three
+ conditions can be met.
+ Implications
+ Studies of school vandalism typically ignore the ideological context within which
+ both theory and research is founded. Our overview indicates that a whole range of
+ strategies may be usefully employed in combating school vandalism. In the absence
+ of an articulated theory, however, decisionmakers cannot do so on the basis of
+ empirical evidence. Instead, they rely on intuitions and inclinations. If the vandal
+ is blamed, "target-hardening" and punitive measures are employed. If the school
+ system is faulted, changes are made to rectify its shortcomings. If community
+ apathy is responsible, community involvement is encouraged.
+ We believe that the failure of any one strategy to solve school vandalism lies in
+ the nature of the system from which the phenomenon derives and in the diversity
+ of approaches used to investigate it.
+ We see the school as an open system within society. Innumerable variables,
+ outside and inside the system, influence it. These include directives from govern-
+ mental institutions; the legal system; the physical surrounding and design of the
+ school buildings and grounds; the quality of the rapport among principal, teachers,
+ students, and parents; the expertise of the teachers; the size of the school; the
+ curriculum and specific assessment procedures in use; and the type of burglar alarm
+ system in operation. It must be obvious that even if such variables could be isolated
+ and their influence properly determined, their relative importance in the system
+ would most likely change from school to school and from culture to culture.
+ Because the result of a successful strategy may be explained with reference to the
+ effect of a single variable, a group of variables, or even an interaction among several
+ variables, there is no guarantee that success at one school will translate to another.
+ In fact, a beneficial effect may even be explained by the "Hawthorne effect": Pupils
+ will apply themselves more because they feel that teachers are beginning to show
+ interest in them or because they are aware of the very act of participating in
+ something new and special (Greenberg, 1974). Even studies that use a rigorous
+ experimental design often omit reference to this possibility (Mayer & Butterworth,
+ 1981). Moreover, the usual tendency to incorporate more than one method or
+ program makes it even more difficult to understand which component may have
+ been successful. The complexity of the open system and the diversity of the well-
+ meaning but uncontrolled strategies adopted by desperate principals and school
+ committees make it impossible to generalize from the findings at any one school.
+ On the other hand, more comprehensive studies that, for the sake of external
+ 283
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ZWIER AND VAUGHAN
+ validity, sample a large number of schools also have their drawbacks. The larger
+ the data base, the more likely individual differences are excluded by the statistical
+ process. Such results are bland. School vandalism occurs where students can ransack
+ the school and get away with it; where students, teachers, and the community at
+ large are apathetic; where students have come to view themselves as failures within
+ the system; where schools are too large, too impersonal, or too ugly to inspire
+ feelings of belonging or pride.
+ This generalized picture makes sense, so much so that one imagines that the lay
+ person could construct the same picture by intuition. Thus the results of large,
+ multivariate studies appear to be no more than an abstraction, a modal school, not
+ very often found in real communities.
+ Our modal problem school also suggests its opposite, one with a good, positive,
+ and constructive climate. How is this climate assessed? Is it based on expressive
+ behaviors in pupils, good teacher-pupil rapport, even tidy buildings and grounds
+ that are not vandalized? In other words, it is important to know whether climate
+ influences vandalism, or whether (in research) it is an inference based partly on the
+ relative occurrence of vandalism. Quite apart from this confusion in causality, there
+ is another in a semantic and conceptual sense. Terms like climate, rapport, and
+ incidence of vandalism probably overlap in the minds of many observers so that a
+ good climate implies low vandalism and vice versa, by definition.
+ So how can the social sciences contribute to an understanding of the causes of
+ school vandalism? If it is indeed the case that (a) both its cause and the efficacy of
+ any strategy employed vary from school to school, (b) extensive studies are bound
+ to arrive at trite conclusions, and (c) the decision to use a given strategy is derived
+ from an implicit ideology, what then should be the task of the social scientist? We
+ think there are two options: (a) to continue the business of research as usual, in the
+ hope that the tremendous increase in the number of projects, studies, and experi-
+ ments anticipated in the next few decades will finally result in some comprehensive
+ analysis of the real causes of school vandalism and of the best strategies in combating
+ it; or (b) to replace this unrealistic set of expectations with an epistemological stance
+ that accepts an ideological basis for school vandalism research.
+ Traditionally, the researcher has sought to establish that school vandalism is
+ caused by one major or several minor variables. Hypotheses are set up and tested
+ for their veracity in the field. We might hypothesize that as school climate becomes
+ more negative incidence of school vandalism increases. One investigator may find
+ this correlation and infer that such a climate breeds vandalism. Another may report
+ no relationship, leading to contradiction in the research literature, as has occurred
+ in the case of Kaiser (1972) and Howell and Grahlman (1977). In a case like this,
+ the usual reaction is that the evidence is ambiguous and that further research is
+ needed.
+ An important assumption of traditional social science research, then, is that one
+ can determine whether two or more variables are related. This is how social science
+ progresses-or is it progress? Despite the multitude of studies of school vandalism,
+ we do not seem much closer to dealing with the problem. Its incidence has been
+ correlated with numerous variables, and various strategies have been reported as
+ successful. Against this, many other studies show contrary findings or report that
+ the strategies do not work.
+ 284
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ORIENTATIONS IN SCHOOL VANDALISM RESEARCH
+ At this juncture, a better purpose would be served by reconceptualizing the social
+ science process. If we suspend the belief that the "real world" operates independently
+ of our inquiry into it, we may understand that different, even contradictory,
+ explanations of a phenomenon can be true according to conditions pertaining to
+ each inquiry. This is a difficult point to grasp. The traditional social science
+ approach has held that some theories are true and others false and that by testing
+ derivable hypotheses we can establish which theories are correct. On the other
+ hand, a recent view espoused by McGuire (1980) holds that each of several
+ competing theories may be defensible and that fruitful empirical tests are those
+ designed to reveal the limiting conditions of each theory. This means that our
+ earlier hypothesis that a negative school climate is correlated with a high incidence
+ of vandalism would give way to hypotheses such as, Under what conditions is a
+ negative school climate correlated with a high incidence of vandalism? and, Under
+ what conditions is a negative school climate not correlated with a high incidence
+ of vandalism?
+ However, to admit "conditional" hypotheses leads us to consider if each school
+ studied is a unique case. For the moment, we may be forced to admit this very
+ point and accept that practical research is one-school-at-a-time research. To do so
+ raises another problem: If we cannot transfer knowledge from one situation (school)
+ to another, we cannot correlate variations in conditions with the incidence of
+ school vandalism across situations. Because scientific investigation demands some
+ kind of variation to establish a relationship, we must seek this within a situation.
+ This implies that research can discover only which variable(s) covaries with the
+ incidence of school vandalism by manipulating selected variables at a particular
+ school and observing the consequences. This manoeuvre amounts to introducing
+ change within the system.
+ What are the practical consequences for social science research? Because we
+ should only assume for now that findings are school-specific and, importantly,
+ because the research exercise is inextricably bound up with the ideological orienta-
+ tion of the investigator, the role of the social scientist must change. Instead of trying
+ to identify "real" causes, the social scientist should monitor conditions pertaining
+ to a particular system, the school, and by doing so hope to obtain knowledge of
+ the system itself. The most effective way of doing this is to observe the effects of
+ change introduced into the system.
+ Consequently, the traditional, static approach of social science research must
+ make way for a dynamic one. The alternative to research as usual involves a radical
+ change of course toward action research, that is, research that is aimed at changing
+ existing conditions and carried out directly by those involved. Action research
+ accepts that the social scientist plays an active role in the conduct of scientific
+ research. It does not regard the investigator as a passive observer whose sole intent
+ is to establish real causes. Instead, it assumes that (a) researchers are themselves
+ active participants in the situations researched and that the researcher-situation
+ relationship deserves to be studied; (b) the framework and variables of studies
+ themselves change in the course of study; and (c) an important way of testing the
+ validity and significance of social knowledge is to feed data back into the setting
+ researched, studying how this feedback influences further action (Torbert, 1981, p.
+ 437). Action research thus appreciates that the social scientist is an active participant
+ 285
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ZWIER AND VAUGHAN
+ whose task is not merely to systematize that which exists, but also to invent and
+ transform that which does not exist as yet (see Moscovici, 1972).
+ Although action research has not (as far as we are aware) been carried out on
+ school vandalism, many examples of this new epistemology (also referred to as
+ participatory, endogenous, or dialectical research with slight changes in emphasis)
+ can be found in Reason and Rowan (1981). This volume shows how action research
+ has been applied to a voluntary desegregation program for elementary and middle
+ school classes in the United States, to a group dynamics context, to a factory
+ setting, to a prison environment, to rural settings in third world countries, and to
+ the Norwegian banking system. The main emphasis of these studies is on the
+ benefit for the subjects of participating in the research; the research is carried out
+ with them, rather than on them.
+ Action research abandons the attempt to uncover an objective reality. In the case
+ of school vandalism, we would start by assuming that those involved in the school
+ system are primarily responsible for deciding on a course of action. To begin with,
+ an action committee would need to be formed. Ideally it should consist of the
+ school principal, several teacher representatives, parents, and students. Such a
+ committee must be distinguished on two grounds from established PTA's, school
+ committees, or community advisory councils because it involves the student as a
+ decisionmaker and the social scientist as a monitor. Consider the role of each.
+ From the viewpoint of the student, only a few acts of vandalism (usually arson)
+ are so serious that they disrupt the educational process. Furthermore, only a
+ relatively small amount of all vandalism can be attributed to individuals who are
+ fundamentally antisocial. Many more vandalistic acts are committed for a specific
+ reason. As we noted at the outset, the term vandalism should be reserved for acts
+ that are intentional and hostility-directed. Such acts are meaningful, they commu-
+ nicate a feeling or thought on the part of the vandal, and the target is often
+ deliberately chosen. (As a meaningful mode of communication, school vandalism
+ is hard to beat: No other means is so direct, so anonymous, or provides one with
+ such instantaneous results!) A reduction in the amount of school vandalism appears
+ possible only if other, more acceptable channels and modes of communication are
+ adopted. By involving the student at an early point in the decisionmaking process,
+ we open channels through which grievances can be expressed and acted upon.
+ School vandalism is not a problem to be solved by school authorities, but is a
+ breakdown in meaningful communication. Through their representatives, constit-
+ uent groups can take their share of responsibility and decide together which
+ strategies to follow.
+ The role of the social scientist as monitor is threefold: (a) to acquire and supply
+ to the group as much information as possible that is specific to the school system,
+ this information serving as a baseline; (b) to report in detail on any strategy decided
+ on by the group, taking particular account of the expectations and beliefs of the
+ persons involved, this strategy constituting the treatment of the problem; (c) to
+ provide a fully documented description of the result, which itself completes an
+ analogy with the clinical situation.
+ The role of the social scientist as monitor, therefore, is directed to the changes
+ implemented by the action committee. The social scientist is no longer merely
+ 286
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ORIENTATIONS IN SCHOOL VANDALISM RESEARCH
+ giving an "expert opinion" on contemplated action, but is purposefully involved
+ in that action, and is responsible for the analysis of its impact.
+ Thus each action committee offers hypotheses for the occurrence of vandalism
+ at that school. It is these tentative reasons (e.g., an authoritarian headmaster, a
+ particularly vulnerable building, or a small group of ruffians) that must be trans-
+ formed into appropriate action for that situation (e.g., modification of the leadership
+ style, an upgrading of the building, or the development of a program that would
+ occupy the boys more productively).
+ Finally, we stress again that the knowledge generated by this process is specific
+ to the situation in which it is acquired. The extent to which an implemented
+ strategy succeeds may suggest some understanding of the probable reasons why
+ vandalism occurs at the school. We hold that the "hit-and-run" studies so typical
+ of social science should make way for the continuous assessment implied by action
+ research. It is evident that cooperation in antivandalism strategies and, more
+ generally, sustained commitment to participation in the organization of the school
+ system, will greatly increase the likelihood of success in this assignment.
+ References
+ Arson, how to defend against the most destructive school crime. (1976, December). School
+ Security, 1(4), 1-8.
+ Bagley, C. (1965). Juvenile delinquency in Exeter. Urban Studies, 2, 35-39.
+ Barr, R. D. (1981). Alternatives for the eighties: A second decade of development. Phi Delta
+ Kappan, 62(8), 570-573.
+ Bayh, B. (1975). Our nation's schools-A report card: "A" in violence and vandalism.
+ Washington, DC: U.S. Government Printing Office.
+ Bayh, B. (1978). Seeking solutions to school violence and vandalism. Phi Delta Kappan,
+ 59(5), 299-302.
+ Block, E. E., Covill-Servo, J., & Rosen, M. F. (1978). Failing students, failing schools: A study
+ of dropouts and discipline in New York State. Rochester, NY: Statewide Youth Advocacy
+ Project.
+ Brenton, M. (1975). School vandalism. Today's Education, 64(2), 82; 85.
+ Brooks, B. D. (1974). Contingency contracts with truants. Personnel and Guidance Journal,
+ 52(5), 316-320.
+ Canadian Education Association. (1977, March). Vandalism. Toronto: Author. (Monograph)
+ Cardinelli, C. F. (1970). Relationship of interaction of selected personality characteristics of
+ school principal and custodian with sociological variables to school vandalism. Dissertation
+ Abstracts International, 30, 4710A. (University Microfilms No. 70-9509)
+ Citizens' Juvenile Justice Task Force Recommendations. (1981). New Jersey Educational
+ Association Review, 54(7), 16-17.
+ Clarke, R. V. G. (1979). Defensible space and vandalism: The lessons from some recent
+ British studies. Proceedings of Conference on Urban Planning and Crime. Wiesbaden:
+ Bundes-Kriminalamt.
+ Clement, S. L. (1975, January). School vandalism-Causes and cures. National Association
+ of Secondary School Principals Bulletin, 59(387), 17-21.
+ Cohen, S. (1968, December). The politics of vandalism. New Society, 324, 872-878.
+ Cohen, S. (1970). Urban school crisis: The problem and solution proposed by the Urban
+ Education Task Force of HEW. Washington, DC: National School Public Relations
+ Association.
+ 287
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ZWIER AND VAUGHAN
+ Cohen, S. (1971). Directions for research on adolescent group violence and vandalism. British
+ Journal of Criminology, 11, 319-340.
+ Cohen, S. (1973a). Campaigning against vandalism. In D. Ward (Ed.), Vandalism (pp. 215-
+ 257). London: Architectural Press.
+ Cohen, S. (1973b). Property destruction: Motives and meanings. In D. Ward (Ed.), Vandalism
+ (pp. 23-53). London: Architectural Press.
+ Consortium of Local Authorities Special Programme. Vandalism and arson (Report of the
+ Advisory Panel). Nottingham, UK: CLASP Development Group.
+ Cramer, F. J. (1978). Some effects of school building renovation on pupil attitudes and
+ behavior in selected junior high schools. Journal ofResearch and Development in Education,
+ 11(2), 63.
+ Daniels, H. W. (1976). Vandalism: A comparative study of some of the effects of community
+ education in public schools. Dissertation Abstracts International, 37, 724A. (University
+ Microfilms No. 76-17, 072)
+ Davis, J. E. (1972). A survey of major incidents of vandalism, causes and preventive measures
+ employed in Texas public junior high schools. Dissertation Abstracts International, 32,
+ 4866A. (University Microfilms No. 72-10, 794)
+ De Buzna, C. P. (1975). A study of school vandalism-causes and prevention measures
+ currently found in selected secondary schools in cities throughout Alabama. Dissertation
+ Abstracts International, 36, 627A. (University Microfilms No. 75-18, 277)
+ Duke, D. L. (1977). Systematic Management Plan for School Discipline. NationalAssociation
+ of Secondary School Principals Bulletin, 61(405), 1-10.
+ Ellison, W. S. (1975). An analysis of the impact of community schools on the reduction of
+ school vandalism in a selected district. Dissertation Abstracts International, 35, 6570A.
+ (University Microfilms No. 75-679)
+ Ertukel, D. (1974). School security: A student point of view. NationalAssociation of Secondary
+ School Principals Bulletin, 58(384), 44-49.
+ Faily, A., & Roundtree, G. A. (1979). Combating violence and vandalism in schools. National
+ Association of Secondary School Principals Bulletin, 63(431), 100-104.
+ Falk, N., & Coletti, R. F. (1982, February). Better vandalism protection at less cost. American
+ School and University, 54(6), 52; 54.
+ Fernandez, E., & Cardenas, M. (1976). Absenteeism: Is there a solution? National Association
+ of Secondary School Principals Bulletin, 60, 87-91.
+ Frease, D. F. (1973). Delinquency, social class and the schools. Sociology and Social Research,
+ 57(4), 443-459.
+ Gibson, W. D., & Jones, R. B. (1978). Crime prevention in Little Rock's public schools. FBI.
+ Law Enforcement Bulletin, 47(7), 12-15.
+ Gladstone, F. J. (1978). Vandalism among adolescent schoolboys. In R. V. G. Clarke (Ed.),
+ Tackling vandalism (Home Office Res. Study No. 47). London: Her Majesty's Stationery
+ Office. (Monograph)
+ Gold, M. (1978). Scholastic experiences, self esteem, and delinquent behavior: A theory for
+ alternative schools. Crime and Delinquency, 24(3), 290-308.
+ Goldman, N. (1959). A sociopsychological study of school vandalism. Syracuse: Syracuse
+ University, New York Research Institute. (ERIC Document Reproduction Service No. ED
+ 002 807)
+ Goldman, N. ( 1961). A sociopsychological study of school vandalism. Crime and Delinquency,
+ 7(3), 221-230.
+ Goodman, M. E. (1975). Violence in our schools: What to know about it, what to do about it.
+ Columbia, MD: National Committee for Citizens in Education.
+ Grealy, J. I. (1974). Criminal activity in schools: What's being done about it? National
+ Association of Secondary School Principals Bulletin, 58(382), 73-78.
+ 288
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ORIENTATIONS IN SCHOOL VANDALISM RESEARCH
+ Greenberg, B. (1974). School vandalism: Its effects and paradoxical solutions. Crime Preven-
+ tion Review, 1(2), 11-18.
+ Haney, S. (1973, December). School district reduces vandalism 65%. American School and
+ University, 46(4), 29.
+ Hathaway, J. A., & Edwards, L. F. (1972). How to (just about) vandal-proof every school in
+ your district. American School Board Journal, 159(7), 27-31.
+ Haydon, C. (1978, October 20). Vandals: Think tank says catch them but don't punish them
+ too harshly. Times Educational Supplement, No. 3303, p. 6.
+ Hevern, H. S. (1977). An analysis of the extent, costs and prevention of vandalism in Hawaii
+ public secondary schools. (Doctoral dissertation, University of Southern California, 1977).
+ Dissertation Abstracts International, 38, 4479A.
+ Howard, J. L. (1978). Factors in school vandalism. Journal of Research and Development in
+ Education, 11(2), 53-63.
+ Howell, B., & Grahlman, B. (1977). School climate: Evaluation and implementation; an
+ anthology. Tulsa, OK: University of Tulsa.
+ Huntington, K. M. (1981). Defending elevators against vandalism. American School and
+ University, 53(10), 44; 46-47.
+ Irgang, A., & Gelber, L. (1981). Saving money by improving school management. National
+ Association of Secondary School Principals Bulletin, 65(446), 101-108.
+ Irwin, G. (1978). Planning vandalism resistant educational facilities. Journal of Research and
+ Development in Education, 11(2), 42-52.
+ Jacobs, E. F. (1980). Here's how Memphis cut vandalism costs in half. Executive Educator,
+ 2(1), 28.
+ James, H. (1974, February). How secure is your classroom? Teacher, pp. 42-43.
+ Juillerat, E. E. (1972, January). Fires and vandals: How to make them both unwelcome in
+ your schools. American School Board Journal, 159(7), 23-26.
+ Kaiser, C. J. (1972). Factors relating to vandalism in Detroit public elementary schools.
+ Dissertation Abstracts International, 33, 2030A. (University Microfilms No. 72-28, 451)
+ Kiernan, O. B. (1975). School violence and vandalism. Washington, DC: National Association
+ of Secondary School Principals. (ERIC Document Reproduction Service No. ED 106 987)
+ Kingston, A. J., & Gentry, H. W. (1978). Discipline problems: Then and now. Journal of
+ Research and Development in Education, 11(2), 63.
+ Koch, E. L. (1975). School vandalism and strategies of social control. Urban Education,
+ 10(1), 54-72.
+ Koff, R. H. (1979, February). The toughest game in town. National Association of Secondary
+ School Principals Bulletin, 63(424), 8-18.
+ Kravontka, S. J. (1974, January). Closed circuit television system design for school security.
+ Security World, 11(2), 22-23; 48-49.
+ Leftwich, D. F. (1978). A study of vandalism in selected public schools in Alabama.
+ Dissertation Abstracts International, 39, 23A. (University Microfilms No. 78-09, 865)
+ Lemert, E. M. (1967). Alcohol, values and social control. In E. M. Lemert (Ed.), Human
+ deviance, social problems and social control (pp. 72-87). Englewood Cliffs, NJ: Prentice
+ Hall.
+ Lesser, P. (1978). Social science and educational policy: The case of school violence. Urban
+ Education, 12(4), 389-410.
+ Liazos, A. (1978). School, alienation and delinquency. Crime and Delinquency, 24(3), 355-
+ 370.
+ Live-in "school sitters" are saving this district thousands of dollars each year-and cutting
+ vandalism as well. (1974, July). American School Board Journal, 161(7), 36-39.
+ Lloyd, R. (1968). Ways of fighting vandalism. Today's Education, 57(9), 29-32.
+ Lunden, W. (1968). The theory of crime prevention. In J. Stratton & R. Terry (Eds.),
+ Prevention of delinquency (pp. 24-33). London: Macmillan.
+ 289
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ZWIER AND VAUGHAN
+ Macri, D. A. (1974). Community-oriented vandalism prevention. Crime Prevention Review,
+ 2(1), 17-23.
+ Marvin, M., Connolly, I., McCann, R., Temkin, S., & Henning, P. (1976). Planning assistance
+ programs to reduce school violence and disruption. Philadelphia, PA: Research for Better
+ Schools.
+ Mawby, R. (1977a). Defensible space: A theoretical and empirical appraisal. Urban Studies,
+ 14, 169-179.
+ Mawby, R. (1977b). Kiosk vandalism: A Sheffield study. British Journal of Criminology, 17,
+ 30-46.
+ Mayer, G. R., & Butterworth, T. W. (1981). Evaluating a preventative approach to reducing
+ school vandalism. Phi Delta Kappan, 62(7), 498-499.
+ Mayhew, P. (1979). Defensible space: The current status of a crime prevention theory. The
+ Howard Journal, 18, 150-159.
+ McCrosky, C. (1979). School vandalism in the United States. Dissertation Abstracts, 39,
+ 6407A. (University Microfilms No. 79-08, 056)
+ McGuire, W. J. (1980). The development of theory in social psychology. In R. Gilmour & S.
+ Duck (Eds.), The development of social psychology (pp. 53-80). London: Academic Press.
+ Miller, A. J. (1974). Learning disabilities and delinquent youth. Academic Therapy, 9(6),
+ 389-402.
+ Moscovici, S. (1972). Society and theory in social psychology. In J. Israel & H. Tajfel (Eds.),
+ The context of social psychology. New York and London: Academic Press.
+ Murillo, R. B. (1977). Vandalism and school attitudes. Dissertation Abstracts, 38, 3074A.
+ (University Microfilms No. 77-24, 785)
+ National Association for the Care and Resettlement of Offenders. (1978). Cunningham road
+ improvement scheme-Impressions two years after. London: Author.
+ National Institute of Education. (1975). Vandalism prevention. NAESP School Leadership
+ Digest (second series). Washington, DC: Author. (ERIC Document Reproduction Service
+ No. 1111 051)
+ National Institute of Education. (1977). Violent schools-safe schools; the Safe School Study
+ Report to the Congress (Vol. 1). Washington, DC: U.S. Government Printing Office. (ERIC
+ Document Reproduction Service No. ED 149 466)
+ Newman, 0. (1972). Defensible space: Crime prevention through urban design. New York:
+ Macmillan.
+ Nowakowski, R. E. (1966). Vandals and vandalism in the schools: An analysis of vandalism
+ in large school systems and a description of ninety-three vandals in Dade county schools.
+ Dissertation Abstracts, 28, 437A. (University Microfilms No. 66-12, 999)
+ O'Grince, S., & Hodgins, H. S. (1974). Public school vandalism: How Baltimore fights it.
+ National Association of Secondary School Principals Bulletin, 58(374), 6-9.
+ Olson, J. R. (1981). Curbing vandalism and theft. Educational Horizons, 59(4), 195-197.
+ Pablant, P., & Baxter, J. C. (1975). Environmental correlates of school vandalism. American
+ Institute of Planners Journal, 241(4), 270-279.
+ Palmer, J. L. G. (1975). A study of the community education program as a deterrent of violence
+ and vandalism in a small rural Michigan community. Unpublished doctoral dissertation,
+ University of Michigan.
+ Palmore, E. B., & Hammond, P. E. (1964). Interacting factors in juvenile delinquency.
+ American Sociological Review, 29, 848-854.
+ Panko, W. L. (1979). Taxonomy of school vandalism. Dissertation Abstracts International,
+ 40, 592A. (University Microfilms No. 79-17, 437)
+ Pringle, M. K. (1973). The roots of violence and vandalism. London: National Children's
+ Bureau.
+ Pullen, D. (1973). Community involvement. In C. Ward (Ed.), Vandalism (pp. 295-375).
+ London: Architectural Press.
+ 290
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ORIENTATIONS IN SCHOOL VANDALISM RESEARCH
+ Reason, P., & Rowan, J. (Eds.). (1981). Human inquiry, a sourcebook of new paradigm
+ research. New York: John Wiley and Sons.
+ Reed, R. J., & Avis, J. J. (1978). A modest strategy for reducing school conflict. National
+ Association of Secondary School Principals Bulletin, 62(415), 28-36.
+ Reppetto, T. A. (1974). Residential crime. Cambridge, MA: Ballinger.
+ Rose, C. (1977). Fight school vandalism with school pride. Teacher, 94(8), 57.
+ Rubel, R. J. (1978). Assumptions underlying programs used to prevent or reduce student
+ violence in secondary schools. In Theoretical perspectives on school crime (Vol. 1, chap.
+ 33). Washington, DC: National Institute of Education. (ERIC Document Reproduction
+ Service. No. ED 157201)
+ Sabatino, D. A., Heald, J. E., Rothman, S. G., & Miller, T. L. (1978). Destructive norm-
+ violating school behavior among adolescents: A review of protective and preventive efforts.
+ Adolescence, 13(52), 675-686.
+ Sabatino, L. N. (1980, June). Electronic security works for New York. American School and
+ University, 52(10), 28; 32; 34; 36.
+ Schnabolk, C. (1974). Safeguarding the school against vandalism and violence. Special report:
+ Planning the learning environment. Nation's Schools, 94(2), 32-36.
+ Schnabolk, C. (1979). Alarm systems rarely work in school buildings. School Business Affairs,
+ 45(10), 12-13; 36.
+ School security systems. (1974, August). Nation's Schools, 94(2), 31-36.
+ Schrock, R. S. (1979). A study of the effects of community education programs on reducing
+ the frequency and severity of vandalism in selected Virginia public schools. Dissertation
+ Abstracts International, 39, 528A. (University Microfilms No. 79-06, 281)
+ Smith, D. C. (1966). Vandalism in selected Southern California school districts: Nature,
+ extent and preventive measures. Dissertation Abstracts, 27, 1236A. (University Microfilms
+ No. 66-11, 589)
+ Sorrentino, A. (1975). The Chicago project after 25 years. Urban Education, 10(1), 72.
+ Stace, M. (1978). Vandalism and self-report studies: A review of the literature (Occasional
+ Paper No. 6). Wellington, New Zealand: Institute of Criminology, Victoria University.
+ (Monograph)
+ Steele, M. (1978). Enrolling community support. Journal of Research and Development in
+ Education, 11(2), 84-94.
+ Stein, J., & Urdang, L. (Eds.). (1973). The Random House dictionary of the English language.
+ New York: Random House.
+ Stripling, O. W. (1978). The relationship of selected conditions to occurrences of vandalism
+ in the high schools of Oklahoma City. Dissertation Abstracts, 39, 1981A. (University
+ Microfilms No. 78-17, 918)
+ Sturm, F. J. (1979). A study of relationships between senior high school enrollment and the
+ amount of vandalism experienced by selected secondary schools. Dissertation Abstracts
+ International, 40, 1202A. (University Microfilms No. 79-19, 416)
+ Swift, M., & Spivak, G. (1978). Academic success and classroom behavior in secondary
+ schools. Adolescence, 13(52), 686.
+ Taming campus vandals. (1980). American School and University, 53(2), 44-45; 48.
+ Thaw, R. F. (1980). Preventable property damage: Vandalism and beyond. In K. Baker & R.
+ J. Rubel (Eds.), School crime and violence. Theoretical perspectives. Lexington, MA:
+ D. C. Heath.
+ Torbert, W. R. (1981). Empirical, behavioral, theoretical and attentional skills necessary for
+ collaborative inquiry. In P. Reason & J. Rowan (Eds.), Human inquiry, a sourcebook of
+ new paradigm research. New York: John Wiley and Sons.
+ Tross, M. (1977, July). Report says large schools are more likely to be vandalized. Times
+ Educational Supplement, No. 3239, p. 11.
+ Vandalism: A special report. (1973, December). Nation's Schools, 31-37.
+ 291
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
+ ZWIER AND VAUGHAN
+ van Voorhees, C., Cwik, P. J., & King, M. J. (1975). Research shows community education
+ has promise. National Association of Secondary School Principals Bulletin, 59(394), 59-62.
+ Vestermark, S. D., Jr., & Blauvelt, P. D. (1978). Controlling crime in schools: A complete
+ security handbook for administrators. West Nyack, NY: Parker.
+ Violence in the schools: Everybody has solutions. (1975). American School Board Journal,
+ 162(1), 27-37.
+ von Kronenberger, G. R. (1978). Vandalism: A national dilemma. Journal of Research and
+ Development in Education, 11(2), 63.
+ Wales, D. (1978). Solutions to vandalism [Film]. Chicago: Rainbow Productions.
+ Watson, B. C., & Darling-Hammond, L. (1978). Violence and vandalism in schools: Evidence
+ for policy alternatives. Journal of Public Policy and Multicultural Education, 1(1), 60-69.
+ Ways of fighting vandalism. (1968). Today's Education, 57(9), 29-32.
+ Weeks, S. (1976). Security against vandalism. It takes facts, feelings and facilities. American
+ School and University, 48(7), 37-46.
+ Weiss, J. N. (1974). Vandalism: An environmental concern. NationalAssociation of Secondary
+ School Principals Bulletin, 58(374), 6-9
+ Wells, E. (1975). Vandalism and violence. Washington, DC: National School Public Relations
+ Association.
+ Westinghouse Electric. (1976, March). Crime prevention through environmental design.
+ Schools demonstration plan. Arlington, VA: Author.
+ Westinghouse Electric. (1978, May). Crime prevention through environmental design. Final
+ report on schools demonstration. Arlington, VA: Author.
+ Wilson, J. (1976). Study of vandalism in Ulster dispels popular myths. The Times Educational
+ Supplement, No. 3203, p. 6.
+ Wilson, S. (1978). Vandalism and "defensible space" of London housing estates. In R. V. G.
+ Clarke (Ed.), Tackling vandalism (Home Office Research Study No. 47). London: HMSO.
+ Wint, J. (1975, November). Contrasting solutions for school violence. Phi Delta Kappan.
+ Young, G. P., & Soldatis, S. (1970). School vandalism can be stopped. American School and
+ University, 42, 22-23.
+ Zeisel, J. (1976). Stopping school property damage: Design and administrative guidelines to
+ reduce school vandalism. Washington, DC: American Association of School Administrators.
+ (ERIC Document Reproduction Service No. ED 136 447)
+ Zwier, A. G., & Vaughan, G. M. (1980). School vandalism: A review of overseas research.
+ Wellington, New Zealand: Department of Education. (Monograph)
+ AUTHORS
+ GERARD ZWIER, Research Associate, Psychology Department, University of
+ Auckland, Private Bag, Auckland, New Zealand. Specializations: Social psy-
+ chology of science, study of school vandalism.
+ GRAHAM M. VAUGHAN, Associate Professor and Head of Department, Psy-
+ chology Department, Auckland University, Private Bag, Auckland, New Zealand.
+ Specialization: Social psychology.
+ 292
+This content downloaded from 128.95.104.66 on Thu, 20 Apr 2017 19:10:37 UTC
+All use subject to http://about.jstor.org/terms
