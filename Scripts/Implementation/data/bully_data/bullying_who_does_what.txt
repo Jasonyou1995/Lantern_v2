@@ -1,0 +1,339 @@
+LTH EDUCATION RESEARCH Vol.20 no.1 2005 Theory & Practice Pages 81–91 Advance Access publication 14 July 2004
+Bullying: who does what, when and where? Involvement of children, teachers and parents in bullying behavior
+M. Fekkes1,4, F. I. M. Pijpers2 and S. P. Verloove-Vanhorick1,3
+  Abstract
+Bullying victimization is associated with several health issues. Prevention of bullying is therefore an important goal for health and education professionals. In the present study, 2766 children from 32 Dutch elementary schools participated by completing a questionnaire on bullying be- havior, and the involvement of teachers, parents and classmates in bullying incidents. The results of this study show that bullying is still prevalent in Dutch schools. More than 16% of the children aged 9–11 years reported being bullied on a regular basis and 5.5% reported regular active bullying during the current school term. Almost half of the bullied children did not tell their teacher that they were being bullied. When teachers knew about the bullying, they often tried to stop it, but in many cases the bullying stayed the same or even got worse. With regard to active bullying, neither the majority of the teachers nor parents talked to the bullies about their behavior. Our results stress the importance of regular communication between children, parents, teachers and health care professionals with regard to bullying incidents. In addition, teachers need to learn effective ways to deal with
+1TNO (Netherlands Organization of Applied Scientific Research) Prevention and Health, PO Box 2215, 2301 CE Leiden, 2GG & GD Amsterdam, PO Box 2200, 1000 CE Amsterdam and 3LUMC (Leiden University Medical Center) Department of Pediatrics and Child Health,
+PO Box 9600, 2300 RC Leiden, The Netherlands 4Correspondence to: M. Fekkes;
+E-mail: M.Fekkes@pg.tno.nl
+bullying incidents. Schools need to adopt a whole-school approach with their anti-bullying interventions.
+Introduction
+Bullying is a specific form of aggressive behavior and can be described as a situation when a student: ‘is exposed repeatedly and over time, to negative actions on the part of one or more students’ (Olweus, 1993a). These negative actions take place when an imbalance of power exists between the vic- tim and the aggressor. The bullying behavior can be ‘physical’ (e.g. hitting, pushing, kicking), ‘verbal’ (e.g. calling names, provoking, making threats, spreading slander), or can include other behavior such as making faces or social exclusion.
+Studies in several countries indicate a prevalence of 8–46% for regularly bullied children and 5–30% for regular active bullies (Olweus, 1991; Mooij, 1992; Boulton and Underwood, 1992; Whitney and Smith, 1993; Genta et al., 1996; Borg, 1999; Junger-Tas and van Kesteren, 1999; Nansel et al., 2001; Wolke et al., 2001). Regular bullying is hereby usually defined as recurrent behavior with a frequency of either ‘several times a month’, ‘sometimes’ or on a ‘weekly’ basis. Boys are generally more often active bullies than girls, but whereas boys bully in a more direct way (e.g. hit- ting, kicking), girls bully in a more indirect way (e.g. excluding others, starting rumors) which is some- times referred to as relational bullying (Crick and Grotpeter,1995,1996;Wolkeetal.,2000).Forvictim- ization there are no large gender differences—boys are bullied as often as girls.
+     Health Education Research Vol.20 no.1, Ó Oxford University Press 2005; All rights reserved doi:10.1093/her/cyg100
+M. Fekkes et al.
+ Bullying does not only occur between children who bully and those who are bullied, but is consid- ered a group phenomenon in which other children participate. Bystanders can assist the bully, or try to help the victim, or they can withdraw and try not to get involved (Atlas and Pepler, 1998). Bully- ing incidents usually involve several bystanders (O’Connel et al., 1999) and in most cases these bystanders do not try to stop the bullying which may be interpreted by the bully as a reinforcement to continue the bullying. However, it has also been shown that when bystanders intervene and try to stop the bullying, they are effective in a majority of the cases (Hawkins et al., 2001). It is therefore important to utilize this ‘peer group power’ and teach children strategies to effectively intervene, so bullies will be isolated from their social support (O’Connel et al., 1999; Salmivalli, 1999; Sutton and Smith, 1999).
+Being a victim or an active bully is associated with an increased risk of mental and physical health problems. Children who are bullied suffer more of- ten from health complaints such as sleeping problems, headache, stomach ache, bedwetting and depres- sion (Williams et al., 1996; Salmon et al., 1998; Forero et al., 1999), and have more often suicidal thoughts (Kaltiala-Heino et al., 1999; Cleary, 2000). Active bullying is found to be associated with higher levels of depression, and emotional and behavioral disorders (Rigby, 1998; Kumpulainen et al., 1999; van der Wal et al., 2003).
+Especially with regard to victimization, it is debated whether these health complaints precede the bullying victimization or whether bullying vic- timization precedes the onset of these health prob- lems. The stress caused by bullying could lead to the higher number of health complaints (Boivin et al., 1995), but children with health problems such as depression or anxiety may also be more vulner- able to being bullied by other children (Schwartz et al., 1993; Hodges et al., 1997). Few studies have investigated this relationship, but there is some sup- port for both hypotheses. In a longitudinal study, Bond et al. (Bond et al., 2001) reported that bullying— especially for adolescent girls—precedes health complaints like depression and anxiety. This suggests that the stress caused by bullying has
+a negative influence on children’s health. Other studies found support for an opposed relationship whereby internalized behavioral problems precede being bullied and increase the chances of being bul- lied over time (Hodges and Perry, 1999; Schwartz et al., 1999).
+In addition to higher levels of health complaints, studies indicate that victims and bullies have char- acteristics that distinguish them from children who are not regularly involved in bullying behavior. Bullies are found to be more involved in aggressive, delinquent and violent behavior (Junger-Tas and van Kesteren, 1999; Baldry and Farrington, 2000). Victims usually have lower self-esteem than non- victims, are less assertive, tend to be more anxious, are more withdrawn, are physically smaller and weaker, and tend to have lower grades (Olweus, 1993a,b; Schwartz et al., 1993; Baldry, 1999). How- ever, like the association of bullying and health complaints, some of these characteristics can either precede or result from being bullied (Farrington, 1993).
+Because bullying has a negative influence on children’s mental and physical health, it is impor- tant that health care workers and teachers have a good understanding of bullying behavior and take measures to prevent or stop such behavior. Anti- bullying interventions are promoted via the Health Promoting Schools Framework (WHO, 1992) cur- rently of particular interest in Europe via the European Network for Health Promoting Schools (European Network for Health Promoting Schools, 2002). Components of this framework promote the involvement of the whole-school community, including—among others—pupils, teachers and parents in the efforts to combat bullying.
+The data presented in this article aim to give more insight in the involvement of these groups in bullying behavior by investigating the following questions:
+(1) To what extent are children involved in general and specific bullying behavior?
+(2) According to the children, what is the in- volvement of others (i.e. teachers, parents, and classmates) with the bullying behavior?
+ 82
+(3) How effective are the attempts of others (i.e. teachers, parents and classmates) to stop the bullying?
+Methods
+Participants
+The 2766 participants in this study were children from 32 Dutch elementary schools that participated in a longitudinal experimental study on the effec- tiveness of an anti-bullying policy at schools. The data presented here are baseline measurements made before any specific anti-bullying measures (as part of the study) had been implemented in the schools.
+In November 1999, children from the upper three grades (9–11 years old) completed a written ques- tionnaire in the classroom under exam-like condi- tions. In each classroom a research assistant was available to answer questions. The design of the study was approved by the local Medical Ethical Committee. All parental advisory boards of the participating schools were informed about the study and gave written informed consent for participation.
+Questionnaire
+The questionnaire contained items on the frequency of bullying behavior, the specific types of bullying behavior, where the bullying took place, who in- tervened to stop the bullying and if those interven- tions were successful. Several other health and demographic items were also included in the questionnaire.
+The questions on general bullying behavior, where it took place and questions on intervening, were based on the Dutch version of the Olweus Bully/Victim Questionnaire (Liebrand et al., 1991; Mooij, 1992; Olweus, 1994). This is a well- documented questionnaire that is used in many studies on bullying (Olweus, 1991; Whitney and Smith, 1993; Genta et al., 1996; Baldry and Farrington, 1999). The questions on specific bully- ing are based on the Dutch version of a questionnaire used in a cross-national study on bullying (Junger- Tas and van Kesteren, 1999; Smith et al., 1999),
+which was based on a list of specific bullying behaviors developed by Whitney and Smith (Whitney and Smith, 1993).
+Being bullied was assessed with the question ‘How often did other children bully you during this school term?’. Children could answer with the following options: ‘I am not bullied’, ‘1 or 2 times’, ‘a few times a month’, ‘every week’, ‘2 or 3 times a week’ or ‘almost every day’.
+Active bullying was assessed with the question ‘How often did you participate in bullying other children at school during this school term?’. Op- tions for the answer ranged from ‘I did not bully any children’, ‘1 or 2 times’, ‘a few times a month’, ‘every week’, ‘2 or 3 times a week’ or ‘almost every day’.
+Options for those two items on being bullied and active bullying were slightly modified from the original questionnaire, whereby the original cate- gory ‘sometimes’ was changed into ‘a few times a month’. Also the last category ‘almost every day’ was added. These adjustments were made to create a more consistent range of frequency options.
+A student was considered a victim if he or she reported being bullied ‘a few times a month’ or more frequently. Likewise a student was considered a bully if he or she reported active bullying ‘a few times a month’ or more frequently.
+Statistical analysis
+All analyses were performed with SPSS/PC. De- scriptive univariate statistics were used to analyze the prevalence of bullying behavior. Two sided t- tests and v2 analysis were used to analyze statistical differences between groups. The level for a statisti- cal significant difference was P < 0.05.
+Results
+General characteristics of the sample
+Of the 2853 students, questionnaires were com- pleted by 2766 (response 97%). The main reason for non-response was absence of the child on the day of measurement. There was no follow up at another date for non-respondents.
+Bullying: involvement of children, teachers and parents
+      83
+M. Fekkes et al.
+ Mean age of the children was 10.1 (SD 1.1) years. The sample included 1370 boys (49.5%), 1384 girls (50.0 %) and 12 students (0.4%) for whom the gender was not stated. A total of 14.5% of the sample was of non-Dutch origin (i.e. both parents born outside The Netherlands).
+Frequency of bullying
+Table I shows the distribution of bully victimization and active bullying behavior amongst all children and amongst boys and girls separately. The results show that a substantial number (16.2%) of the children were bullied regularly (several times a month or more often), and more than 7% reported being bullied several times a week. There was no significant difference in being bullied between boys and girls (v2 = 0.38, P = 0.85). Children from a lower school grade were bullied more often than children from a higher grade (v2 = 56.93, P < 0.001).
+The number of children who reported to actively bully others was less than those who reported being a victim of bullying (Table I). In total, 5.5% of the children bullied other children on a regular basis (i.e. several times a month or more often). Another 31.9% indicated that they had bullied another student at least once during the current term. There was a large gender difference; boys bullied much more frequently than girls (v2 = 29.21, P < 0.001). There was no difference in active bullying behavior between the different school grades (v2 = 0.12, P = 0.98).
+Table I. Reported frequency of bullying during current school term Being bullied [% (n)]
+Type of bullying behavior
+Table II shows the types of bullying the children had experienced during the last four weeks. A substantial number of children experienced name- calling (30.9%), the spreading of rumors (24.8%), being ignored or not allowed to participate (17.2%), or being kicked, hit or pushed (14.7%). Girls were more likely to experience the spreading of rumors, being ignored or not being allowed to participate, whereas boys were more likely to experience physical forms of bullying.
+Those children who had indicated on the general question on bullying that they were bullied almost on a daily basis did experience a higher proportion of specific bullying behavior during the last four weeks, i.e. name-calling (90.3%), the spreading of rumors (89.1%), being ignored or not allowed to participate (60.8%), made fun of (74.3%), being kicked, hit or pushed (63.1%), or having things taken away or hidden (37.3%).
+Table III shows the different forms of active bullying. Saying bad things or name-calling (27.1%) was the most frequently reported form of active bullying behavior. Other forms of active bullying behavior reported by a substantial number of children were: the spreading of rumors (17.5%), making fun of others, while they don’t like that (18.7%), ignoring or not allowing to participate (14.7%), or kicking, hitting and pushing (14.7%). Boys reported more bullying than girls, particularly more name-calling, kicking, hitting or pushing and making fun of other children.
+  Bullying others [% (n)]
+   Never
+1 or 2 times
+A few times per month/once per week
+2 or 3 times per week/almost every day
+Boys
+(N = 1366)
+54.2 (740) 29.5 (403) 9.4 (128)
+7.0 (95)
+Girls
+(N = 1383)
+56.5 (781) 27.5 (380) 8.3 (116)
+7.7 (106)
+Total
+(N = 2761)
+55.4 (1530) 28.4 (785) 8.9 (244)
+7.3 (202)
+Boys
+(N = 1358)
+54.9 (746) 37.3 (506) 5.6 (76)
+2.2 (30)
+Girls
+(N = 1379)
+70.1 (967) 26.8 (369) 2.3 (32)
+0.8 (11)
+Total
+(N = 2749)
+62.5 (1719) 31.9 (878) 4.0 (111)
+1.5 (41)
+  84
+Bullying: involvement of children, teachers and parents Table II. Reported frequency of specific bullying behavior during the last 4 weeks (n = 2766)
+  All children Never (%)
+69.1
+82.8
+85.3 89.6
+75.2 79.0
+Once or twice (%)
+22.0
+13.3
+11.8 9.0
+19.2 15.7
+Weekly to every day (%)
+8.9
+3.9
+2.9 1.4
+5.6 5.3
+Boys Never (%)
+67.0
+84.8
+83.7 90.3
+78.6 78.6
+Once or twice (%)
+23.5
+11.6
+13.4 8.5
+16.4 16.0
+Weekly to every day (%)
+9.5
+3.6
+2.9 1.2
+5.0 5.4
+Girls Never (%)
+71.1
+80.7
+86.6 89.0
+72.0 79.4
+Once or Weekly
+   They said bad things to me; called me namesa They didn’t allow me to participate; ignored meb
+They kicked, hit or pushed mec They took my things away or hid them
+They spread rumors about med
+They made fun of me, while they know I don’t like that
+20.5 8.3
+15.1 4.2
+10.4 3.0 9.4 1.6
+21.9 6.1 15.3 5.3
+twice (%)
+to every day (%)
+  aDifference between boys and girls (Never versus Once or more often): v2 = 4.80, P = 0.028. bDifference between boys and girls (Never versus Once or more often): v2 = 8.01, P = 0.005. cDifference between boys and girls (Never versus Once or more often): v2 = 4.77, P = 0.029. dDifference between boys and girls (Never versus Once or more often): v2 = 15.84, P < 0.001.
+ Table III. Reported frequency of specific active bullying behavior during the last 4 weeks (n = 2766)
+ All children Never (%)
+72.9 85.3
+85.2 93.7 82.5 81.3
+Once or twice (%)
+23.0 12.3
+12.4 5.3 14.6 15.7
+Weekly to every day (%)
+4.1 2.4
+2.3 1.1 2.9 3.0
+Boys Never (%)
+Once or twice (%)
+Weekly to every day (%)
+5.3 2.9
+2.6 1.1 3.0 4.0
+Girls Never (%)
+77.5 86.3
+89.6 94.6 81.7 86.2
+Once or Weekly
+   twice (%)
+to every day (%)
+ I said bad things;
+called other namesa
+I didn’t allow
+another to participate; ignored him/her
+I kicked, hit or pushed someoneb
+I took somebody’s things away or hid them I spread rumors about others
+I made fun of another, while I know he/she doesn’t like thatc
+68.4 26.4 84.3 12.8
+80.7 16.7 93.0 5.9 83.4 13.7 76.3 19.8
+19.5 2.9 11.8 1.9
+8.2 2.1
+4.4 1.0 15.3 2.9 11.7 2.0
+ aDifference between boys and girls (Never versus bDifference between boys and girls (Never versus cDifference between boys and girls (Never versus
+Once or more often): v2 = 29.08, P < 0.001. Once or more often): v2 = 42.03, P < 0.001. Once or more often): v2 = 44.30, P < 0.001.
+ 85
+M. Fekkes et al.
+ The children who had indicated on the question on general bullying that they bullied almost daily did report substantially higher numbers of specific bullying behavior, i.e. name-calling (66.7%), the spreading of rumors (52.9%), making fun of others, while they don’t like that (52.9%), ignoring or not allowing to participate (41.2%), or kicking, hitting and pushing (58.8%), or taking things away or hiding them (47.1%).
+Who are the bullies?
+The children were asked what school grade children who bullied others were from. Table IV shows that more than 60% of the victims were bullied by children from their own grade in the same group. About 10% were bullied by children from a higher grade and about 4% were bullied by children from a lower grade.
+Children also reported whether they were bullied by boys, girls or both. Table V shows that almost 70% of the boys were bullied by other boys. About 44% of the girls were bullied by one or several boys and almost 23% of the girls were bullied by other girls. Boys were relatively less often bullied by girls.
+Location of the bullying
+Table VI shows that most children were bullied either in the playground or in the classroom. A number of children were bullied in the hallway and in the gym. The category ‘Somewhere else’ includes places such as by the bicycle racks or near the home.
+Telling parents or teachers
+Children who reported being bullied were asked if they spoke about this with the teacher or with their
+parents. Only 53% of the regularly bullied children told their teacher that bullying that took place, and 67% told their parents that they were bullied. Children who were bullied more frequently told their parents or teacher more often about the bullying than children who were bullied less reg- ularly (Table VII). Of all the children who were regularly bullied, 75% told at least one adult (their teacher or their parents, or both) about the bullying.
+The children who were bullied were asked if one of their teachers, their parents, or their classmates tried to stop the bullying. Table VIII shows that a substantial number of both teachers and parents were unaware that the child was being bullied; for classmates this figure was lower. Of those teachers, parents and classmates who were aware of the bullying, the majority made an effort to stop the bullying. According to the children, when aware of the bullying, teachers tried to stop the bullying significantly more often than their parents (88 versus 60%; t = 6.17, P < 0.001) or their classmates (88 versus 54%; t = 8.32, P < 0.001). In attempts to stop the bullying, teachers were successful in 49% of the cases, parents in 46%, and classmates in 41%; according to the children being bullied.
+Children who bullied other children were also asked if their teacher or parents talked to them about their bullying behavior. In general, 52.1% of the teachers and 33.3% of the parents talked to the regular bullies about their behavior. Table IX shows the percentage of teachers who spoke to the children about their behavior. Although teachers spoke somewhat more often to children who bullied most frequently (i.e. several times per week), many of those frequent bullies indicated that neither their
+ Table IV. Group of origin of the bullies for children who are bullied on a regular basis (n = 439)
+ Bully/bullies came from:
+Own group, same grade Another group, same grade A higher grade
+A lower grade
+Various groups/grades
+Origin of bully for all children [% (n)]
+63.8 (280) 5.0 (22) 10.9 (48) 4.1 (18) 16.2 (71)
+Origin of bully for victimized boys [% (n)]
+59.9 (130) 6.0 (13) 14.7 (32)
+4.1 (9) 15.2 (3)
+Origin of bully for victimized girls [% (n)]
+67.4 (149) 4.1 (9) 7.2 (16) 4.1 (9)
+17.2 (38)
+   86
+Bullying: involvement of children, teachers and parents
+ Table V. Report of victims on the gender of the bullies of those bullied on a regular basis (n = 429)
+Table VII. Percentage of regularly bullied children that told their teacher or parents that they are being bullied (n = 418)
+   Bullied by
+one boy Bullied by different boys Bullied by one girl
+Bullied by different girls Bullied by boys and girls
+All children [% (n)]
+27.7 (119) 28.7 (123) 7.5 (32) 8.2 (35) 28.0 (120)
+Boys [% (n)]
+36.1 (75) 33.2 (69) 5.3 (11) 2.9 (6) 22.6 (47)
+Girls [% (n)]
+20.0 (44) 24.1 (53) 9.5 (21) 13.2 (29) 33.2 (73)
+I told the teacher (% yes)a
+I told my parents (% yes)b
+Children who were bullied several times
+a month [% (n)]
+47.7 (103) 61.6 (135)
+Children who were bullied several times
+a week [% (n)]
+58.4 (111) 73.8 (141)
+    Table VI. Frequency of places where children were being bullied (data presented of children bullied regularly, n = 442; children could give multiple answers)
+aDifference bullied ‘several times a month’ versus ‘several times per week’: v2 = 4.67, P = 0.03.
+bDifference bullied ‘several times a month’ versus ‘several times per week’: v2 = 6.88, P = 0.01.
+Table VIII. According to the regularly bullied students, attempts by teachers, parents and classmates to stop the bullying
+    In the playground In the classroom In the hallway
+In the gym
+In the school canteen In the toilets Somewhere else
+All children [% (n)] 76.9 (340)
+40.5 (179) 23.5 (104) 19.0 (84) 7.5 (33) 3.6 (16) 29.0 (128)
+They didn’t know I was bullied
+No, they did not try to stop it
+Yes, they tried to stop it, but it got worse
+Yes, they tried to stop it, but it stayed the same Yes, they tried to stop it, and it decreased
+Teachers (%) (n = 431)
+34.8 (150) 8.1 (35) 9.5 (41)
+19.5 (84)
+28.1 (121)
+Parents (%) (n = 409)
+39.1 (160) 24.4 (100) 3.7 (15)
+15.9 (65)
+16.9 (69)
+Classmates (%) (n = 422)
+17.5 (74) 36.3 (153) 6.6 (28)
+20.9 (88)
+18.7 (79)
+  teacher (43%) nor parents (67%) spoke to them about their bullying behavior.
+Discussion
+The results of this study show that bullying is still prevalent in Dutch schools. More than 16% of the children aged 9–11 years participating in this study reported being bullied on a regular basis during the current school term, i.e. a few times a month or more often. More than 10% of the children in- dicated being bullied at least once a week or more frequently. With regard to active bullying, almost 6% (an average of one child in every classroom) reported to bully several times a month to almost daily. Thirty-seven percent of children reported having bullied another student at least once during the last term.
+Our data on self-reported general bullying be- havior are supported by other studies in different countries and some of these studies found even higher levels of bullying behavior among the same age group. Olweus (Olweus, 1991) studied a large sample in Norway and found that 11% of the children in elementary school were bullied on a regular basis and 7% regularly bullied other children. In the UK, Whitney and Smith (Whitney and Smith, 1993) found that 27% reported being
+    87
+M. Fekkes et al.
+ Table IX. Frequency of parents and teachers that spoke to the regular bullies about their behavior (n = 146)
+Smith, 1993; Rivers and Smith, 1994). This finding suggests that teachers should create an environment in which children are encouraged to talk more about their bullying experiences.
+One of the components of the successful anti- bullying program developed by Olweus (Olweus, 1993a) is the development of a set of class rules aimed specifically at bullying. Rules can be dis- cussed during circle time and be posted in a visible place. Discussion of these rules can help build an anti-bullying ethos and encourage children to talk about their own bullying experiences.
+Encouraging other children to intervene when they notice bullying behavior can also be an important strategy to combat bullying. The inter- vening of bystanders to help the victim is known to be effective (Hawkins et al., 2001), but it is also known that the majority of bystanders do not inter- vene (O’Connel et al., 1999). Motivating children to intervene and stand up for the victim could isolate bullies from their audience and social sup- port, and help to stop bullying behavior (O’Connel et al., 1999; Salmivalli, 1999; Sutton and Smith, 1999). Exercises using role-play can be useful in helping children to rehearse different appropriate strategies to intervene and stop bullying behavior (Cowie and Sharp, 1995).
+Another successful strategy is the Support Group Approach, whereby a support group, including those involved in the bullying and bystanders, is created for the victim and assigned the responsibil- ity for solving the bullying problem (Young, 1998).
+Our finding that children spoke more often to their parents than to their teachers about being bul- lied, something also noted by Whitney and Smith (Whitney and Smith, 1993), stresses the importance of regular communication between parents and teachers on the subject of bullying. Schools can inform parents via newsletters on the school policy on bullying and explicitly ask parents to report to the teacher if their child is being bullied. A school can also organize an educational session on the subject of bullying, and inform parents about their anti-bullying rules and policy. In addition, teachers should address the subject of bullying during their regular talks with the parents.
+  The teacher spoke to me about it (% yes)a My parents spoke to me about it (% yes)b
+Children who bullied others several times per month [% (n)]
+50.0 (53)
+33.3 (35)
+Children who bullied others several times per week [% (n)]
+57.5 (23)
+33.3 (12)
+ bullied regularly and 12% reported regular active bullying. Genta et al. (Genta et al., 1996) found high numbers in Italy, with up to 46% being bullied and 23% actively bullying on a regular basis. More recent numbers on victimization vary from 24% in England, 17% in the US to 8% in Germany (Nansel et al., 2001; Wolke et al., 2001).
+The frequency of being bullied among girls and boys was similar; however, the majority of boys were mostly bullied by other boys, while a sub- stantial number of girls were bullied by other girls. Some differences existed in types of bullying. Boys were more often kicked, pushed or hit, whereas girls were more often ignored, excluded or had rumors spread about them. Several other studies have also found this gender difference, whereby boys experience more direct bullying, while girls experience more indirect bullying (Whitney and Smith, 1993; Borg, 1999; Junger-Tas and van Kesteren, 1999).
+As expected, most bullying took place in the playground and in the classroom, which are the two places where the children mostly interact with each other. This is in line with other reports (Whitney and Smith, 1993; Borg, 1999). The high prevalence of bullying in the playground suggests that more effective supervision is needed. Olweus (Olweus, 1993a) found that the level of bullying was lower in schools where there were relatively more teachers present (a higher ‘teacher density’) during recess and lunch breaks.
+Almost half of the bullied children did not tell their teacher that they were being bullied, some- thing also noted in other studies (Whitney and
+ 88
+Bullying: involvement of children, teachers and parents
+ We found that when teachers knew about the bullying, they often tried to stop it; however, in many cases the bullying stayed the same or even got worse. This could indicate that teachers should learn skills to more effectively intervene in bullying incidents. Organizations in several countries, e.g. Kidscape in the UK, and educational training cen- ters in The Netherlands such as APS and KPC, provide training to teach a variety of anti-bullying strategies (Ross, 1993; van der Meer, 1996; Elliott, 2002; Elliott and Kilpatrick, 2002).
+With regard to active bullying, many of the teachers and parents did not talk to the bullies about their behavior. This could be because they did not know about the incidents or did not know what to do. Use of a survey can help reveal the level of bullying behavior. The Olweus anti-bullying pro- gram has such a questionnaire (Olweus, 1993a) and in The Netherlands teachers can use the ‘Bullying Test’ (Limper, 2000). It is important that teachers involve the parents of active bullies when solving a bullying problem, since bullies should also learn in their home environment that their behavior is condemned. A teacher could arrange a meeting with the victim, bully and both their parents to discuss the bullying, and create a plan to solve the issue (Olweus, 1993a).
+It is important to include anti-bullying strategies—such as those mentioned above—as part of a whole-school anti-bullying policy. A whole- school approach is aimed at actively involving the whole-school community, i.e. pupils, school staff and parents, in the efforts to tackle the bullying (Sharp and Thompson, 1994). Several programs that embrace this whole-school approach are avail- able, such as the Olweus anti-bullying program (Olweus, 1993a) or the UK anti-bullying package ‘Don’t Suffer in Silence’ (DfES, 2002). These programs include many of the strategies mentioned above.
+Anti-bullying interventions are also part of the Health Promoting Schools Framework. The Health Promoting Schools initiative was launched by the WHO and is a worldwide approach where schools provide education and support to enhance the emotional, social, and physical well-being of all
+members of their school community (WHO, 1992). Especially in Europe—via the European Network for Health Promoting Schools—and in Australia, this has stimulated the development and implemen- tation of many school health programs, including several anti-bullying interventions (European Net- work for Health Promoting Schools, 2002; Cross, 2003).
+Our current project is linked to the national action plan on school health in The Netherlands (Buijs et al., 2002). This article presents the baseline measure of the first phase of this project. In this first phase, the effects of an anti-bullying policy in elementary schools will be studied. In a following phase Regional Health Centers will assist schools in several regions to implement a whole-school anti-bullying policy and this large- scale implementation process will be evaluated.
+In The Netherlands, Regional Health Centers have been involved in health promotion in schools for many years (Buijs et al., 2002). Part of the national action plan on school health is to have those centers systematically describe the health status of the pupils, including bullying, for schools. In addition to assisting schools with implementing an anti-bullying policy, such structural communi- cation on bullying behavior between schools and the Regional Health Centers could help to keep teachers informed about the prevalence of bullying behavior and would strengthen the whole-school approach.
+Conclusion
+The results of our study show that bullying is still prevalent in Dutch elementary schools and that teachers do not always effectively deal with many of the bullying incidents. Schools need to adopt a whole-school approach to bullying prevention, such as promoted in the Health Promoting Schools framework. All parties, i.e. school staff, pupils and parents, as well as organizations connected to the school community, need to be involved in cooper- ative efforts to prevent and diminish bullying behavior in schools. Children should be actively
+   89
+M. Fekkes et al.
+ involved in the anti-bullying strategies; they should be taught rules that bullying is not accepted, and they should be motivated to intervene, stop and report bullying incidents.
+Parents need to be informed on the school’s anti- bullying policy and be involved when bullying incidents occur. Parents should also be invited to report when their child is being bullied.
+Teachers should learn effective ways to handle and solve bullying incidents, and schools should aim to improve their interventions for bullying incidents by cooperation with relevant organiza- tions, such as the Regional Health Centers in The Netherlands. Detection of bullying incidents would be improved by regular and structural communica- tion on the subject of bullying between pupils, teachers, parents and school health care workers.
+Acknowledgements
+This study was financially supported by Zorg Onderzoek Nederland (grant 22000061).
+References
+Atlas, R.S. and Pepler, D.J. (1998) Observations of bullying in the classroom. Journal of Educational Research, 92, 86–99.
+Baldry, A.C. and Farrington, D.P. (1999) Types of bullying among Italian school children. Journal of Adolescence, 22, 423–426.
+Bond, L., Carlin, J.B., Thomas, L., Rubin, K. and Patton, G. (2001) Does bullying cause emotional problems? A pro- spective study of young teenagers. British Medical Journal, 323, 480–484.
+Borg, M.G. (1999) The extent and nature of bullying among primary and secondary schoolchildren. Educational Research, 41, 137–153.
+Boulton, M.J. and Underwood, K. (1992) Bully/victim problems among middle school children. British Journal of Educational Psychology, 62, 73–87.
+Buijs, G.J., de Jong, A., Paulussen, T. and van Wijngaarden, J. (2002) Moving forward: a national action programme on school health. In: Network News. IPC European Network of Health Promoting Schools, Copenhagen, pp. 48–49.
+Cleary, S.D. (2000) Adolescent victimization and associated suicidal and violent behaviors. Adolescence, 35, 671–682. Cowie, H. and Sharp, S. (1994) Tackling bullying through the
+curriculum. In Smith, P.K. and Sharp, S. (eds), School Bullying: Insights and Perspectives. Routledge, London, pp. 84–107.
+Crick, N.R. and Grotpeter, J.K. (1995) Relational aggression, gender and social-psychological adjustment. Child Develop- ment, 66, 710–722.
+Crick, N.R. and Grotpeter, J.K. (1996) Children’s treatment by peers: victims of relational and overt aggression. Development and Psychopathology, 8, 367–380.
+Cross, D., Pintabona, Y., Hall, M., Hamilton, G., Erceg, E. and Roberts, C. (2003) The friendly schools project: an empiri- cally grounded school-based bullying prevention program. Australian Journal of Guidance and Counselling, 13, 36–46.
+DfES (2002) Bullying: Don’t Suffer in Silence. An Anti-bullying Pack for Schools. DfES Publications, Nottingham.
+Elliott, M. (ed.) (2002) Bullying: A Practical Guide to Coping for Schools. Pearson Education, Harlow.
+Elliott, M. and Kilpatrick, J. (2002) How to Stop Bullying: A Kidscape Training Guide. Kidscape, London.
+European Network of Health Promoting Schools (2002) Models of Health Promoting Schools in Europe. IPC European Network of Health Promoting Schools, Copenhagen.
+Farrington, D.P. (1993) Understanding and preventing bullying. In Tonry, M. (ed.), Crime and Justice: A Review of Research. University of Chicago Press, Chicago, IL, pp. 381–459.
+Forero, R., McLellan, L., Rissel, C. and Bauman, A. (1999) Bullying behaviour and psychosocial health among school students in New South Wales, Australia: cross sectional survey. British Medical Journal, 319, 344–348.
+Genta, M.L., Menesini, E., Fonzi, A. and Costabile, A. (1996) Bullies and victims in schools in central and southern Italy. European Journal of Psychology of Education, 11, 97–110.
+Hodges, E.V. and Perry, D.G. (1999) Personal and interpersonal antecedents and consequences of victimization by peers. Journal of Personality and Social Psychology, 76, 677–685.
+Hodges, E.V., Malone, M.J. and Perry, D.G. (1997) Individual risk and social risk as interacting determinants of victimization in the peer group. Developmental Psychology, 33, 1032–1099
+Junger-Tas, J. and van Kesteren, J.N. (1999) Bullying and Delinquency in a Dutch school Population. Kugler, The Hague.
+Kaltiala-Heino, R., Rimpela, M., Marttunen, M., Rimpela, A. and Rantanen, P. (1999) Bullying, depression and suicidal ideation in Finnish adolescents: school survey. British Med- ical Journal, 319, 348–351.
+Kumpulainen, K., Rasanen, E., Henttonen, I., Almqvist, F., Kresanov, K., Linna, S.L., Moilanen, I., Piha, J., Puura, K. and Tamminen, T. (1998) Bullying and psychiatric symptoms among elementary school-age children. Child Abuse and Neglect, 22, 705–717.
+Liebrand, J., van IJzerdoorn, H. and van Lieshout, C. (1991) KRVL Klasgenoten Relatie Vragenlijst Junior. Vakgroep Ontwikkelingspsychologie, Katholieke Universiteit Nijme- gen, Nijmegen.
+Limper R. (2000) Cooperation between parents, teachers and school boards to prevent bullying in education: an overview of work done in the Netherlands. Aggressive Behavior 2000, 26, 125–134.
+Mooij, T. (1992) Pesten in het Onderwijs. ITS, Nijmegen. Nansel, T.R., Overpeck, M., Pilla, R.S., Ruan, W.J., Simons- Morton, B. and Scheidt, P. (2001) Bullying behaviors among US youth: prevalence and association with psychosocial adjustment. Journal of the American Medical Association,
+285, 2094–2100.
+     90
+O’Connell, P., Pepler, D. and Craig, W. (1999) Peer involvement in bullying: insights and challenges for intervention. Journal of Adolescence, 22, 437–452.
+Olweus, D. (1991) Bully/victim problems among schoolchil- dren: Basic facts and effects of a school based intervention program. In Pepler, D.J. and Rubin, K.H. (eds), The De- velopment and Treatment of Childhood Aggression. Lawrence Erlbaum, Hillsdale, NJ, pp. 411–448.
+Olweus, D. (1993a) Bullying at School: What We Know and What We Can Do. Blackwell, Oxford.
+Olweus, D. (1993b) Victimization by peers: antecedents and long-term outcomes. In Kenneth, H.R. and Jens, B.A. (eds), Social Withdrawal, Inhibition and Shyness in Childhood. Lawrence Erlbaum, Hillsdale, NJ, pp. 315–341.
+Olweus, D. (1994) Bullying at school: basic facts and effects of a school based intervention program. Journal of Child Psychology and Psychiatry and allied disciplines, 35, 1171– 1190.
+Pellegrini, A.D. (1999) School bullies, victims and aggressive victims: factors relating to group affiliation and victimization in early adolescence. Journal of Educational Psychology, 91, 216–224.
+Rigby, K. (1998) The relationship between reported health and involvement in bully/victim problems among male and female secondary school children. Journal of Health Psychology, 3, 465–476.
+Ross, H. (1993) Practical solutions to bullying. Health Visitor, 66, 295.
+Salmivalli, C. (1999) Participant role approach to school bullying: implications for interventions. Journal of Adoles- cence, 22, 453–459.
+Salmon, G., James, A. and Smith, D.M. (1998) Bullying in schools: self reported anxiety, depression and self esteem in secondary school children. British Medical Journal, 317, 924– 925.
+Schwartz, D., Dodge, K.A. and Coie, J.D. (1993) The emergence of chronic peer victimization in boys’ play groups. Child Development, 64, 1755–1772.
+Schwartz, D., McFadyen, K.S., Dodge, K.A., Pettit, G.S. and Bates, J.E. (1999) Early behavior problems as a predictor of later peer group victimization: moderators and mediators in
+the pathways of social risk. Journal of Abnormal Child
+Psychology, 27, 191–201.
+Sharp, S. and Thompson, D. (1994) The role of whole-school
+policies in tackling bullying behaviour in schools. In Smith, P.K. and Sharp, S. (eds), School Bullying: Insights and Perspectives. Routledge, London, pp. 57–83.
+Smith, P.K., Morita, Y., Junger-Tas, J., Olwues, D., Catalano, R. and Slee, P. (eds) (1999) The Nature of School Bullying: A Cross-national Perspective. Routledge, New York.
+Sutton, J. and Smith, P.K. (1999) Bullying as a group process: an adaptation of the participant role approach. Aggressive Behavior, 25, 97–111.
+van der Meer, B. (1996) Pesten op School: Hoe ga Je er Mee Om. Nationaal Onderwijsprotocol tegen Pesten. LOBO, NKO, Ouders & Coo, Voo, Almere.
+van der Wal, M.F., de Wit, C.A. and Hirasing, R.A. (2003) Psychosocial health among young victims and offenders of direct and indirect bullying. Pediatrics, 111, 1312–1317.
+Whitney, I. and Smith, P.K. (1993) A survey of the nature and extent of bullying in junior/middle and secondary schools. Educational Research, 35, 3–25.
+WHO (1992) Consultation on Strategies for Implementing Comprehensive School Health Educational Promotion Pro- grams: Suggested Guidelines for Action. WHO, Geneva.
+Williams, K., Chambers, M., Logan, S. and Robinson, D. (1996) Association of common health symptoms with bullying in primary school children. British Medical Journal, 313, 17–19.
+Wolke, D., Woods, S., Bloomfield, L. and Karstadt, L. (2000) The association between direct and relational bullying and behaviour problems among primary school children. Journal of Child Psychology and Psychiatry and Allied Disciplines, 41, 989–1002.
+Wolke, D., Woods, S., Stanford, K. and Schulz, H. (2001) Bullying and victimization of primary school children in England and Germany: prevalence and school factors. British Journal of Psychology, 92, 673–696.
+Young, S. (1998) The support group approach to bullying in schools. Educational Psychology in Practice, 14, 32–39.
+Received on October 1, 2003; accepted on May 16, 2004
+Bullying: involvement of children, teachers and parents
+  91
+

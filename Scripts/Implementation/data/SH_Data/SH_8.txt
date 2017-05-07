@@ -1,0 +1,1363 @@
+Factors Associated with Peer Sexual Harassment Victimization Among Taiwanese Adolescents
+
+
+
+
+Abstract 
+This study examined the individual and interpersonal
+factors of peer sexual harassment victimization among
+Taiwanese adolescents. A random sample of 1,376 7th to 9th
+grade middle school students in Taichung City, Taiwan,
+completed questionnaires about their demographics, delinquency,
+peer/teacher interaction, and experience of being
+sexually harassed by peers. Approximately 25.4% of the
+respondents had suffered peer sexual harassment during the
+previous semester. Boys reported more exposure to sexual
+harassment than did girls. Multivariate logistic regression
+analyses were performed separately for boys and girls.
+Significant risk factors of peer sexual harassment victimization
+for both genders included being bullied by peers and
+teacher maltreatment. Boys’ sexual harassment victimization
+was also associated with their involvement in fights. Peer
+relationship problems contributed to girls’ sexual harassment
+victimization. These findings suggested the relevance of a
+hostile school climate to peer sexual harassment and the
+gender differences in risk factors.
+Keywords Sexual harassment . Peer victimization .
+Adolescents. Taiwan . Middle school
+Introduction
+It is well known that students experience various forms of
+peer maltreatment at school (see Smokowski and Kopasz
+2005, for a review of the issue in U.S. schools). Besides
+verbal and physical bullying, many adolescents suffer
+frequent humiliation, intimidation, unpleasant touch or
+even violent assault of a sexual nature in the educational
+environment, which adversely affects their learning and
+well-being (e.g., Chiodo et al. 2009). To date, most
+investigations on school bullying fail to address this
+substantial type of victimization, namely peer sexual
+harassment. For example, in a recent comprehensive review
+of existing bullying research drawn from several major
+academic data bases, only physical, verbal, and relational
+forms of student aggression are discussed (Stassen Berger
+2007). More importantly, existing research on peer sexual
+harassment is largely based on North American (e.g.,
+American Association of University Women 2001;
+McMaster et al. 2002) and European populations (e.g.,
+Timmerman 2003), and the issue receives significantly less
+recognition in Asian countries. As an exception, the issue
+of sexual harassment on campus has created much public
+concern in Taiwan during the past decade (Huang and Bih
+2002). After a number of legal cases gained wide publicity,
+the Gender Equity Education Act was passed in Taiwan in
+2004 to eliminate discrimination, harassment and unwelcome
+sexual conduct while providing a safe and genderfriendly
+environment for students (Chen 2005). The
+legislation specifically requires the government and educational
+institutions to develop programs and policies to
+address the problem of sexual prejudice and harassment in
+school (Chiao 2007). However, relevant data from the local
+context remains insufficient, preventing a grounded assessment
+of this problem’s prevalence and characteristics.
+H.-S. Wei (*)
+Department of Social Work, National Taipei University,
+151 University Rd., San Shia,
+Taipei 237, Taiwan
+e-mail: hswei@mail.ntpu.edu.tw
+J.-K. Chen
+Department of Social Work, Chinese University of Hong Kong,
+Hong Kong, China
+e-mail: jkchen@swk.cuhk.edu.hk
+Sex Roles (2012) 66:66–78
+DOI 10.1007/s11199-011-0073-7
+The present study is among the few attempts to
+empirically explore the prevalence and risk factors of
+sexual harassment among Taiwanese adolescents, which
+adds to the existing knowledge about gender issues in
+several ways. First, past studies on sexual aggression and
+harassment often assume females to constitute the majority
+of victims, and the victimization of males is rarely assessed.
+For example, in one study of Canadian young adults’
+reaction to hypothetical confrontations of peer sexual
+harassment, male undergraduates from a Canadian university
+were asked to read scenarios depicting a hypothetical
+confrontation by a woman of a male sexual harasser
+(Saunders and Senn 2009), while other possibilities were
+not fully investigated. A laboratory study of American male
+college students examined the predicting factors of gender
+harassment, in which gender harassment was defined as the
+number of sexist questions asked of women during a mock
+job interview or negative evaluations of the female
+interviewee (Hitlan et al. 2009). Yet another U.S. study of
+the relationship between sexual harassment and empathic
+bias examined men’s sexual harassment toward women but
+not same-gender targets (Schweinle et al. 2009). However,
+as one recent study on the sexual harassment victimization
+of U.S. young adults showed, men not only do experience
+harassment but such victimizations can impact their
+adjustment and maturity outcomes, and a “wimpy male”
+hypothesis was discussed by the authors for explanation
+(Sears et al. 2011). With a large-scale random sample of
+Taiwanese middle school students, this study assessed the
+prevalence of peer sexual harassment victimization among
+both boys and girls in Taiwan, which is expected to provide
+a more accurate picture and advance the current understanding
+of this significant gender issue.
+The above discussion further suggests the potential
+effects of masculinity in peer sexual harassment, and the
+present study utilizes the hegemonic masculinity perspective
+(Connell and Messerschmidt 2005) as the theoretical
+framework for exploring the potentially differential factors
+associated with peer sexual harassment between genders.
+Like delinquency and violence against women, harassment
+is regarded as related to boys’ effort to secure their
+manhood and contest for peer status (Messerschmidt
+2000), which make themselves to be at high risk of
+victimization as well. One study on U.S. young adults
+found that, compared to women, men not only perceived
+manhood as a more impermanent state than womanhood,
+but they also endorsed aggression as a means of proving or
+re-establishing threatened manhood (Weaver et al. 2010). At
+the same time, as discussed later in the text, peer sexual
+harassment victimization is expected to be prevalent among
+local adolescents given the classroom structure and cultural
+tradition in Taiwan, with peers and teachers to be significant
+factors that are often overlooked in past research. To
+evaluate the above potential risk factors of peer sexual
+harassment, the present study employed multivariate logistic
+regression analyses and conducted gender comparison to
+empirically test these hypotheses.
+Finally, the present study addressed the overrepresentation
+of western populations in past research by providing
+valuable data from an Asian cultural context that has been
+rarely examined before. Having undergone rapid modernization
+during the past decades, Taiwan is heavily influenced
+by both western culture and its own eastern tradition
+(Yang 1996), which constitutes a unique target for investigation.
+The traditional Chinese culture in Taiwan has a
+strong collectivistic orientation, and everyone’s self is
+embedded in social relationships (Yang et al. 2010). One’s
+interaction with others is governed by his/her social roles in
+a hierarchical network, among which husband-wife is one
+of the crucial dyad illustrating gender norms (Jiang 2001).
+The Confucian tradition endorses notions such as “men are
+superior and women are inferior” and emphasizes submissiveness
+and obedience as women’s virtues (Chia et al.
+1994). Women are supposed to depend on men while men
+are expected to achieve a strong personality and leadership
+roles in work and family, which can make them being
+assertive and even aggressive (Kao and Lu 2006). Such a
+gender ideology is conveyed to Taiwanese youngsters via
+family, school and peer group, within which men are taught
+to be strong, powerful and tough (Chu 2003; Lee 2007).
+Although previous studies have shown increasingly egalitarian
+gender roles among local people as a result of
+westernization (Chia et al. 1997), sexism remains salient in
+Taiwan with its cultural roots (Lee et al. 2007). Such
+findings reveal a potential hotbed for sexual harassment to
+grow. In fact, existing data highlight the seriousness of the
+issue in Taiwan. One survey with a sample of 308 students
+from one junior high school in Taiwan showed that 77% of
+the students had suffered at least one form of sexual
+harassment during their time at the school (Huang and Yen
+2004). Another qualitative study on Taiwanese elementary
+school students aged 10 and 12 revealed the existence of
+verbal and physical sexual harassment among local adolescents
+(Chang et al. 2010). In response to this potential
+threat to the wellbeing of Taiwanese youth, the present
+study aims to promote awareness in the academic community
+about the seriousness of the problem in an Asian
+context and extend a cross-cultural understanding of sexual
+harassment victimization among adolescents.
+Prevalence of Peer Sexual Harassment
+Sexual harassment is generally defined as unwelcome
+requests or unacceptable conduct of a sexual nature that
+may interfere with one’s life and threaten his/her rights to
+employment and education (Lichty et al. 2008). Being
+Sex Roles (2012) 66:66–78 67
+sexually harassed by peers in educational settings may
+result in a variety of negative consequences. One study of
+U.S. adolescents found sexual harassment victimization to
+be associated with lower self-esteem, poor physical and
+mental health, and trauma symptoms (Gruber and Fineran
+2008). As one form of peer maltreatment, sexual harassment
+is a prevalent experience among adolescents. A
+survey of 2,064 U.S. public school students in grades
+8 through 12 found that 81% of the students had
+experienced some form of sexual harassment at some time
+during their school years (American Association of University
+Women 2001). One study in the Netherlands of
+2,808 randomly selected adolescents aged 14–15 at 22
+secondary schools found that 18% of the respondents had
+experienced unwanted sexual behavior during the previous
+12 months (Timmerman 2003). Another study on 1,734
+students from 23 Canadian schools showed that sexualharassment
+victimization was common among both boys
+(42.4%) and girls (44.1%) in grade 9 (Chiodo et al. 2009).
+Using a representative sample of 10,400 students in grades
+7 through II from public schools in Israel, one survey found
+29.1% of the students were victims of at least one act of
+sexual harassment in school during the prior month (Zeira
+et al. 2002).
+Data on the prevalence of sexual harassment in
+Asian countries is relatively limited. Using a large
+sample of 4,956 adolescents in Hong Kong, one survey
+found that 23% of the primary school students (P.4-P.6)
+and 43% of the secondary school students (F.1-F.7) had
+ever been sexually harassed or abused by peers (Tang
+2004), which highlights the significance of the issue in
+Asian contexts.
+Boys are found generally more involved in the perpetration
+of peer sexual harassment (e.g. American Association
+of University Women 2006). Regarding the gender
+distribution of the victims in peer sexual harassment, some
+studies on U.S. (Hand and Sanchez 2000; Berger and
+Rodkin 2009; AAUW 2001; Ormerod et al. 2008) and
+Netherlands students (Timmerman 2005) have suggested
+that girls experience more frequent and severe peer sexual
+harassment than do boys. Other studies on Canadian
+(McMaster et al. 2002) and U.S. adolescents (Pellegrini
+2001; Gruber and Fineran 2008), however, have shown no
+gender difference in victimization prevalence. Yet another
+set of studies has found a higher prevalence of
+victimization in boys, including one on Israeli public
+school students (Zeira et al. 2002) and one on U.S.
+adolescents from 5th to 9th grade (Petersen and Hyde
+2009). At the same time, studies of Canadian (Williams et
+al. 2005) and U.S. students (Gruber and Fineran 2008)
+found sexual/gender minority youth at greater risks of
+being bullied and sexually harassed. One study specifically
+on lesbian, gay, bisexual and questioning adolescents
+from U.S. high schools revealed the prevalence of
+heterosexism and homophobia as well as harassment
+toward LGBQ students (Chesir-Teran and Hughes 2009).
+However, the above findings are mostly from western
+samples, and their applicability to other contexts awaits
+further investigation.
+Masculinity and Peer Sexual Harassment
+Theories of sexual harassment often emphasize its sociocultural
+roots and functions. From the hegemonic masculinity
+perspective (e.g., Connell and Messerschmidt 2005),
+sexual harassment enforces gender hierarchy and status
+differential through the humiliation of victims. The issue of
+masculinity is particularly salient with regard to sexual
+harassment among adolescents. One study of the life
+histories of U.S. adolescent male offenders found that the
+prevalent masculinity ideology requires young men to be
+aggressive, dominant, tough, and to depreciate effeminacy,
+which increase their risk of committing harassment and
+sexual violence toward women (Messerschmidt 2000).
+Another study on African American youth showed that
+male adolescents often use physical and verbal sexual
+harassment to highlight their power and superiority over
+female peers (Miller 2008). It is suggested that such
+practices represent a general climate of male dominance
+and disrespect toward women in the larger American
+society in which schools are embedded (Haywood and
+Mac an Ghaill 1996). It is, therefore, tempting to assume
+girls to be the major victims of peer sexual harassment.
+However, as suggested by researchers in the United States
+(Ferguson 2000; Kimmel 1996), the United Kingdom (Mac
+an Ghaill 1994), and Australia (Poynting and Donaldson
+2005), masculinity should be viewed as an achieved
+rather than an ascribed status, and adolescent boys are
+in a constant need to contest with each other and prove
+their manhood within the male group. One study
+conducted in-depth interviews with male students in an
+U.S. high school and found the boys’ interaction with
+other boys to be characterized by provocative behaviors,
+such as teasing, taunting, and mocking of a sexualized
+nature (Oransky and Marecek 2009). Another study on
+U.S. middle school and high school students revealed that
+by ‘feminizing’ other boys through bullying and harassment,
+one can bolster his masculinity and gain power
+within the peer group (Phillips 2007). Furthermore,
+analyses of the male interaction in U.S. schools suggested
+that while these peer disciplining practices produce
+anxiety, fear and hurt, they also bring friendship, intimacy,
+and bonding for the boys (Stoudt 2006; Lyman 1992).
+Similarly, it has been shown that hegemonic masculinity
+ideology impacts adolescent boys from Pacific Islander
+and Asian American backgrounds as well, leading them to
+68 Sex Roles (2012) 66:66–78
+frequently use violence to enhance their peer status
+(Mayeda and Pasko 2011).
+The relevance between peer sexual harassment and
+masculinity found in the above studies seems to bear a
+similarity to the research findings on Taiwanese adolescents.
+In an ethnographic study, Guo (2007) described a
+common play behavior among Taiwanese male adolescents,
+in which a group of boys lifted the victim and hit or rubbed
+his reproductive organ against a hard object. This is
+recognized as a form of masculine friendship expression
+and a reaffirmation of masculinity, although the victim may
+feel humiliated and harassed. Taiwanese male adolescents
+thus seem to adopt harassment as peer disciplining practice
+of masculinity as well, which have a sexualized nature and
+inflicts both distress and affiliation on themselves. Another
+recent study interviewed Taiwanese juvenile offenders and
+found that their masculinity ideologies reflect notions of
+toughness, fighting, degrading women, and homophobia
+(Hsu 2008). Their life stories revealed that violence and
+harassment are common ways for these delinquent youth to
+establish their manhood. In addition, a study on Taiwanese
+5th grade students showed that the peer group had
+crucial influence on male adolescents’ gender ideology
+and their interaction with male and female classmates
+(Tien 2004). The male students were found to mostly
+associate with same-gender peers and their group norms
+were characterized by aggressiveness, competition with
+other males, and prejudice toward females. The author
+observed that besides initiating provocations toward
+female classmates, these boys often mock and harass their
+more feminine or weak male peers to confirm masculine
+norms and gain status within the group. Such practices
+resemble the findings from North American youth mentioned
+above (e.g., Oransky and Marecek 2009; Phillips
+2007) and suggest similarity of the underlying gender
+dynamics among male adolescents.
+Individual and Interpersonal Risk Factors
+Several risk factors of peer sexual harassment in the
+individual and interpersonal levels have been identified by
+the empirical literature, which lend support to the above
+discussion on masculinity dynamics. First, girls are not the
+only possible targets of sexual harassment. Boys may also
+be sexually harassed by peers in their competition for
+masculinity. In a longitudinal study on Canadian high
+school students, boys reported receiving more homosexual
+slurs or unwanted sexual content, while girls reported
+receiving more sexual jokes, comments, and unwanted
+touching (Chiodo et al. 2009). One study on U.S. students
+further showed that the boys suffered more same-gender
+harassment than do girls (Petersen and Hyde 2009). Similar
+results were shown by one study on Taiwanese adolescents,
+in which not only more boys than girls were found sexually
+harassed by peers, but both boys and girls reported “male
+classmates or friends” as the perpetrators of harassment
+(Huang and Yen 2004). Such findings reveal the potential
+high risk of male-to-male harassment among students.
+Since Taiwanese adolescents in the middle school years
+are shown to interact mostly with same-gender peers (Hsieh
+et al. 2006; Tien 2004), and same-gender harassment are
+found prevalent among boys (Guo 2007; Tien 2004), it was
+hypothesized in this study that Taiwanese middle-school
+boys receive more sexual harassment victimization than do
+girls.
+A major set of individual risk factors associated with
+peer victimization and harassment is antisocial behaviors.
+One study on U.S. adolescents showed delinquency and
+crime to be risk factors of school-based sexual victimization
+(Tillyer et al. 2010). As studies on American youth and
+adults reveal, themes of aggression, power and “rulebreaking”
+are often emphasized in masculinity ideologies
+(e.g., Kulis et al. 2010; Walters 2001), and involvement in
+these high-risk activities increases one’s likelihood of being
+victimized. Delinquency, such as school truancy, substance
+use, and other deviant behaviors, is frequently found
+associated with victimization among U.S. adolescents
+(Gastic 2008; Rusby et al. 2005). In their study of a sample
+of 1,532 U.S. high school students, Fineran and Bolen
+(2006) suggested a direct relationship between delinquency
+(fighting, stealing, and vandalizing property) and peer
+sexual-harassment victimization. Lacasse and Mendelson
+(2007) surveyed 116 Canadian adolescents in grades
+8 through 11 and showed that victims of peer sexual
+coercion reported more drug/alcohol use and non-sexual
+deviance (starting fights, running away from home, etc.)
+than the control group. This again highlighted the close
+relationship between the risk of deviance and victimization.
+In fact, one study on Taiwanese junior high school
+students similarly showed that delinquent behaviors such
+as drinking, running away and truancy were associated
+with higher risk of sexual harassment/assault victimization
+(Hsieh 2007). Since delinquency and violence are more
+associated with masculinity rather than femininity, and
+such associations are found not only in North American
+societies but also in the local context of Taiwan (e.g., Hsu
+2008; Bih 2000; Hsu and Cheng 2007), it is expected in
+the present study that these factors are more relevant to
+Taiwanese boys’ risk of peer sexual harassment victimization
+than to girls’ risk.
+On the interpersonal level, the risk to victims of peer
+maltreatment often lies in their relationship problems with
+peers. Studies on U.S. youth showed that lack of friends
+and poor peer status were associated with multiple forms of
+peer victimization (Wang et al. 2009; Berger and Rodkin
+2009; Nansel et al. 2001). In their recent study on
+Sex Roles (2012) 66:66–78 69
+Taiwanese junior high school students, Wei and Chen
+(2009) also found the association between peer rejection
+and victimization. At the same time, experiencing school
+bullying itself is a risk factor of sexual harassment. Studies
+on U.S. adolescents found that the victims of sexual
+harassment are likely to be physically and verbally bullied
+(Felix and McMahon 2007; Fineran and Bolen 2006).
+However, although past research showed that multiple
+forms of harassment overlap for both boys and girls, they
+may not reflect the same peer issues across gender. As
+discussed above, rough treatment is often a masculine way
+to express friendship and affiliation between boys as
+revealed by studies in the United States as well as Taiwan
+(e.g., Reed and Brown 2001; Guo 2007), which does not
+equally apply to girls. Boys therefore may be more tolerant
+toward such behaviors and less regard themselves as
+rejected by peers. Given the existing evidence, it is
+hypothesized that the experience of being bullied relates
+to both boys’ and girls’ risk of peer sexual harassment but
+that girls who are sexually harassed are more likely to
+perceive themselves as having peer relationship problems.
+Finally, one often overlooked social context in peer
+sexual harassment is teacher-student interaction. Maltreatment
+by school staff is found associated with student
+aggression and sexual harassment among U.S. (Ormerod et
+al. 2008) as well as Israeli students (Khoury-Kassabri 2009;
+Attar-Schwartz 2009). As significant role models, teachers
+can shape students’ attitudes and behaviors toward peers.
+One U.K. study showed that school teachers often act as
+‘cultural accomplices’ and consolidate the norms of
+hegemonic masculinity among adolescents (Smith 2007).
+The issue of teacher maltreatment is particularly relevant to
+schools in Taiwan due to its Confucian heritage. The local
+traditional culture has deep roots in Confucian philosophy,
+and it is still influential in shaping the school context and
+teacher-student relationship in Taiwan (Tu and Hung 2008;
+Yen and Hwang 2011). In educational settings, Confucian
+beliefs emphasize hierarchy, obedience and respect for
+teachers (Ho and Ho 2008). As a result, teachers in Taiwan
+are highly regarded as a parent-like figure and a symbol of
+authority whose conduct sets a crucial model for students
+to imitate (Fwu and Wang 2002). However, one recent
+survey in Taiwan showed that 26.9% of middle school
+students reported having been maltreated by teachers at
+least once in the previous semester, with hitting, beating or
+slapping being the most common maltreatment (Chen and
+Wei 2011). More specifically, another study of Taiwanese
+junior high school students found the teachers’ harsh
+punishment and indifference to students were associated
+with higher risk of sexual harassment and assault among
+adolescents (Hsieh 2007). It is likely that hostile teacher
+treatment serves both as a behavioral example for students
+and a contributor for negative school climate, which in turn
+increases the tendency of sexual harassment and victimization
+among all students, boys and girls alike. The
+potential effect of this factor is examined in the present
+study.
+The Present Study
+Peer sexual harassment is a common experience among
+adolescents, but it is considerably under-studied compared
+to other types of peer maltreatment, not to mention the lack
+of extensive research in Asian contexts. This study,
+therefore, hopes to bridge the knowledge gap in the existing
+literature and provide a large-scale assessment along with
+an exploration of the potential risk factors of peer sexualharassment
+victimization among adolescents in an Asian
+context. Specifically, it aims at testing the following
+research hypotheses derived from the literature:
+H1 Boys experience higher peer sexual harassment than
+do girls.
+H2 Delinquent behaviors (getting into fights, theft, and
+drinking) are positively associated with sexual harassment
+victimization for the boys only.
+H3 Peer relationship problems are positively associated
+with sexual harassment victimization for girls only.
+H4 Being bullied is positively associated with sexual
+harassment victimization for both boys and girls.
+H5 Experience of teacher maltreatment is positively
+associated with sexual harassment victimization for
+both boys and girls.
+Method
+Sample
+The Taichung City Youth Life Conditions Survey is a
+large-scale survey funded by the Children’s Bureau to
+collect information on the life circumstances and service
+needs of local adolescents. The present study used the
+middle-school dataset of 2006, which consisted of a total
+of 1,376 students from 14 public and private middle
+schools (grades 7–9) in the area. A two-stage cluster
+sampling strategy was employed, in which two schools
+were first randomly selected from each of the districts in
+Taichung City (except from one district that has no middle
+schools). In each of the selected schools, one class from
+each grade was subsequently chosen at random to
+participate in the study, which resulted in a final sample
+of 42 classes. All the students in the classes were included
+as participants, with 50.7% (n=698) boys and 49.3%
+(n=678) girls. They were fairly evenly distributed over
+grades 7–9 (464, 441, and 471 respectively).
+70 Sex Roles (2012) 66:66–78
+Procedure
+The project was approved through the internal review
+process of the Children’s Bureau and conducted in
+accordance with its ethical guidelines. The homeroom
+teachers of the selected classes were informed of the study
+in summer 2006 and asked to assist in administering the
+questionnaire. The survey packs were distributed to
+teachers in the middle of the fall semester. Students
+completed the self-reported, anonymous inventory in their
+classrooms during a regular class period. Instructions were
+provided and respondents were explicitly informed that
+they were free to withdraw at any time in the process
+without any cost. Confidentiality was ensured and the
+questionnaires were sealed upon completion in blank
+envelopes, which were collected shortly afterward.
+Measures
+Sexual Harassment
+Students’ experience of sexual-harassment victimization by
+peers during the last semester was assessed with two items:
+“A student made sexual remarks or jokes you did not want”
+and “A student touched or caressed you against your will”
+(see Appendix). The two items corresponded to the verbal
+and physical dimensions of adolescent sexual harassment
+identified by past research in Europe (Ortega et al. 2010)
+and Taiwan (Chang et al. 2010). A 5-point Likert scale was
+provided (never, 1–2 times, 3–4 times, 5–6 times, 7 times or
+more). Due to the considerable skewness of the distribution,
+the scores on the two items were combined and dichotomized
+(r=.38). The binary values were then used in logistic
+regression to compare those who did and did not have the
+experience.
+Gender
+The first part of the survey questionnaire inquired about
+the respondent’s demographics. Information on student’s
+gender was obtained for the present analysis (see
+Appendix). Gender was a dichotomous variable (male,
+female).
+Delinquency
+Students were asked whether they had engaged in three
+kinds of common delinquent behaviors (getting into
+fights, theft, and drinking) during the last year (see
+Appendix). Since the original items were dichotomous
+(yes/no), the scores on each of the items were used as
+separate predictors for sexual harassment victimization in
+the regression model.
+Peer Relationship Problems
+Students were asked whether they had problems in peer
+relationships in their daily life (yes/no) (see Appendix). The
+item was used as a dichotomous predictor for sexual
+harassment victimization in the regression model.
+Experience of Being Bullied
+Students’ experiences of physical and verbal victimization
+by peers during the last semester were measured with 5
+items on a five-point scale (never—7 times or more). These
+items were adapted from both the school violence scale in
+Taiwan and the California School Climate and Safety
+Survey (Furlong et al. 2005). The original items were
+translated from English to Chinese, followed by a standard
+back-translation procedure to ensure translation accuracy.
+Items included “Students in school hit you” and “Students
+in school threaten you” (see Appendix). The Cronbach
+alpha was .72.
+Teacher Maltreatment
+Four items were used to assess students’ experience of
+physical and verbal maltreatment by school teachers during
+the last semester (see Appendix). A 5-point Likert scale was
+provided (never, 1–2 times, 3–4 times, 5–6 times, 7 times or
+more). Items included “Teachers or staff in school hit you”,
+“Teachers or staff in school kick you”, and “Teachers or
+staff in school say bad words or swear at you” (α=.68).
+Results
+Overall, 25.4% of the respondents reported ever being
+sexually harassed by peers during the previous semester.
+26.1% of the boys and 20.4% of the girls had received
+sexual remarks or jokes they did not want, while 8.5% of
+the boys and 5.3% of the girls had been touched or caressed
+against their will (see Table 1). The scores on the two items
+were combined and dichotomized to create a composite
+measure. As an initial analytic procedure, a MANOVA was
+conducted to examine the potential gender differences in all
+the continuous variables (see Table 2). Chi-square tests
+were also performed for the dichotomous variables (see
+Table 3). The overall MANOVA analysis for gender was
+found significant (Wilks’ Lambda = .95, F=18.40, p<.01).
+It was hypothesized that boys receive higher peer sexual
+harassment than do girls (H1), and the results of MANOVA
+and chi-square test confirmed the first prediction. Boys
+scored higher on verbal and physical sexual harassment
+victimization than did girls (F=11.26 and 8.86, p<.01), and
+their victimization rate was also significantly higher than
+Sex Roles (2012) 66:66–78 71
+that of girls (X^2=7.73, df=1, N=1,376, p=.01). In
+addition, boys had significantly higher scores than girls on
+experience of being bullied and teacher maltreatment
+(F=64.90 and 28.52, p<.01). The percentages of boys
+having the experiences of getting into fights and theft were
+also significantly higher than those of girls. The percentage
+of girls having peer relationship problems was significantly
+higher than boys, and no significant gender difference was
+found in drinking.
+Multivariate logistic regression analysis was performed
+separately on boys and girls to examine potential gender
+differences in the effects of the risk factors. Multicollinearity
+diagnosis was computed, and the tolerance and
+VIF values indicated no sign of collinearity between the
+independent variables. Since the research variables are
+conceptually linked and can be grouped into two blocks, a
+hierarchical approach was adopted to assess the strength
+of the individual- and interpersonal-level factors in a
+stepwise manner. The individual-level variables of delinquent
+behaviors were entered first, followed by the
+interpersonal predictors (peer relationship problems, being
+bullied and teacher maltreatment). The results of the final
+regression models for boys and girls are summarized in
+Table 4. On the individual level, it was hypothesized that
+delinquent behaviors were expected to be positively
+associated with sexual harassment victimization for boys
+only (H2). In partial support of H2, the odds ratio of
+getting into fights was significant for boys only (OR=
+1.50, p=.05). Theft and drinking were not significantly
+associated with sexual harassment victimization for both
+genders.
+On the interpersonal level, it was hypothesized that peer
+relationship problems were associated with sexual harassment
+only for girls (H3), which was supported by the
+results (OR=1.53, p=.05 for girls and OR=1.09, p=.69
+for boys). Finally, experience of being bullied and teacher
+maltreatment were both expected to be positively associated
+with peer sexual harassment for both genders (H4 and
+H5), and the results of logistic regression lent support for
+both hypotheses (see Table 4). The Nagelkerke R Squares
+of the final regression model for boys and girls were
+calculated as both .20.
+Discussion
+Peer sexual harassment is a common form of victimization
+among adolescents. Its negative effects on students’ health
+and school adjustment have raised serious public concerns
+in recent years. Still, empirical investigation on the issue
+remains relatively limited in number, especially in Asian
+contexts. This study is likely among the first attempts to
+conduct a systematic assessment of peer sexual harassment
+in Taiwan with a large-scale, random sample of adolescents.
+The results showed that one-fourth of the students (25.4%)
+had experienced some sexual harassment during the last
+semester. This number is lower than those in some previous
+studies mentioned above (e.g., American Association of
+University Women 2001; Chiodo et al. 2009). Such a
+discrepancy can be partly explained by differences in time
+frame adopted and specific behaviors measured. Instead of
+Table 1 Peer sexual harassment victimization divided by gender
+Never 1-2 times 3-4 times 5-6 times 7 times or more
+A student made sexual remarks or jokes you did not want Boys 516(73.9%) 79(11.4%) 34(4.9%) 12(1.7%) 57(8.2%)
+Girls 540(79.6%) 74(10.9%) 28(4.1%) 7(1.0%) 29(4.3%)
+A student touched or caressed you against your will Boys 639(91.5%) 36(5.2%) 8(1.1%) 3(0.4%) 12(1.7%)
+Girls 642(94.7%) 30(4.4%) 4(0.6%) 0(0.0%) 2(0.3%)
+Total number of boys = 698. Total number of girls = 678
+Table 2 MANOVA results for gender differences in sexual harassment
+victimization and continuous factors
+Mean SD F df pvalue
+Verbal sexual
+harassment
+Boys 1.59 1.20 11.26 1 .00*
+Girls 1.39 .95
+Physical sexual
+harassment
+Boys 1.15 .61 8.86 1 .00*
+Girls 1.07 .33
+Being bullied Boys 6.96 3.12 64.90 1 .00*
+Girls 5.87 1.58
+Teacher
+maltreatment
+Boys 5.13 2.58 28.52 1 .00*
+Girls 4.53 1.41
+*significant at .05 level
+Boys had significantly higher scores than girls on verbal sexual
+harassment victimization, physical sexual harassment victimization,
+experience of being bullied and teacher maltreatment
+Verbal sexual harassment was originally measured on a 5-point scale
+(1 = never—5 = 7 times or more)
+Physical sexual harassment was originally measured on a 5-point scale
+(1 = never—5 = 7 times or more)
+Being bullied was measured with 5 items on a five-point scale (1 =
+never—5 = 7 times or more)
+Teacher maltreatment was measured with 5 items on a five-point scale
+(1 = never—5 = 7 times or more)
+72 Sex Roles (2012) 66:66–78
+1 year or the whole high school years, the present study
+specifically asked the respondents about their experience
+during last semester and used two items to assess verbal
+and physical harassment, while other forms of victimization
+of a sexual nature were not examined. Nonetheless, this
+prevalence is fairly high and may have a variety of
+psychosocial consequences on the well-being and development
+of the local students.
+The finding that boys reported higher rates of victimization
+of both verbal and physical sexual harassment
+highlights an often overlooked victim population in sexual
+harassment literature. In fact, such results have been
+reflected in a number of previous studies discussed above
+(Zeira et al. 2002; Petersen and Hyde 2009; Huang and Yen
+2004). Since boys are more likely to be the perpetrators of
+sexual harassment, it raises the issue of same-gender peer
+victimization among boys, which may have different
+qualities to cross-gender harassment. In reviewing the
+problem of peer sexual harassment in the United States,
+Fineran (2002) suggested that masculinity ideology and
+heterosexism are evident in these abusive incidents. As a
+gendered practice of consolidating social dominance, such
+aggression usually happens between same-gender peers.
+One ethnographic study in Taiwanese middle schools
+Table 3 Chi-Square test results for gender differences in sexual harassment victimization and dichotomous factors
+Yes No df Chi-Square p-value
+Getting into fights Boys 190(27.2%) 508(72.8%) 1 94.07 .00*
+Girls 50(7.4%) 628(92.6%)
+Theft Boys 52(7.4%) 646(92.6%) 1 7.64 .01*
+Girls 27(4.0%) 651(96.0%)
+Drinking Boys 111(15.9%) 587(84.1%) 1 .00 .95
+Girls 107(15.8%) 571(84.2%)
+Peer relationship problem Boys 148(21.2%) 550(78.8%) 1 16.10 .00*
+Girls 208(30.7%) 470(69.3%)
+Sexual harassment victimization (dichotomized) Boys 200(28.7%) 498(71.3%) 1 7.73 .01*
+Girls 150(22.1%) 528(77.9%)
+*significant at .05 level
+Total number of boys = 698. Total number of girls = 678
+The percentages of boys having the experiences of getting into fights, theft, and sexual harassment victimization were significantly higher than
+those of girls. The percentage of girls having peer relationship problems was significantly higher than that of boys
+Table 4 Odds ratios (OR) of the
+multiple logistic regression
+models of individual and interpersonal
+factors for sexualharassment
+victimization
+*significant at .05 level
+Significant risk factors of peer
+sexual harassment victimization
+for both genders included being
+bullied by peers and teacher
+maltreatment. Boys’ sexual harassment
+victimization was also
+associated with getting into
+fights. Peer relationship problems
+contributed to girls’ sexual
+harassment victimization only
+Boys Girls
+OR P-value OR P-value
+Individual factors
+Getting into fights
+No 1.00 1.00
+Yes 1.50 .05* 1.64 .16
+Theft
+No 1.00 1.00
+Yes 1.59 .17 1.90 .15
+Drinking
+No 1.00 1.00
+Yes 1.46 .12 1.63 .06
+Interpersonal factors
+Peer relationship problem
+No 1.00 1.00
+Yes 1.09 .69 1.53 .05*
+Being bullied (continuous) 1.25 .00* 1.44 .00*
+Teacher maltreatment (continuous) 1.11 .01* 1.30 .00*
+Sex Roles (2012) 66:66–78 73
+similarly showed that male students often engaged in
+sexualized conversations and physical contact (e.g., dirty
+jokes, mock rape, etc.) within the same-gender group (Yang
+2007). The present study did not ask respondents about the
+gender of their perpetrators, and therefore it is difficult to
+separate same-gender and cross-gender harassment. Further
+investigation is needed to clarify this issue.
+The present study also found that fighting as a
+delinquent behavior was related to victimization for boys.
+This result echoed certain previous studies on U.S.
+adolescents (Fineran and Bolen 2006; Espelage and Holt
+2007), suggesting the relevance of delinquency to sexual
+harassment victimization. In fact, the overlap of deviant
+behaviors and victimization has been long recognized in the
+school bullying research done in Netherlands (Veenstra et
+al. 2005), South Korea (Schwartz et al. 2002), and Taiwan
+(Chen and Astor 2010). As the results of this study showed,
+this association is significant only for the boys, which may
+be regarded as a negative consequence of confirming
+masculine norms. Among the common delinquent behaviors
+that include drinking, theft, and fighting, involvement
+in fights had the most salient relevance to boys’ sexual
+harassment, which makes sense since such aggressive acts
+can better express one’s confirmation of hegemonic
+masculinity while raising their risk of victimization at the
+same time. Although antisocial behaviors such as juvenile
+delinquency are means of achieving masculinity for
+adolescent boys, some studies on U.S. youth have found
+that these strategies may become problematic and get them
+into troubles later in adulthood (Sanders 2011; Brown and
+Burton 2010).
+Unlike youth in many of the western countries, the
+middle school students in Taiwan stay in a homeroom with
+a fixed group of classmates everyday during their entire
+school years. As a result, Taiwanese adolescents are more
+often victimized by their classmates than by outside
+students (Wei et al. 2007). At the same time, such class
+arrangements make peer acceptance and class climate
+particularly important contexts for students’ school experience.
+The present study showed that self-perceived peer
+relationship problem was a significant risk factor for the
+girls but not for the boys. It was consistent with the fact that
+harassment between males is not necessarily a sign of peer
+rejection. Instead, harassment and victimization can be
+expressions of friendship and bonding in some circumstances.
+Such dynamics do not apply equally to girls’
+victimization. One study of U.S. college students found that
+men were more likely than women to playfully punch and
+shove same-gender friends while women’s playful aggression
+often targeted men (Gergen 1990), reflecting the
+different meaning of such behaviors. It may be the reason
+why girls perceive the acts of harassment as more harmful
+and upsetting than do boys (Gruber and Fineran 2008).
+In addition, being bullied and suffering teacher maltreatment
+were significant risk factors of peer sexual harassment
+for both genders. These seemingly diverse kinds of
+aggression may reflect unified, underlying dynamics such
+as a negative class climate and the existence of an
+aggressive culture. The results of this study thus endorsed
+the significant effect of a hostile and unfriendly school
+environment in adolescents’ risk of being maltreated and
+harassed by peers. Research on U.S. adolescents has
+suggested the direct and indirect contribution of school
+personnel in the perpetration of student victimization and
+harassment (e.g., Pellegrini 2002). Furthermore, sexual
+harassment by teachers is a potential issue that was not
+analyzed in the present study (Timmerman 2003). Teacher
+harassment can not only inflict direct harm to the students,
+but their misconduct is also likely to promote sexualharassment
+between peers. Teachers have a great influence
+on the classroom climate and serve as role models for
+children. Studies of Taiwanese adolescents showed that
+student-teacher relationships and abusive practices by
+teachers contribute to students’ aggressive behavior and
+delinquency (Chen and Astor 2011; Wei et al. 2010). School
+administrators, therefore, may need to pay special attention
+to victimization of students by teachers, since it not only
+causes direct psychological impact but may also stimulate
+peer aggression.
+Although this study showed a substantial prevalence of
+peer sexual-harassment victimization among Taiwanese
+adolescents, the number is better regarded as an underestimation.
+Only two kinds of sexual harassment were
+assessed, while other forms of gender/sexuality-related
+victimization were not included, which is a limitation of
+the present study. In particular, the potential vulnerability of
+sexual/gender minority students was not assessed. They
+often suffer physical, verbal, relational and other forms of
+abuse and exclusion at school. Research on U.S. (Huebner
+et al. 2004) and Canadian adolescents (Williams et al. 2003)
+has shown that gender minorities often experience multiple
+forms of peer victimization. The survey battery of this
+study contained one item asking whether the respondents
+had distress with regard to sexuality. Students who checked
+“yes” (n=24) were mostly boys, and they had higher scores
+on the two sexual harassment victimization items than their
+peers who checked no, which implies the potential impact
+of masculinity dynamics. Given the extremely limited
+number of cases, no conclusive assertion can be drawn,
+but such findings suggest a direction worthy of future
+investigation. In addition, the current data is cross-sectional
+in nature, and further longitudinal investigations are needed
+to evaluate the causality of the variables.
+Nonetheless, this study, with its large-scale, random
+sample, provides valuable information on the issue of peer
+sexual harassment in Taiwan and examines the risk factors
+74 Sex Roles (2012) 66:66–78
+associated with victimization. A number of studies on
+Canadian youth suggested that a heterotypic continuity
+exists in an individual’s aggressive behaviors, such as
+bullying, sexual harassment, dating aggression, workplace
+harassment, domestic violence, and elder abuse (Miller et
+al. 2009; Pepler et al. 2006). It is thus crucial to address
+minor forms of aggression and victimization in order to
+prevent more serious violence and maltreatment. This study
+also revealed the effects of school violence on students’ risk
+of being sexually harassed. Traditionally, schools have
+implemented harsh punishments or interventions targeted
+solely at the perpetrators of these incidents. Based on the
+findings of this study, it is suggested that attention should
+also be put on the victims, as well as the social context of
+these incidents. A hostile environment with prevalent
+bullying may increase students’ risk of being sexually
+harassed. It simultaneously establishes the normality of
+violence and affects the victims’ perception of, and
+response to, harassment. For example, one study of 1,531
+Hong Kong secondary school students showed that the
+boys’ own protective behaviors against peer sexual harassment
+were strongly affected by their perception of how their
+friends would react in the situation (Li et al. 2010). In
+addition, the issue of hegemonic masculinity in school
+should be addressed. Conflict resolution and social skills
+training can be implemented, as well as befriending
+programs and a diversity awareness curriculum. Besides
+peer support, one Israeli study found assistance from
+teachers may also decrease victimization (Marachi et al.
+2007). One study on U.S. adolescents found teacher–student
+closeness to be associated with a decline in children’s
+externalizing behavior, especially for children with the highest
+problem levels (Silver et al. 2005). Teachers should establish
+themselves as caring and non-abusive role models, creating a
+friendly and gender-sensitive classroom climate in an effort
+to reduce peer harassment and maintain a safe learning
+environment for all students.
+Appendix
+Sexual harassment victimization during last semester
+同學或在校生在你/妳面前故
+意說黃色笑話或發表黃色言
+論 (從來沒有,1-2次,3-4次,5-6
+次,7次或以上)
+A student made sexual remarks
+or jokes you did not want
+(never, 1–2 times, 3–4 times,
+5–6 times, 7 times or more
+during last semester)
+同學或在校生強迫撫摸或碰觸
+你/妳的身體 (從來沒有,1-2
+次,3-4次,5-6次,7次或以上)
+A student touched or caressed
+you against your will (never, 1–
+2 times, 3–4 times, 5–6 times,
+7 times or more during last
+semester)
+Delinquency
+過去一年內,你曾有過以下哪些
+經驗? 打架 (是/否)
+Which of the following
+experiences did you have
+during the past year?
+Getting into fights (y/n)
+過去一年內,你曾有過以下哪些
+經驗? 偷東西 (是/否)
+Which of the following
+experiences did you have
+during the past year?
+Theft (y/n)
+過去一年內,你曾有過以下哪些
+經驗? 喝酒 (是/否)
+Which of the following
+experiences did you have
+during the past year?
+Drinking (y/n)
+Teacher maltreatment during last semester
+學校的老師或職員打你/妳 (從
+來沒有,1-2次,3-4次,5-6次,7次
+或以上)
+Teachers or staff in school hit
+you (never, 1–2 times, 3–4
+times, 5–6 times, 7 times or
+more during last semester)
+學校的老師或職員踢或踹你/
+妳 (從來沒有,1-2次,3-4次,5-6
+次,7次或以上)
+Teachers or staff in school
+kick you (never, 1–2 times,
+3–4 times, 5–6 times, 7
+times or more during last
+semester)
+學校的老師或職員侮辱你/妳
+(從來沒有,1-2次,3-4次,5-6
+次,7次或以上)
+Teachers or staff in school
+humiliate you (never, 1–2
+times, 3–4 times, 5–6 times, 7
+times or more during last
+semester)
+學校的老師或職員對你/妳罵髒
+話或很難聽的話 (從來沒有,1-
+2次,3-4次,5-6次,7次或以上)
+Teachers or staff in school say
+bad words or swear at you
+(never, 1–2 times, 3–4 times,
+5–6 times, 7 times or more
+during last semester)
+Peer relationship problems
+在你目前生活中,感到困擾的事
+情有哪些?
+Which of the following problems
+do you have in your daily life?
+交友人際 (是/否) Peer relationship (y/n)
+Experience of being bullied during last semester
+你/妳被同學或在校生毆打 (從
+來沒有,1-2次,3-4次,5-6次,7次
+或以上)
+Students in school hit you (never,
+1–2 times, 3–4 times, 5–6
+times, 7 times or more during
+last semester)
+你/被同學或在校生踢或踹 (從
+來沒有,1-2次,3-4次,5-6次,7次
+或以上)
+Students in school kick you
+(never, 1–2 times, 3–4 times,
+5–6 times, 7 times or more
+during last semester)
+同學或在校生用危險物品或工
+具傷害你/妳 (從來沒有,1-2
+次,3-4次,5-6次,7次或以上)
+Students in school hurt you with
+dangerous objects or tools
+(never, 1–2 times, 3–4 times,
+5–6 times, 7 times or more
+during last semester)
+你/妳被同學或在校生用言語
+羞辱或侮辱 (從來沒有,1-2
+次,3-4次,5-6次,7次或以上)
+Students in school verbally insult
+you (never, 1–2 times, 3–4
+times, 5–6 times, 7 times or
+more during last semester)
+同學或在校生威脅要傷害你/
+妳 (從來沒有,1-2次,3-4次,5-6
+次,7次或以上)
+Students in school threaten to
+hurt you (never, 1–2 times, 3–4
+times, 5–6 times, 7 times or
+more during last semester)
+Sex Roles (2012) 66:66–78 75
+References
+American Association of University Women. (2001). Hostile hallways:
+Bullying, teasing, and sexual harassment in school.
+Washington: American Association of University Women Educational
+Foundation.
+American Association of University Women. (2006). Drawing the
+line: Sexual harassment on campus. Washington: American
+Association of University Women Educational Foundation.
+Attar-Schwartz, S. (2009). Peer sexual harassment victimization at
+school: The roles of student characteristics, cultural affiliation,
+and school factors. The American Journal of Orthopsychiatry, 79,
+407–420. doi:10.1037/a0016553.
+Berger, C., & Rodkin, P. (2009). Male and female victims of male
+bullies: Social status differences by gender and informant source.
+Sex Roles, 61, 72–84. doi:10.1007/s11199-009-9605-9.
+Bih, H. B. (2000). A reflection on masculinity. Bulletin of Women and
+Gender Studies, 57, 1–3.
+Brown, A., & Burton, D. L. (2010). Exploring the overlap in male
+juvenile sexual offending and general delinquency: Trauma,
+alcohol use, and masculine beliefs. Journal of Child Sexual
+Abuse, 19, 450–468. doi:10.1080/10538712.2010.495044.
+Chang, Y., Hayter, M., & Lin, M. (2010). Experiences of sexual
+harassment among elementary school students in Taiwan:
+Implications for school nurses. The Journal of School Nursing,
+26, 147–155. doi:10.1177/1059840509355585.
+Chen, H. S. (2005). A serious attitude toward Gender Equality
+Education Law. National Policy Quarterly, 4(1), 21–32.
+Chen, J., & Astor, R. (2010). School violence in Taiwan: Examining
+how western risk factors predict school violence in an Asian
+culture. Journal of Interpersonal Violence, 25, 1388–1410.
+doi:10.1177/0886260509354576.
+Chen, J., & Astor, R. (2011). School engagement, risky peers, and
+student-teacher relationships as mediators of school violence in
+Taiwanese vocational versus academically oriented high schools.
+Journal of Community Psychology, 39, 10–30. doi:10.1002/
+jcop.20413.
+Chen, J. K., & Wei, H. S. (2011). Student victimization by teachers in
+Taiwan: Prevalence and associations. Child Abuse & Neglect, 35,
+382–390. doi:10.1016/j.chiabu.2011.01.009.
+Chesir-Teran, D., & Hughes, D. (2009). Heterosexism in high school
+and victimization among lesbian, gay, bisexual, and questioning
+students. Journal of Youth and Adolescence, 38, 963–975.
+doi:10.1007/s10964-008-9364-x.
+Chia, R. C., Moore, J. L., Lam, K., & Chuang, C. J. (1994). Cultural
+differences in gender role attitudes between Chinese and American
+students. Sex Roles, 31, 23–30. doi:10.1007/BF01560275.
+Chia, R. C., Allred, L. J., & Jerzak, P. A. (1997). Attitudes toward
+women in Taiwan and China: Current status, problems, and
+suggestions for future research. Psychology of Women Quarterly,
+21, 137–150. doi:10.1111/j.1471-6402.1997.tb00105.x.
+Chiao, C. K. (2007). The establishment of the prevention of sexual
+harassment on campus mechanism in Taiwan: An analysis of
+related provisions of the Gender Equality in Education Act of
+2004. Taipei University Law Review, 62, 41–90.
+Chiodo, D., Wolfe, D. A., Crooks, C., Hughes, R., & Jaffe, P. (2009).
+Impact of sexual harassment victimization by peers on subsequent
+adolescent victimization and adjustment: A longitudinal
+study. Journal of Adolescent Health, 45, 246–252. doi:10.1016/j.
+jadohealth.2009.01.006.
+Chu, L. H. (2003). The research on men’s gender role stereotype shaping
+and releasing. Research in Applied Psychology, 17, 85–119.
+Connell, R. W., & Messerschmidt, J. W. (2005). Hegemonic
+masculinity: Rethinking the concept. Gender and Society, 19,
+829–859. doi:10.1177/0891243205278639.
+Espelage, D., & Holt, M. (2007). Dating violence & sexual
+harassment across the bully-victim continuum among middle
+and high school students. Journal of Youth and Adolescence, 36,
+799–811. doi:10.1007/s10964-006-9109-7.
+Felix, E. D., & McMahon, S. D. (2007). The role of gender in peer
+victimization among youth: A study of incidence, interrelations,
+and social cognitive correlates. Journal of School Violence, 6,
+27–44. doi:10.1300/J202v06n03_03.
+Ferguson, A. (2000). Bad boys: Public schools in the making of Black
+masculinity. Ann Arbor: University of Michigan Press.
+Fineran, S. (2002). Sexual harassment between same-sex peers:
+Intersection of mental health, homophobia, and sexual violence
+in schools. Social Work, 47, 65–74.
+Fineran, S., & Bolen, R. (2006). Risk factors for peer sexual
+harassment in schools. Journal of Interpersonal Violence, 21,
+1169–1190. doi:10.1177/0886260506290422.
+Furlong, M. J., Greif, J., Whipple, A., Bates, M. P., Jimenez, T., &
+Morrison, R. (2005). The development of the California School
+Climate and Safety Survey—Short form. Psychology in the
+Schools, 42, 137–149. doi:10.1002/pits.20053.
+Fwu, B. J., & Wang, H. H. (2002). The social status of teachers in
+Taiwan. Comparative Education, 38, 211–224. doi:10.1080/
+03050060220140584.
+Gastic, B. (2008). School truancy and the disciplinary problems of
+bullying victims. Educational Review, 60, 391–404. doi:10.1080/
+00131910802393423.
+Gergen, M. (1990). Beyond the evil empire: Horseplay and aggression.
+Aggressive Behavior, 16, 381–398.
+Gruber, J., & Fineran, S. (2008). Comparing the impact of bullying and
+sexual harassment victimization on the mental and physical health of
+adolescents. Sex Roles, 59, 1–13. doi:10.1007/s11199-008-9431-5.
+Guo, Y. L. (2007). A Lu Ba, KuMAN? Taipei: Nu Shu.
+Hand, J. Z., & Sanchez, L. (2000). Badgering or bantering? Gender
+differences in experience of, and reactions to, sexual harassment
+among U.S. high school students. Gender and Society, 14, 718–
+746. doi:10.1177/089124300014006002.
+Haywood, C., & Mac an Ghaill, M. (1996). Schooling masculinities.
+In M. Mac an Ghaill (Ed.), Understanding masculinities (pp. 50–
+60). Philadelphia: Open University Press.
+Hitlan, R. T., Pryor, J. B., Hesson-McInnis, M. S., & Olson, M.
+(2009). Antecedents of gender harassment: An analysis of person
+and situation factors. Sex Roles, 61, 794–807. doi:10.1007/
+s11199-009-9689-2.
+Ho, D., & Ho, R. (2008). Knowledge is a dangerous thing: Authority
+relations, ideological conservatism, and creativity in Confucianheritage
+cultures. Journal for the Theory of Social Behaviour, 38,
+67–86. doi:10.1111/j.1468-5914.2008.00357.x.
+Hsieh, C. L. (2007). A study and strategy in victims of sexual crime in
+the junior high school: Routine activity and defensible space.
+Journal of Criminology, 10(1), 17–53.
+Hsieh, Y. S., Wu, C. I., & Lei, M. K. (2006). Friendship network
+characteristics, interaction context structure, and friendship
+dynamics among adolescents. Taiwanese Sociology, 11, 175–236.
+Hsu, H. F. (2008). Maverick masculinity man: An analysis of juvenile
+violent offenders’ masculinity in Taiwan. Journal of Criminology,
+11(1), 75–118.
+Hsu, H. F., & Cheng, J. L. (2007). Masculinity formation on prison
+culture: A case study in a Taiwanese prison. Taiwan: A Radical
+Quarterly in Social Studies, 67, 153–192.
+Huang, L. L., & Bih, H. D. (2002). When western concepts meet
+indigenous concepts in Taiwan: Socio-cultural definitions and
+procedures for dealing with sexual harassment cases on campus.
+Journal of Women’s and Gender Studies, 13, 91–139.
+Huang, S. Y., & Yen, H. W. (2004). A survey of the needs assessment
+on sexual harassment prevention education in junior high school
+in Taipei. Formosan Journal of Sexology, 10(1), 13–34.
+76 Sex Roles (2012) 66:66–78
+Huebner, D. M., Rebchook, G. M., & Kegeles, S. M. (2004).
+Experiences of harassment, discrimination, and physical
+violence among young gay and bisexual men. American
+Journal of Public Health, 94, 1200–1203. doi:10.2105/
+AJPH.94.7.1200.
+Jiang, M. H. (2001). The subjectivity in five essential relationships of
+Confucian ethics of virtue. Journal of National Hualien Teachers
+College, 13, 87–104.
+Kao, S. F., & Lu, L. (2006). The relationship of congruence in
+psychological traditionality/modernity to marital adjustment.
+Indigenous Psychological Research in Chinese Societies, 25,
+47–100.
+Khoury-Kassabri, M. (2009). The relationship between staff maltreatment
+of students and bully-victim group membership. Child Abuse
+& Neglect, 33, 914–923. doi:10.1016/j.chiabu.2009.05.005.
+Kimmel, M. (1996). Manhood in America: A cultural history. New
+York: Free Press.
+Kulis, S., Marsiglia, F. F., & Nagoshi, J. L. (2010). Gender roles,
+externalizing behaviors, and substance use among MexicanAmerican
+adolescents. Journal of Social Work Practice in the
+Addictions, 10, 283–307. doi:10.1080/1533256X.2010.497033.
+Lacasse, A., & Mendelson, M. J. (2007). Sexual coercion among
+adolescents: Victims and perpetrators. Journal of Interpersonal
+Violence, 22, 424–437. doi:10.1177/0886260506297027.
+Lee, S. C. (2007). The shaping of a gendered school: A case study.
+Formosan Education and Society, 13, 121–152.
+Lee, I. C., Pratto, F., & Li, M. C. (2007). Social relationships and
+sexism in the U.S. and in Taiwan. Journal of Cross-Cultural
+Psychology, 38, 595–612. doi:10.1177/0022022107305241.
+Li, M., Frieze, I., & Tang, C. (2010). Understanding adolescent peer
+sexual harassment and abuse: Using the theory of planned
+behavior. Sexual Abuse, 22, 157–171. doi:10.1177/
+1079063210363827.
+Lichty, L., Torres, J., Valenti, M., & Buchanan, N. (2008). Sexual
+harassment policies in k-12 schools: Examining accessibility to
+students and content. Journal of School Health, 78, 607–614.
+doi:10.1111/j.1746-1561.2008.00353.x.
+Lyman, P. (1992). The fraternal bond as a joking relationship: A case
+study of the role of sexist jokes in male group bonding. In M. S.
+Kimmel & M. A. Messner (Eds.), Men’s lives (pp. 158–160).
+New York: Macmillan.
+Mac an Ghaill, M. (1994). The making of men: Masculinities,
+sexualities and schooling. Buckingham: Open University Press.
+Marachi, R., Astor, R. A., & Benbenishty, R. (2007). Effects of student
+participation and teacher support on victimization in Israeli
+schools: An examination of gender, culture, and school type.
+Journal of Youth and Adolescence, 36, 225–240. doi:10.1007/
+s10964-006-9136-4.
+Mayeda, D. T., & Pasko, L. (2011). Youth violence and hegemonic
+masculinity among Pacific Islander and Asian American adolescents.
+Critical Criminology. Advance online publication.
+doi:10.1007/s10612-011-9132-1.
+McMaster, L. F., Connolly, J., Pepler, D., & Craig, W. M. (2002). Peer
+to peer sexual harassment in early adolescence: A developmental
+perspective. Development and Psychopathology, 14, 91–105.
+doi:10.1017/S0954579402001050.
+Messerschmidt, J. W. (2000). Becoming ‘real men’: Adolescent
+masculinity challenges and sexual violence. Men and Masculinities,
+2, 286–307. doi:10.1177/1097184X00002003003.
+Miller, J. (2008). Getting played: African American girls, urban
+inequality, and gendered violence. New York: New York
+University Press.
+Miller, J. L., Vaillancourt, T., & Boyle, M. H. (2009). Examining the
+heterotypic continuity of aggression using teacher reports:
+Results from a national Canadian study. Social Development,
+18, 164–180. doi:10.1111/j.1467-9507.2008.00480.x.
+Nansel, T., Overpeck, M., Pilla, R., Ruan, W., Simons-Morton, B., &
+Scheidt, P. (2001). Bullying behaviors among US youth:
+Prevalence and association with psychosocial adjustment. JAMA:
+Journal of the American Medical Association, 285, 2094–2100.
+doi:10.1001/jama.285.16.2094.
+Oransky, M., & Marecek, J. (2009). ‘I’m not going to be a girl’:
+Masculinity and emotions in boys’ friendships and peer groups.
+Journal of Adolescent Research, 24, 218–241. doi:10.1177/
+0743558408329951.
+Ormerod, A. J., Collinsworth, L. L., & Perry, L. A. (2008).
+Critical climate: Relations among sexual harassment, climate,
+and outcomes for high school girls and boys. Psychology of
+Women Quarterly, 32, 113–125. doi:10.1111/j.1471-
+6402.2008.00417.x.
+Ortega, R., Sánchez, V., Ortega-Rivera, J., Nocentini, A., & Menesini,
+E. (2010). Peer sexual harassment in adolescent girls: A crossnational
+study (Spain-Italy). International Journal of Clinical
+and Health Psychology, 10, 245–264.
+Pellegrini, A. D. (2001). A longitudinal study of heterosexual
+relationships, aggression, and sexual harassment during the
+transition from primary school through middle school. Applied
+Developmental Psychology, 22, 119–133. doi:10.1016/S0193-
+3973(01)00072-7.
+Pellegrini, A. (2002). Bullying, victimization, and sexual harassment
+during the transition to middle school. Educational Psychologist,
+37, 151–163. doi:10.1207/S15326985EP3703_2.
+Pepler, D., Craig, W., Connolly, J., Yuile, A., McMaster, L., & Jiang,
+D. (2006). A developmental perspective on bullying. Aggressive
+Behavior, 32, 376–384. doi:10.1002/ab.20136.
+Petersen, J., & Hyde, J. (2009). A longitudinal investigation of peer
+sexual harassment victimization in adolescence. Journal of Adolescence,
+32, 1173–1188. doi:10.1016/j.adolescence.2009.01.011.
+Phillips, D. A. (2007). Punking and bullying: Strategies in middle
+school, high school, and beyond. Journal of Interpersonal
+Violence, 22, 158–178. doi:10.1177/0886260506295341.
+Poynting, S., & Donaldson, M. (2005). Snakes and leaders:
+Hegemonic masculinity in ruling- class boys’ boarding schools.
+Men and Masculinities, 7, 325–346.
+Reed, T., & Brown, M. (2001). The expression of care in the rough
+and tumble play of boys. Journal of Research in Childhood
+Education, 15, 104–116.
+Rusby, J. C., Forrester, K. K., Biglan, A., & Metzler, C. W. (2005).
+Relationships between peer harassment and adolescent problem
+behaviors. The Journal of Early Adolescence, 25, 453–477.
+doi:10.1177/0272431605279837.
+Sanders, J. M. (2011). Coming of age: How adolescent boys construct
+masculinities via substance use, juvenile delinquency, and
+recreation. Journal of Ethnicity in Substance Abuse, 10, 48–70.
+doi:10.1080/15332640.2011.547798.
+Saunders, K. A., & Senn, C. Y. (2009). Should I confront him?
+Men’s reactions to hypothetical confrontations of peer sexual
+harassment. Sex Roles, 61, 399–415. doi:10.1007/s11199-009-
+9638-0.
+Schwartz, D., Farver, J., Lei, C., & Yoolim, L. (2002). Victimization in
+South Korean children’s peer groups. Journal of Abnormal Child
+Psychology, 30, 113–125. doi:10.1023/A:1014749131245.
+Schweinle, W. E., Cofer, C., & Schatz, S. (2009). Men’s empathic bias,
+empathic inaccuracy, and sexual harassment. Sex Roles, 60, 142–
+150. doi:10.1007/s11199-008-9507-2.
+Sears, K. L., Intrieri, R. C., & Papini, D. R. (2011). Sexual harassment
+and psychosocial maturity outcomes among young adults recalling
+their first adolescent work experiences. Sex Roles, 64, 491–
+505. doi:10.1007/s11199-010-9928-6.
+Silver, R., Measelle, J., Armstrong, J., & Essex, M. (2005).
+Trajectories of classroom externalizing behavior: Contributions
+of child characteristics, family characteristics, and the teacher–
+Sex Roles (2012) 66:66–78 77
+child relationship during the school transition. Journal of School
+Psychology, 43, 39–60. doi:10.1016/j.jsp.2004.11.003.
+Smith, J. (2007). ‘Ye’ve got to ‘ave balls to play this game sir!’ Boys,
+peers and fears: The negative influence of school-based ‘cultural
+accomplices’ in constructing hegemonic masculinities. Gender
+and Education, 19, 179–198. doi:10.1080/09540250601165995.
+Smokowski, P. R., & Kopasz, K. (2005). Bullying in school: An
+overview of types, effects, family characteristics, and intervention
+strategies. Children and Schools, 27, 101–110.
+Stassen Berger, K. (2007). Update on bullying at school: Science
+forgotten? Developmental Review, 27, 90–126. doi:10.1016/j.
+dr.2006.08.002.
+Stoudt, B. G. (2006). ‘You’re either in or you’re out’: School violence,
+peer discipline, and the (re)production of hegemonic masculinity.
+Men and Masculinities, 8, 273–287. doi:10.1177/
+1097184X05282070.
+Tang, C. (2004). Survey results on adolescent peer sexual abuse in
+Hong Kong. Retrieved from the End Child Sexual Abuse
+Foundation website: http://www.ecsaf.org/images/upload_im
+ages/file/Research%203_2004%20%28Chi%29.pdf.
+Tien, J. L. (2004). The study on peer groups, formation of gender
+identity and interactions between girls and boys in elementary
+school. Xin Zhu Shi Yuan Chu Deng Jiao Yu Xue Bao, 9, 23–46.
+Tillyer, M., Wilcox, P., & Gialopsos, B. (2010). Adolescent schoolbased
+sexual victimization: Exploring the role of opportunity in a
+gender-specific multilevel analysis. Journal of Criminal Justice,
+38, 1071–1081. doi:10.1016/j.jcrimjus.2010.07.010.
+Timmerman, G. (2003). Sexual harassment of adolescents perpetrated
+by teachers and by peers: An exploration of the dynamics of
+power, culture, and gender in secondary schools. Sex Roles, 48,
+231–244. doi:10.1023/A:1022821320739.
+Timmerman, G. (2005). A comparison between girls’ and boys’
+experiences of unwanted sexual behaviour in secondary schools.
+Educational Research, 47, 291–306. doi:10.1080/
+00131880500287641.
+Tu, Y. T., & Hung, L. C. (2008). The development of the Chinese
+Teacher-Student Relationship Scale based on Confucian relationalism.
+Chinese Journal of Guidance and Counseling, 24, 71–106.
+Veenstra, R., Lindenberg, S., Oldehinkel, A. J., De Winter, A. F.,
+Verhulst, F. C., & Ormel, J. (2005). Bullying and victimization in
+elementary schools: A comparison of bullies, victims, bully/
+victims, and uninvolved preadolescents. Developmental Psychology,
+41, 672–682. doi:10.1037/0012-1649.41.4.672.
+Walters, G. D. (2001). The relationship between masculinity, femininity,
+and criminal thinking in male and female offenders. Sex
+Roles, 45, 677–689. doi:10.1023/A:1014819926761.
+Wang, J., Iannotti, R., & Nansel, T. (2009). School bullying among
+adolescents in the United States: Physical, verbal, relational, and
+cyber. Journal of Adolescent Health, 45, 368–375. doi:10.1016/j.
+jadohealth.2009.03.021.
+Weaver, J. R., Vandello, J. A., Bosson, J. K., & Burnaford, R. M.
+(2010). The proof is in the punch: Gender differences in
+perceptions of action and aggression as components of manhood.
+Sex Roles, 62, 241–251. doi:10.1007/s11199-009-9713-6.
+Wei, H., & Chen, J. (2009). Social withdrawal, peer rejection, and peer
+victimization in Taiwanese middle school students. Journal of
+School Violence, 8, 18–28. doi:10.1080/15388220802067755.
+Wei, H., Jonson-Reid, M., & Tsao, H. (2007). Bullying and
+victimization among Taiwanese 7th graders: A multi-method
+assessment. School Psychology International, 28, 479–500.
+doi:10.1177/0143034307084137.
+Wei, H., Williams, J., Chen, J., & Chang, H. (2010). The effects of
+individual characteristics, teacher practice, and school organizational
+factors on students’ bullying: A multilevel analysis of
+public middle schools in Taiwan. Children and Youth Services
+Review, 32, 137–143. doi:10.1016/j.childyouth.2009.08.004.
+Williams, T., Connolly, J., Pepler, D., & Craig, W. (2003). Questioning
+and sexual minority adolescents: High school experiences of
+bullying, sexual harassment and physical abuse. Canadian
+Journal of Community Mental Health, 22(2), 47–58.
+Williams, T., Connolly, J., Pepler, D., & Craig, W. (2005). Peer
+victimization, social support, and psychosocial adjustment of
+sexual minority adolescents. Journal of Youth and Adolescence,
+34, 471–482. doi:10.1007/s10964-005-7264-x.
+Yang, K. S. (1996). Psychological transformation of the Chinese
+people as a result of societal modernization. In M. H. Bond (Ed.),
+The handbook of Chinese psychology (pp. 479–498). Hong
+Kong: Oxford University Press.
+Yang, H. C. (2007). An ethnography of adolescent life in schools:
+Issues of gender practices and bodily experiences. Journal of
+Women’s and Gender Studies, 24, 103–133.
+Yang, K. S., Liu, Y. L., Chang, S. H., & Wang, L. (2010). Constructing
+a theoretical framework for the ontogenetic development of the
+Chinese bicultural self: A preliminary statement. Chinese Journal
+of Psychology, 52, 113–132.
+Yen, T. S., & Hwang, K. K. (2011). The students’ role obligation
+and their perceptions of legitimacy of being rewarded or
+punished in Confucian society. Chinese Journal of Psychology,
+53, 79–95.
+Zeira, A., Astor, R., & Benbenishty, R. (2002). Sexual harassment in
+Jewish and Arab public schools in Israel. Child Abuse & Neglect,
+26, 149–166. doi:10.1016/S0145-2134(01)00314-3.
+78 Sex Roles (2012) 66:66–78

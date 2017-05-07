@@ -1,0 +1,955 @@
+Sexual Harassment, Bullying, and School Outcomes for High School Girls and Boys
+
+
+
+
+Abstract
+A comparison of the impact of bullying and sexual harassment on five school
+outcomes was conducted on a sample of high school students. Results revealed that
+sexual harassment was a stronger predictor than bullying of all school outcomes for
+both sexes, but especially for girls. This study suggests that sexual harassment, which
+activates sexist and heterosexist stereotypes, erodes school engagement, alienates
+students from teachers, and adversely affects academic achievement, to a greater
+degree than bullying does.
+Keywords
+sexual harassment, bullying, gender differences, school outcomes
+Introduction: A Tale of Two Paradigms
+School administrators across America deal with a host of critical issues affecting students
+and their safety. Dating violence, drug abuse, and bullying—most recently
+cyber-bullying—have captured the attention of school officials, parents, and the
+media. Beginning with the Columbine shootings in the 1990s and continuing to recent
+high-profile student suicides that resulted from personal attacks posted on popular
+social websites, school bullying has become a focal issue for the development of
+school programs and the allocation of resources. At the same time, scrutiny of school
+sexual harassment as a significant problem has waned. According to the court of
+popular opinion and judging by resource allotment, it would appear that bullying is
+perceived as more harmful than sexual harassment to the well-being and school
+1University of Michigan–Dearborn, USA
+2University of Southern Maine, Portland, USA
+Corresponding Author:
+James Gruber, University of Michigan–Dearborn, 4901 Evergreen Rd, Dearborn, MI 48128, USA.
+Email: jegruber@umich.edu
+599079 VAWXXX10.1177/1077801215599079Violence Against WomenGruber and Fineran
+research-article2015
+Gruber and Fineran 113
+adjustment of students. However, the feast and famine of resources for bullying and
+sexual harassment, respectively, has occurred in a research vacuum: There is little
+empirical evidence to support bullying as a greater problem than sexual harassment for
+student well-being, school adjustment, or academic success. Not only is sexual harassment
+disappearing from the agendas of school districts, but also behaviors that might
+otherwise be defined as “sexual harassment” are being subsumed under the expanding
+rubric of “sexual bullying,” thereby ignoring their potential illegality (Brown,
+Chesney-Lind, & Stein, 2007; Stein & Mennemeier, 2011).
+The precipitous rise of bullying as a popular rubric for scrutinizing peer aggression
+prompted the Office for Civil Rights (OCR) of the U.S. Department of Education
+recently to offer what essentially might be termed a “course correction” for school
+officials and policy makers by sending a “Dear Colleague” letter to all school districts.
+Specifically, OCR strongly advised schools to distinguish between behaviors that are
+inappropriate and harmful from those that constitute a violation of Title IX. They
+advised that “by limiting its response to a specific application of its anti-bullying disciplinary
+policy, a school may fail to properly consider whether the student misconduct
+also results in discriminatory harassment.” They continued with the warning that
+such neglect “may lead to inadequate or inappropriate responses that fail to remedy
+violations of students’ civil rights” (U.S. Department of Education, OCR, October 26,
+2010). The memo reminds readers that Title IX prohibits gender harassment or harassment
+of both male and female students regardless of the sex of the harasser.
+Concerns have been aired for a number of years by scholars who worried about the
+“degendering” effect (Stein, 2003) of bullying paradigms. Bullying behaviors are generally
+regarded as troubled interactions between a child and several of his or her peers.
+Bullying has been defined in several ways, all of which focus on aggressive or meanspirited
+behavior. Research and theory on bullying—in particular, those based on
+Olweus, which is arguably the most widely used bullying model in the world (e.g.,
+Olweus, 1978, 1993)—tend to focus on the personal or psychological characteristics
+of bullies (e.g., severe adjustment problems), situational factors that prompt bullying
+or the reciprocity of bullying behaviors (a number of adolescents are characterized as
+“bully/victims”), or what Brown and her colleagues (2007) refer to as the “tyranny of
+sameness.” The Olweus model, they contend, “offers a one-size-fits-all view of
+bullying . . . that erodes differences in gender as well as social class, race, ethnicity,
+sexual identity, and ability” (p. 1263). For example, the fact that most bullies are male,
+that girls experience more harm than boys from sexual harassment, and that homophobic
+comments are used routinely (mostly by boys) to humiliate and control others
+(primarily other boys) slips below the radar of scrutiny (American Association of
+University Women Educational Foundation [AAUW], 2001; Espelage & Holt, 2001;
+Kimmel & Mahler, 2003; Klein, 2006; McGuffey & Rich, 1999).
+Sexual harassment, in contrast, might be defined as aggressive or mean-spirited
+behavior with specific gender or sexual content that creates or reinforces an imbalance
+of power. The U.S. Department of Education (2010) defines sexual harassment as
+“unwelcome conduct of a sexual nature which may include unwelcome sexual
+advances, requests for sexual favors, or other verbal, nonverbal, or physical conduct of 
+114 Violence Against Women 22(1)
+a sexual nature.” Although the adverse effects of bullying and sexual harassment may
+appear to be similar, we argue below that the experiences are fundamentally distinct
+and result in different outcomes. Specifically, we believe that sexual harassment
+affects students more adversely than bullying because harassment is directly related to
+hegemonic masculinity and therefore taps into potent structural and culturally sanctioned
+stereotypes and power relationships (masculine–feminine, heterosexual–
+homosexual) that are central components of social stratification. Or, as Franke (1997)
+says, “sexual harassment is the technology of sexism. It creates a social context that
+feminizes women, masculinizes men, and enforces gender norms to keep nonconformists
+in line” (p. 696). Hegemonic masculinity has three central characteristics: emotional
+detachment (and correspondingly, derision of emotionality as a weakness),
+competitiveness (and a consequent development of gendered/sexual hierarchies), and
+sexual objectification of females such that masculinity is thought of as being superior
+to femininity (McGuffey & Rich, 1999; Robinson, 2005).
+Focal Issues of the Study
+The present study will attempt to provide clarity to a critical social problem, peer victimization,
+which is clouded by murky policy and conflicting research studies. With
+this in mind, our research addresses three questions, as follows:
+Research Question 1: Which is the more common problem at school—bullying or
+sexual harassment?
+Research Question 2: Are there differences between the sexes with regard to peer
+victimization?
+Research Question 3: Do sexual harassment and bullying affect school attachment
+and academic performance in different ways?
+Research Issues
+How Much Bullying and Sexual Harassment Is There?
+It is difficult to answer this seemingly straightforward question because of significant
+differences in survey design among researchers who focus on bullying or sexual
+harassment. Although “question/response format” or “time frame” may seem like
+purely academic concerns, they have a direct bearing on reported frequencies of victimization
+that are not only cited in academic journals but are also often publicized by
+highly visible media outlets. The body of research that examines bullying and/or sexual
+harassment among adolescents might lead one to believe that bullying is fairly
+infrequent although sexual harassment occurs in epidemic proportions. Generally bullying
+studies, especially those using the Olweus protocol, report low rates, typically
+less than 15% (e.g., Eslea, Memesini, Moore, & Morita, 2003; Williams, Connolly,
+Pepler, & Craig, 2005), whereas large, nationally representative surveys of school
+sexual harassment find victimization rates in excess of 80% (AAUW, 1993, 2001).
+Gruber and Fineran 115
+These wide divergences in victimization rates are due, among other factors, to the
+way questions are presented to the respondents and to the time frames they are asked
+to consider. With regard to the first issue, bullying studies typically ask students if they
+have been bullied (e.g., “We say a student is being bullied when . . .”), whereas sexual
+harassment surveys intentionally omit the term “sexual harassment” from their queries.
+The AAUW surveys, for example, asked students, “How often has anyone done
+the following things to you when you did not want them to?” and then listed 14 behaviors
+and asked them to indicate whether and how often they had experienced each.
+Sexual harassment surveys have generally avoided using the term “sexual harassment”
+in their survey instruments because it results in a significant underreporting of behaviors
+that researchers or legal scholars might otherwise consider to be sexual harassment
+(Fitzgerald & Shullman, 1993; Gruber, 1990).
+Another difference between bullying and sexual harassment research is the time
+frame for victimization or perpetration that is presented to respondents. For example,
+DeSouza and Ribeiros (2005) used “last 30 days” for bullying and “last 12 months” for
+sexual harassment. Similarly, Williams et al. (2005) framed bullying as experiences that
+occurred “during the last 2 months” and sexual harassment as “during the last 6 months.”
+Holt and Espelage (2007), using AAUW (2001) questions with a 1-year time frame
+(“during the last 12 months”) along with their own bullying scale items and time frame
+(“last 30 days”), found that 70% of the students had been harassed whereas a little more
+than half (54%) had been bullied. The AAUW surveys (1993, 2001) that reported harassment
+rates in excess of 80% asked students whether they had experienced unwanted
+sexual behavior at some point during their high school years. Therefore, it is not surprising
+that sexual harassment might appear to be rampant in schools compared with bullying
+when the questions and response formats and the time frames differ substantially.
+Observations of everyday life in schools, whether these are based on reports from
+students, teachers, or parents, or from research, suggest that aggressive, inappropriate,
+or mean-spirited behavior is fairly common. Commonly used bullying scales (Holt &
+Espelage, 2007; Olweus, 1993) ask students about being teased, made fun of, pushed,
+picked on, and excluded from social groups. Their research suggests that much of this
+behavior stems from individual or situational factors rather than specific categorical
+discrimination (e.g., gender-based harassment). In other words, sexually harassing
+behaviors are more distinct and, therefore, less frequent forms of victimization than
+bullying behaviors.
+Hypothesis 1: We predict that bullying will occur more frequently than sexual
+harassment. We believe that this difference will be borne out when bullying and
+sexual harassment items are presented in an identical manner in a survey.
+Who Are the Targets of Bullying and Sexual Harassment?
+The AAUW study (2001) found a small gender difference: 83% of the girls and 79%
+of the boys reported being sexually harassed by a current or former student at school.
+Evidence of larger gender differences emerged in other studies. Specifically, girls 
+116 Violence Against Women 22(1)
+experience sexual harassment more frequently than boys, but boys perpetrate sexual
+harassment more often (Fineran & Bennett, 1999; Hand & Sanchez, 2000; Hill & Kearl,
+2011; McMaster, Connolly, Pepler, & Craig, 2002; Trigg & Wittenstrom, 1996). Trigg
+and Wittenstrom (1996) and the AAUW (2001) noted that the only sexually harassing
+behavior that boys experienced at a higher rate than girls was being called gay.
+Bullying is sex specific: Although boys bully girls, most of their activity is targeted at
+other boys (e.g., Espelage & Holt, 2001). Similarly, girls tend to bully other girls, but they
+infrequently bully boys (Basile, Espelage, Rivers, McMahon, & Simon, 2009). Bullying
+is related to both socialization and developmental factors. These patterns have been established
+in international samples of students (Peskin, Tortolero, & Markham, 2006). As
+children reach middle school, sexual harassment becomes more frequent as dominance
+behavior is driven more frequently by gender stereotypes and sexualized behavior
+(Pelligrini, 2001). Espelage, Basile, and Hamburger (2011) provided empirical evidence
+for what they referred to as a bully sexual violence pathway. Specifically, bullying perpetration
+early in middle school predicted sexual harassment perpetration 3 years later. An
+increase in sexually harassing behavior between middle school and high school was also
+found in a study of girls (Gruber & Fineran, 2007). In contrast to bullying, sexual harassment
+involves greater cross-sex behavior where girls are the primary targets of boys.
+Hypothesis 2: Boys will experience more bullying than girls, but girls will experience
+more sexual harassment.
+What Is the Impact of Peer Victimization on School Attachment and
+Academic Success?
+Overall, it appears that the school outcomes for harassed and bullied students are quite
+similar. There are no studies, however, which offer a “head to head” comparison of the
+effects of each type of victimization. The AAUW studies (AAUW, 2001; Hill & Kearl,
+2011) found that students who experienced sexual harassment reported more school
+absence or skipping classes, thinking about changing schools, lowered concentration,
+less participation in class, decreased quality of schoolwork, lower grades, and loss of
+friends. Nearly a quarter of the students in the recent study reported not wanting to
+attend school because of their experience of sexual harassment. The impact was generally
+larger among girls. Other studies that examined sex differences (Corbett, Gentry,
+& Pearson, 1993; Hand & Sanchez, 2000) revealed similar outcomes.
+Bullying studies have tended to focus on psychological (e.g., depression, anger)
+and environmental (e.g., drug use, interpersonal/family violence, delinquency) stressors
+rather than academic and/or school performance variables, but there are some
+notable exceptions. Nansel et al. (2001) found that poor academic achievement and
+poor relationships with classmates were associated with bullying and being a bully/
+victim (both bully and victim). An Australian study (Skues, Cunningham, & Pokharel,
+2005) showed that students who were bullied by their peers at school tended to report
+feeling less connected to their peers, teachers, and school and being less motivated to
+perform well at school
+Gruber and Fineran 117
+We would argue that three factors make sexual harassment distinctive as a form of
+victimization. First, sexual harassment is directly linked to hegemonic masculinity. Or,
+as Robinson (2005) says, sexual harassment is a practice of “doing hegemonic masculinity”
+(p. 20). Sexual harassment is driven by cultural stereotypes about gender and
+sexuality that function to construct and reinforce imbalanced power relationships.
+Although bullied students often receive disrespectful treatment because of individual
+differences—for example, being perceived as too short, overweight, or unattractive—
+sexual harassment activates stereotypes about gender and sexuality with deep cultural
+roots that reinforce dominance hierarchies (male/female, masculine/feminine) that are
+arguably the primary bases of according power and privilege in society. These stereotypes
+not only affect self-identity but also influence attitudes and beliefs, selfpresentations,
+and patterns of interactions within and between social categories (Swan
+& Wyer, 1997). Second, and related to the first, the asymmetrical nature of sexual
+harassment increases its impact. Bullying occurs both within and across sex groups.
+Also, bullies themselves are often victims of bullying (hence, the term “bully-victim”
+that appears widely in bullying literature). In contrast, harassment victimization is
+lopsided: It is targeted at specific categories of people, and the victims are handicapped
+in their ability to respond effectively and to ward off harm because of the
+power of cultural stereotypes. A substantial research literature on the effects of sexual
+harassment shows that these types of experiences, whether at work or in school, occur
+more frequently among and have more adverse effects on girls and women than on
+boys and men (see Morgan & Gruber, 2011, for a review). Harassment not only affects
+health and well-being, but it also casts a pall on the work (Schneider, Swan, & Fitzgerald,
+1998) or school (AAUW, 2001; Hill & Kearl, 2011) environment that results in alienation
+and estrangement. Although girls and women tend to suffer more adverse effects
+from harassment than boys and men, the latter are not immune from experiencing emotional
+damage. In this regard, sexual harassment as a method of doing hegemonic masculinity
+accounts for the power of homophobia. Lesbian, gay, bisexual, and transgender
+(LGBT) students have poorer mental and physical health, less engagement with school,
+and higher suicidality than their heterosexual peers (Gruber & Fineran, 2008; KatzWise
+& Hyde, 2012; Williams et al., 2005). The harm of homophobia extends to
+“straight” boys as well. Poteat and Espelage (2007), for example, found that homophobic
+slurs compared with other types of comments resulted in increased anxiety and
+depression, and greater alienation from school among middle school children, particularly
+boys. Along the same lines, Swearer, Turner, Givens, and Pollack (2008) discovered
+that among boys, being called gay had a greater negative impact on depression,
+anxiety, and perceptions of school climate than bullying did. In sum, the sexual harassment
+paradigm better explains why some students are generally perpetrators (boys) and
+others are victims (girls and “non-masculine” boys) and why attacks on gender identity
+(e.g., homophobic slurs) cause more harm than other kinds of abuse.
+Hypothesis 3a: Sexual harassment will have greater adverse effects than bullying
+on school outcomes.
+Hypothesis 3b: The impact of sexual harassment on school outcomes will be
+greater for girls.
+118 Violence Against Women 22(1)
+Method
+Sample
+Data were collected from students at a middle school and a high school in a suburban
+New England community as well as from a middle school and two high schools in southeastern
+Michigan who completed paper-and-pencil surveys during classes that drew a
+wide range of students. Parental consent forms were sent home with the students. The
+parents were told that the survey covered a range of topics, including bullying and sexual
+harassment, attitudes toward school, and health and well-being. Students who received
+parental consent were given an assent form along with the survey during class. Both
+parental consent and student assent forms followed Institutional Review Board procedures
+which specified that the survey was voluntary and that information given by the
+students was confidential. The New England sample consisted of 236 girls and 337 boys;
+the Michigan sample had 102 girls and 86 boys. The samples reflected both the racial
+compositions of the schools and the communities in which they were located. The
+average age of the students was 15 years. About a third of the sample was 16 or older; a
+quarter was 14 or younger. Seventy percent described themselves as White. African
+Americans and Hispanics were 17% and 9%, respectively, of the sample. About half of
+the parents (48% of mothers and 53% of fathers) had no more than a high school education.
+About a quarter (24% of mothers and 22% of fathers) had college degrees. The
+middle school response rate (53%) was higher than that of the high school students
+(48%). The response rate was 51% for New England and 56% for Michigan.
+Measures
+Bullying and sexual harassment. Ten survey items developed by Espelage and Holt
+(2001) and 14 items from the AAUW (2001) survey were used to measure bullying
+and sexual harassment, respectively. The bullying items, for example, asked students
+if they had been pushed, threatened, or excluded from social groups. The sexual
+harassment items included repeated date requests, sexual rumoring, touching of a sexual
+nature, and being the recipient of sexually offensive comments. Students were
+asked how often they had experienced each behavior (never, a few times [once or
+twice], many times) since the beginning of the school year, who the perpetrators were,
+and about their reactions. After responding to the 24 items, students were asked additional
+questions about their “worst experience.” Of interest for this article were
+responses to the degree to which they found this worst experience to be annoying,
+embarrassing, offensive, disturbing, upsetting, threatening, or frightening. Each of 7
+items had five response categories (not at all, slightly, somewhat, very, and extremely
+upset). A factor analysis of the 7 items resulted in a one-factor solution (eigenvalue =
+4.05, explained variance = 57.9%) The items were combined to create an Upsetting
+Scale (range = 0-28): M = 13.4, SD = 6.08.
+The 10 bullying and 14 sexual harassment items were factor analyzed separately using
+varimax rotation. The result was a one-factor solution for each (Bullying: eigenvalue =
+6.2, explained variance = 61%; Sexual harassment [SH]: eigenvalue = 10.5, explained 
+Gruber and Fineran 119
+variance = 80.4%). The individual items tapping frequency of experiences were
+summed to create the respective scales of peer victimization. Each scale had high reliability:
+Bullying (Cronbach’s α = .87) and SH (α = .90). For regression analysis, we
+created scales that summed all the bullying or harassment experiences that a student
+had had (0-20 and 0-28, respectively). The scales were reduced to 0-10 scales to eliminate
+cells with very low frequencies and to create scales of equivalent length. Because
+this procedure captured both the range and frequency of bullying or SH, the scales
+(each 0-10) represent the preponderance of each form of peer victimization. For t tests
+and cross-tabulation, we defined a student as being bullied or harassed if he or she had
+three or more different experiences at least a few times (e.g., a student was “bullied” if
+he or she was teased, was pushed or shoved, and was excluded from friends). This
+dichotomous variable both acknowledges and extends the study of bullying published
+by Peskin and her colleagues (2006), who defined a victim of bullying as a person who
+had experienced at least one type of bullying behavior at least 3 times in the last 30
+days. In contrast, researchers have often labeled a student as being bullied or sexually
+harassed if she or he experienced a single type of behavior even once (AAUW, 2001;
+Leaper & Brown, 2008).
+School outcomes. Four measures of school attachment were used in this study along
+with a measure of academic performance. The school outcomes were only modestly
+intercorrelated (.25-.45), which suggests that each tapped unique aspects of school
+experiences (see Appendix A).
+Overall, School Satisfaction was one of three scales that we used from Bowen and
+Richman’s (1995) School Success Profile. The seven items comprising this scale (e.g.,
+“I enjoy going to this school,” “Every student is important at this school”) were factor
+analyzed using varimax rotation. The result was a one-factor solution (eigenvalue =
+2.58, explained variance = 72%) that had good reliability (α = .81). A 1-7 scale was
+created that accommodated cells with very low frequencies.
+Teacher Support was based on eight items with true/false response categories (e.g.,
+“My teachers really care about me,” “I receive a lot of encouragement from my teachers”)
+developed by Bowen and Richman (1995). A one-factor solution resulted (eigenvalue
+= 3.23, explained variance = 48.6%). The scale (1-7) that resulted from
+combining these items had good reliability (α = .84).
+Academic engagement. Thirteen items developed by Hanisch and Hulin (1991) to measure
+work stress were modified by the authors to fit a school setting (e.g., “Made
+excuses to miss school or class,” “Thought about leaving school without graduating”).
+They were entered into a factor analysis with varimax rotation. Each item had five
+response categories ranging from never to many times. Three items had factor loadings
+below .50 and were dropped from further consideration. The first of two factors
+(eigenvalue = 5.85, explained variance = 45.1%) tapped students’ problems with academic
+engagement (e.g., “Ignored homework assignments,” “Spent time daydreaming,
+doodling in class”). The five items were summed and subsequently converted to a
+1-9 scale (α = .85)
+120 Violence Against Women 22(1)
+School withdrawal was based on the second factor (eigenvalue = 1.68, explained
+variance = 18.8%) that tapped students’ commitment to staying in school. Five items
+(e.g., “Thought about leaving school without graduating,” “Skipped school”) were
+summed and converted to a 1-7 scale (α = .81).
+Academic performance (grades) was based on a single survey item that asked,
+“What is your overall grade average this year?” Seven response categories ranged
+from mostly A’s to mostly D’s and F’s.
+Data Analysis Plan
+Different procedures were used to test the hypotheses. Cross-tabulation (and χ2) was
+used in Table 1. Tables 2, 3, and 4 presented the results primarily of t tests. Table 5
+presented the results of a “head to head” comparison of bullying and SH through
+regression analysis. Bivariate correlations were presented (Appendix A) to demonstrate
+the modest correlations among the dependent variables. The decision to analyze
+girls and boys separately was based on results from two outcomes of data analysis.
+First, bivariate correlations between each Gender × Victimization variable (SH ×
+Gender and Bully × Gender) and each outcome were significant (Appendix A).
+However, a stronger argument for separating girls and boys was made by regressing
+three predictors—gender, victimization (bullying or SH), and Victimization ×
+Gender—on each outcome (Appendix B). This procedure revealed the unique contribution
+of each Victimization × Gender variable in predicting an outcome independent
+of the influences of either gender or victimization. The SH × Gender and Bully ×
+Gender variables each predicted four of the five outcomes. Overall, the interaction
+items, though significant, were modest in size ranging from b = .094 (Gender × Bully
+for School Satisfaction) to b = .162 (Gender × SH for Academic Engagement). We
+believe that these results provide a sufficient rationale for analyzing girls and boys
+separately.
+Table 1. Gender Differences in Bullying and Sexual Harassment Experiences (%).
+Ever
+experienced
+3 or more
+experiences
+3 or more
+experiences
+Bullying
+Sexual
+Harassment Bullying Sexual harassment
+Total (N = 708) 77a 63 53a 39
+Gender
+Boys (n = 369) 75a 62 52a 37
+Girls (n = 277) 80a 70 54b 44
+a
+Based on difference of proportions tests and χ2 values, differences between ever bullied and ever
+harassed or between 3+ bullying experiences and 3+ harassment experiences are statistically significant
+at p < .01. bDifferences between ever bullied and ever harassed or between 3+ bullying experiences and 3+
+harassment experiences are statistically significant at p < .05.
+Gruber and Fineran 121
+Data Analysis
+The Incidence and Targets of Bullying and Sexual Harassment
+Our analysis presented results for bullying and sexual harassment in two forms: percentages
+of students who had checked any of the 10 bullying or 14 sexual harassment
+items and percentages of students who had three or more different bullying or harassment
+experiences since the beginning of the school year. Seventy-seven percent of
+students had at least one bullying experience during the school year; 63% had at least
+one harassment experience. Using the 3+ experience threshold, the percentages
+dropped significantly: 53% of students were bullied, whereas 39% were sexually
+harassed. Our results support Hypothesis 1.
+Bullying was a more common experience than sexual harassment. This was the
+case for both sexes. For example, more than half of the boys were bullied (52%) but a
+little more than a third had been harassed 3 or more times χ2(1, N = 369) = 96.2, p =
+.000. However, the data did not support Hypothesis 2. We argued that boys would
+experience more bullying whereas girls would encounter more sexual harassment.
+There were, in fact, no significant gender differences in either bullying or sexual
+Table 2. Bullying and School Outcomes for Girls and Boys.
+Not bullied Bullied
+M/(SD)a M/(SD)b D β/(SD)c
+Overall school satisfaction 2.70 (1.6) 3.14 (1.7)** .197 (0.09)**
+Boys 2.93 (1.7) 3.84 (1.8)* .21
+Girls 2.42 (1.6) 2.94 (1.7)* .32
+Teacher support 2.88 (1.9) 3.31 (2.0)* .112 (0.08)*
+Boys 3.13 (2.1) 3.41 (2.0) .13
+Girls 2.75 (1.6) 3.21 (1.9)* .36
+Academic engagement 4.36 (2.5) 5.57 (2.3)** .258 (0.06)**
+Boys 4.68 (2.6) 5.75 (2.4)** .43
+Girls 3.97 (2.3) 5.35 (2.2)** .61
+School withdrawal 2.26 (1.9) 3.25 (2.7)* .201 (0.08)**
+Boys 3.10 (1.9) 3.43 (2.1) .16
+Girls 2.76 (1.6) 3.21 (1.8) .39
+Grades 3.42 (1.8) 3.86 (1.8)* .172 (0.01)**
+Boys 3.66 (1.8) 3.94 (1.9) .15
+Girls 3.14 (1.7) 3.76 (1.6) .38
+a
+Higher means are associated with poorer outcomes—lower grades, less satisfaction, less perceived
+support, lower academic engagement, and higher withdrawal—and a higher preponderance of bullying.
+bSignificance levels are based on t tests. cStandardized regression coefficients and standard errors (in parentheses) are presented. Bullying was
+used as the sole predictor in each equation.
+*p < .005 (p < .05 with Bonferroni’s correction). **p < .001 (p < .01 with Bonferroni’s correction).
+122 Violence Against Women 22(1)
+harassment victimization. Further analyses revealed that there were no significant age
+differences in bullying or sexual harassment (see Appendix A).
+Although there were no gender differences in victimization, there were very clear
+patterns in perpetration.1 Boys were the perpetrators for nearly all of the bullying and
+sexual harassment items. Overall, boys bullied other boys and girls, but boys harassed
+Table 3. Sexual Harassment and School Outcomes for Girls and Boys.
+Not harassed Harassed
+M/(SD)a M/(SD)b κ β/(SD)c
+Overall school satisfaction 2.58 (1.6) 3.42 (1.8)** .279 (.08)**
+Boys 2.88 (1.7) 3.52 (1.7)** .37
+Girls 2.18 (1.4) 3.31 (1.8)** .70
+Teacher support 2.88 (1.9) 3.41 (2.0)** .169 (.07)**
+Boys 3.16 (2.0) 3.43 (2.1) .13
+Girls 2.50 (1.7) 3.37 (1.9)** .48
+Academic engagement 4.45 (2.5) 5.73 (2.3)** .235 (.06)**
+Boys 4.86 (2.6) 5.81 (2.3)* .41
+Girls 3.87 (2.3) 5.62 (2.2)** .78
+School withdrawal 2.13 (2.7) 3.63 (3.7)** .304 (.08)**
+Boys 2.96 (1.9) 3.71 (2.0)** .38
+Girls 2.68 (1.6) 3.80 (1.7)** .68
+Grades 3.36 (1.8) 4.06 (1.7)** .225 (.02)**
+Boys 3.60 (1.8) 4.13 (1.9)* .28
+Girls 3.04 (1.7) 3.97 (1.6)** .56
+a
+Higher means are associated with poorer outcomes—lower grades, less satisfaction, less perceived
+support, poorer academic engagement, and higher withdrawal—and a higher preponderance of sexual
+harassment.
+bSignificance levels are based on t tests. cStandardized regression coefficients and standard errors (in parentheses) are presented. Sexual
+harassment was used as the sole predictor in each equation.
+*p < .005 (p < .05 with Bonferroni’s correction). **p < .001 (p < .01 with Bonferroni’s correction).
+Table 4. Upset Scale for Bullying, Sexual Harassment, and Gender (N = 367).a
+Bullying Sexual harassment
+M/(SD) M/(SD)
+All victimized students 11.6 (7.4) 14.2 (8.1)**
+Boys 10.6 (8.2) 12.7 (8.7)
+Girls 12.8 (7.1) 15.3 (7.2)**b
+a
+Upset Scale has a 0-28 range. Higher scores indicate greater upset.
+bDifference between means for boys and girls is significant at p < .01.
+**Difference between bullying and sexual harassment is significant at p < .01.
+Gruber and Fineran 123
+girls mostly. Boys were very rarely the targets of harassment or bullying by girls. More
+than three quarters of boys (77%) but less than half (45%) of girls were bullied by
+boys, χ2(2, N = 483) = 62.8, p < .000. In contrast, boys were perpetrators of sexual
+harassment among both boys and girls (70% and 64%, respectively). Our results are
+consistent with other studies of perpetrators of bullying (see Basile et al., 2009, for a
+review) and sexual harassment (AAUW, 2001; DeSouza & Ribeiro, 2005; Gruber &
+Fineran, 2008; Hill & Kearl, 2011).
+Bullying, harassment, and school outcomes. The initial procedures for testing Hypotheses
+3a (sexual harassment will have a greater impact than bullying on school outcomes)
+and 3b (girls will be affected adversely more so than boys) involved t tests, effect sizes
+(Cohen’s d), and simple regression. The results enable us to test the hypotheses by
+conducting side-by-side comparisons—that is, comparing the results from analyses of
+bullying and school outcomes (Table 2) with those from separate analyses of sexual
+Table 5. Impact of Bullying, Sexual Harassment on School Outcomes for Girls and Boys.
+Total sample Girlsa Boys
+Outcomesb
+Overall school satisfaction
+ Bullying .041 (.02) .087 (.03) .074 (.02)
+ SexHar .283 (.03)** .307 (.03)** .203 (.03)**
+ Adjusted R2 .079 .089 .048
+Teacher support
+ Bullying .023 (.02) .082 (.03) .060 (.03)
+ SexHar .159 (.02)** .215 (.03)** .133 (.03)*
+ Adjusted R2 .029 .035 .008
+Academic withdrawal
+ Bullying .158 (.02)** .095 (.04) .190 (.03)**
+ SexHar .162 (.03)** .252 (.04)** .066 (.03)
+ Adjusted R2 .082 .102 .044
+School withdrawal
+ Bullying .027 (.02) .068 (.03) .038 (.02)
+ SexHar .290 (.03)** .323 (.03)** .238 (.03)**
+ Adjusted R2 .125 .147 .032
+Grades
+ Bullying .053 (.02) .112 (.03) .029 (.03)
+ SexHar .192 (.02)** .169 (.03)** .214 (.03)**
+ Adjusted R2 .052 .064 .037
+a
+Regressions were conducted separately for girls and boys. Bullying and sexual harassment were entered
+simultaneously.
+bPositive regression coefficients are associated with being bullied or harassed and having poor school
+attachment or poor grades.
+*p < .05. **p < .01.
+124 Violence Against Women 22(1)
+harassment and school outcomes (Table 3). This involves counting the number of significant
+t tests and comparing effect sizes and regression coefficient strength. Hypothesis
+3a receives modest support from the data. Regression coefficients and t tests are
+significant for all five bullying–school outcome and all five sexual harassment–school
+outcome relationships. However, the relationships are generally stronger for sexual
+harassment than for bullying. For example, the sexual harassment–school satisfaction
+coefficient (b = .279, p < .01) is stronger than the corresponding figure for bullying
+(b = .197, p < .01). Comparisons for teacher support, school withdrawal, and grades
+lead to the same conclusion. Only academic engagement has a larger coefficient for
+bullying (b = .258, p < .01) than for sexual harassment (b = .235, p < .01).
+Hypothesis 3b receives considerable support from the data. This can be seen, first
+of all, by the number of significant t tests. There was a total of nine significant t tests
+for sexual harassment and school outcomes (5 for girls, 4 for boys), but only four
+(3 for girls, 1 for boys) for bullying and school outcomes. More evidence of the greater
+impact of peer victimization, especially sexual harassment, on girls can be found
+through a comparison of effect sizes. Effect sizes are substantially larger (arbitrarily
+gauged as a difference of .10 or greater) for girls for each school outcome and bullying
+(Table 2) and each outcome and sexual harassment (Table 3). In several instances, the
+effect size for girls is nearly twice as large as the one for boys. For example, the effect
+size for sexual harassment–school satisfaction for girls (d = .70) is much stronger than
+the one for boys (d = .37). Effect sizes can also be used to compare results for bullying
+with those of sexual harassment. In this regard, effect sizes are larger for sexual harassment
+than bullying among boys for three outcomes (school satisfaction, school withdrawal,
+and grades). But among the girls, sexual harassment effect sizes are larger than
+the corresponding ones for bullying for all five outcomes. For example, the effect size
+for sexual harassment–school satisfaction for girls is substantially larger (d = .70) than
+the corresponding one for bullying–school satisfaction (d = .32).
+The data results from our side-by-side comparisons provide compelling evidence to
+support Hypotheses 3a and 3b. However, a stronger argument for the power of one
+form of victimization over the other in adversely affecting school outcomes can be
+made through a head-to-head comparison where bullying and sexual harassment are
+analyzed simultaneously in the same model.
+Comparing bullying and harassment. If our analysis to this point is instructive, it would
+seem that sexual harassment is a stronger predictor of adverse school outcomes than
+bullying, especially for girls. To provide more compelling evidence in this regard, we
+created head-to-head comparisons. We accomplished this by entering bullying and
+sexual harassment together in regression analyses with each school outcome variable.
+Separate analyses were conducted for the entire sample, girls, and boys. Because bullying
+and sexual harassment were correlated (r = .55, p < .01) collinearity diagnostics
+that are available on SPSS 17.0 were conducted for each outcome and each group. An
+examination of tolerance and condition index figures for the 20 regression equations
+revealed that multicollinearity was not a problem because the lowest levels of the former
+were .65 and figures for the latter did not exceed 11.0. Tolerance levels that are 
+Gruber and Fineran 125
+less than .10 (Norusis, 2004) or condition index levels more than 30 (Belsley, Kuh, &
+Welsch, 1980) indicate significant multicollinearity problems.
+The results of our analyses for direct bullying-sexual harassment comparisons are
+presented in Table 5. Our interpretations of the data in Table 5 addressed three questions:
+What is the range of negative impact of bullying and sexual harassment (How
+many outcomes were significantly affected by bullying or sexual harassment)? Second,
+which is the better predictor (i.e., a larger and/or significant coefficient) of each outcome?
+Finally, were there gender differences regarding the impact of bullying or sexual
+harassment on each outcome?
+A perusal of the regression coefficients in Table 5 revealed that sexual harassment
+has overall a larger role in predicting school outcomes than does bullying. More specifically,
+bullying is a significant predictor in only 2 of 15 equations (academic engagement
+for the entire sample, b = .158, p < .01, and for boys, b = .190, p < .01), whereas
+sexual harassment is a significant predictor in 14. Sexual harassment predicted each
+outcome for the entire sample with coefficients ranging from b = .290 (school withdrawal)
+to b = .159 (teacher support). There are, however, notable sex differences in
+number of significant relationships as well as in coefficient sizes. Bullying did not
+predict any of the outcomes for girls and only one for boys. In contrast, sexual harassment
+predicted all five outcomes among girls and four for boys. Among the girls, the
+coefficients for sexual harassment ranged from b = .323 (school withdrawal) to b =
+.169 (grades). All of the harassment–outcome coefficients for girls were larger than the
+corresponding ones for boys. The answers to the three questions we posed earlier for
+our interpretations in this section are fairly straightforward. Sexual harassment had a
+broader range of impact than bullying. Of 15 equations, sexual harassment was a significant
+predictor in 14, whereas bullying was significant in 2. Given this disparity in
+significant relationships, the answer to the second question—which one is the better
+predictor—was clear. With the exception of the two significant bullying–outcome
+relationships, sexual harassment coefficients were considerably larger than those for
+bullying in each direct or “head-to-head” comparison. Finally, the differential impact
+of victimization between the sexes was also noteworthy. Sexual harassment predicted
+all five outcomes among girls and four for boys. An overall picture of differences in
+the adverse effects of peer victimization can be seen through the adjusted R2 values:
+Those for girls were all larger than the corresponding ones for boys.
+Our results, then, gave considerable support to Hypotheses 3a and 3b. Although
+both bullying and sexual harassment are independently related to adverse school outcomes
+(Tables 2 and 3), it was only when they are regressed together that a clearer
+picture of the roles of each emerged (Table 5). The results for boys were unexpected.
+We hypothesized that bullying would play a significant role in school outcomes for
+boys, whereas sexual harassment would be a greater factor among girls. Bullying, in
+fact, was not a substantial predictor for either sex. Boys were adversely affected by
+sexual harassment, though not to the degree that girls were. An interesting question that
+arose from our data is as follows: Why does sexual harassment, which occurs less frequently
+than bullying, have a greater impact on school outcomes? We argued earlier
+that this is because of the power of sexism (and heterosexism) in causing harm, which
+is driven by sexual harassment. Our data showed that girls were more adversely affected 
+126 Violence Against Women 22(1)
+than boys by peer victimization (e.g., the regression coefficients and adjusted R2 values
+in Table 5 for boys were generally smaller than the corresponding ones for girls).
+Based on previous research, both on schools (AAUW, 2001) and workplaces
+(Schneider et al., 1998), which found that sexual harassment caused greater emotional
+distress among females than males, we decided to compare the emotional reaction
+with bullying and sexual harassment among those in our sample who had been victimized.
+The data for such a comparison were drawn from a section of the survey where
+students who had checked 1 of the 10 bullying or 14 sexual harassment items were
+asked to describe their “worst experience.” Most of these experiences (56%) were
+sexual harassment. They were asked a series of questions about the experience (e.g.,
+perpetrator sex, location of the incident, person[s]), including how upset they were by
+the experience. We posed two questions for this analysis: Is sexual harassment more
+upsetting than bullying? And are there gender differences with regard to the emotional
+distress of bullying and sexual harassment? With regard to the first question, sexual
+harassment was significantly more upsetting than bullying, M = 14.2 and M = 11.6,
+t(365) = 2.79, p < .01. The answer to the second question was more complex. There
+was a significant difference between sexual harassment and bullying for girls, M =
+15.3 and M = 12.8, t(182) = 2.93, p < .01, but not for boys. Finally, although girls were
+more upset than boys by both bullying and sexual harassment, only the latter difference
+was statistically significant, M = 15.3 and M = 12.7, t(202) = 3.04, p < .01. The
+strong relationships between peer victimization and school outcomes among girls may
+be due, in part, to the fact that they appraise their experiences differently than boys
+(Ormerod, Collinsworth, & Perry, 2007). Boys, for example, might be more reluctant
+to label experiences as “frightening” because doing so would appear unmanly. Overall,
+girls state that they are more upset than boys by the same types of harassment—say,
+sexual jokes or comments. Another reason for the gender difference is that girls are
+exposed to more severe forms of sexual harassment—for example, sexual touching/
+grabbing or sexual rumors (Fineran, 2002; Hand & Sanchez, 2000). Our analyses (not
+shown) of the 24 individual bullying and sexual harassment items supported these
+explanations. Girls stated that they were more upset than boys by a wide range of peer
+victimization experiences, and at the same time, they experienced a higher incidence
+of severe harassment, such as sexual contact (touching/grabbing, kissing, forced sex)
+and sexual rumors. However, because of a low n for some of these individual items,
+we did not place a great deal of confidence in these results.
+Discussion
+The Harm of Peer Victimization: Summary of Findings
+High school students today face a myriad of challenges in developing and maintaining
+healthy relationships with family, peers, and schools. Many girls face challenges to
+their sense of well-being in a society that emphasizes slimness and beauty. A number
+of boys, especially those from lower-income backgrounds, fail to complete high
+school. Gay and lesbian students face stigmatization in a society that refuses to
+acknowledge their rights and identity. In the sea of influences that affect adolescents’ 
+Gruber and Fineran 127
+orientation to school and academic achievement, we sought in this article to determine
+the role of peer victimization. More specifically, we wanted to compare the impact of
+bullying with sexual harassment on school attachment and academic performance. We
+found that when bullying and sexual harassment were measured in the same way with
+similar time frames, bullying occurred more frequently. There were no significant gender
+differences with regard to either.
+The results of t tests and simple regressions for bullying and sexual harassment individually
+(what we referred to as side-by-side comparisons) revealed that both forms of
+peer victimization were significantly related to most of the school outcomes, suggesting
+perhaps that both have similar roles in affecting student attachment and performance. It
+was only when bullying and sexual harassment were entered together in the same regression
+analyses (head-to-head comparisons) that a very different picture emerged. In the
+vast majority of regression equations, sexual harassment emerged as the better predictor
+both in terms of coefficient size and significance level. There were clear differences in
+this regard. Four of the sexual harassment coefficients for school outcome variables
+were larger for girls than boys. The adjusted R2 values provided further evidence of differences:
+The values were higher for girls than boys on all five outcomes. In an earlier
+study, we found significant relationships between peer victimization—sexual harassment
+in particular—and health outcomes (Gruber & Fineran, 2008). In this article, we
+found that peer victimization—especially sexual harassment—alienated students from
+school, undermined their relationships with teachers, and adversely affected their grades.
+Sexual Harassment: Back to School and Out of the Shadows
+From the early years of legal theory (e.g., MacKinnon, 1979) and social research (e.g.,
+U.S. Merit Systems Protection Board [USMSPB], 1988), sexual harassment was viewed
+not as random acts of violence but as actions that were targeted. Specifically, men were
+overwhelmingly the perpetrators, women were disproportionately targets, and male dominance
+(or patriarchy) was the explanation. By the mid-1990s, legal theory and social
+research had expanded the concept of sexual harassment in two ways: by incorporating the
+sexual harassment of men (by other men) or same-sex sexual harassment and by enlarging
+the concept of “gender harassment” to include words and deeds that disparaged and violated
+women and “non-masculine” men. We believe that the concept that explains male
+disparagement both of women and of men who are, or may appear to be, gay is hegemonic
+masculinity. As we have argued, bullying paradigms cannot explain the categorical nature
+of the perpetrator–victim dynamics that are played out on a daily level in workplaces and
+at schools across the world. Indeed, the “bully lens” may blind researchers, policy makers,
+and citizens to the obvious gendered nature of high-profile crimes (e.g., see Kimmel &
+Mahler, 2003, for an analysis of perpetrators and victims of school shootings). Our research
+revealed the distinctly gendered nature of peer victimization in two ways: Boys were overwhelmingly
+the perpetrators, though girls and boys had fairly similar victimization rates,
+and girls experienced more adverse school outcomes and greater distress than boys.
+But what about bullying? Does bullying not have an impact on children’s lives? We
+are not suggesting that sexual harassment causes harm, whereas bullying does not. There 
+128 Violence Against Women 22(1)
+is considerable evidence both in research and in the everyday accounts of school life
+among adolescents about the pernicious effects of bullying. We are suggesting, instead,
+that definitions and measures of bullying cover a broader range of behaviors than sexual
+harassment. And this is both a strength and a weakness of scientific and popular conceptions
+of bullying. The strength of “bullying” is that it presents a snapshot of the toxic
+brew of words and deeds that are part and parcel of everyday life for adolescents in
+America and includes racist, sexist, and homophobic slurs along with pejorative comments
+about weight, physical attractiveness, competence, and other personal characteristics.
+The weakness of “bullying” is what Brown and her colleagues (2007) referred to
+as “the tyranny of sameness.” Taunts about one’s physical appearance or social incompetence,
+for example, are not distinguished from racist, homophobic, or sexist taunts.
+We feel that sexual harassment theory and more generally the concept of hegemonic
+masculinity have several important applications with regard to our findings.
+There is a significant research literature that documents the harm that peer victimization
+(bullying and/or harassment) causes to children’s well-being. This article adds to
+the growing body of work on the impact of victimization, especially sexual harassment,
+on school attachment and performance. Although the impact on children’s well-being
+may be regarded as health issues, the effects of victimization described in this article
+fall under the rubric of organizational climate problems. We would urge researchers and
+school administrators to think of the outcomes of climate problems that adults experience
+at work—high turnover and absenteeism rates, low morale, poor productivity, and
+suspicion of coworkers and supervisors (see, for example, Fitzgerald, Drasgow, Hulin,
+Gelfand, & Magley, 1997; Willness, Steel, & Lee, 2007) as applicable to children at
+school. Although adolescents may underachieve, feel detached from teachers, or think
+about quitting school for a number of reasons (e.g., rapid changes in physical appearance,
+adjustment to a new school, family troubles), peer victimization, especially sexual
+harassment, should be thought of as not merely as something that happens at school but
+as a phenomenon that erodes the climate of a school. An example of this is a recent study,
+which found that frequent and severe experiences of sexual harassment not only had
+direct adverse effects on children’s well-being but also caused harm indirectly by creating
+a climate where children believed that sexual harassment was tolerated by teachers
+and school administrators (Ormerod et al., 2007). The concept of hegemonic masculinity
+also has important implications in terms of our findings. In particular, hegemonic masculinity
+accounts for the sharp imbalance in perpetration that we and others have documented.
+Males are bullies and harassers much more frequently than females. It also
+accounts for our finding that sexual harassment more so than bullying causes distress,
+especially for girls. We believe that the concept of hegemonic masculinity extends to
+other research that documented the adverse impact of homophobic slurs on boys’ wellbeing
+(Poteat & Espelage, 2007; Swearer et al., 2008). The bully/sexual violence pathway
+(Espelage et al., 2011) appears to have relevance to our study, albeit indirectly.
+According to their findings, bullying behavior in fifth grade predicted sexual violence/
+sexual harassment in eighth grade, or according to the authors, “. . . traditional bullying
+perpetration transform[ed] into more gendered harassment and aggressive behavior in
+the form of homophobic teasing and sexual harassment” (Espelage et al., 2011, p. 64). 
+Gruber and Fineran 129
+Based on our findings about the greater role of sexual harassment in eroding school
+attachment and academic performance, we speculate that this pathway is the result of
+children learning more powerful ways to establish social dominance. In their ethnographic
+study of a summer camp, McGuffey and Rich (1999) discovered that children
+as young as 10 were already quite well versed in the practice of hegemonic masculinity:
+Athletic and competitive males established a hierarchy where they were at the top,
+while “non-masculine” boys (who cried easily or played with girls) and most girls were
+marginalized and stigmatized. Although other research has shown the increasing frequency
+of sexual harassment compared with bullying as children progress through
+school, our research has added information on the gravity of this change for adolescents’
+attachment to school and their ability to perform well.
+This study’s outcomes lead us back to the larger, more general issue of whether
+schools should be promoting anti-bullying programs over sexual harassment prevention
+education. The prominence of bullying as a school issue in public discourse as
+well as debates on the content of anti-bullying legislation progressing through many
+state legislatures prompted the Federal government to step in recently and offer a
+“course correction” of sorts. By advising schools to be mindful of behaviors that are
+labeled as “bullying” but are in fact legally “sexual harassment,” the U.S. Department
+of Education emphasized what a number of researchers had argued for years: that
+sexual harassment involves words and deeds that are distinct from what is generally
+considered to constitute bullying. Refocusing public discourse and reminding school
+officials and parents of the protections already afforded to children by sexual harassment
+laws (embedded in civil rights legislation) would, among other things, prevent
+mislabeling from occurring on the wide scale as it does currently. As the number of
+studies that address bullying prevention programs reveals, it is becoming clear that
+such programs do not curtail sexual harassment perpetration (Espelage et al., 2011).
+Stein and Mennemeier (2011) summarize the issue as such: “Talking about bullying is
+not an inoculation against sexual harassment/violence and, likewise, talking about bullying
+without talking about homophobia will not prevent homophobic conduct which
+may be the pathway to sexual harassment/violence conduct” (p. 5).
+A cursory examination of Internet news articles noting adolescent suicides since
+2011 when the “Dear Colleague” letter was issued confirms no change. Articles
+describing students sexually harassed at school are still described as students being
+bullied to death. Again, we can only speculate as to whether or not school personnel
+would have been more proactive if the abuse had been labeled properly as a civil rights
+violation (sexual harassment) rather than as an unfortunate “bullying” experience.
+This study’s outcomes hopefully point us in the direction of determining whether
+schools should be promoting anti-bullying programs over sexual harassment prevention
+education. The stakes are too high to ignore.
+Limitations
+This study was based on data drawn from three school districts in two states. A larger
+sample that included more students from a greater variety of schools would have added
+confidence to our results. The fact that our results parallel those of other researchers 
+130 Violence Against Women 22(1)
+who have used the same measures of peer victimization does provide evidence of
+generalizability. A larger sample would also have enabled us to study the individual
+bullying and sexual harassment items in greater detail, especially those of a more serious
+nature (e.g., girls who are the victims of sexual rumors or boys who are physically
+threatened and attacked). “Bullying” and “sexual harassment” are terms that encompass
+a broad range of behaviors and experiences. It would be useful for researchers,
+policy analysts, and school administrators to know which types of bullying or harassment
+experiences are especially serious and have aversive impacts on the well-being
+of adolescents.
+M/SD 1 2 3 4 5 6 7 8 9 10
+1. Gradesa 3.6 (1.8) —
+2. School satisfactionb 2.9 (1.7) .36 —
+3. Teacher support 3.1 (1.8) .33 .25 —
+4. Academic engagement 4.9 (2.5) .41 .37 .46 —
+5. School withdrawal 3.3 (1.9) 36 .34 .29 .45 —
+6. Bullying Scale 3.4 (2.4) .17 .20 .12 .26 .31 —
+7. Sexual Harassment Scale 2.7 (1.9) .23 .28 .17 .26 .41 .55 —
+8. Age 14.8 (1.3) .13 .05 .08 .11 .13 .03 .04 —
+9. Bully × Gender 6.7 (7.8) .20 .25 .13 .24 .27 .82 .54 .01 —
+10. SH × Gender 5.3 (7.2) .23 .29 .18 .26 .28 .75 .88 .06 .63 —
+a
+Correlations (Pearson’s r) in italics are significant at p < .01. bMinimum and maximum scale values are 1-7 for grades, school satisfaction, teacher support, and school
+withdrawal; 1-9 for academic withdrawal; and 0-10 for bullying and sexual harassment preponderance.
+Appendix A
+Means, Standard Deviations, and Intercorrelations.
+Predictors
+Outcomes
+School
+satisfaction
+Teacher
+support
+Academic
+engagement
+School
+withdrawal Grades
+Gendera .198 (.15)** .152 (.18)** .208 (.22)** .069 (.17) .155 (.17)*
+SexHar .234 (.02)* .132 (.02)** .197 (.02)** .275 (.02)** .189 (.02)**
+Gender × SH .121 (.12)** .098 (.20)* .162 (.21)** .075 (.21) .096 (.21)*
+Gender .170 (.17)** .141 (.20)** .167 (.24)** .084 (.19) .174 (.18)**
+Bullying .092 (.15)* .082 (.02)* .220 (.03)** .145 (.02) .065 (.17)
+Gender × Bully .094 (.02)* .076 (.22) .097 (.24)* .110 (.03)* .132 (.02)**
+a
+Regression (beta) coefficients are presented for each relationship. Standard errors are in parentheses.
+*p < .05 **p < .01.
+Appendix B
+Relationships Between Bullying, Sexual Harassment, and Gender.
+Gruber and Fineran 131
+Declaration of Conflicting Interests
+The author(s) disclosed receipt of the following financial support for the research, authorship,
+and/or publication of this article: Funding for this project came from the Campus Grants
+Committee at the University of Michigan-Dearborn and a Faculty Senate Grant from the
+University of Southern Maine.
+Funding
+The author(s) received no financial support for the research, authorship, and/or publication of
+this article.
+Note
+1. Respondents were offered three response categories to describe their perpetrators: a boy or
+mostly boys, a girl or mostly girls, both boys and girls. Boys were the majority of perpetrators
+for 9 of the 10 bullying items and 13 of the 14 sexual harassment items. Girls were the
+majority (52%) of perpetrators for “Excluded you from your group of friends” (bullying
+item). Also, a slightly larger number of girls than boys (46% vs. 44%) were described as
+the perpetrators for the sexual harassment item, “Spread sexual rumors about you.”
+References
+American Association of University Women Educational Foundation. (1993). Hostile hallways:
+The AAUW survey on sexual harassment in American schools (Research Report No.
+923012). Washington, DC: Harris/Scholastic Research.
+American Association of University Women Educational Foundation. (2001). Hostile hallways:
+Bullying, teasing and sexual harassment in school. Washington, DC: Author.
+Basile, K., Espelage, D., Rivers, I., McMahon, P., & Simon, T. (2009). The theoretical and
+empirical links between bullying behavior and male sexual violence perpetration.
+Aggression and Violent Behavior, 14, 336-347.
+Belsley, D., Kuh, E., & Welsch, R. (1980). Regression diagnostics: Identifying influential data
+and sources of collinearity. Cambridge, MA: MIT Press.
+Bowen, G., & Richman, J. (1995). The school success profile. Chapel Hill: University of North
+Carolina.
+Brown, L., Chesney-Lind, M., & Stein, N. (2007). Patriarchy matters: Toward a gendered theory
+of teen violence and victimization. Violence Against Women, 13, 1249-1273.
+Corbett, K., Gentry, C., & Pearson, W. (1993). Sexual harassment in high school. Youth &
+Society, 25, 93-103.
+DeSouza, E., & Ribeiros, J. (2005). Bullying and sexual harassment among Brazilian high
+school students. Journal of Interpersonal Violence, 20, 1018-1038.
+Eslea, M., Menesini, M., Moore, A., & Morita, Y. (2004). Friendship and loneliness among bullies
+and victims: Data from seven countries. Aggressive Behavior, 30, 71-83.
+Espelage, D., Basile, K., & Hamburger, M. (2011). Bullying perpetration and subsequent sexual
+violence perpetration among middle school students. Journal of Adolescent Health, 50, 60-65.
+Espelage, D., & Holt, M. (2001). Bullying and victimization during early adolescence: Peer influences
+and psychosocial correlates. In R. Geffner & M. Loring (Eds.), Bullying behavior:
+Current issues, research, and intervention (pp. 132-142). Binghamton, NY: Haworth Press.
+Fineran, S. (2002). Sexual minority students and peer sexual harassment in high school. Journal
+of School Social Work, 11, 50-69.
+132 Violence Against Women 22(1)
+Fineran, S., & Bennett, L. (1999). Gender and power issues of peer sexual harassment among
+teenagers. Journal of Interpersonal Violence, 14, 626-641.
+Fitzgerald, L., Drasgow, F., Hulin, C., Gelfand, M., & Magley, V. (1997). Antecedents and
+consequences of sexual harassment in organizations: A test of an integrated model. Journal
+of Applied Psychology, 82, 578-589.
+Fitzgerald, L., & Shullman, S. (1993). Sexual harassment: A research analysis and agenda for
+the 1990’s. Journal of Vocational Behavior, 42, 5-27.
+Franke, K. (1997). What’s wrong with sexual harassment? Stanford Law Review, 49, 691-772.
+Gruber, J. (1990). Methodological problems and policy implications in sexual harassment
+research. Population Research and Policy Review, 9, 235-254.
+Gruber, J., & Fineran, S. (2007). The impact of bullying and sexual harassment on middle
+school and high school girls. Violence Against Women, 13,627-643.
+Gruber, J., & Fineran, S. (2008). Comparing the impact of bullying and sexual harassment victimization
+on the mental and physical health of adolescents. Sex Roles, 19, 1-13.
+Hand, J., & Sanchez, L. (2000). Badgering or bantering? Gender differences in experience of,
+and reactions to, sexual harassment among U.S. high school students. Gender & Society,
+14, 718-746.
+Hanisch, K., & Hulin, C. (1991). General attitudes and organizational withdrawal: An evaluation
+of a causal model. Journal of Vocational Behavior, 39, 110-128.
+Hill, C., & Kearl, H. (2011). Crossing the line: Sexual harassment at school. Washington, D.C.:
+American Association of University Women.
+Holt, M., & Espelage, D. (2007). A cluster analytic investigation of victimization among high
+school students: Are profiles differentially associated with psychological symptoms and
+school belonging? In C. Maher, J. Zins, & M. Elias (Eds.), Bullying, victimization, and peer
+harassment (pp. 248-261). New York: Haworth Press.
+Katz-Wise, S., & Hyde, J. (2012). Victimization experiences of lesbian, gay, and bisexual individuals:
+A meta-analysis. Journal of Sex Research, 49, 142-161.
+Kimmel, M., & Mahler, M. (2003). Adolescent masculinity, homophobia, and violence: Random
+school shootings, 1982-2000. American Behavioral Scientist, 46, 1439-1458.
+Klein, J. (2006). Sexuality and school shootings: What role does teasing play in school massacres?
+Journal of Homosexuality, 51, 39-62.
+Leaper, C., & Brown, C. S. (2008). Perceived experiences with sexism among adolescent girls.
+Child Development, 79, 685-704.
+MacKinnon, C. (1979). Sexual harassment of working women. New Haven, CT: Yale University Press.
+McGuffey, C., & Rich, M. (1999). Playing in the gender transgression zone: Race, class, and
+hegemonic masculinity in middle school. Gender & Society, 13, 608-627.
+McMaster, L., Connolly, J., Pepler, D., & Craig, W. (2002). Peer to peer sexual harassment in early
+adolescence: A developmental perspective. Development and Psychopathology, 14, 91-105.
+Morgan, P., & Gruber, J. (2011). Sexual harassment: Violence against women at work and in
+schools. In C. Renzetti, J. Edleson, & R. Bergen (Eds.), Sourcebook on violence against
+women (pp. 75-92). Thousand Oaks, CA: Sage.
+Nansel, T., Overpeck, R., Pilla, W., Ruan, P., Scheidt, K., & Simons-Morton, B. (2001). Bullying
+behaviors among US youth: Prevalence and association with psychological adjustment.
+Journal of the American Medical Association, 285, 2094-2100.
+Norusis, M. (2004). SPSS 13.0 Advanced statistical procedures companion. Upper Saddle
+River, NJ: Prentice Hall.
+Olweus, D. (1978). Aggression in the school: Bullies and whipping boys. Chichester, UK: Wiley.
+Olweus, D. (1993). Bullying at school. Oxford, UK: Basil Blackwell.
+Gruber and Fineran 133
+Ormerod, A. J., Collinsworth, L. L., & Perry, L. A. (2007). Critical climate: Relations among
+sexual harassment, climate, and outcomes for high school girls and boys. Psychology of
+Women Quarterly, 32, 113-125.
+Pelligrini, A. (2001). A longitudinal study of heterosexual relationships, aggression and sexual
+harassment during the transition from primary school through middle school. Applied
+Developmental Psychology, 27, 119-133.
+Peskin, M., Tortolero, S., & Markham, C. (2006). Bullying and victimization among Black and
+Hispanic adolescents. Adolescence, 41, 467-484.
+Poteat, V., & Espelage, D. (2007). Predicting psychosocial consequences of homophobic victimization
+in middle school students. Journal of Early Adolescence, 27, 175-191.
+Robinson, K. (2005). Reinforcing hegemonic masculinities through sexual harassment: Issues
+of identity, power, and popularity in secondary schools. Gender and Education, 17, 19-37.
+Schneider, K., Swan, S., & Fitzgerald, L. (1998). Job-related and psychological effects of sexual
+harassment in the workplace. Journal of Applied Psychology, 82, 401-415.
+Skues, J., Cunningham, E., & Pokharel, T. (2005). The influence of bullying behaviors on sense
+of school connectedness, motivation and self-esteem. Australian Journal of Guidance &
+Counselling, 15, 17-26.
+Stein, N. (2003). Bullying or sexual harassment? The missing discourse of rights in an era of
+zero tolerance. Arizona Law Review, 45, 783-799.
+Stein, N., & Mennemeier, K. (2011, October). Addressing the gendered dimensions of harassment
+and bullying: What domestic and sexual violence advocates need to know [Critical
+issue brief]. Washington DC: National Resource Center on Domestic Violence & National
+Sexual Violence Resource Center.
+Swan, S., & Wyer, R. (1997). Gender stereotypes and social identity: How being in the minority
+affects judgments of self and others. Personality and Social Psychology Bulletin, 23, 1265-1276.
+Swearer, S., Turner, R., Givens, J., & Pollack, W. (2008). “You’re so gay!” Do different forms
+of bullying matter for adolescent males? School Psychology Review, 37, 160-175.
+Trigg, M., & Wittenstrom, K. (1996). That’s the way the world goes: Sexual harassment and
+New Jersey teenagers. Initiatives: Special Issue—Sexual Harassment, 57, 55-65.
+U.S. Department of Education, Office for Civil Rights. (2010, October 26). Dear colleague letter—Bullying
+and sexual harassment. Available from: http://www2.ed.gov/about/offices/
+list/oct/letters/colleague-201010.html
+U.S. Merit Systems Protection Board. (1988). Sexual harassment in the federal workplace: An
+update. Washington, DC: U.S. Government Printing Office.
+Williams, T., Connolly, J., Pepler, D., & Craig, W. (2005). Peer victimization, social support,
+and psychosocial adjustment of sexual minority adolescents. Journal of Youth and
+Adolescence, 34, 471-482.
+Willness, C., Steel, P., & Lee, K. (2007). A meta-analysis of the antecedents and consequences
+of workplace sexual harassment. Personnel Psychology, 60, 127-162.
+Author Biographies
+James Gruber is Frances R. Cousens Collegiate professor of Sociology. He has published
+research on workplace and school sexual harassment since the mid-1980’s.
+Susan Fineran is professor of Social Work and Women and Gender Studies at the University of
+Southern Maine. She has published on school sexual harassment since 1995. Her current research
+focus concerns gender violence and she has been the recipient of two grant awards (2009 and
+2013) from the U.S. Department of Justice, Office on Violence Against Women, Grants to
+Reduce Sexual Assault, Domestic Violence, Dating Violence, and Stalking on Campus Program.

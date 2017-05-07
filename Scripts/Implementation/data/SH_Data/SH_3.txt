@@ -1,0 +1,1128 @@
+Sociosexuality as predictor of sexual harassment and coercion in femaleand male highschool students
+
+
+
+
+Abstract
+Sexual harassment and coercion have mainly been considered from a sex difference perspective. While traditional social science theories
+have explained harassment as male dominance of females, the evolutionary perspective has suggested that sex differences in the desire for sex
+are a better explanation. This study attempts to address individual differences associated with harassment from an evolutionary perspective.
+Considering previous research that has found links between sociosexual orientation inventory (SOI) and harassment, we consider whether
+this association can be replicated in a large, representative sample of high school students (N=1199) from a highly egalitarian culture.
+Expanding the previous studies which mainly focused on male perpetrators and female victims, we also examine females and males as both
+perpetrators and as victims. We believe that unrestricted sociosexuality motivates people to test whether others are interested in short-term
+sexual relations in ways that sometimes might be defined as harassment. Furthermore, unrestricted individuals signal their sociosexual
+orientation, and while they do not desire all individuals that react to these signals with sexual advances, they attract much more sexual
+advances than individuals with restricted sociosexual orientations, especially from other unrestricted members of the opposite sex. This more
+or less unconscious signaling thus makes them exploitable, i.e., harassable. We find that SOI is a predictor for sexual harassment and
+coercion among high school students. The paper concludes that, as expected, unrestricted sociosexuality predicts being both a perpetrator and
+a victim of both same-sex and opposite-sex harassment.
+© 2012 Elsevier Inc. All rights reserved.
+Keywords: Sociosexual orientation inventory; Harassment and coercion; Unrestricted sociosexuality; Adolescence
+1. Introduction
+Sexual harassment at work represents a considerable
+problem in the management of organizations (UN, 2006).
+Early studies portrayed the traditional view of male
+perpetrators and adverse consequences for female victims
+(Fitzgerald, 1993). The feminist perspective has focused on
+men's need for power as the root cause of conflict between the
+sexes, seeing sexual harassment as a tool of patriarchy
+(Browne, 2006; Studd, 1996). Sexual harassment is linked to
+the need to dominate women accompanied by hostile
+attitudes (including condoning forced sex) and men's use of
+their organizational power to oppress their female subordinates
+(Smith & Konik, 2011; Tangri, Burt, & Johnson,
+1982). Evolutionary psychology (EP) presents an alternative
+perspective claiming that sex is the driving force in sexual
+harassment—not males' need for power over women (Buss,
+1996; Vandermassen, 2011). We support Vandermassen's
+(2011) perspective that feminism and EP may mutually
+inform each other, but one needs to treat both approaches as
+testable scientific theories (Buss & Schmitt, 2011). As such,
+the contemporary discussion in the journal Sex Roles (Smith
+& Konik, 2011) may reflect a watershed in the debate
+between these two perspectives, resulting in less polemic and
+more empirical testing (although see Liesen, 2011).
+Sexual harassment is defined as unwanted sexually
+oriented behavior such as offensive sexual attention or
+hostile behaviors that focus on gender (Fitzgerald, Collinsworth,
+& Harned, 2001; Studd, 1996). It is worth noting that
+“unwanted” and “offensive” are from the perspective of the
+Evolution and Human Behavior 33 (2012) 479–490
+☆ Preliminary analyses of some of the data reported in this paper were
+presented at HBES, June 2008, Kyoto. ☆☆ Thanks to two anonymous reviewers for helpful comments. ★ Data collection was supported by a grant from Sør-Trøndelag County
+Authority to M.B. and L.E.O.K.
+⁎ Corresponding author. Tel.: +47 7359 1956.
+E-mail address: kennair@ntnu.no (L.E.O. Kennair).
+1090-5138/$ – see front matter © 2012 Elsevier Inc. All rights reserved.
+doi:10.1016/j.evolhumbehav.2012.01.001
+person experiencing the harassment. Similar acts from more
+attractive persons might not be considered harassment, but
+rather be perceived as flirtatious (Browne, 2006). Sexual
+harassment covers various acts ranging from sexual
+comments (obscene language and jokes) and spreading
+rumors, through inappropriate sexual advances to showing
+pictures of nudity and sex. Sexual coercion is the use of
+physical force to obtain sex.
+Most research on sexual harassment, conducted within
+the hierarchical organizational context, has studied adult
+male perpetrators and female targets. However, sexual
+harassment is common among high school girls and also
+among boys (American Association of University Women,
+2001; Bendixen & Kennair, 2008; Witkowska, 2005).
+Studies report 12-month prevalence rates in the 40%–50%
+range for sexist jokes, degrading and obscene sexual
+comments, and homophobic insults. Nearly one in four
+high school students reported the spreading of sexual
+rumors, being shown pictures of nudity, and being asked
+for sexual favors. Apart from homophobic insults, more girls
+than boys reported harassment. Coercion is much less
+common but is still reported by a significant proportion of
+students (Bendixen & Kennair, 2008).
+Several findings support the sexual motives hypothesis
+advanced by EP (Studd, 1996). The evidence is particularly
+strong that victims of sexual harassment are not random
+women. They are disproportionally young, single, and
+employed as low-level office workers, waitresses, or cooks
+in the service sector (Browne, 2006; Studd, 1996). From a
+male perspective, gaining sexual access to a young and
+single woman would, potentially, bring greater reproductive
+benefits than sexual access to an older married woman.
+Reliable patterns of sexual harassment and coercion may
+be predicted by EP (Buss & Kenrick, 1998). Over
+evolutionary time, the use of coercive means to gain sexual
+access to unconsenting women increased the reproductive
+fitness for males but not for females. Differences in evolved
+sexual strategies (Buss & Schmitt, 1993; Trivers, 1972) and
+evolved mental mechanisms between the sexes explain why
+women perceive more situations as sexual harassment or
+why more men are perpetrators of sexual harassment (Studd
+& Gattiker, 1991), why more males overperceive sexual
+intent from the opposite sex (Haselton, 2003), or why the
+same behavior by different men is perceived differently by
+women (Sheets & Braver, 1999).
+Evolved sex differences have been far more subject to
+investigation than individual differences, while there are
+greater behavioral differences within the same sex than
+between the sexes (Simpson & Gangestad, 1991). Currently,
+there is growing interest in evolved individual
+differences and explanations of within-sex differences
+(Buss & Hawley, 2010).
+This paper addresses whether there are evolved withinsex
+differences that predict sexual harassment and coercion
+of others and predictors of being harassed or coerced. Early
+findings (Bendixen & Kennair, 2008) suggest that there is a
+large overlap between those who harass others and those
+who are targets of harassment. The etiology of this is not
+understood, and it remains open to question whether
+harassing others increases the risk of being harassed (or
+vice versa) or whether harassing others and being a target of
+harassment share common individually differing antecedents.
+Who is harassed, and how are they identified as
+exploitable by harassers?
+Buss and Duntley (2008) suggest that there are different
+types of exploitation—and there will be different markers
+that suggest whether or not one is prone to being exploited in
+a specific area. Such areas of vulnerability are, therefore,
+person and context specific. Evolved mental mechanisms
+will be specifically orientated toward perceiving such signs
+of exploitability. For example, Sakaguchi and Hasegawa
+(2006) found that Japanese males used awkward gait as a cue
+to vulnerability for inappropriate touching. Moreover, the
+male subjects' judgments were able to predict real-life sexual
+harassment, as reported by the female walkers. Exploitability
+is thus a specific quality of an individual that conveys to
+potential exploiters the following information (Buss &
+Duntley, 2008).
+Sakaguchi and Hasegawa (2007) found that unexpected
+sexual attention was predicted by the targets' unrestricted
+sociosexuality as measured by Simpson and Gangestad's
+(1991) sociosexual orientation inventory (SOI; a stable
+individual behavioral and attitudinal characteristic that
+predicts sexual behavior across many different situations).
+Inappropriate touching of body parts was, however, not
+predicted by SOI. Hence, high-SOI persons are more
+subject to harassment, but not necessarily to coercion in
+this study.
+Individual differences in SOI are discernible to observers:
+SOI may be estimated through visual cues such as facial
+features and body language (Boothroyd, Jones, Burt,
+DeBruine, & Perrett, 2008; Gangestad, Simpson, DiGeronimo,
+& Biek, 1992; Sakaguchi & Hasegawa, 2007), and
+high-SOI females are rated to be more attractive than lowSOI
+females. In the light of Sexual Strategies Theory (Buss
+& Schmitt, 1993), the major sex difference in SOI (Schmitt,
+2005) is due to males being more open to short-term relations
+(Clark & Hatfield, 1989; Kennair, Schmitt, Fjeldavli, &
+Harlem, 2009), while females consider sexual relations more
+from a long-term perspective (Campbell, 2008; Haselton &
+Buss, 2001; Surbey & Conohan, 2000).
+Individuals with high SOI scores thus seem to signal their
+greater interest in short-term sexual affairs. These signals are
+perceived by others (Sakaguchi & Hasegawa, 2007).
+Compared to individuals with a restricted sociosexuality,
+they will, therefore, attract more sexual attention—not least
+from other unrestricted individuals of the opposite sex.
+If we compared two females—one with an unrestricted
+sociosexuality and one with lower SOI scores—in a
+social setting, we might find the following: unrestricted
+sociosexuality elicits much more sexual solicitations. If the
+numbers of solicitations were similar, the female with the
+480 L.E.O. Kennair, M. Bendixen / Evolution and Human Behavior 33 (2012) 479–490
+lower SOI scores would find more of these harassing, as
+fewer of the attempts to interest her in having casual sex
+would be desirable. But the total number of advances is
+expected to be significantly higher due to the female with
+higher SOI scores signaling availability, and not all of these
+are welcome; unrestricted females will not find all males
+attractive. This may add up to a higher total number of
+experienced harassing advances. In addition, intrasexual
+competition would put high-SOI subjects at a higher risk of
+being subject to insults, slander, rumors, and other forms of
+derogation (Schmitt & Buss, 1996). High-SOI subjects are
+expected to report more sexual harassment because they are
+the object of both unwanted sexual advances from members
+of the opposite sex as well as derogation from same-sex
+competitors. We suggest that the perpetrators might perceive
+their victim's unrestricted sociosexuality as a cue to
+exploitability; high-SOI subjects will signal harassability.
+High-SOI individuals are probably not aware of the effects of
+advertising their unrestricted sociosexuality to both desirable
+and undesirable potential sexual partners. It is the increased
+amount of undesirable partners that increases the high-SOI
+individuals' experience of harassability. While experiencing
+more harassment, signaling high SOI also increases the
+number of desirable sexual encounters.
+Haselton (2003) found that unrestricted sociosexuality
+was positively associated with the total number of misperceptions
+of sexual intention. Misperception and biased
+communication between the sexes might increase the level of
+perceived sexual harassment in society. Yost and Zurbriggen
+(2006) found that SOI predicted coercion. In their limited
+sample of adults, they also noted that females with high SOI
+scores had more fantasies about sexually dominating others.
+We posit that behavior described as sexual harassment is
+primarily behavior that intends to investigate whether the
+initial perception of an unrestricted sociosexuality is correct,
+and whether “hooking up” or other short-term sexual
+relations are possible. Thus, sexually laden communication
+that signals interest in physical aspects of sex and sexual
+surgency, rather than love and commitment, is the hallmark
+of these interactions. Individuals with a restricted sociosexuality
+will receive much less undesirable attention—due
+to not advertising an interest in casual sex and signaling
+exploitability (behavior that increases the number of
+undesired sexual advances) to the same degree.
+If the intention is to dominate or suppress, a perpetrator of
+sexual harassment ought to target individuals with restricted
+sociosexuality—as those individuals would be most upset by
+the behavior. We believe that the main intention is to solicit
+sex, and thus targeting individuals that advertise their
+unrestricted sociosexuality is the most effective strategy.
+Consequently, higher SOI scores will predict an increased
+likelihood of being harassed, despite a greater interest in
+receiving sexual attention from attractive partners. Furthermore,
+sexually aggressive and harassing behavior, understood
+as attempts to procure casual sex rather than a romantic
+relationship, is also predicted by increased SOI scores.
+In this study, the association between SOI and sexual
+harassment and coercion is examined using a large sample of
+gender egalitarian high school students in the context of
+more traditional social science variables. Exposure to
+pornography, coercive sexual attitudes, and sexist attitudes
+are all consistently found to correlate with self-reported
+coercion (Begany & Milburn, 2002; Glick & Fiske, 1996;
+Malamuth, Addison, & Koss, 2000; Yost & Zurbriggen,
+2006). For this reason, measures of porn exposure (type and
+frequency) as well as attitudes toward coercion (rape myths)
+and blatant, hostile sexism are included in our analysis. In
+addition, the analyses are extended to measures of being
+sexually harassed and coerced, as the prior literature on this
+particular issue is scarce.
+1.1. Predictions
+1. Based on Sakaguchi and Hasegawa's (2007) findings,
+we would expect that sociosexuality, as measured by
+SOI, is positively associated with self-reports of being
+sexually harassed among female respondents. Despite
+Sakaguchi & Hasegawa's finding that unrestricted
+sociosexuality did not predict touching, we expect
+theoretically that unrestricted females will signal their
+sociosexuality in such a manner that will also attract
+more coercion.
+2. Based on Yost and Zurbriggen's (2006) findings, we
+would expect that sociosexuality is positively associated
+with perpetration of sexual harassment and
+coercion among male respondents.
+3. We expect that the effect of SOI outlasts competing
+variables such as exposure to pornography, coercive
+sexual attitudes (rape myths), and sexism.
+Studies on female sexual harassers and coercers are
+scarce. This also holds true for male targets of these
+behaviors. We included female perpetrators as well as male
+targets, which enabled us to study how sociosexuality relates
+to both sexual harassment and coercion in male and female
+respondents as perpetrators and victims. The expectation of
+this exploratory perspective is that SOI also predicts male
+victims and female perpetrators. Our design also allows for
+the examination of SOI as a predictor of same-sex and
+opposite-sex sexual harassment.
+The competing social science predictions would suggest
+that if male dominance is the primary motivation for
+harassment, there should be very limited female harassment
+of males and same-sex harassment. In addition, competing
+predictions would suggest that other social factors such as
+coercive and sexist attitudes and porn exposure would
+outweigh the importance of SOI. The third alternative is
+Malamuth's (1996) confluence model, where both hostile
+masculinity and sexual promiscuity predict male coercion.
+This model combines feminist and evolutionary positions.
+L.E.O. Kennair, M. Bendixen / Evolution and Human Behavior 33 (2012) 479–490 481
+2. Method
+2.1. Design and subjects
+A cross-sectional study covering students enrolled in nine
+high schools was carried out in Central Norway. In total,
+1610 (49.3% of 3260 eligible for study) students responded
+to a web-based questionnaire. Ages ranged between 16 and
+26 (modal age 17 years). An age-homogeneous sample was
+created including only those aged 16 to 18 years (95% of the
+sample). Approximately 5% of the students were selfnominated
+non-Norwegians. Parents' level of education and
+employment status were used as indicators of socioeconomic
+status (SES). Half of the students reported that their parents
+had college or university education, and 85% reported both
+parents being employed. The final sample of 1199 students
+covered clearly trustworthy, consistent, valid, and selfnominated
+heterosexual respondents.
+2.2. Procedure
+The web-survey was carried out during November 2007.
+Parents and school staff received written information about
+the study, stating the purpose and content of the project.
+Written informed consent was collected from students and
+parents. Classroom arrangements ensured anonymity and
+confidentiality. The questionnaire and the procedure were
+approved by the Regional Ethics Committee and by the
+Norwegian Social Science Data Service.
+2.3. Measurements
+2.3.1. Independent variables
+2.3.1.1. Sociosexual orientation inventory. The study
+included three of the original five components described in
+Simpson and Gangestad (1991)1
+: (1) number of different
+partners in the past year; (2) number of different one-night
+stands ever; and (3) attitudes toward engaging in casual,
+uncommitted sex (three items). The scores were aggregated
+to indexes according to Simpson and Gangestad (1991).
+Each component's scores were standardized for each sex
+before totaling. Due to highly skewed distributions for the
+components measuring number of past partners, these scores
+were log-transformed before standardization. The components
+showed good internal consistency (Cronbach's α=.71
+and α=.72 for males and females, respectively). We
+aggregated the SOI scores into separate SOI-Behavior and
+SOI-Attitudes scales (Penke & Asendorpf, 2008; Webster &
+Bryan, 2007).
+2.3.1.2. Exposure to pornography (porn exposure). The
+subjects responded to three questions regarding whether
+they used erotica and pornography during the past year,
+including erotic magazines, X-rated movies or magazines,
+and triple-X-rated movies or magazines, and one on the
+frequency of use. Fifty-four percent of males and 2% of
+females reported weekly or more frequent use of erotica and
+porn. The four items were standardized before being
+aggregated to form the index “Porn Exposure.” Internal
+consistency for the index was acceptable (α=.66 and α=.72
+for males and females, respectively).
+2.3.1.3. Coercive (sexual) attitudes. We developed a nineitem
+instrument that measured beliefs and attitudes toward
+forced sex based on Lonsway and Fitzgerald's (1995) 19-
+item “Rape Myth Scale.” As this phenomenon is not
+restricted to female victimization, the items were revised to
+incorporate an equal number of items covering acts carried
+out toward males and females. The wording was changed to
+ease responding in younger populations. Five-point Likert
+scaling was used. Internal consistency was excellent (α=.86
+for males and α=.88 for females). High scores on this index
+reflect denial of the negative consequences of being forced to
+have sex, attributing responsibility to victims of sexual
+exploitation, and mistrusting the motives for reporting the
+offence to the police.
+2.3.1.4. Classical sexism. We used Ekehammar, Akrami,
+and Araya's (2000) seven-item instrument on classical
+sexism developed for and validated on Scandinavian
+samples. Five-point Likert scaling was applied. Internal
+consistency was good (α=.78 for males and α=.74 for
+females). High scores reflect approval of sex division of
+labor, and blatant negative beliefs about women's logical
+reasoning and skills.
+2.3.1.5. SES. A four-point scale measured students'
+parent's highest level of education (separate items for
+mother and father). In addition, parent's work status
+(“none working,” “mother only working,” “father only
+working,” “both working”) was reported. The items were
+standardized before aggregation.
+2.3.2. Outcome variables: sexual harassment and coercion
+The index for measuring sexual harassment and aggression
+was partly based on the work of Witkowska and
+Kjellberg (2005) that was developed for use in Scandinavian
+teenage populations. This work built upon Fitzgerald,
+Gelfand, and Drasgow (1995) and covered the basic
+dimensions of unwanted sexual behavior including indirect
+nonverbal forms of sexual harassment but excluding
+coercion. In the present nine-item instrument, we added
+two items on “digital” harassment (“having received phone
+calls, cell phone text messages, cell phone multimedia
+messages or e-mail or chat with explicit sexual content” and
+“someone distributed pictures of you with sexual content on
+1 Due to sample characteristics, the items “Number of foreseen sexual
+partners” and “Frequency of sexual fantasy with other than your current
+partner” were omitted. Thirty-six percent of females and 46% of males
+reported not having had first intercourse, and 67% of females and 79% of
+males reported not “going steady.” The two items were omitted due to
+questionable relevance.
+482 L.E.O. Kennair, M. Bendixen / Evolution and Human Behavior 33 (2012) 479–490
+the internet or through cell phones”) to the indirect
+dimension. Coercion included four items on the use of
+explicit physical force (sexual squeezing, touching of
+genitals, kissing, and intercourse/oral sex). To ease responding,
+we reduced the number of response alternatives to
+“never,” “once,” or “twice or more.” The inventory first
+addressed being subject to various forms of sexually
+unwanted behavior with the following instruction: “Below
+you'll find some questions regarding your experiences with
+unwanted sexual attention and harassment from others.
+Please report only those acts that were offensive, unpleasant
+or that you clearly felt were unwanted.” The intention was to
+avoid overreporting of insignificant and approved sexual
+attention. The social context was not restricted to the school
+environment. In five of the items, subjects were asked to
+indicate who performed the behavior and in which social
+context the behavior took place (at school and/or outside
+school). This enabled us to examine separately the correlates
+of being targeted by same-sex or opposite-sex peers for a
+subsample of harassing/coercive items. In the subsequent
+section of the questionnaire, the subjects were asked
+equivalent questions about their sexual harassment and
+coercion of others.
+The 13 items on being sexually harassed and coerced
+were dichotomized (Yes/No) before being aggregated into
+two indexes. Internal consistency was acceptable for the
+nine-item Sexually Harassed Scale (α=.73 for males and
+α=.76 for females) but low for the four-item Sexually
+Coerced Scale (α=.48 for males and α=.63 for females). The
+Sexually Coerced Scale was dichotomized into No/Yes
+scores for analysis.
+The 13 items measuring sexually harassing and coercing
+others were dichotomized (Yes/No) before being aggregated
+into their respective indexes. Internal consistency was
+acceptable for the nine-item Sexually Harassing Scale
+(α=.76 for males and α=.70 for females) but low for the
+Sexually Coercive Scale (α=.48 for males and α=.40 for
+females). The Sexually Coercive Scale was dichotomized
+into No/Yes scores for analysis.
+2.4. Analyses
+Sex differences were calculated using Cohen's Effect Size
+(ES) formulas for continuous variables (d) and proportions
+(h). Associations among predictors and between predictors
+and outcome variables were measured using Pearson r. We
+follow Cohen's (1988) standards for ES values and r.
+Sequential regression analysis was performed on Being
+Sexually Harassed and on Sexually Harassing Others using
+SOI-Behavior and SOI-Attitudes (Block 1), Porn Exposure
+(Block 2), and Coercive Sexual Attitudes and Classical
+Sexism (Block 3) as predictors. Interaction terms (SOI
+components×Porn Exposure, SOI components×Coercive
+Attitudes, and SOI components×Classical Sexism) and the
+effect of age-cohort were added as predictors in Block 4. The
+regressions were regularly checked for standardized residuals,
+and outliers outside ±3 S.D. removed. For the two
+dichotomous variables on coercion, we adapted direct
+logistic regression analyses on the five predictors. Assumptions
+were checked throughout (using the Hosmer and
+Lemeshow test), and outliers were removed. All analyses
+were performed separately for each sex.
+3. Results
+3.1. Descriptives
+Males reported markedly more lenient attitudes toward
+unrestricted sex than females (Table 1), which held true
+across all attitude items. Small sex differences were evident
+for the behavior variables measuring the number of different
+sex partners reported in the past year. This was due to a larger
+proportion of females (63.4%) than males (47.7%) reporting
+having at least one sex partner during the past year. The
+average number of different partners in the past year among
+those who reported having had sexual partners was slightly
+higher for males (M=2.6) than for females (M=2.1). Similar
+effects were evident for the variable measuring the number
+of different one-night stands. The proportion of one-night
+stands was slightly higher for females than for males (45.9%
+vs. 40.8%), but the average number of one-night stands was
+similar among those who reported one or more one-night
+stands (males M=2.2 and females M=2.1).
+A much higher proportion of males reported consuming
+erotic magazines as well as soft-core and hard-core
+pornography. In particular, the frequency of exposure to
+erotica and pornographic magazines and movies was
+markedly higher for males than for females (d=1.79). Male
+respondents also reported more lenient attitudes toward
+coercive sex (M=2.61) compared to female respondents
+(M=2.08), producing a moderately high effect size.
+Females reported being slightly more sexually harassed
+than males, and far more females than males reported being
+coerced (42% of females vs. 26% of males) (Table 1). The
+effect sizes for these sex differences were small to moderate.
+A moderate sex effect was found for harassing and coercing
+others as male respondents reported stronger involvement in
+both harassing others and the use of coercion (10% of males,
+3% of females).
+3.2. Correlations
+The two SOI components were significantly associated
+with Porn Exposure for both sexes (r's ranging from .11 to
+.25). The SOI components were insignificantly associated
+with Coercive Attitudes and Classical Sexism in females. In
+males, the behavioral component of SOI was marginally
+associated with Coercive Attitudes (r=.08), but both SOI
+components were significantly associated with Classical
+Sexism. Furthermore, Porn Exposure was not significantly
+associated with Coercive Attitudes in either sex and only
+weakly associated with Classical Sexism in males (r=.09).
+L.E.O. Kennair, M. Bendixen / Evolution and Human Behavior 33 (2012) 479–490 483
+Coercive Attitudes and Sexism were moderately associated
+in males and females (r=.30). The outcome variables Being
+Harassed and Harassing Others were moderately associated
+with the SOI components and Porn Exposure in females and
+males. The corresponding associations with Coercive
+Attitudes and Classical Sexism were nonsignificant in
+females, and between r=.09 and r=.23 in males (Table 2).
+Being coerced was moderately associated with the SOI
+components and Porn Exposure in females. These associations
+were significant but weaker in males. However, both
+Coercive Attitudes and Sexism correlated significantly with
+being coerced in males. Being coercive was insignificantly
+associated with the SOI components, Porn Exposure, and
+Sexism in females and only weakly associated with Coercive
+Table 2
+Zero-order correlations (Pearson r) among the scales
+2 3 45 6 7 8 9
+Scales Females (n=542–600)
+1. SOI-Behavior (2) .39⁎⁎⁎ .24⁎⁎⁎ .02 .03 .31⁎⁎⁎ .26⁎⁎⁎ .18⁎⁎⁎ .07
+2. SOI-Attitudes (3) .19⁎⁎⁎ −.06 −.02 .24⁎⁎⁎ .13⁎⁎ .17⁎⁎⁎ .04
+3. Porn Exposure (4) .03 .03 .30⁎⁎⁎ .22⁎⁎⁎ .29⁎⁎⁎ .05
+4. Coercive Attitudes (9) .30⁎⁎⁎ .02 .01 .05 .10⁎
+5. Classical Sexism (7) .02 .04 .00 .07
+6. Sexually Harassed (9) .54⁎⁎⁎ .63⁎⁎⁎ .22⁎⁎⁎
+7. Sexually Coerced (4) .34⁎⁎⁎ .18⁎⁎⁎
+8. Sexually Harassing (9) .28⁎⁎⁎
+9. Sexually Coercive (4)
+Males (n=511–593)
+1. SOI-Behavior (2) .32⁎⁎⁎ .11⁎ .08† .10⁎ .29⁎⁎⁎ .11⁎ .22⁎⁎⁎ .06
+2. SOI-Attitudes (3) .25⁎⁎⁎ .04 .15⁎⁎⁎ .21⁎⁎⁎ .11⁎ .30⁎⁎⁎ .09⁎
+3. Porn Exposure (4) .06 .09⁎ .23⁎⁎ .12⁎⁎ .28⁎⁎⁎ .12⁎⁎
+4. Coercive Attitudes (9) .30⁎⁎⁎ .12⁎⁎ .09⁎ .16⁎⁎ .13⁎⁎
+5. Classical Sexism (7) .18⁎⁎⁎ .17⁎⁎⁎ .23⁎⁎⁎ .11⁎⁎
+6. Sexually Harassed (9) .42⁎⁎⁎ .65⁎⁎⁎ .26⁎⁎⁎
+7. Sexually Coerced (4) .38⁎⁎⁎ .34⁎⁎⁎
+8. Sexually Harassing (9) .39⁎⁎⁎
+9. Sexually Coercive (4)
+Numbers in parenthesis are number of scale items.
+† pb.10.
+⁎ pb.05.
+⁎⁎ pb.01.
+⁎⁎⁎ pb.001.
+Table 1
+Mean variable and scale scores and S.D. for females (n=566–600) and males (n=530–595) with gender effect sizes (Cohen's d and h)
+Scales Females Males t/χ2 ES
+Mean S.D. Mean S.D.
+1. SOI components
+a. N of different partners (0–30) 1.34 2.01 1.22 2.13 0.90 −.07
+b. N of different one-night stands (0–15) 0.98 1.58 0.88 1.57 1.11 −.05
+c. SOI-Attitudes (1–10) 4.25 2.22 6.07 2.42 −13.53⁎⁎⁎ .79
+2. Exposure to pornography
+a. Erotic magazines (0, 1) 0.17 0.37 0.29 0.46 a 25.45⁎⁎⁎ b
+.29
+b. Soft-core (X-rated) (0, 1) 0.34 0.47 0.79 0.41 a 243.12⁎⁎⁎ b
+.94
+c. Hard-core (XXX-rated) (0, 1) 0.16 0.37 0.73 0.45 a 380.28⁎⁎⁎ b
+1.23
+d. Frequency exposure (1, 5) 1.59 0.70 3.31 1.17 −30.84⁎⁎⁎ 1.79
+3. Coercive Sexual Attitudes (1–5) 2.08 0.76 2.61 0.75 −11.92⁎⁎⁎ .69
+4. Classical Sexism (1–5) 1.99 0.47 2.68 0.61 −22.02⁎⁎⁎ 1.27
+5. Sexually Harassed (0–1) 0.30 0.25 0.27 0.24 1.91† −.11
+6. Sexually Coerced (0, 1) 0.42 0.49 0.26 0.44 a 33.81⁎⁎⁎ b
+−.34
+7. Sexually Harassing (0–1) 0.12 0.17 0.21 0.22 −7.33⁎⁎⁎ .42
+8. Sexually Coercive (0, 1) 0.03 0.17 0.10 0.30 a 26.05⁎⁎⁎ b
+.30
+Numbers in parenthesis are range of scores (continuous [–] and category [,]). a χ2 for 2×2 tables. b Effect sizes (h) are for proportions.
+† pb.10.
+⁎⁎⁎ pb.001.
+484 L.E.O. Kennair, M. Bendixen / Evolution and Human Behavior 33 (2012) 479–490
+Attitudes. Corresponding associations for males were
+generally weak but significant (nonsignificant only for
+SOI-Behavior). The two components of SOI were moderately
+associated, but the disattenuated correlations (assuming
+no measurement errors) were strong (.56 for females and .47
+for males). Despite the lower number of scale items, these
+associations were highly comparable to those reported by
+Webster and Bryan (2007) for latent constructs. Finally, we
+found that being harassed was substantially associated with
+harassing others in the male and female samples (r's above
+.60). This finding indicates that there was a large overlap
+between targets and perpetrators of sexual harassment in
+these samples. Although the correlations were lower, this
+also held for dichotomously coded sexual coercion scales.
+Adding to the complexity of this phenomenon, males and
+females who reported being exposed to high levels of sexual
+harassment also tended to report being coerced (r=.54 for
+females and r=.42 for males). Neither the student's SES nor
+their age cohort showed any association with the sexual
+harassment or coercion scales, although the latter correlated
+weakly with the SOI components.
+3.3. Predictors of being sexually harassed
+A hierarchical multiple regression was performed between
+being sexually harassed and SOI-Behavior and SOI-Attitudes
+in Block 1 (Model 1), Porn Exposure in Block 2 (Model 2),
+and Coercive Attitudes and Classical Sexism in Block 3
+(Model 3). This allowed for the study of mediator effects and
+direct tests of Prediction 3. Interaction effects and the effect of
+age-cohort over and beyond that of the SOI components were
+entered in Block 4. Table 3 displays the unstandardized
+regression coefficients (B), standard error of the B, standardized
+regression coefficients (β), the corresponding t values,
+and the level of significance for each predictor at each step of
+the analysis. Having an unrestricted sociosexual orientation
+markedly increased the risk of being harassed in females. The
+effect was stronger for the behavioral component of the SOI
+than for the attitudinal component. As can be seen from Table
+3, the SOI components remained significant even after
+controlling for the contribution of the other variables (but the
+effect of SOI-Attitudes was only marginally significant in
+Model 2 and Model 3, pb.10). As seen in the lower panel of
+Table 3, the two SOI components accounted for fully 11.2%
+of the variance in being harassed in Model 1 (adjusted R2 was
+10.9%). Porn Exposure significantly predicted being harassed,
+adding 5.2% to the explained variance over and above
+that of SOI. Porn Exposure also mediated some of the effect
+of SOI-Attitudes. As would be expected from the zero-order
+correlations, Coercive Attitudes and Classical Sexism did not
+contribute to the prediction. None of the interactions
+significantly predicted being harassed, and age-cohort did
+not contribute to the explained variance over and above that
+of SOI and Porn Exposure.
+Similar to the results in the female sample, males with an
+unrestricted sociosexual orientation were more likely to be
+sexually harassed (Table 4). Again, the behavioral component
+was a far better predictor for being sexually harassed than the
+attitudinal component. The two SOI components accounted for
+9.3% of the variance in being harassed. Adding Porn Exposure
+at Step 2 significantly increased the explained variance, but the
+effect of the SOI variables remained significant (SOI-Attitudes
+only marginally, pb.10). Entering Coercive Attitudes and
+Classical Sexism at Step 3 contributed significantly to the
+explained variance of being sexually harassed for males
+(1.4%), but only the latter reached significance. None of the
+interactions (or age-cohort) contributed to the explained
+variance in being sexually harassed.
+3.3.1. Predictors of being sexually harassed by same-sex or
+opposite-sex peers
+Descriptive analysis on the reduced four-item harassed
+scale showed that same-sex harassment was more prevalent
+than opposite-sex harassment for males. For females,
+Table 3
+Predictors of being sexually harassed
+Predictors Model 1 Model 2 Model 3
+B S.E. B β t B S.E. B β t B S.E. B β t
+Block 1
+SOI-Behavior .077 .012 .278 6.35⁎⁎ .064 .012 .234 5.41⁎⁎ .065 .012 .235 5.41⁎⁎
+SOI-Attitudes .012 .005 .106 2.41⁎ .009 .005 .079 1.85† .009 .005 .078 1.80†
+Block 2
+Porn Exposure .078 .013 .235 5.85⁎⁎ .078 .013 .236 5.85⁎⁎
+Block 3
+Coercive Sexual Att. −.005 .013 −.016 −0.39
+Classical sexism .003 .022 .006 0.15
+F change 35.05⁎⁎ 34.22⁎⁎ .08
+R² change .112 .052 .000
+R² adjusted .109 .160 .157
+Females (n=555).
+† pb.10.
+⁎ pb.05.
+⁎⁎ pb.01.
+L.E.O. Kennair, M. Bendixen / Evolution and Human Behavior 33 (2012) 479–490 485
+opposite-sex harassment was more prevalent. This is
+consistent with the finding that males reported stronger
+involvement in sexual harassment of others (Table 1). The
+overlap for being harassed by a male peer as well as by a
+female peer was considerable (r=.71 for both sexes). To
+study the effect of the four predictors of same-sex and
+opposite-sex harassment in male and female respondents, we
+carried out four separate multiple regressions (Table 5).
+The behavior component of SOI turned out to be a
+consistent predictor for same-sex and opposite-sex harassment
+in both sexes. This was also true for Porn Exposure.
+The attitudes component of SOI was significant only for
+opposite-sex harassment in male respondents when the other
+predictors were included in the model. Coercive Sexual
+Attitudes failed to predict same-sex or opposite-sex
+harassment, and Classical Sexism was a marginal predictor
+only for opposite-sex harassment in males (pb.10).
+3.4. Predictors of sexually harassing others
+For female respondents, the attitudinal and behavioral
+components of SOI were significantly associated with
+harassing others. The effect of the two SOI predictors was
+equal, suggesting that higher scores on SOI-Behavior or
+SOI-Attitudes were related to stronger involvement in
+harassing others. The SOI components accounted for 4.3%
+of the variance in the outcome variable. Porn Exposure was
+positively associated with harassing others and added 6.4%
+to the explained variance. Porn Exposure mediated some of
+the effects of the SOI components, but SOI still predicted
+harassing others in the final model. Coercive Attitudes and
+Classical Sexism was not related to the outcome variable
+(Model 3). None of the interactions turned out to be
+significantly related to harassment (or age-cohort) and hence
+are not reported here (Table 6).
+Similar to the female sample, males' scores on the SOI
+components predicted sexual harassment of others, explaining
+9.6% of the variance. As can be seen in Table 7, Porn
+Exposure added 4.3% to the explained variance. Adding
+Porn Exposure to the equation did, however, not influence
+the effect of the two SOI components. Throughout the
+three models, SOI-Attitudes was the stronger predictor of
+the two SOI components. Adding Coercive Attitudes and
+Classical Sexism in Block 3 gave a significant increase
+in the explained variance (3.3%) over and above that of
+SOI and Porn Exposure, but the effect of the prior
+predictors remained unaffected. None of the interactions
+or age cohort was significantly associated with harassing
+others in male respondents.
+3.5. Predictors of being coerced
+A direct logistic regression analysis was performed on
+being coerced (no/yes) as outcome and the two SOI
+components, Porn Exposure, Coercive Attitudes, and
+Classical Sexism as predictors. Through a simple Wald
+Table 4
+Predictors of being sexually harassed
+Predictors Model 1 Model 2 Model 3
+B S.E. B β t B S.E. B β t B S.E. B β t
+Block 1
+SOI-Behavior .061 .011 .237 5.37⁎⁎ .060 .011 .231 5.31⁎⁎ .058 .011 .224 5.17⁎⁎
+SOI-Attitudes .013 .004 .129 2.92⁎⁎ .009 .004 .088 1.97⁎ .007 .004 .074 1.64†
+Block 2
+Porn Exposure .061 .015 .176 4.14⁎⁎ .058 .015 .168 3.98⁎⁎
+Block 3
+Coercive Sexual Att. .013 .014 .039 0.91
+Classical Sexism .041 .017 .104 2.40⁎
+F change 26.47⁎⁎ 17.13⁎⁎ 4.30⁎
+R2 change .093 .029 .014
+R2 adjusted .089 .117 .128
+Males (n=520).
+† pb.10.
+⁎ pb.05.
+⁎⁎ pb.01.
+Table 5
+Predictors of same-sex and opposite-sex sexual harassment by peers
+(reduced four-item scale)
+Same sex Opposite sex
+β t β t
+Females
+SOI-Behavior .137 3.00⁎⁎ .123 2.71⁎⁎
+SOI-Attitudes −.003 −.10 .062 1.38
+Porn Exposure .138 3.20⁎⁎ .190 4.50⁎⁎
+Coercive Sexual Attitudes −.007 −.16 −.070 −1.62
+Classical Sexism −.063 −1.44 −.043 −1.01
+Males
+SOI-Behavior .125 2.81⁎⁎ .217 4.97⁎⁎
+SOI-Attitudes .061 1.33 .102 2.27⁎
+Porn Exposure .177 4.06⁎⁎ .148 3.49⁎⁎
+Coercive Sexual Attitudes .005 .10 .052 1.21
+Classical Sexism .058 1.29 .078 1.78†
+† pb.10.
+⁎ pb.05.
+⁎⁎ pb.01.
+486 L.E.O. Kennair, M. Bendixen / Evolution and Human Behavior 33 (2012) 479–490
+test, an evaluation of individual predictors' contribution to a
+model is made available. The test is considered conservative
+(increased type II error) (Tabachnick & Fidell, 2001). The
+logistic regression for female respondents (n=557) showed
+that high scores on SOI-Behavior, but not SOI-Attitudes,
+significantly increased the odds of being coerced by 70%
+(Wald [χ2
+]=22.11, df=1, pb.001, OR=1.7). Porn Exposure
+increased the risk of being coerced by 1.6 (Wald=14.03,
+df=1, pb.001). Coercive Attitudes and Classical Sexism did
+not predict being coerced in female respondents. The effect
+of interactions and age-cohort was nonsignificant. The
+predictors accounted for 12.3% (Nagelkerke R2
+) of the
+variance in being coerced, correctly identifying 42.8% of the
+observed coerced cases.
+For male respondents (n=527), the odds of being coerced
+was marginally significantly associated with Porn Exposure
+(Wald=3.34, df=1, pb.10, OR=1.3). The SOI components
+did not predict being coerced, nor did Coercive Attitudes.
+The best predictor for being coerced was Classical Sexism
+(Wald=6.82, df=1, pb.01, OR=1.6)—none of the interactions
+(nor age-cohort) were significantly associated to being
+coerced. The predictors accounted for only 5.7% of the
+variance, correctly identifying only 4 of the 134 cases of men
+that reported being coerced.
+3.5.1. Predictors of being coerced by same-sex or
+opposite-sex peers (one item)
+Female respondents reported being sexually squeezed far
+more by male peers than by female peers (18.6% and 2%,
+respectively). The corresponding figures for males were
+5.6% (same-sex peer) and 7.3% (opposite-sex peer).
+Evidently, not only males are involved in this form of
+coercion, but coercion is essentially a male toward female
+phenomenon. For this reason, the analysis discussed below is
+restricted to females (n=555) reporting on unwanted sexual
+squeezing from male peers. None of the other logistic
+regression analyses (female on female, male on male, female
+on male) produced any meaningful or reliable results. The
+Table 6
+Predictors of sexually harassing others
+Predictors Model 1 Model 2 Model 3
+B S.E. B β t B S.E. B β t B S.E. B β t
+Block 1
+SOI-Behavior .026 .009 .134 2.96⁎⁎ .016 .008 .085 1.90† .016 .009 .083 1.86†
+SOI-Attitudes .009 .004 .114 2.52⁎ .007 .003 .085 1.92† .007 .003 .088 1.99⁎
+Block 2
+Porn Exposure .060 .010 .261 6.30⁎⁎ .060 .010 .260 6.26⁎⁎
+Block 3
+Coercive Sexual Att. .009 .010 .040 0.95
+Classical Sexism −.007 .016 −.019 −0.45
+F change 12.62⁎⁎ 39.65⁎⁎ .47
+R2 change .043 .064 .002
+R2 adjusted .040 .102 .101
+Females (n=558).
+† pb.10.
+⁎ pb.05.
+⁎⁎ pb.01.
+Table 7
+Predictors of sexually harassing others
+Predictors Model 1 Model 2 Model 3
+B S.E. B β t B S.E. B β t B S.E. B β t
+Block 1
+SOI-Behavior .031 .010 .135 3.09⁎⁎ .030 .010 .129 3.01⁎⁎ .027 .010 .117 2.79⁎⁎
+SOI-Attitudes .021 .004 .238 5.45⁎⁎ .017 .004 .187 4.26⁎⁎ .015 .004 .167 3.85⁎⁎
+Block 2
+Porn Exposure .066 .013 .214 5.10⁎⁎ .063 .013 .201 4.89⁎⁎
+Block 3
+Coercive Sexual Att. .023 .012 .079 1.89†
+Classical Sexism .051 .015 .145 3.42⁎⁎
+F change 27.72⁎⁎ 26.02⁎⁎ 10.39⁎⁎
+R² change .096 .043 .033
+R² adjusted .092 .133 .163
+Males (n=527).
+† pb.10.
+⁎⁎ pb.01.
+L.E.O. Kennair, M. Bendixen / Evolution and Human Behavior 33 (2012) 479–490 487
+results closely mirrored those reported above for females
+being coerced. While SOI-Behavior significantly increased
+the odds of being coerced by a man by 1.4 (Wald=6.06, df=1,
+pb.05), SOI-Attitudes was not related to the odds of being
+coerced by a man over and above the other predictors. Porn
+Exposure marginally increased the odds of being coerced
+(Wald=2.99, df=1, pb.10, OR=1.3), while Coercive Attitudes
+and Classical Sexism failed to predict being coerced by
+a man. The overall explained variance accounted for by the
+predictors was low, only 4.1%.
+3.6. Predictors of coercing others (males only)
+Since only 3% of the female sample reported being
+physically coercive, meaningful predictions could only be
+performed for males. Applying a hierarchic logistic regression
+analysis to prediction of being coercive (regardless of
+sex of target) showed that neither of the two SOI components
+predicted coercion in male respondents. Only Porn Exposure
+(Wald=4.38, df=1, pb.05, OR=1.7) and Coercive Attitudes
+predicted coercion (Wald=4.31, df=1, pb.05, OR=1.6). None
+of the interactions were significant. Overall, the predictors
+accounted for merely 6.4% of the variance in being
+physically coercive, but none of the 54 observed cases of
+coercion were correctly identified.
+4. Discussion
+In summary, SOI (especially the behavioral component)
+proved to be consistently associated with being sexually
+harassed in female respondents, in strong support of our
+first prediction. In addition, the behavioral component of
+SOI significantly predicted same-sex and opposite-sex
+harassment. Expanding earlier findings (Sakaguchi &
+Hasegawa, 2007), SOI (behavior) was found to be
+consistently associated in both harassed and harassing
+female respondents. SOI (behavior) and Porn Exposure
+predicted being coerced in females. Any other finding
+would challenge our idea that unrestricted sociosexuality is
+signaled and thus attracts those seeking short-term sexual
+relations. Our second prediction was partly supported, as
+SOI consistently predicted male sexual harassment. However,
+SOI did not predict coercive behavior in men. In
+support of our third prediction, the effect of SOI remained a
+significant predictor of sexual harassment when the effect of
+porn exposure, coercive attitudes, and classical sexism was
+accounted for. This suggests, as we predicted, that
+harassment is due to sexual motivation rather than power.
+This is further sustained through the bivariate associations
+among the predictors. SOI was moderately associated with
+the use of pornography (suggesting sexual interest or
+desire), while Coercive Attitudes—reflecting the acceptance
+of physical force to obtain sexual access—and Classical
+Sexism were consistently not associated with either SOI or
+the use of pornography.
+Our exploratory analyses regarding female perpetrators
+of sexual harassment evince similar patterns as in males,
+underscoring the importance of SOI as a consistent
+predictor for sexual harassment. Too few females reported
+coercion to perform any meaningful analyses. Similarly to
+females being sexually harassed, SOI consistently predicted
+being harassed in males. This was particularly
+evident for opposite-sex harassment and also for same-sex
+harassment (SOI-Behavior). SOI did not predict being
+coerced in males.
+It would seem, therefore, as predicted, that unrestricted
+sociosexuality increases exploitability for sexual
+harassment among males and females. Furthermore, an
+interest in sex, but with less interest in emotional
+relations and commitment, increases the likelihood of
+harassing others.
+The competing prediction suggesting that male dominance
+over females is the primary motivation for harassment
+was largely unsupported in this study. Not only was female
+harassment of males quite prevalent, so too was same-sex
+peer harassment. In addition, other competing social factors
+did not outweigh the importance of sociosexual orientation
+in explaining variations in sexual harassment for either of the
+sexes. The finding that does not fit the general pattern is that
+SOI did not predict coercive behavior in males when
+controlling for porn exposure, coercive attitudes, and sexism.
+Our findings lend some support to Malamuth's (1996)
+confluence model for coercive behavior, but not harassment.
+One of the intriguing findings from our study was that the
+vast majority of male and female harassers also reported
+being harassed. Seeing the particularly strong overlap
+between harassing others and being harassed in relation to
+the fact that unrestricted sociosexuality significantly contributed
+to variations in both being harassed and harassing,
+one could speculate that SOI is one of several possible
+common factors for perpetrators as well as for victims of
+sexual harassment. When we tested this contention by
+partialling out the effect of SOI on the association between
+harassing others and being harassed, we found that SOI
+accounted for only a fraction of the common variance shared
+by these two variables.
+The main idea behind our predictions was the
+hypothesis that harassment is an unrestricted sociosexual
+style of behavior, aimed at testing out whether a potential
+sexual partner is available for a short-term sexual
+encounter, and that perceived harassment behavior to a
+large degree is motivated by a desire for sex. However,
+many instances of harassment in our study were cases of
+same-sex harassment. This may be understood from a
+similar perspective. It is an example of sexual surgency or
+dominance, and sexual competitiveness (Campbell, 2004).
+Thus, the logic of the evolved psychology of derogation
+(Schmitt & Buss, 1996) is relevant for understanding this
+behavior. Same-sex harassment (mainly derogation) may
+be understood as competition for the sexual interest of
+onlookers with similar unrestricted sociosexuality, who
+488 L.E.O. Kennair, M. Bendixen / Evolution and Human Behavior 33 (2012) 479–490
+find these persons sexually attractive because of their
+flaunted sexual surgency.
+This study considered responses from both sexes on
+questions regarding harassing others and being harassed. In
+addition, the variety of actions covered by this study
+allows for an analysis of both sexual harassment and
+coercion. The present results from a younger sample, a
+much more homogenous, gender egalitarian culture, in a
+nonworkplace setting, provide a novel testing ground for
+less established power relations and sex roles than previous
+investigations—and cannot merely be dismissed due to
+lack of gender equality (e.g., Eagly & Wood, 1999). Notably,
+harassment was rather frequent in this more egalitarian
+setting. The results replicate previous findings (Malamuth,
+Sockloskie, Koss, & Tanaka, 1991; Sakaguchi & Hasegawa,
+2007; Yost & Zurbriggen, 2006) and also expand these
+findings to include female harassers and male victims, as well
+as suggest that sexual interest is the major driving force
+behind harassment.
+4.1. Limitations and future research
+Despite having a large and comprehensive data set of
+high school students, we need to restrict our current
+inferences to young people in sexually liberal and gender
+egalitarian societies with a high degree of porn exposure and
+availability. In addition, our study was cross-sectional,
+and in order to examine the etiology of sexual harassment
+and coercion, one needs to apply panel designs following the
+same students over time—as only a prospective, longitudinal
+design may address causality. Finally, our measure of
+attitudes toward coercion was based on prior measures of
+rape myths, which may have been too restricted for our
+purpose as the main attitude object was rape. As coercion
+involves numerous acts of physical force—rape being one
+extreme act—an attitudinal measure covering a broader set
+of forced sex may have produced partly different results. On
+the other hand, and unlike prior use of measurements for
+rape myths, our measure was not restricted to attitudes
+toward females.
+4.2. Conclusion
+While more boys sexually harass and coerce than girls,
+both sexes commit sexual harassment and coercive acts. And
+while many different negative precursors and correlates have
+been suggested, it would seem that the main motive is an
+interest in short-term sex—indicated by an unrestricted
+sociosexuality. This same characteristic also causes behavior
+that advertises an interest in sex, increasing the attraction of
+nonattractive partners. Furthermore, these individuals probably
+have an increased interest in sexual competition, thus
+both being subject to and partaking in same-sex derogation.
+Thus, an unrestricted sociosexual orientation is related to
+both harassing behavior and being a victim of harassment in
+high school.
+References
+American Association of University Women (2001). Hostile hallways:
+bullying, teasing, and sexual harassment in school. Washington, DC:
+American Association of University Women.
+Begany, J. J., & Milburn, M. A. (2002). Psychological predictors of sexual
+harassment: authoritarianism, hostile sexism, and rape myths. Psychology
+of Men & Masculinity, 2, 119–126.
+Bendixen, M., & Kennair, L. E. O. (2008). Seksuell trakassering blant
+elever og ansatte i videregående skole: En resultatrapport [Sexual
+harassment among students and staff in high school: a result report].
+Trondheim: Norwegian University of Science and Technology (NTNU).
+Boothroyd, L. G., Jones, B. C., Burt, D. M., DeBruine, L. M., & Perrett, D. I.
+(2008). Facial correlates of sociosexuality. Evolution and Human
+Behavior, 29, 211–218.
+Browne, K. R. (2006). Sex, power, and dominance: the evolutionary
+psychology of sexual harassment. Managerial and Decision Economics,
+27, 145–158.
+Buss, D. M. (1996). Sexual conflict: evolutionary insight into feminism and
+the “Battle of the sexes”. In D. M. Buss, N. M. Malamuth (Eds.), Sex,
+power, conflict: evolutionary and feminist perspectives (pp. 296–318).
+New York: Oxford University Press.
+Buss, D. M., & Duntley, J. D. (2008). Adaptations for exploitation. Group
+Dynamics Theory Research and Practice, 12, 53–62.
+Buss, D. M., & Hawley, P. H. (Eds.) (2010). The evolution of personality and
+individual differences. New York, NY: Oxford University Press.
+Buss, D. M., & Kenrick, D. T. (1998). Evolutionary social psychology.
+In D. T. Gilbert, S. T. Fiske, & G. Lindzey (Eds.),The handbook of social
+psychology, 4th ed., Vol. II. (pp. 982–1026). Boston, MA: McGraw-Hill.
+Buss, D. M., & Schmitt, D. P. (1993). Sexual strategies theory: an evolutionary
+perspective on human mating. Psychological Review, 100, 204–232.
+Buss, D. M., & Schmitt, D. P. (2011). Evolutionary psychology and
+feminism. Sex Roles, 64, 768–787.
+Campbell, A. (2004). Female competition: causes, constraints, content, and
+context. The Journal of Sex Research, 41, 16–26.
+Campbell, A. (2008). The morning after the night before: affective reactions
+to one-night stands among mated and unmated women and men. Human
+Nature, 19, 157–173.
+Clark, R. D., & Hatfield, E. (1989). Gender differences in receptivity to
+sexual offers. Journal of Psychology and Human Sexuality, 2,
+39–55.
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences.
+(2nd ed.). Hilldale, NJ: Lawrence Erlbaum Associates Publishers.
+Eagly, A. H., & Wood, W. (1999). The origins of sex differences in human
+behavior. American Psychologist, 54, 408–423.
+Ekehammar, B., Akrami, N., & Araya, T. (2000). Development and
+validation of Swedish classical and modern sexism scales. Scandinavian
+Journal of Psychology, 41, 307–314.
+Fitzgerald, L. F. (1993). Sexual harassment: violence against women in the
+workplace. American Psychologist, 48, 1070–1076.
+Fitzgerald, L. F., Collinsworth, L. L., & Harned, M. S. (2001). Sexual
+harassment. In J. Worell (Ed.), Encyclopedia of women and gender:
+sex similarities and differences and the impact of society and gender
+(pp. 991–1004). Boston, MA: Academic Press.
+Fitzgerald, L. F., Gelfand, M. J., & Drasgow, F. (1995). Measuring sexual
+harassment: theoretical and psychometric advances. Basic and Applied
+Social Psychology, 17, 425–445.
+Gangestad, S. W., Simpson, J. A., DiGeronimo, K., & Biek, M. (1992).
+Differential accuracy in person perception across traits: examination
+of a functional hypothesis. Journal of Personality and Social
+Psychology, 62, 688–698.
+Glick, P., & Fiske, S. T. (1996). The ambivalence sexism inventory:
+differentiating hostile and benevolent sexism. Journal of Personality
+and Social Psychology, 70, 491–512.
+Haselton, M. G. (2003). The sexual overperception bias: evidence of a
+systematic bias in men from a survey of naturally occurring events.
+Journal of Reseach in Personality, 37, 34–47.
+L.E.O. Kennair, M. Bendixen / Evolution and Human Behavior 33 (2012) 479–490 489
+Haselton, M. G., & Buss, D. M. (2001). Emotional reactions following firsttime
+sexual intercourse: the affective shift hypothesis. Personal
+Relationships, 8, 357–369.
+Kennair, L. E. O., Schmitt, D. P., Fjeldavli, Y. L., & Harlem, S. K. (2009).
+Sex differences in sexual desires and attitudes in Norwegian samples.
+Interpersona, 3, 1–32.
+Liesen, L. T. (2011). Feminists, fear not evolutionary theory, but
+remain very cautious of evolutionary psychology. Sex Roles, 64,
+748–750.
+Lonsway, K. A., & Fitzgerald, L. F. (1995). Attitudinal antecedents of rape
+myth acceptance: a theoretical and empirical reexamination. Journal of
+Personality and Social Psychology, 68, 704–711.
+Malamuth, N. M. (1996). The confluence model of sexual aggression:
+feminist and evolutionary perspectives. In D. M. Buss, N. M. Malamuth
+(Eds.), Sex, power, conflict: evolutionary and feminist perspectives (pp.
+269–295). New York: Oxford University Press.
+Malamuth, N. M., Addison, T., & Koss, M. (2000). Pornography and
+sexual aggression: are there reliable effects and can we understand
+them? Annual Review of Sex Research, 11, 26–91.
+Malamuth, N. M., Sockloskie, R. J., Koss, M. P., & Tanaka, J. S. (1991).
+Characteristics of aggressors against women: testing a model using a
+national sample of college students. Journal of Consulting and Clinical
+Psychology, 59, 670–681.
+Penke, L., & Asendorpf, J. B. (2008). Beyond global sociosexual
+orientations: a more differentiated look at sociosexuality and its effects
+on courtship and romantic relationships. Journal of Personality and
+Social Psychology, 95, 1113–1135.
+Sakaguchi, K., & Hasegawa, T. (2006). Person perception through gait
+information and target choice for sexual advances: comparison of likely
+targets in experiments and real life. Journal of Nonverbal Behavior, 30,
+63–85.
+Sakaguchi, K., & Hasegawa, T. (2007). Personality correlates with
+frequency of being targeted for unexpected advances by strangers.
+Journal of Applied Social Psychology, 37, 948–968.
+Schmitt, D. P. (2005). Sociosexuality from Argentina to Zimbabwe: a 48-
+nation study of sex, culture, and strategies of human mating. Behavioral
+and Brain Sciences, 28, 247–311.
+Schmitt, D. P., & Buss, D. M. (1996). Strategic self-promotion and
+competitor derogation: sex and context effects on the perceived
+effectiveness of mate attraction tactics. Journal of Personality and
+Social Psychology, 70, 1185–1204.
+Sheets, V. L., & Braver, S. L. (1999). Organizational status and perceived
+sexual harassment: detecting the mediators of a null effect. Personality
+and Social Psychology Bulletin, 25, 1159–1171.
+Simpson, J. A., & Gangestad, S. W. (1991). Individual differences in
+sociosexuality: evidence for convergent and discriminant validity.
+Journal of Personality and Social Psychology, 60, 870–883.
+Smith, C. A., & Konik, J. (2011). Feminism and evolutionary psychology:
+allies, adversaries, or both? An introduction to a special issue. Sex Roles,
+64, 595–602.
+Studd, M. V. (1996). Sexual harassment. In D. M. Buss, N. M.
+Malamuth (Eds.), Sex, power, conflict: evolutionary and feminist
+perspectives (pp. 54–89). New York: Oxford University Press.
+Studd, M. V., & Gattiker, U. E. (1991). The evolutionary psychology of sexual
+harassment in organizations. Ethology and Sociobiology, 12, 249–290.
+Surbey, M. K., & Conohan, C. D. (2000). Willingness to engage in casual
+sex: the role of parental qualities and perceived risk of aggression.
+Human Nature, 11, 367–386.
+Tabachnick, B. G., & Fidell, L. S. (2001). Using multivariate statistics.
+Boston: Allyn and Bacon.
+Tangri, S. S., Burt, M. R., & Johnson, L. (1982). Sexual harassment at
+work: three explanatory models. Journal of Social Issues, 38, 33–54.
+Trivers, R. L. (1972). Parental investment and sexual selection. In B.
+Campbell (Ed.), Sexual selection and the descent of man, 1871–1971
+(pp. 136–179). Chicago: Aldine.
+UN. (2006). The Secretary-General's in-depth study on all forms of violence
+against women. from United Nations: http://www.un.org/womenwatch/
+daw/vaw/SGstudyvaw.htm.
+Vandermassen, G. (2011). Evolution and rape: a feminist Darwinian
+perspective. Sex Roles, 64, 732–747.
+Webster, G. D., & Bryan, A. (2007). Sociosexual attitudes and behavior:
+why two factors are better than one. Journal of Research in Personality,
+41, 917–922.
+Witkowska, E. (2005). Sexual harassment in schools—prevalence, structure
+and perceptions. Stockholm: Arbete och Hälsavetenskaplig Skriftserie.
+Witkowska, E., & Kjellberg, A. (2005). Dimensions of peer sexual
+harassment in Swedish high schools: what factor structure show the
+best fit to girls' and boys' self-reports? Sex Roles, 53, 677–687.
+Yost, M. R., & Zurbriggen, E. L. (2006). Gender differences in the
+enactment of sociosexuality: an examination of implicit social motive,
+sexual fantasies, coercive sexual attitudes, and aggressive sexual
+behavior. The Journal of Sex Research, 43, 163–173.
+490 L.E.O. Kennair, M. Bendixen / Evolution and Human Behavior 33 (2012) 479–490

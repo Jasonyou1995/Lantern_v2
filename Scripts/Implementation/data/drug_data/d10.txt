@@ -1,0 +1,319 @@
+International Journal of Drug Policy 20 (2009) 521–528
+        Contents lists available at ScienceDirect International Journal of Drug Policy
+journal homepage: www.elsevier.com/locate/drugpo
+ Policy analysis
+Drug testing in Australian schools: Policy implications and considerations of punitive, deterrence and/or prevention measures
+Ann M. Roche∗, Petra Bywood1, Ken Pidd1, Toby Freeman1, Tania Steenson1 National Centre for Education and Training on Addiction Flinders University2 , Adelaide, Australia
+ article info
+Article history:
+Received 1 July 2008
+Received in revised form 25 March 2009 Accepted 2 April 2009
+Keywords:
+Drug testing Policy Schools Workplaces Deterrence Prevention
+Introduction
+Over recent years numerous preventive strategies have been explored as possible options to address drug use by young peo- ple. One option relates to the use of drug testing to detect drug use. Drug detection allows for the advantages afforded by early and brief interventions. However, to date, little rigorous or systematic atten- tion has been directed to an examination of drug testing as it might be applied within a school setting. To address this, the National Centre for Education and Training on Addiction (NCETA) undertook a comprehensive and critical review of relevant issues involved in school drug testing and an examination of potential impacts and implications.
+The review involved issues related to (i) prevention and drug education, including the protective and enhancing roles schools can play; (ii) drug testing in various contexts; (iii) the efficacy and accu- racy of drug testing; (iv) the costs of implementation; (v) ethical and
+∗ Corresponding author at: Flinders University, National Centre for Education and Training, Bedford Park, SA5042, Australia. Fax: +61 08 8201 7550.
+E-mail addresses: ann.roche@flinders.edu.au (A.M. Roche), petra.bywood@flinders.edu.au (P. Bywood), ken.pidd@flinders.edu.au (K. Pidd), toby.freeman@flinders.edu.au (T. Freeman), tania.steenson@flinders.edu.au
+(T. Steenson).
+1 Fax: +61 08 8201 7550.
+2 http://www.nceta.flinders.edu.au.
+abstract
+Background: There have been increasing national and international calls for the introduction of drug testing as a policy measure to address harmful drug use. Such strategies have been applied in workplaces, sporting arenas, prisons and more latterly school settings. They are predicated on a belief in their efficacy in reducing drug-related harm, a need to ‘send the right’ message to potential users and to reassure the community at large that ‘something is being done.’ Rigorous examination is required of purported benefits of drug testing in schools.
+Methods: A comprehensive examination was made of testing efficacy and accuracy. Australian legal and ethical issues, encompassing duty of care, rights of the child and privacy determinations, were juxtaposed with that of the United States of America.
+Results: Evidence examined indicates no compelling case for the application of drug testing and that caution should be applied when considering drug testing as a drug detection and prevention strategy in the school setting.
+Conclusion: While this review did not support school drug testing, there are alternative evidence-based strategies that schools can implement to prevent drug-related problems among student populations.
+   Crown Copyright © 2009 Published by Elsevier B.V. All rights reserved.
+legal matters; and (vi) prevalence of drug use by school-aged chil- dren. The review was undertaken from a public health perspective and involved assessing patterns and prevalence of use, identifying associated risk and protective factors, and monitoring the impact of interventions known to reduce risk factors and enhance pro- tective factors (Hawkins, Catalano, & Arthur, 2002). Full results of the review, the methodology applied and key theoretical issues are presented elsewhere (Roche et al., 2008).
+The current paper focuses on three select aspects of the review: (1) the efficacy of drug testing to deter use, (2) the accuracy of tests used and (3) the ethical and legal implications of testing Aus- tralian school-aged children. A brief examination of evidence-based alternatives to school drug testing is also provided.
+The rationale for school drug testing
+Drug testing is sometimes viewed as an appealing strategy to deal with drug use among school-age children as it is assumed to deter initiation of drug use and encourage cessation; detect users in order to refer them to treatment/counselling; reduce drug-related harm by improving young people’s physical and psychological well- being and in doing so reduce truancy and behavioural problems and improve educational outcomes. What drug testing does not pur- port to do is to provide a measure of intoxication or impairment; determine the quantity, frequency or context of drug use; distin- guish between experimental, occasional or one-off users and those
+   0955-3959/$ – see front matter. Crown Copyright © 2009 Published by Elsevier B.V. All rights reserved. doi:10.1016/j.drugpo.2009.04.002
+522 A.M. Roche et al. / International Journal of Drug Policy 20 (2009) 521–528
+Table 1
+Limitations to the main assumptions underlying the rationale for drug testing (derived from McKeganey, 2005).
+ Theory and assumptions
+Theory
+Criminological theory and the power of surveillance
+Assumption
+Surveillance is used as a tool for social control. If their behaviour is open to scrutiny, young people will avoid deviant acts Brady (2004)
+Theory
+Early identification and intervention
+Assumption
+Identification of drug use at an early stage may reduce the likelihood of developing into a drug ‘problem.’
+Theory
+Capacity to bolster resistance to drugs
+Assumption
+Drug testing programs give students a reason to say ‘No’ when they encounter drug use.
+with problematic drug use; or distinguish between illicit drugs and over-the-counter or legally prescribed drugs.
+The primary rationale for drug testing in schools is based on deterrence theory. Applied to drug testing, deterrence theory assumes the individual weighs up the rewards and costs of being detected by a drug test before making a choice to use or not use drugs. However, there are several problems with this assump- tion. Perceptions of drug use detection differ by age and gender, with younger people, especially males, least likely to believe that they will get caught using drugs (Marlowe, Festinger, Foltz, Lee, & Patapis, 2005). It is also possible that offenders will succumb to the ‘gambler’s fallacy’, believing that they would be very unlikely, or unlucky, to be caught again. Some research evidence suggests that the least experienced and/or most impulsive individuals (i.e., young people) are more likely to hold this belief (Pogarsky & Piquero, 2003). According to deterrence theory, sanctions are seen as a nec- essary component to ensure that a testing program has a deterrent effect (Schaub, 2004); the guiding principle being that sanctions discourage offenders from repeating the infraction. However, impo- sition of sanctions in the school setting may be counterproductive if they further exacerbate risk factors, such as low self-esteem, poor academic performance, or lack of commitment to school—factors known to be associated with drug use (Hawkins et al., 2002). Key assumptions underpinning various rationales for school drug testing and their limitations were highlighted in a recent United Kingdom report (McKeganey, 2005) (see Table 1).
+The effectiveness of school drug testing in deterring drug use
+Evidence of the effectiveness of school drug testing programs to deter use is scarce, generally limited in scope and poor in quality. An extensive search of peer-reviewed and grey literature revealed a large literature on drug testing programs for school-aged children, the overwhelming majority of which comprised anecdotal evidence and journalistic comment. Few studies have specifically examined the effectiveness of drug testing programs in deterring or reduc- ing drug use among school students and none has been conducted
+Limitations
+Surveillance alone is inadequate unless accompanied by
+• Social consensus about what defines deviant behaviour.
+Drug testing will reduce drug use only if young people believe they will experience stigma or negative consequences of their drug use if discovered. Individuals with pro-drug attitudes and little respect for societal norms are less likely to reduce drug use and may view a positive drug test as status. • Capacity to apply negative sanctions or punishment.
+Without a negative sanction (e.g., exclusion, punishment from parents), drug testing is unlikely to deter future use. For example, athletes may view exclusion from competition as undesirable, but schoolchildren may welcome exclusion from classes.
+• Capacity to handle concealment (e.g., masking).
+Individuals may use masking agents, avoid providing a sample (e.g., absence from school if they
+expect to be tested), or switch to less detectable, and potentially more harmful, drugs or alcohol.
+Teenage drug use does not lead inevitably to problematic drug use.
+• While screening is sensible for health issues that predictably lead to deterioration (e.g., cancers),
+this is not so for teenage drug use. The relevance of early identification applies only to a very small number of students.
+Routes to drug use differ.
+• Not all young people are pressured by their peers to start using drugs. Young people may also
+select their friends on the basis of similar interests, including drug-using behaviour.
+rigorously in a controlled, unbiased manner. Table 2 provides a sum- mary of available studies. The main criterion for inclusion in Table 2 was the use of behavioural measures of drug use as the key outcome variable, and included studies were critically appraised according to levels of evidence (NHMRC, 1999) and criteria for methodological quality (EPOC, 2002). Studies that only focused on attitudes, per- ceptions or beliefs of students, parents and teachers were excluded as such studies say little about the effectiveness of drug testing in deterring actual use.
+All five studies presented in Table 2 used a self-report cross- sectional survey design, which has inherent limitations such as underestimating levels of use. To illustrate this point, the propor- tion of teenagers self-reporting illicit drug use in the US National Household Survey on Drug Abuse (NHSDA) did not correlate with objective measures, such as the proportion of teenagers in drug overdose deaths or drug-related hospital emergency treatments (Males, 2005).
+One study in Table 2, widely cited as providing evidence of drug testing effectiveness in deterring use, was conducted at a New Jer- sey high school between 1997 and 2000 (Brady, 2004). More than 500 students were surveyed on three separate occasions (prior to the drug testing program commencing, during the program, and after the program was suspended). Overall, there was a decline in self-reported use when the drug testing program was in place, with a subsequent increase in use when the program was suspended. While these data appear to indicate that drug testing was success- ful in reducing and/or deterring drug use, caution should be applied as the study was limited by lack of comparable control data; failure to control for additional elements to drug testing which included a written drug policy, drug education, student counselling and assis- tance; and no statistical analyses were performed to determine if reductions in use were significant.
+In a comparison of two schools, one with and one without a drug testing program, McKinney (2004) concluded that the school with drug testing had lower levels of drug-related expulsions and suspensions; lower cannabis use; higher graduation rates; and that students felt safer, were more disapproving of cannabis use; and less likely to use inhalants, tranquillisers or amphetamines com-
+  A.M. Roche et al. / International Journal of Drug Policy 20 (2009) 521–528 523
+Table 2
+Summary of studies assessing effectiveness of school drug testing programs in deterring or reducing drug use.
+Study
+Study design
+Quality Setting
+Population
+Intervention
+Outcomes assessed
+Results
+Brady (2004)
+Cross-sectional survey (American Drug and Alcohol Survey)
+Poor Hunterdon Central Regional High School, New
+550 student athletes, grades 9–12 (1997–1999) 948 student athletes, grades 9–12, in extracurricular activities, or holding parking permits (2002)
+Random drug testing program (no details provided)
+Frequency of use of • Stimulants
+• Cannabis
+Reported drug use:
+• Declined in testing period
+McKinney (2004)
+Cross-sectional surveys
+Poor 2 Indiana high schools, Columbus, USA
+High school student athletes & students in extracurricular activities, grades 9–12 (study sample unknown)
+Random drug testing program implemented in one school (1999–2003) (no details provided); written policy, student assistance, student counselling
+Cannabis and other drug use (no details provided)
+Reported drug use:
+DuPont et al. (2002)
+Cross-sectional surveys
+Poor 9 secondary schools across USA, with apparently
+246–2500 student athletes, students in extracurricular activities, or student drivers
+Random drug testing programs; primarily urinalysis; hair analysis at one school
+Proportion of positive drug tests
+No formal evaluation conducted in any school
+Goldberg et al. (2003)
+Cross-sectional surveys
+Poor 2 Oregon high schools, Portland, USA
+276 student athletes
+SATURN study
+Lifetime drug use; 30-day drug use; attitudes and beliefs
+Reported drug use:
+• Lower in drug testing school
+Yamaguchi et al. (2003a, 2003b)
+Cross-sectional surveys
+Average 410 secondary schools across USA (Monitoring the
+75,000 grades 8, 10, 12 children
+Range of drug testing programs:
+• Random testing of all students, student athletes, students in extracurricular activities, or those with parking permits
+12-month cannabis use 12-month other drug use
+Reported rates of drug use in student athletes and experienced cannabis users similar in schools with and without drug testing programs
+Jersey, USA
+• Increased in non-testing period
+Reported alcohol use:
+• Increased in testing period (grades 10–12)
+successful drug testing programs
+Future study data)
+135 tested; 141 not tested (1999–2000)
+Random drug testing program (urinalysis) implemented at Wahtonka High School
+Drug use risk factors:
+• Higher in drug testing school
+One Indiana high school, without drug testing program (2001)
+Lower in drug testing school
+4 schools used self-reported drug use
+• Targeted testing of students with suspicion of use
+• Alcohol • Any drug
+• Decreased in non-testing period (grades 10–12)
+524 A.M. Roche et al. / International Journal of Drug Policy 20 (2009) 521–528
+pared to the school without a drug testing program. However, the author provided no indication of how comparable the drug testing and non-drug testing schools were with respect to other potential confounding characteristics, such as socioeconomic status, ethnic- ity and gender, school size and location—factors known to impact on the prevalence of drug use by school children (Hawkins et al., 2002; Masten, 2004; Spooner, Hall, & Lynskey, 2001; Wilkinson & Marmot, 2003).
+A post hoc survey of nine US schools which used drug test- ing (DuPont, Campbell, & Mazza, 2002) revealed only limited data pertaining to the effectiveness of drug testing in deterring use. None of the schools conducted formal evaluations, yet reduc- tions in the number of positive tests for a variety of substances were reported. Since the survey results only included schools that described their programs as “successful” it is not surprising that the authors concluded that drug testing programs were success- ful. No control schools were included in the survey to determine whether other components of the program (e.g., drug education, parental/community support) contributed to reduce drug use. For example, evidence from a survey of school students in Victoria (Australia) and Washington (US) showed significant associations between strong abstinence or harm minimisation drug educa- tion messages (without drug testing programs) and reduced drug or alcohol use (Evans-Whipp, Bond, Toumbourou, & Catalano, 2007).
+Student athletes in two Oregon high schools, one with and one without a drug testing program, were surveyed at the beginning and end of the school year (Goldberg et al., 2003). Results indi- cated the proportion of student athletes reporting illicit drug use in the 30 days prior to testing decreased in the drug testing school, whereas 30-day use for control athletes (without a drug testing program) increased significantly (p < 0.05). While drug testing may have reduced reported use of illicit drugs in student athletes in the school conducting drug testing, risk factors for drug use, includ- ing norms of use, belief in lower risk of drugs and poorer attitudes towards school increased significantly in the same group (p < 0.05).
+Further to these issues, Goldberg et al.’s (2003) study con- tained ethical and methodological limitations including punitive outcomes for students who refused to participate in the testing research; a high study dropout rate (>40%); small sample size and self-selection to the intervention group. In addition, students in both schools knew whether they would be tested (or not) at least 3 months before testing began. Thus, baseline data may not be a true indication of pre-intervention drug use.
+In one of the largest studies, Yamaguchi, Johnston, and O’Malley (2003a; 2003b) examined the association between drug testing and self-reported drug use in over 75,000 Grades 8, 10 and 12 children from 1998 to 2001. Between these years, approximately 18% of all US schools surveyed (74/410 secondary schools) reported implement- ing drug testing (Yamaguchi, Johnston, & O’Malley, 2003c). Results showed that the presence of drug testing was not associated with the prevalence or frequency of cannabis or other illicit drug use in schools (Grades 8, 10 and 12). A follow-up study containing 1 year of additional data in a larger sample of schools confirmed the lack of effect shown in the initial study (Yamaguchi, Johnston, & O’Malley, 2003b).
+However, due to the cross-sectional study design of Yamaguchi et al.’s surveys (2003a, 2003b, 2003c), causal effects cannot be determined. A key limitation was that the surveys failed to dis- tinguish between schools that conducted regular random tests and those that tested only occasionally. In addition, it was unclear how well the testing program had been implemented (e.g., appropriate collection of materials, adequate supervision of tests, and strategies to minimise opportunities for cheating).
+In summary, evaluations of school drug testing programs show poor evidence of effectiveness in deterring use and are based on
+methodologically flawed research, with a high likelihood of bias leading to an overestimation of any positive effect. Currently, there are no empirical effectiveness data from independent, unbiased and rigorous studies on which to base a case to support drug testing in schools. That is, there is insufficient evidence to indicate that drug detection programs deter the initiation of, or encourage cessation of, drug use in school children.
+The accuracy of drug testing in detecting drug use
+Beyond the question of whether drug testing achieves its prin- cipal goal of deterring use, there is also a range of important considerations regarding the accuracy of the actual testing tech- niques used. There are four main drug testing strategies that can be utilised to detect drug use among school-aged children: (1) testing the entire school population on a periodic basis, (2) testing spe- cific groups, such students aged 16–18 years old who have been identified as being at greater risk of drug-related harm (Australian Institute of Health and Welfare, 2005), (3) random testing of a predetermined proportion of the total school population, and (4) testing for cause when there is physical or other evidence of drug use. Each of these strategies raises specific issues concerning detec- tion accuracy. For example, testing the whole school population may be the most effective method of detecting use in the school population, but may not prove cost-effective and may result in an unpleasant experience for large numbers of non-drug using students. Similarly, testing for cause may exclude a significant pro- portion of drug using students who do not exhibit any signs of drug use.
+Drug testing is a two-stage process. The first stage is an initial screen of a biological specimen to detect the presence of a drug. Biological specimens can be urine, saliva, hair and sweat; how- ever, urine and saliva are most commonly used. The advantages and disadvantages of testing using different biological specimens are outlined elsewhere (Roche et al., 2008). The initial screen is then followed by a confirmatory test to assess (confirm) the accuracy of any initial positive results from the screening test. Consistent with Australian standards, initial positive screens must be confirmed by a validated analytical procedure using mass spectrometry techniques (Standards Australia, 2001, 2006). To carry out this two-stage pro- cess, two methods of drug testing are available (1) on-site analysis using Point of Collection Test (POCT) devices and (2) laboratory analysis.
+As most POCT devices use immunoassay techniques and are less reliable and accurate than laboratory analysis, they are useful as ini- tial screening tests only. However, laboratory testing can be utilised for both initial screening and confirmatory testing. Apart from this fundamental difference, POCT devices and laboratory testing each have unique advantages and disadvantages as a method for detect- ing drug use among school-aged children (for details see Roche et al., 2008).
+The implementation of drug testing to detect drug use among school-aged children requires close examination of a range of fac- tors. A key factor is the detection efficacy of the currently available tests. The ability of any test to accurately detect drug use is deter- mined by three criteria: sensitivity, specificity, and accuracy. The sensitivity, specificity and accuracy of any test can vary greatly and is dependent on various conditions and circumstances. Eval- uations of the effectiveness of various test devices have generally established minimum acceptable levels for different drug testing settings as: ≥90% sensitivity, ≥90% specificity, and ≥95% accuracy (Verstraete & Puddu, 2000).
+Consideration needs to be given to whether these minimum acceptable levels are appropriate for the testing of children in school settings. For instance, a specificity level of 90% that accepts a false positive error rate of 10%, or one in ten, may be unacceptable in the
+school setting. If tests with a specificity level of 90% are acceptable, mechanisms may need to be in place to deal with the consequences of false positives. Falsely accusing a child of illicit drug use may have serious legal, social and psychological sequelae.
+The issue of minimum acceptable levels of sensitivity, specificity and accuracy aside, evidence concerning the effectiveness of the most commonly utilised POCT devices (urine and saliva) in detect- ing drug use is mixed. While some studies have concluded that urine and saliva devices are effective (Crouch et al., 2005; Moody, Fang, Andrenyak, Monti, & Jones, 2006; Peace, Tarnai, & Poklis, 2000; Walsh, Flegel, Crouch, Cangianelli, & Baudys, 2003; Walsh et al., 2007), others have cautioned against the use of these devices, particularly in clinical settings (George & Braithwaite, 1995, 2002). Three main issues of concern with POCT devices are (1) wide vari- ability in the accuracy and reliability of different devices (Peace et al., 2000; Verstraete & Puddu, 2000; Walsh et al., 2003), (2) lim- ited ability of saliva POCT devices to detect cannabis use (Crouch et al., 2005; Walsh et al., 2003), and (3) the ease of use and the degree of difficulty in interpreting POCT test results which varies widely between devices (Gronholm & Lillsunde, 2001; Verstraete & Puddu, 2000; Verstraete & Raes, 2006).
+There is also evidence to indicate that the reliability and accuracy of laboratory analysis can vary between laboratories (Lu & Taylor, 2006; Montagna, Polettini, Stramesi, Groppi, & Vignali, 2002; Riley, Lu, & Taylor, 2000) and according to the methods of analysis utilised by individual laboratories (Baptista et al., 2002; Eichhorst, Etter, Lepage, & Lehotay, 2004). For example, in one US study (Riley et al., 2000), the same 931 urine samples were submitted to two indepen- dent laboratories for analysis. Of these samples, a total of 52 (5.6%) resulted in a different analysis outcome from the two laboratories. Thirty-eight were found to be positive at the first laboratory and negative at the second. Fourteen were found to be negative at the first laboratory and positive at the second (Riley et al., 2000). The researchers concluded that differential results between the two lab- oratories might have largely been due to differences in procedural and operational factors.
+A more recent US study identified that a significant proportion of tests within the same laboratory can be susceptible to misinter- pretation (Levy, Sherritt, Vaughan, Germak, & Knight, 2007). Levy et al. examined 710 urinalysis results obtained from 110 adoles- cent patients in a hospital substance abuse program and found re-analysis indicated 40 samples originally classified as negative were too dilute to accurately interpret (i.e., they may have been adulterated) and 45 tests originally classified as positive for illicit drug use were due to the licit use of prescribed medication (Levy et al., 2007). This is an error rate of 12%.
+In summary, available research indicates that drug testing can detect drug use. However, for POCT devices the risk of false pos- itives is relatively high depending on the type of device used, the target drug, and the expertise of the person conducting the test. This risk is reduced, but not eliminated, by laboratory con- firmation of positive POCT tests. The acceptability of this risk needs to be assessed against the consequences of a school- aged child being falsely accused of using illicit drugs. These may include the child being incorrectly labelled a ‘drug user’, ostracised by their peers, experiencing decreased self-esteem, or it may result in a negative impact on student–teacher or child–parent relationships.
+Negative outcomes associated with school drug testing
+Existing research concerning the effectiveness of testing has focused primarily on measuring reductions in the number of positive drug tests or self-reported drug use. Few studies evalu- ating the effectiveness of drug testing have measured changes in other outcomes that may be impacted by drug use, or potentially
+adverse effects of implementing a drug testing program. Only one qualitative study was identified that specifically assessed the broader impact of drug testing in schools. Coombs and Coombs (1991) examined the impact of drug testing on students’ morale and psychological well-being after the introduction of mandatory drug testing of American college athletes. Data collected from 500 survey questionnaires and 57 in-depth interviews showed that most athletes (71.4%) were untroubled by the drug testing experience, with some reporting other benefits, such as increased awareness and knowledge about drug harms, or changes in drug- associated behaviour. The remainder, however, found it stressful, embarrassing, humiliating or upsetting. Some feared they might be wrongly identified and disqualified from competition for using cold or asthma medication or other over-the-counter medicines; others felt degraded and humiliated by the experience, or offended by implied suspicion. For some, the prospect of drug testing led them to change the times or types of drugs they consumed to avoid detec- tion, rather than reduce overall use. Drug testing in schools may also foster a culture of resistance where students take pride in beat- ing the test or boast about testing positive. The Internet provides readily available information about how to mask drug use to avoid detection.
+Similarly, several negative outcomes which are risk factors for increased substance use were associated with the drug testing program implemented in Goldberg et al.’s study (2003) (Table 2). Compared with their peers in the control school, student athletes in the drug testing school believed that random drug testing pro- vided fewer benefits; there were fewer negative consequences of random drug testing; that authority figures were more tolerant of drug use; had greater preference for risky drug use behaviour; and had poorer attitudes towards the school.
+In a national consultation of 1700 Catholic secondary schools in Australia, the Jesuit Social Services examined how schools responded to incidents of illicit drug use by students (Norden, 2005). The Keeping Them Connected report concluded that, rather than reducing drug use by students, random drug testing, which was implemented in a number of schools, forced the problem underground, reflected a breakdown in trust and communication and made it harder for schools to handle. The messages received by students in drug testing schools were reported as ‘don’t allow your continuing drug behaviour to be detected by school authori- ties; and if you or another student has problems in relation to illicit drug use, don’t approach school authorities for assistance’ (Norden, 2005, p. 7). Thus, ‘the approach was seen to be effective in protecting the school’s reputation as being “tough on drugs”, but questionable with respect to the school’s duty of care for the student concerned’ (Norden, 2005, p. 7).
+Despite drug testing in American schools being variously described by advocates as proactive, preventive and non-punitive, disciplinary measures often follow a positive school drug test. This may be premised on the idea that for a random drug testing regime to be efficacious it ‘would have to contain some additional element of punishment’ (McKeganey, 2005, p. 5). Schools with drug testing programs have adopted a variety of policies, which often include a range of sanctions, in the event of a student returning a posi- tive drug test result. Sanctions may range from a ‘zero tolerance’ policy, with exclusion from extracurricular activities, suspension or expulsion from school, to a non-punitive response, with educa- tion, counselling and support for students. The former may prove counterproductive.
+Out-of-school suspensions and expulsions give rise to another set of problems for students, schools and parents, namely safety concerns related to lack of professional support and adult supervision during the suspension period and discontinuity of education (Taras, 2003). For example, poor academic achiev- ers are over-represented among substance users (Cox, Zhang,
+A.M. Roche et al. / International Journal of Drug Policy 20 (2009) 521–528 525
+526 A.M. Roche et al. / International Journal of Drug Policy 20 (2009) 521–528
+Johnson, & Bender, 2007; Roche et al., 2008) as are socially and economically disadvantaged students (Wilkinson & Marmot, 2003).
+Ironically, students who are most likely to be suspended or expelled are also most in need of adult supervision. Suspension or expulsion from school may exacerbate existing academic and learning difficulties, provide more opportunity to engage in risky or criminal activities, and predispose to greater risk of substance use or to quit school permanently (Taras, 2003). Humiliation and alien- ation of vulnerable students in an environment of mistrust may inadvertently potentiate risks to students’ long-term psychological well-being.
+A number of potentially deleterious outcomes from implement- ing school drug testing programs have been identified. They include a breakdown in the parent–child and/or school–child relation- ship (Kern et al., 2006); increased school exclusions and truancies; reduced participation in extracurricular activities, which may result in pursuit of more risky behaviours; diversion to other substances that are not tested, or less detectable, yet potentially more harm- ful, including alcohol, inhalants, ecstasy (Knight & Mears, 2007); unwarranted invasion of privacy; breach of confidentiality as stu- dents must declare the use of prescription or over-the-counter medications; false sense of a drug-free environment (children with serious drug problems may still have negative test results if their drug use is outside the window of detection, or have used mask- ing agents or other evasion techniques); lack of developmentally appropriate treatment/interventions after testing positive (Knight & Mears, 2007); school time and resources being used on drug test- ing rather than education; ambiguous role for schools as monitors of students’ drug use; and the imposition of penalties for drug use that may have a long-term impact on the education and welfare of school-aged students.
+Table 3
+Key differences between American and Australian legal and ethical frameworks.
+Ethical and legal issues
+To date, drug testing of school children has been employed as a prevention strategy in some schools within the US. Australia’s legal framework, however, differs markedly from that of the United States in a number of important respects. Table 3 contrasts the US experience of the legal and ethical issues with the Australian legal framework. Comparison of the Australian and American legal per- spectives is relevant as the American experience is often presented to support the implementation of similar processes.
+Currently, Australia lacks specific legislation that addresses school drug testing and the legal status of the issue is undeter- mined and must be adjudged by either the principles of contract law (in the case of non-government schools) or through reference to common law standards. However, given that government schools derive their duties from State education legislation, any govern- ment school seeking to implement drug testing would need to ensure that the policy reflected the relevant State legislation.
+Four main common law and ethical issues relevant to school drug testing are (1) Duty of care: explored through an examination of the standard of care expected from Australian schools; (2) Right to bodily inviolability: considered through looking at the quality and nature of issues such as privacy, consent and necessity; (3) Drug testing as a deterrence strategy; and (4) Rights of the child: as deter- mined with reference to Australian legislation and the ratification of International Treaties.
+A central issue in drug testing, and a key area where there is a significant difference between Australia and the US, is in relation to the rights of the child. The US Supreme Court has determined that children were less entitled to the full ‘bundle of rights’ enjoyed by adults (Board of Education of Independent Schools Dist.No.92 of Pottawatomie City v Earls, 2002). Thus, US school children are
+Australia
+Duty of care in Australia is considerably more limited. The duty of care of an Australian school:
+• Does not extend to cover activities outside of school hours Commonwealth v Introvigne (1982), and;
+• Would be expected to acknowledge the child’s right to privacy.
+Thus, it is unlikely that drug testing would be needed or justified as part of the school’s duty of care.
+Australia recognises that children are entitled to the full bundle of rights provided by the Convention on the Rights of the Child (CROC). These rights extend to medical testing (such as drug testing) and include:
+• Respect for individual autonomy, informed decision making and protection for those with diminished autonomy (e.g., children and the disabled).
+• Justice to ensure fairness in distributing benefits and avoiding detriment to vulnerable groups.
+• Beneficence to maximise benefits and minimise harms (Australian Law Reform Commission, 2003).
+Preventive health care is deemed non-therapeutic.
+As such, voluntary consent would be required for drug testing. Failure to offer consent would be unlikely to be deemed an admission of guilt within the current Australian legal framework (Department of Health and Community Services v JWB and SMB, 1922; Perkins v Golden Plains Fodder Australia/Macpri Pty Ltd., 2004).
+Australia has acknowledged that children are in special need of protection from the state through ratification of the international treaty—Convention on the Rights of the Child (CROC) (Convention on the Rights of the Child, 1991).
+ Issue
+Duty of care
+Right to bodily inviolability
+Drug testing as a deterrence strategy
+Rights of the child
+USA
+The US judiciary have stated that US schools have an in loco parentis role (New Jersey v TLO, 1985), meaning that the school has the legal responsibility to take on some of the functions and responsibilities of a parent. This responsibility can extend to drug testing.
+Drug testing is analogous to medical examinations (Vernonia School District 47J v Acton et al., 1995). Children are less entitled to the full ‘bundle of rights’ enjoyed by adults (Board of Education of Independent Schools Dist.No.92 of Pottawatomie City v Earls, 2002).
+Reasonableness of drug testing determined according to what a ‘reasonable’ parent may do.
+Since drug use in young people was considered ‘epidemic’, individual and parental consent was not needed (Board of Education of Independent Schools Dist.No.92 of Pottawatomie City v Earls, 2002).
+The status position of the child within the US has led to the determination that children are less entitled to freedom from interference of the State provided to adults by the US Bill of Rights (Board of Education of Independent Schools Dist.No.92 of Pottawatomie City v Earls, 2002).
+less entitled to freedom from interference of the State provided to adults by the US Bill of Rights. Australian law interprets the rights of the child quite differently. While the Australian Constitution does not contain any express rights similar to the US Bill of Rights, rights of children are recognised within Australian law through Australia’s ratification of The Convention on the Rights of the Child (CROC) as well as in the Family Law Act 1975. Article 16 of CROC provides that:
+. . .no child shall be subjected to arbitrary or unlawful interfer- ence with his or her privacy, family, home or correspondence, nor to unlawful attacks on his or her honor or reputation (Convention on the Rights of the Child, 1991).
+While Article 16 of the CROC refers generally to information privacy, it has also been interpreted to cover physical privacy (Australian Law Reform Commission, 2006). In addition, the ‘best interests of the child’ test is enacted in the Family Law Act, 1975. This test has been assessed as paramount in that the ‘protection of the child should be elevated above all other interests, although those other interests are not completely disregarded’ (Minister for Health v AS & Anor, 2004).
+In summary, the Australian legal framework differs from the US. In particular, Australia places great(er) weight on the rights of the child than does US law and affords the child greater rights to privacy and protection from interference especially where it may negatively impact their reputation. Australian law is more sensitive to the lack of avenues for redress and natural justice available to children (Australian Law Reform Commission, 1997). Drug testing, without cause, may be viewed as a threat to these rights.
+The legal status of drug testing in Australian workplaces
+While there have been no legal challenges or judgments con- cerning school drug testing in the Australian context to-date, a number of legal precedents have been set concerning drug test- ing in Australian workplaces. The Australian Industrial Relations Commission recognises workplace drug testing as one of a num- ber of responses available to employers. Implementation requires a consensus position to be achieved via extensive consultation with employees, management and unions. Even then, drug test- ing is considered ‘reasonable’ only where specific workplaces are deemed safety-sensitive or special needs settings. Commission- ers’ assessment of reasonableness also included the review periods as well as the period that the confidential information could be held by the employer. Zero tolerance random drug testing, in the absence of strong justification, has been judged to be unreasonable in the Australian workplace (e.g., Perkins v Golden Plains Fodder Australia/Macpri Pty Ltd., 2004).
+A primary difference exists between a workplace and a school environment. Employment is reflective of a contractual relationship while a student’s requirement to attend school is a status rela- tionship. Accordingly, issues related to collective negotiation and consent is substantially different within a workplace compared to a school environment. The relationship of children to school teach- ers is different to that of employees to employers. Finally, school environments often lack the avenues of redress and natural justice that are present within many workplaces.
+Conclusion
+The evidence reviewed indicates that caution should be applied when considering the use of drug testing in the school setting. Overall, we found little support for the efficacy of school drug testing in deterring use and major limitations in regard to the accuracy of drug testing techniques. Moreover, potentially delete-
+rious outcomes from implementing school drug testing programs were identified and important ethical and legal concerns were raised.
+While our review found little support for drug testing, there is considerable scope for the school to act as an agent for the prevention of drug use and its associated problems and there is accumulating evidence of preventive strategies that are likely to be effective in the school setting (Faggiano et al., 2005; Foxcroft, Ireland, Lister-Sharp, Lowe, & Breen, 2002; Thomas & Perera, 2006). One approach that has gained considerable currency in recent years focuses on the school’s role as an institution of socialisation. Such approaches are designed to enhance students’ sense of connected- ness to the school, which in turn acts as a strong moderator of a range of risk factors including drug use (Bond et al., 2004; Durlak et al., 2007; Resnick et al., 1997; Tobler & Stratton, 1997). School- based drug prevention strategies can also involve the families of students and/or strategies that target high-risk students. Some of the strongest supporting evidence for effective drug preven- tion programs comes from programs which involve families (Allen, Coombes, & Foxcroft, 2006; Foxcroft et al., 2002; Spoth, Redmond, & Shin, 2001), while strategies such as motivational interviewing and brief interventions have also been shown to be effective for adolescent drug users (Tait & Hulse, 2003; Tevyaw & Monti, 2004; Winters & Leitten, 2007).
+Schools are one of the most important settings for health pro- motion and preventive interventions among children and youth. However, it appears drug testing has little to offer in this regard.
+References
+Allen, D., Coombes, L., & Foxcroft, D. (2006). The role of parents and the community in drug prevention. In R. Midford, & G. Munro (Eds.), Drug education in schools: Searching for the silver bullet. Melbourne: IP Communications.
+Australian Institute of Health Welfare. (2005). National drug strategy household survey 2004: Detailed findings. Canberra, ACT: Australian Institute of Health and Welfare. Australian Law Reform Commission. (1997). Seen and heard: Priority for children in
+the legal process. Canberra: ALRC. (No. ALRC 84)
+Australian Law Reform Commission. (2003). Essentially yours: The protection of
+human genetic information in Australia. Canberra: ALRC. (No. ALRC 96). Australian Law Reform Commission. (2006). Review of privacy. Canberra: ALRC. (No.
+Issue paper 31).
+Baptista, M. J., Monsanto, P. V., Pinho Marques, E. G., Bermejo, A., Avila, S., Castanheira,
+A. M., et al. (2002). Hair analysis for delta(9)-THC, delta(9)-THC-COOH, CBN and CBD, by GC/MS-EI. Comparison with GC/MS-NCI for delta(9)-THC-COOH. Forensic Science International, 128(1–2), 66–78.
+Board of Education of Independent Schools Dist. No. 92 of Pottawatomie City v Earls (2002). 536 822 (United States Court of Appeal).
+Bond, L., Patton, G., Glover, S., Carlin, J. B., Butler, H., Thomas, L., et al. (2004). The gatehouse project: Can a multilevel school intervention affect emotional wellbe- ing and health risk behaviours? Journal of Epidemiology and Community Health, 58(12), 997–1003.
+Brady, H. (2004). Hunterdon Central Regional High School: Impact of student random drug testing program on drug use by students. Flemington, New Jersey: Student Drug Testing Coalition.
+Commonwealth v Introvigne (1982). 150 258 (High Court of Australia).
+Convention on the Rights of the Child (1991). 4.
+Coombs, R. H., & Coombs, C. J. (1991). The impact of drug testing on the morale and
+well-being of mandatory participants. International Journal of Addiction, 26(9),
+981–992.
+Cox, R. G., Zhang, L., Johnson, W. D., & Bender, D. R. (2007). Academic performance
+and substance use: Findings from a state survey of public high school students.
+Journal of School Health, 77(3), 109–115.
+Crouch, D. J., Walsh, J. M., Flegel, R., Cangianelli, L., Baudys, J., & Atkins, R. (2005). An
+evaluation of selected oral fluid point-of-collection drug-testing devices. Journal
+of Analytical Toxicology, 29(4), 244–248.
+Department of Health and Community Services v JWB and SMB (1922). 175 218 (High
+Court of Australia).
+DuPont, R. L., Campbell, T. G., & Mazza, J. J. (2002). Elements of a successful school-based
+student drug testing program. Rockville, MD: Institute for Behavior and Health. Durlak, J. A., Taylor, R. D., Kawashima, K., Pachan, M. K., DuPre, E. P., Celio, C. I., et al. (2007). Effects of positive youth development programs on school, family, and community systems. American Journal of Community Psychology, 39(3–4),
+269–286.
+Eichhorst, J., Etter, M., Lepage, J., & Lehotay, D. C. (2004). Urinary screening for methyl-
+phenidate (Ritalin) abuse: A comparison of liquid chromatography–tandem mass spectrometry, gas chromatography–mass spectrometry, and immunoassay methods. Clinical Biochemistry, 37(3), 175–183.
+A.M. Roche et al. / International Journal of Drug Policy 20 (2009) 521–528 527
+528 A.M. Roche et al. / International Journal of Drug Policy 20 (2009) 521–528
+EPOC (2002, August 4, 2004). Cochrane Effective Practice and Organisation of Care Review Group (EPOC): The data collection checklist. Retrieved 24th February, 2005, from http://www.epoc.uottawa.ca/checklist2002.doc
+Evans-Whipp, T., Bond, L., Toumbourou, J. W., & Catalano, R. F. (2007). School, parent, and student perspectives of school drug policies. Journal of School Health, 77(3), 138–145.
+Faggiano, F., Vigna-Taglianti, F. D., Versino, E., Zambon, A., Borraccino, A. & Lemma, P. (2005). School-based prevention for illicit drugs’ use (Review): The Cochrane Collaboration.
+Foxcroft, D. R., Ireland, D., Lister-Sharp, D. J., Lowe, G., & Breen, R. (2002). Primary prevention for alcohol misuse in young people (Review): The Cochrane Collaboration (3).
+George, S., & Braithwaite, R. A. (1995). A preliminary evaluation of five rapid detection kits for on site drugs of abuse screening. Addiction, 90(2), 227–232.
+George, S., & Braithwaite, R. A. (2002). Use of on-site testing for drugs of abuse. Clinical Chemistry, 48(10), 1639–1646.
+Goldberg, L., Elliot, D. L., MacKinnon, D. P., Moe, E., Kuehl, K. S., Nohre, L., et al. (2003). Drug testing athletes to prevent substance abuse: Background and pilot study results of the SATURN (Student Athlete Testing Using Random Notification) study. Journal of Adolescent Health, 32(1), 16–25.
+Gronholm, M., & Lillsunde, P. (2001). A comparison between on-site immunoas- say drug-testing devices and laboratory results. Forensic Science International, 121(1–2), 37–46.
+Hawkins, J. D., Catalano, R. F., & Arthur, M. W. (2002). Promoting science-based prevention in communities. Addictive Behaviors, 27(6), 951–976.
+Kern, J., Gunja, F., Cox, A., Rosenbaum, M., Appel, J., & Verma, A. (2006). Making sense of student drug testing: Why educators are saying no. Oakland: American Civil Liberties Union & Drug Policy Alliance. (p. 32).
+Knight, J. R., & Mears, C. J. (2007). Testing for drugs of abuse in children and adoles- cents: Addendum—testing in schools and at home. Pediatrics, 119(3), 627–630.
+Levy, S., Sherritt, L., Vaughan, B. L., Germak, M., & Knight, J. R. (2007). Results of ran- dom drug testing in an adolescent substance abuse program. Pediatrics, 119(4), e843–848.
+Lu, N. T., & Taylor, B. G. (2006). Drug screening and confirmation by GC–MS: Com- parison of EMIT II and Online KIMS against 10 drugs between US and England laboratories. Forensic Science International, 157(2–3), 106–116.
+Males, M. A. (2005). What do student drug use surveys really mean? Journal of School Health, 75(1), 31–34.
+Marlowe, D. B., Festinger, D. S., Foltz, C., Lee, P. A., & Patapis, N. S. (2005). Perceived deterrence and outcomes in drug court. Behavioral Sciences & the Law, 23(2), 183–198.
+Masten, A. S. (2004). Regulatory processes, risk, and resilience in adolescent develop- ment. Annals of the New York Academy of Sciences, 1021, 310–319 (see comment). McKeganey, N. (2005). Random drug testing of schoolchildren. York, UK: Joseph Rown-
+tree Foundation.
+McKinney, J. R. (2004). Study of high schools with student drug-testing programs.
+Muncie, IN: Ball State University.
+Minister for Health v AS & Anor (2004). 286 (Western Australian Supreme Court
+2004).
+Montagna, M., Polettini, A., Stramesi, C., Groppi, A., & Vignali, C. (2002). Hair analysis
+for opiates, cocaine and metabolites. Evaluation of a method by interlaboratory
+comparison. Forensic Science International, 128(1–2), 79–83.
+Moody, D. E., Fang, W. B., Andrenyak, D. M., Monti, K. M., & Jones, C. (2006). A compar- ative evaluation of the instant-view 5-panel test card with OnTrak TesTcup Pro 5: Comparison with gas chromatography–mass spectrometry. Journal of Analytical
+Toxicology, 30(1), 50–56.
+New Jersey v TLO (1985). 469 325 (United States Supreme Court 1985).
+NHMRC. (1999). A guide to the development, implementation and evaluation of clinical
+practice guidelines. Canberra, ACT: National Health and Medical Research Council,
+Commonwealth of Australia.
+Norden, P. (2005). Keeping Them Connected: A national study examining how Catholic
+schools can best respond to incidents of illicit drug use. Richmond, Victoria: Jesuit
+Social Services, Ignatius Centre for Policy and Research.
+Peace, M. R., Tarnai, L. D., & Poklis, A. (2000). Performance evaluation of four on-site
+drug-testing devices for detection of drugs of abuse in urine. Journal of Analytical Toxicology, 24(7), 589–594.
+Perkins v Golden Plains Fodder Australia/Macpri Pty Ltd. (2004). 3 (South Australian Industrial Relations Commission).
+Pogarsky, G., & Piquero, A. R. (2003). Can punishment encourage offending? Investi- gating the “resetting” effect. Journal of Research in Crime and Delinquency, 40(1), 95–120.
+Resnick, M. D., Bearman, P. S., Blum, R. W., Bauman, K. E., Harris, K. M., Jones, J. P., et al. (1997). Protecting adolescents from harm: Findings from the National Longi- tudinal Study on Adolescent Health. Journal of the American Medical Association, 278(10), 823–832.
+Riley, K., Lu, N. T., & Taylor, B. G. (2000). Drug screening: A comparison of urinalysis results from two independent laboratories. Journal of Drug Issues, 30(1), 171–186. Win.
+Roche, A., Pidd, K., Bywood, P., Duraisingam, V., Steenson, T., Freeman, T., et al. (2008). Drug testing in schools: Evidence, impacts and alternatives. Canberra: Australian National Council on Drugs.
+Schaub, G., Jr. (2004). Deterrence, compellence, and prospect theory. Political Psy- chology, 25(3), 389–411.
+Spooner, C., Hall, W., & Lynskey, M. (2001). Structural determinants of youth drug use. Australia: Australian National Council on Drugs.
+Spoth, R. L., Redmond, C., & Shin, C. (2001). Randomized trial of brief family interventions for general populations: Adolescent substance use outcomes 4 years following baseline. Journal of Consulting and Clinical Psychology, 69(4), 627–642.
+Standards Australia. (2001). Procedures for the collection, detection and quantitation of drugs of abuse in urine: AS/NZS 4308:2001. Sydney: Standards Australia.
+Standards Australia. (2006). Procedures for specimen collection and the detection and quantitation of drugs in oral fluid: AS 4760-2006. Sydney: Standards Australia. Tait, R., & Hulse, G. (2003). A systematic review of the effectiveness of brief interven-
+tions with substance using adolescents by type of drug. Drug and Alcohol Review,
+22, 337–346.
+Taras, H. L. (2003). Out-of-school suspension and expulsion. Pediatrics, 112(5),
+1206–1209.
+Tevyaw, T. O., & Monti, P. M. (2004). Motivational enhancement and other brief
+interventions for adolescent substance abuse: Foundations, applications and
+evaluations. Addiction, 99(Suppl. 2), 63–75.
+Thomas, R., & Perera, R. (2006). School-based programmes for preventing smoking
+(Review). The Cochrane Collaboration.
+Tobler, N. S., & Stratton, H. H. (1997). Effectiveness of school-based drug prevention
+programs: A meta-analysis of the research. Journal of Primary Prevention, 18(1),
+71–128.
+Vernonia School District 47J v Acton et al. (1995). 515 646 (United States Supreme
+Court).
+Verstraete, A., & Puddu, M. (2000). Deliverable D4: Evaluation of different roadside
+drug tests. Retrieved 15 July 2007, from www.rosita.org.
+Verstraete, A., & Raes, E. (2006). Rosita 2 project: Final report. Retrieved 15 July 2007,
+from www.rosita.org.
+Walsh, J. M., Crouch, D. J., Danaceau, J. P., Canngianelli, L., Liddicoat, L., & Adkins,
+R. (2007). Evaluation of ten oral fluid point-of-collection drug-testing devices.
+Journal of Analytical Toxicology, 31(1), 44–54.
+Walsh, J. M., Flegel, R., Crouch, D. J., Cangianelli, L., & Baudys, J. (2003). An evaluation
+of rapid point-of-collection oral fluid drug-testing devices. Journal of Analytical
+Toxicology, 27(7), 429–439 (see comment)
+Wilkinson, R., & Marmot, M. (Eds.). (2003). Social determinants of health: The solid
+facts. Copenhagen: World Health Organization.
+Winters, K. C., & Leitten, W. (2007). Brief intervention for drug-abusing adolescents
+in a school setting. Psychology of Addictive Behaviors, 21(2), 249–254. Yamaguchi, R., Johnston, L. D., & O’Malley, P. M. (2003a). Relationship between stu- dent illicit drug use and school drug-testing policies. Journal of School Health,
+73(4), 159–164.
+Yamaguchi, R., Johnston, L. D., & O’Malley, P. M. (2003b). Drug testing in schools:
+Policies, practices and association with student drug use. Ann Arbor: University of
+Michigan, Institute for Social Research.
+Yamaguchi, R., Johnston, L. D., & O’Malley, P. M. (2003c). The relationship between
+student illicit drug use and school drug-testing policies. Ann Arbor: University of Michigan.

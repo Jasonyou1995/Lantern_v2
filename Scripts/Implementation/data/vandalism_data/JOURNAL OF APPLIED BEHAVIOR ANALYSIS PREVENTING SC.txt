@@ -1,0 +1,1267 @@
+JOURNAL OF APPLIED BEHAVIOR ANALYSIS PREVENTING SCHOOL VANDALISM AND IMPROVING DISCIPLINE: A THREE-YEAR STUDY
+
+
+
+
+Vandalism is a major problem facing educators and taxpayers alike. The present investigation
+analyzed how vandalism costs and student disruption were related to the implementation
+of a training and consultation package designed to increase the reinforcing ambience
+of the school. A positive environment, it was posited, would displace previous events
+that may have set the occasion for vandalism, with cues to promote productive school
+performance. Eighteen elementary and junior high schools were involved over a 3-year
+period. Using a delayed treatment control design, treatment was delivered following
+either 4 or 13 months of baseline. During treatment, teams of school personnel attended
+training workshops in behavioral strategies for reducing vandalism and disruption by
+students in school. Each team also met regularly on its campus to plan and implement
+programs on a schoolwide basis. To demonstrate that reinforcing procedures were
+actually implemented and accompanied by change in student performance, these variables
+were periodically probed throughout the study. Project staff also provided consultation.
+Vandalism costs decreased significantly (p < .05) more in treatment than control schools,
+with an average reduction of 78.5 % for all project schools. Rates of praise delivered by
+project teachers and other randomly selected teachers in the school increased significantly
+(p < .05), and rates of off-task behavior by students decreased significantly (p < .05)
+following treatment. The staff development model used in this study appeared to be
+both feasible and economical.
+DESCRIPTORS: vandalism, setting events, school environment, classroom, staff
+management
+School vandalism, a complex problem area of
+extreme social importance, is increasing in magnitude.
+Nationwide, over 5,000 assaults on
+This project was funded by an Elementary and Secondary
+Education Act Title IV-C Grant and the
+Office of the Los Angeles County Superintendent of
+Schools. The authors thank Dorothy Burstein, Dave
+Crocker, Randy Howell, Janelle Hussey, Ken Johnson,
+Judy Jones, Paul Kaplan, Ted Komoto, Venetia
+Louie, Pat Radi, Betsy Smith, Helen Susek, and Nancy
+Van Derveer for their assistance in data collection or
+consultation. Reprints of this manuscript may be obtained
+from G. Roy Mayer, Department of Counselor
+Education, California State University at Los Angeles,
+Los Angeles, California 90032. Copies of documents
+referred to in notes 5, 7, and 8 may be ordered
+from Tom Butterworth, Office of the Los Angeles
+County Superintendent of Schools, 9300 East Imperial
+Highway, Downey, California 90242.
+teachers are reported each month, and over $500
+million is spent each year to repair damage done
+by school-aged vandals (National Institute of
+Education, 1978). It was reported in a recent Los
+Angeles County School Attendance and Welfare
+Bulletin (Note 1) that in school districts
+throughout Los Angeles County the average
+vandalism costs were in excess of $8.5 million
+for the 1978-1979 school year, a 56% increase
+over the 1977-1978 school year. Additional indirect
+expenses are incurred by school districts
+for insurance, security guards, and other presumed
+deterrents to vandalism. These expenses
+appear to exceed the cost of repairing the effects
+of vandalism. The Los Angeles Unified School
+District's Security Section, for example, had a
+355
+1983, 16, 355-369 NUMBER 4 (WINTER 1983)
+G. ROY MAYER et al.
+budget of about $10 million for personnel salaries
+alone, an increase of nearly $4 million
+since 1978.
+Superficial logic would suggest that improved
+methods of detection and punishment would
+ameliorate vandalism. However, the introduction
+of heavy security arrangements may well
+aggravate the very problem that this kind of
+deterrence is intended to eliminate, due to a
+resultant increase in the aversive nature of the
+environment (Greenberg, 1974). Other prescriptive
+approaches have also been less than successful
+(Gee, 1974, Ziesel, 1976). For example,
+Project PRIDE (Note 2), which stressed a clean
+campus and provided special plaques for individuals
+or groups who engaged in "campus
+pride" activities, appeared to produce only temporary
+effects, perhaps because they did not
+identify and treat factors that appear to foster
+vandalism.
+Methods to reduce vandalism are just beginning
+to be experimentally investigated. For example,
+Mayer and Butterworth (1979) pilottested
+the first experimental intervention package
+that was designed to treat setting factors
+that appeared to foster vandalism within the
+elementary school environment through consultation
+and inservice activities. They demonstrated
+a 57% average decrease in the cost of
+repairing vandalized property for 10 experimental
+schools, whereas the average costs for 9
+control schools increased 320%. Further, students
+attended more to class work, positive
+teacher-student contacts improved or remained
+significantly higher, and students' inappropriate
+behavior decreased more in the experimental
+than in the control schools.
+Wahler and Fox (1981) have proposed "that
+behavior analysts should increase the range of
+environmental phenomena that they seek to
+manipulate and relate to the changes in socially
+important behaviors" (p. 328). They go on to
+suggest that many behavior problems such as
+stealing, fighting, truancy, and property destruction
+may be approached through operating on
+temporally remote stimuli, or setting events.
+Several complex and temporally distant conditions
+of the school environment have been posited
+by Mayer and Butterworth (1979) to contribute
+toward promoting vandalism. These
+potential setting events include: (a) a mismatch
+between student reading level and the difficulty
+of assigned materials; (b) the prevalence of punishment
+as a schoolwide and classroom management
+procedures; and, (c) otherwise misusing
+behavior management procedures.
+When assigned reading materials do not
+match the student's repertoire of skills, boredom
+or frustration may result. Many students, particularly
+those whose reading ability does not
+permit them to complete their assignments successfully,
+are more apt to experience defeat, reproach,
+ridicule, and other probable aversive
+consequences. This combination of extinction
+and punishment may also serve to imbue scholastic
+activities and materials with conditioned
+aversive properties.
+Findings from the experimental analysis of
+behavior have taught us that extinction and punishment
+tend to provoke aggression and destruction
+in laboratory animals (Azrin, Hutchinson,
+& Hake, 1963; Azrin & Holz, 1966; Azrin, Note
+3). By analogy it is reasonable to hypothesize
+that some proportion of the aggression and destruction
+in the form of vandalism that takes
+place in public schools is a reaction to those very
+same factors. This seems probable in light of
+findings that teacher disapproval generally occurs
+at least three times more frequently than
+teacher approval (Thomas, Presland, Grant, &
+Glen, 1978). Further complicating the situation
+is the fact that aggressive behavior is reinforced,
+often inadvertently, by school authorities via
+attention and by peers in the form of approval
+and media attention, thereby increasing aggression
+and promoting its generalization across settings
+(Horton, 1970).
+In accordance with Wahler and Fox's (1981)
+proposal-"that behavior analysts should increase
+the range of environmental phenomena
+that they seek to manipulate and relate to the
+changes in socially important behavior" (p. 328)
+SCHOOL VANDALISM AND DISCIPLINE
+-the present study, which spans a 3-year period,
+attempted to manipulate the potential setting
+events described above in an effort to reduce
+the costs of vandalism. Presumably then, the aggressiveness
+and destructiveness engendered by
+extinction and punishment would be supplanted
+by more pro-social reactions. It was this basic
+assumption that this program of research was designed
+to test.
+Although the main thrust of this study was
+to assess the influence of the training package
+on rates of vandalism, it was important to demonstrate
+that constructive change in the performance
+of teachers and students was actually
+implemented. Consequently, periodic probes of
+praise by teachers and disruptive and on- and
+off-task behavior by students were taken. Additionally,
+to examine the practicality of intervening
+with representatives of the instructional
+staff rather than a more costly method of involving
+everyone directly in training, the "spillover"
+effect of the program to teachers who had
+neither attended the workshops nor received
+regularly scheduled direct consultation was also
+assessed.
+METHODS
+Selection of Schools
+Twenty schools, which had not participated
+in the pilot study by Mayer and Butterworth
+(1979), from 12 districts in Los Angeles County
+were selected from a list of volunteers because
+these schools maintained systems for gathering
+data on vandalism costs, and their students' average
+reading scores on the Comprehensive Test
+of Basic Skills were below the 45th percentile
+nationally. Ten of the schools were assigned
+randomly to an experimental treatment condition,
+Group I, and 10 to a delayed treatment
+condition, Group II. One control school and one
+experimental school withdrew due to disinterest
+of the staff. Five elementary and four junior
+high schools in each group completed the first
+year of the project. Data were collected in an
+identical fashion in all schools.
+The control schools in Group II were provided
+with the opportunity to receive services
+from the project staff during the second and
+third year. Seven of the nine participated during
+the second year, and six during the third year.
+The Group I schools were invited to continue
+participation in the project for second and third
+years, receiving essentially follow-up services.
+Due to administrative and other staff changes,
+only six of the nine Group I schools continued
+during the second year, and five during the third
+year, leaving three elementary and two junior
+high schools in Group I, and three elementary
+and three junior high schools in Group II by the
+third year.
+Selection of Teachers
+Two teachers from grades 4 through 8 were
+selected for extended participation in each of
+the 18 schools. Each site principal was asked to
+select two "model" teachers following the selection
+criteria described by Mayer and Butterworth
+(1979). These teachers were to have demonstrated
+a willingness to try new ideas, had
+gained the respect of their fellow staff members
+(enhancing their effectiveness as models to other
+teachers), and expressed a willingness to commit
+the time to work with the principal and
+psychologist in developing programs to reduce
+vandalism and disruption.
+Each principal also selected two other teachers
+at random from the same grades to serve as
+barometer teachers, the only criterion being a
+willingness to allow observers into the classroom.
+These teachers were included to measure
+the "spillover" effect taking place within the
+project school. To reduce the bias of this measure,
+no deliberate attempt was made to consult
+with them.
+Selection of Students
+Six students in each of the project barometer
+classrooms were randomly selected from a preidentified
+group of students who had scored
+10% below their class average on the Reading
+Comprehension and Vocabulary sections of the
+357
+G. ROY MAYER et al.
+Comprehensive Test of Basic Skills and were at
+least 10% above the classroom average in offtask
+behavior (nonattending and disruptive behavior).
+The off-task behavior was measured
+during three classroom observations using the
+Behavioral Assessment Instrument (Mayer &
+Butterworth, 1979). These students were selected
+on the assumption that they could most
+benefit from the treatment program and were
+observed at scheduled intervals.
+Consultants
+Six graduate students, working toward their
+school counseling and school psychology credentials
+at California State University, Los Angeles,
+served as part-time consultants or data collectors
+to the project schools during the first two
+years of the study. Each graduate student had
+formal university training in applied behavior
+analysis using the texts written by Sulzer-Azaroff
+and Mayer (1977) and Mayer and McGookin
+(Note 4). Two consultants were assigned to each
+treatment school. One was primarily responsible
+for data collection and the other for consulting
+with school staff. During the third year, the number
+of graduate students was reduced to five.
+Two of the five were responsible for consulting.
+The other three were responsible for data collection
+and did not consult with teachers.
+Workshop Presenters
+A project director (second author) and a chief
+consultant (first author) presented the workshops.
+The project director had a doctorate in
+educational psychology, training and experience
+in applied behavior analysis, and experience in
+school psychology. The chief consultant was professor
+of education and experienced in staff development
+and in training school counselors and
+school psychologists in behavior analysis.
+Data Collection and Measures
+Vandalism was the response of primary interest,
+but because acts of vandalism occur surreptitiously,
+they are essentially impossible to
+observe and one must use indirect measures. In
+this case it was decided that the products of vandalism
+would be measured by means of the cost
+required to repair the damage that had been
+caused. The other measures were selected for a
+different reason: to demonstrate that the intervention
+did actually take place; that teachers did
+indeed begin to implement the new skills they
+were taught during training and consultation
+sessions. Rates of praise by teachers and changes
+in task performance by students were selected
+because they were presumed to epitomize
+changes within the school climate. Further, at
+some time in the future it might be shown that
+increases in rates of praise by teachers and increases
+in on-task behavior by students reliably
+contribute toward reductions in acts of vandalism
+(or aggression or other antisocial acts).
+Vandalism costs. Vandalism data were collected
+in the same manner as in the Mayer and
+Butterworth (1979) study. The costs of repairing
+and replacing vandalized property were provided
+for each academic month by the project
+schools, and included the costs to replace or repair
+broken glass, equipment theft, fire damage,
+and property damage. The data sought and obtained
+were the same as those reported to the
+state. To compare expenses among schools, costs
+were reported per 100 students.
+Student and teacher behavior. The Behavioral
+Assessment Instrument was used by the project
+consultants to probe the six selected students'
+off-task and attending behavior, and each teacher's
+rate and kind of positive reinforcement
+directed toward the students. The Behavioral
+Assessment Instrument uses a time-sampling
+procedure in which the first student is observed
+for 10 sec and the student's behavior recorded
+during the following 5 sec. This process is repeated
+for all students being observed. During
+the fourth and eighth 10-sec intervals, the
+teacher's behavior is observed and the type of
+reinforcement, if any, recorded-just as with the
+students. This procedure is continued until 10
+observations are collected for each student and
+358
+SCHOOL VANDALISM AND DISCIPLINE
+20 observations for the teacher. These observations
+are completed in 20 min. Three categories
+of student behavior were recorded. Disruption
+was defined as behaviors that disturb either the
+teacher or students by drawing attention to the
+student, such as talking without permission, hitting,
+yelling, making noises by voice or with
+objects, and out of seat behavior that causes
+other students to look at the disruptor. Non
+task was defined as behaviors that do not disturb
+others but do not contribute to completion of
+assignments-behaviors such as reading during
+math, looking out the window, or head on desk.
+Attending was defined as behaviors related to
+assigned activities, such as eyes directed toward
+teachers when they are talking, eyes directed
+toward work, doing assignments, answering
+questions, and getting supplies.
+Praise included specific praise and general
+praise. Specific praise was defined as the delivery
+of praise paired with the rationale or
+reason for its delivery, e.g., "Great, you were able
+to remember that 9 times 4 is 36." General
+praise (a generic term used for purposes of simplicity)
+consisted of positive evaluative statements,
+rephrasing what a student said, approving
+gestures, positive physical contact, and recognition
+(without reference to a specific behavior).
+Typical general praise included saying, "That's
+good," or smiling, winking, and calling on students
+when they asked for recognition. Praise
+could have been delivered to an individual, the
+whole class, or to a subgroup of students within
+the class. In all cases, however, teacher responses
+were scored as praise only if directed to students
+when they were attending.
+After allowing for adaptation, baseline data
+were collected each year during the last 2 weeks
+in November and the first week in December.
+Three observations, one per week, were made in
+each of the four classrooms (two project and
+two barometer) in each school during that
+period. An interim assessment consisting of three
+observations in all schools was made during
+February, and the final assessment, again consisting
+of three observations, was completed during
+the last 3 weeks of May 1978, 1979, and
+1980 following the same procedures used for
+baseline.
+Interobserver agreement. Observer reliability
+assessments initially occurred during observer
+training with a videotape of a fifth-grade classroom
+The observers had to obtain an agreement
+coefficient of at least .85 with a scoring key before
+observing a live classroom. More than 20
+reliability assessments for student and teacher
+behavior were also completed during the adaptation,
+baseline, interim, and final observation
+periods. Each school consultant and a trained
+individual unfamiliar with the project simultaneously
+observed a classroom and independently
+recorded student and teacher behavior.
+Each reliability session lasted 20 min. The interobserver
+agreement was calculated by dividing
+the number of agreements by the number of
+disagreements for scored intervals (occurrences
+only) and ranged from .86 to 1.0 with a mean
+of .93.
+Procedure
+The schedule of implementation of staff development
+activities is summarized in Table 1.
+The table shows that the frequency of workshops
+and consultation contacts was gradually reduced
+over the 3-year period.
+The consultants followed a standard procedure
+in that they assisted teachers in implementing
+programs that were either introduced in the
+inservice workshops or described by Butterworth
+(Note 5). In addition, consultants followed the
+consulting format outlined in Table 2 and
+elaborated in Behavioral Consulting (Mayer &
+McGookin, Note 4).
+First project year (1977-1978). After baseline
+data collection, the project consultants began
+visiting and consulting with each project classroom
+teacher in the experimental schools on an
+average of twice a week. They arranged and conducted
+approximately two team meetings per
+month at each school. These were attended by
+359
+G. ROY MAYER et al.
+Table I
+Summary of Schedule of Staff Development Activities
+Workshop Frequency
+Number of Participants/ of Con-
+Year 1 Workshops School sultation
+Group I 10 principal twice a
+psychologist week
+2 project
+teachers
+Group II 0 none none
+Year 2
+Group I 3 principal once a
+psychologist week
+Group II 10 principal twice a
+psychologist week
+2 project
+teachers
+Year 3
+Group I 5 principals every
+and and other
+Group II psychologists week
+the project consultant, the principal, the two
+project teachers, and usually two or three other
+interested staff members. Each team attempted
+to identify and eliminate the conditions that
+foster vandalism and that hinder academic and
+personal-social development. This process involved
+working with the school staff in developing
+classroom and schoolwide programs that
+would teach students alternative behavior to
+vandalism and disruption. For example, lunchroom
+and playground management programs
+and classroom management programs were
+planned that stressed the use of specific positive
+reinforcement (Bernhart & Forehand, 1975),
+with students being informed as to which of
+their behaviors were being reinforced or recognized.
+The teams also planned community activities,
+such as neighborhood walks, to inform citizens
+of the school's concern with stopping
+vandalism and to solicit their cooperation. Involvement
+by youth clubs was sought in some
+schools to help keep the campus clean and to
+decide how to use money saved from reduced
+vandalism costs. These programs are described
+in detail elsewhere by Butterworth (Note 5).
+Ten workshops were presented between the
+middle of October and the end of May. The three
+Table 2
+Elements of Effective Consulting
+1. Establish a professional working relationship and
+develop rapport (communication skills).
+Reflection of content and affect
+Pace of speech
+Summarizing
+"I" messages
+Posture, eye contact, facial expression, and
+other nonverbal behaviors
+How to take notes
+Clarifying
+Confrontation
+2. Identify behaviors of concern and goals.
+Role of clarification
+Begin to operationalize
+3. Start contingency analysis during interview.
+4. Observe behaviors in classroom situation.
+Contingency analysis of student behavior
+Contingency analysis of teacher behavior
+Measuring rate of target behavior (optional)
+5. Confer with teacher; discuss what has been tried
+and to what degree.
+6. Jointly develop treatment strategy (goal for
+teacher).
+7. Develop and apply strategies to facilitate treatment.
+Reinforcing consultees
+Utilizing a variety of reinforcing sources from
+the natural environment
+Shaping
+Cues, prompts, and modeling
+Providing feedback
+Uses of data
+8. (Optional) Observe and record frequency of target
+behaviors.
+9. Develop and apply strategies to facilitate treatment
+maintenance.
+Fading
+Generalization
+Scheduling
+10. Share results!
+introductory workshops scheduled prior to the
+onset of treatment did not include programs and
+strategies for dealing with discipline and vandalism
+problems. Rather, these workshops introduced
+consultation skills that participants used
+to assist teachers in implementing the treatment
+strategies which were not presented until after
+baseline. Because of the holidays during December
+and planning necessary for program implementation
+and enlisting student involvement,
+teachers and school teams were unable
+360
+SCHOOL VANDALISM AND DISCIPLINE
+to start implementing programs until January.
+For this reason, vandalism costs prior to January
+1 (see Figure 1) were attributed to pretreatment
+effects.
+Funds were provided to the districts to be ased
+to hire substitutes for the 18 teachers attending
+the training sessions. Only the school psychologists
+and counselors were requested to attend all
+10 workshops. Activities at four of their meetings
+included learning and practicing behavioral
+consultation skills and analyzing school and
+classroom environments (Mayer & McGookin,
+Note 4), and sharing alternative strategies and
+materials used by teachers to improve classroom
+environments (Kaplan, Kohfeldt, & Sturla,
+1974; Sulzer-Azaroff & Mayer, 1977). These
+meetings were also attended by one or two of
+the school principals, although principals were
+not required to attend. Four of the 10 meetings
+were designed for the entire school team (principal,
+psychologist, or counselor, or both, and
+two project teachers) to deal with classroom and
+schoolwide discipline and vandalism problems
+encountered by different schools. Attendance at
+these meetings was close to 100%. The first
+team workshop began immediately after the collection
+of baseline data. A presentation of preliminary
+results was given at the last meeting
+for the principals, psychologists, and counselors.
+The content of all 10 workshops is described
+elsewhere (Butterworth, Note 5; Nafpaktitis,
+Mayer, Butterworth, & Jones, Note 6) and was
+presented through lecture, audiovisual materials,
+and simulation activities. Tables 2 and 3 list the
+topics included.
+None of the other teachers in the school, including
+the barometer teachers, attended the offcampus
+workshops. However, any teacher was
+welcome to receive consultation services on request.
+Typically three to five teachers in a school
+requested and received such services each year
+with usually one of these being a barometer
+teacher.
+Second project year (1978-1979). The treatment
+that was given to the 1977-1978 experimental
+schools during the first year was pro-
+Table 3
+Topics and activities included in team training workshops.
+Behavioral Concepts
+Conditions that engender school vandalism and disruption
+Antivandalism programs
+Positive reinforcement
+Methods of identifying reinforcers
+Negative reinforcement
+Extinction
+Reinforcing alternative responses
+Modeling
+Differential reinforcement of low rates
+Differential reinforcement of other responses
+Response cost
+Time-out
+Overcorrection
+Punishment and its side effects
+Practical Applications
+Using certificates and awards
+Improving staff morale
+Teaching students to get positive recognition
+Teaching students to reinforce teachers
+Readability assessment procedures
+Adapting material to student reading level
+Positive reinforcement bombardment
+Secret Pal Game
+I Spy Game
+Good Behavior Game
+Slot Machine Game
+Other group contingency games and programs
+Token systems
+Daily report cards
+School discipline plans
+vided for the control, or Group II schools, during
+the second year of the project. Group I schools
+were provided three off-campus workshops
+which only the psychologist and principal were
+requested to attend. These workshops were intended
+to provide a follow-up to the work begun
+the previous year and to invite the participants
+to share programs and projects going on at their
+sites.
+Consulting with school site personnel began
+during October 1978 in the Group I schools, because
+treatment had already started the previous
+year. Through on-campus team meetings, assessment
+of present school needs was made, and
+the previous year's schoolwide programs (i.e.,
+cafeteria or playground improvement, reducG.
+ROY MAYER et al.
+tion in tardiness, community improvement) were
+reevaluated. Consultants visited each project
+classroom on the average of once a week to assist
+the teacher in implementing programs or to
+collect observational data.
+While consulting in the experimental schools,
+some of the project staff collaborated with the
+team that had been involved in the county workshops
+in conducting several workshops directly
+in the schools. These were attended by an interested
+staff and covered material similar to that
+of the original workshops. An average of two
+such workshops was held in almost every school.
+Third project year (1979-1980). Consulting
+began in early October 1979, and continued
+through May 1980 in the remaining 11 schools
+at a reduced rate. Each consultant was required
+to spend one-half day every other week at each
+school as services continued to be phased out.
+Team meetings were organized and scheduled
+every 2 to 4 weeks. At these meetings, possible
+additions to and changes in existing schoolwide
+behavior improvement programs were discussed
+and planned. Consultants endeavored to work
+closely with the school psychologist, when available,
+and with the principal, while modeling
+consulting behavior and providing feedback and
+reinforcement to all who were involved in behavior
+change programs. Efforts were continued,
+as in prior years, to include as many site personnel
+as were willing to participate, including
+student groups.
+A series of five workshops was presented, and
+involved interested principals and psychologists.
+Four of these workshops offered instruction in
+improving consultation skills (see Table 2 and
+Mayer & McGookin, Note 4) to enable the
+principals and psychologists to enhance their
+ability to continue the project at its termination.
+The material was presented through lecture, simulation
+activities by project staff, and role playing
+by participants. The fifth workshop was set
+aside as a sharing period, and project participants
+were invited to discuss programs and
+projects going on at their sites.
+Feedback to teachers. During the first year
+of the project, behavioral data on teachers' types
+and amount of praise and students' behavior
+were graphed and shared with the project teachers
+in the experimental schools. During years
+two and three, this feedback was given to all
+project teachers. A minimum of three informal
+meetings between the consultant and each individual
+project teacher (except in control schools
+the first year) were held each year to discuss the
+behavioral data. Feedback was accompanied by
+social praise to maximize its usefulness (Cossairt,
+Hall, & Hopkins, 1973). During the third
+year only, barometer teachers were informed
+by the consultant that these data ware available
+from the consultant if they were interested in
+receiving them.
+Experimental Design
+The intervention program consisted of a
+"package" including inservice training of selected
+staff members, on-site consultation with
+selected teachers, consultation with other teachers
+who requested service, and establishing a
+team at each school to develop schoolwide programs.
+The experimental design was applied to
+the total intervention "package" without an
+analysis of the relative contributions by individual
+components to outcomes. A delayed
+treatment control (multiple baseline) design was
+used with schools randomly assigned to control
+and experimental conditions. The pre-post gain
+score variables were also compared between the
+control and experimental groups. In the case of
+vandalism cost, the number of schools that increased
+or decreased was compared. Thus, a
+number of different analyses were permitted due
+to the large sample sizes.
+RESULTS
+Vandalism
+First year. For each school the average
+monthly vandalism cost per 100 students during
+January through May 1978 (the time span that
+the full complement of personnel were involved
+in program implementation) was subtracted
+362
+SCHOOL VANDALISM AND DISCIPLINE
+from the average monthly vandalism cost per
+100 students during September through December
+1977 (the "baseline" period for schools receiving
+treatment for the first year). Each school
+was identified as having increased or decreased
+in cost of vandalism. According to this analysis
+during the first year of the experiment, vandalism
+decreased in six of nine schools receiving
+treatment but in only one of nine schools not receiving
+treatment. Application of the Fisher Exact
+Probability Test (Seigel, 1956), selected for
+its suitability with discrete ordinal data of small
+sample size, determined that significantly more
+treated than untreated schools experienced a decrease
+in the cost of repairing or replacing vandalized
+property (p < .05).
+Second year. For the schools that began receiving
+treatment in January 1979 (Group II),
+the average monthly vandalism cost per 100
+students during January through May 1979 was
+subtracted from the average monthly vandalism
+cost per 100 students during September through
+December 1978. On this basis, each of these
+schools was identified as having increased or decreased
+in costs of vandalism during the second
+year of the experiment. It was previously determined
+that one of nine of these schools improved
+without treatment during their first year
+as controls in the study. This compared with
+five of seven of the same schools that improved
+after treatment during the second year. Application
+of the Fisher Exact Probability Test indicated
+that significantly more schools experienced
+a decrease in the cost of vandalism after treatment
+(i.e., the second year) than before treatment
+(i.e., the first year) (p < .05).
+All three years. Figure 1 shows the dollar
+cost per 100 students of repairing and replacing
+vandalized property (without adjusting for inflation)
+for all schools that participated in the
+study for at least 2 years. The graphs covering
+all three years of the study indicate that 10 out
+of 13 schools (schools A, B, C, E, G, H, I, J, L,
+& M) receiving treatment experienced decreases
+in the cost of vandalism or maintained their very
+low levels during intensive staff training. These
+included all the schools with vandalism greater
+than $200/100 students in any month of baseline.
+Two schools (schools D and K) showed
+increases, and one school (school F) showed
+little change during intensive staff training.
+During the entire follow-up period, six of the 10
+schools remaining in the study maintained vandalism
+cost reductions (schools A, B, G, H, Iexcept
+one month, & J), one increased (school
+F), and three showed little change (C, E, & M)
+from baseline. However, with inflation, costs
+would be expected to increase over the 3-year
+period, not remain about the same. Thus, the
+treatment package appears to have been effective
+in nine of the 10 schools.
+Generally there is less vandalism from September
+through December than from January
+through May. This finding has been consistently
+borne out by data collected by the office of the
+Los Angeles County Superintendent of Schools.
+For example, the average for all Los Angeles
+County Schools was $766,917/mo in vandalism
+costs during September through December 1980,
+and $1,004,667/mo during January through
+May 1981. Thus, when interpreting the graphed
+data, it is best to compare treatment months back
+to the same nontreatment months.
+Comparing the baseline period September
+through December with the same months during
+treatment years shows the effect of treatment
+in reducing vandalism in Group I schools. A
+similar comparison can be made between the
+January through May period for Group II
+schools. Thus, maximal reduction in vandalism
+costs occurred following the onset of treatment
+in both experimental groups.
+Table 4 depicts a further analysis of the cost
+data. The initial average mean cost during the
+1977 baseline period of September through December
+for Group I schools was compared to
+the same time periods during treatment for 1978
+and 1979. A similar comparison was done for
+Group II schools. However, these schools had a
+much longer baseline and received treatment
+only from January through May in 1979. Thus,
+the 1978 January through May baseline for
+363
+364 G. ROY MAYER et al.
+INTENSIVE
+BABSAESLELIINNEE STAFF TRAINING INTERMITTENT STAFF TRAINING AND CONSULTATION iSTAFFTRAINING.~~~~~~~~~~~~~~~~~~~~~~~~~
+8801.
+400~1
+200 SchoolA
+....o...I l1 I - =_ ---- /-&\v -
+87I
+07
+DO School C
+DO School C
+D0 SchoolOD
+DO School E
+0~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+24804:
+400
+200 SchoolF
+0 480
+2400
+CL
+200 School IG
+j 0
+839
+200 S
+200 School H
+200 School L
+SO O *O MA MS 0, MOM 04 J\ , M M
+200 School K
+200 School.
+200 t d Schooln
+r p d o ws a l e S O N D J F M A M S O N D J F M A M S O N D J F M A M
+1977 78 1978 79 1979-80
+Fig. 1. The cost of repairing or replacing vandalized property in each school. During baseline, data were
+collected but no staff development workshops and weekly or twice weekly consultation took place. During follow-
+up, there were fewer workshops and consultation was available every other week.
+20
+20
+SCHOOL VANDALISM AND DISCIPLINE
+Table 4
+Mean Monthly Vandalism Costs/100 Students
+Group I Schools Group II Schools
+September to Decrease from Decrease from
+December Baseline January to May Baseline
+Baseline
+(1977-1978) $121.35 _ $77.12
+Treatment
+(1978-1979) $ 10.10 91.7% $14.29 81.5%
+Follow-up (I) or
+Treatment (II)
+(1979-1980) $ 30.85 74.6% $26.00 66.3%
+Group II schools was selected to compare to the
+same time periods during treatment for 1979
+and 1980. An average reduction in vandalism
+cost for all schools of 78.5 % was obtained
+without adjusting for inflation.
+Teacher Behavior
+Due to the large number of teachers involved
+in the study, behavior observations of a teacher's
+delivery of praise were averaged. The mean
+of baseline observations was subtracted from the
+mean of posttreatment delivery of praise for
+each teacher for each year of the study.
+A 2 X 2 factorial analysis of variance (i.e.,
+elementary and junior high grade level by treatment
+and control groups) was used to analyze
+changes in teacher praise between baseline and
+treatment observations. The following is a brief
+summary of the results that were found when
+teachers from Group I schools receiving treatment
+were compared to teachers in Group II
+control schools during 1977-1978.
+1977-1978. Project teachers in schools receiving
+treatment significantly increased rates of
+praise by the interim assessment while improvement
+by barometer teachers in the same schools
+was not significant until the posttreatment assessment
+(p < .05). Junior high school project
+and barometer teachers showed a significantly
+greater mean increase in their delivery of praise
+than that shown by elementary project teachers
+(p < .05). (The junior high school teachers
+started at a lower level than the elementary
+teachers.) Elementary barometer teachers in control
+schools not receiving treatment decreased
+their rate of delivering praise during the school
+year significantly more than elementary teachers
+in schools receiving treatment (p < .05).
+The following results were found when teachers
+from Groups I and II schools were compared
+to their control year (1977-1978):
+1978-1979. Teachers from project and barometer
+classrooms showed a significantly greater
+increase in their delivery of praise (p < .01).
+Project and barometer teachers attained significant
+increases in delivery of praise by the interim
+assessment (p < .05) and rates continued
+to increase by the posttreatment assessment
+(p < .01).
+1979-1980. There was no significant effect of
+follow-up treatment on the amount of praise delivered
+by teachers.
+Student Behavior
+Students were dropped from the analysis if
+they were not present at least once during the
+baseline and once during posttreatment data
+collection periods. Disruptive behavior and nontask
+behavior were combined and designated as
+off-task behavior-the reciprocal of attending
+behavior. Baseline observations of off-task behavior
+were averaged for each student. The
+mean of baseline observations was subtracted
+from the mean posttreatment off-task behavior
+for each student for each year of the study. (No
+significant interim changes were noted.) The
+G. ROY MAYER et al.
+student was selected as the unit of analysis because
+analysis of variance results are identical
+"irrespective of whether group means or individual
+observations are employed. The use of
+individual observations also allows the exploration
+of other interesting questions pertaining
+to interaction and generalizability" (Hopkins,
+1982, p. 5).
+A 2 X 2 factorial analysis of variance (school
+level by treatment) was used to evaluate changes
+in student off-task behavior between baseline and
+posttreatment observations. (A multiple baseline
+comparison, though preferable, was deemed impractical
+due to the limited number of observations
+and resources.)
+The following results were found when students
+from schools receiving treatment were
+compared to students in control schools during
+1977-1978: Students from project classrooms
+in schools receiving treatment showed a significantly
+greater (p < .05) mean decrease in offtask
+behavior during all 3 years of the study.
+There was a significantly greater mean decrease
+in student off-task behavior for the elementary
+than the junior high grades during 1977-1978
+(p < .05). Students from barometer classrooms
+in schools receiving treatment showed a significantly
+greater (p < .05) mean decrease in
+off-task behavior during all 3 years of the
+study.
+DISCUSSIONS AND CONCLUSIONS
+Statistically significant reductions in vandalism
+were obtained for two consecutive years. A
+multiple baseline design also compared the
+vandalism costs of both treatment groups
+throughout the 3-year duration of the study.
+Because vandalism costs tend to be higher during
+certain months than others, it is best to
+compare treatment months back to nontreatment
+months in interpreting the graphed data. Recognizing
+this, it can be seen that maximum vandalism
+cost reductions occurred only following
+implementation of treatment in both groups.
+Further, decreases from baseline, though somewhat
+smaller, were obtained during the third
+year, as shown in Table 4. These smaller decreases
+were probably due to the double digit
+inflation that was occurring at the time.
+Off-task behavior (e.g., hitting, yelling, throwing
+objects, not doing assigned work) of target
+students in both experimental project and barometer
+classrooms decreased from baseline significantly
+more than did the behavior of similar
+students in control project classrooms, throughout
+each of the 3 years of the study. Similarly,
+the average rate of positive teacher-student contacts
+improved significantly more in both the
+experimental project and barometer classrooms
+than in similar controls during the first 2 years
+of the study.
+These findings are substantiated by a 1979
+survey of the teachers and principals who participated
+in the project. All team members were
+given a questionnaire and a structured interview
+was conducted with team members. Fewer discipline
+problems, greater cooperation, and more
+positive feelings among students and staff were
+reported to be a result of the project programs.
+The survey was developed and completed by outside
+evaluators for the project and reported elsewhere
+(Jones, Mayer, & Butterworth, Note 7).
+The present study indicates that the total
+school climate might be affected by initially
+working with the strong, influential members of
+a school staff, while making some additional consultation
+contacts with other staff members on
+request. Barometer teachers, a sample of other
+teachers in the school who did not attend offcampus
+workshops, changed positively in the
+way they interacted with their students, giving
+strong support to a schoolwide generalization of
+these results. Unfortunately, records were not
+kept of how many barometer or other teachers
+requested consultation. However, several reported
+events indicated that numerous teachers
+were influenced by the project teachers and other
+team members. Project teachers shared materials
+with other teachers and involved them in departmental
+or grade-level programs to provide students
+positive reinforcement for pro-social be-
+366
+SCHOOL VANDALISM AND DISCIPLINE
+haviors. Some principals suggested to groups of
+staff members and individuals that they try activities
+introduced by the project staff. Principals
+also praised project teachers at faculty meetings
+for their participation in the project. During
+the second year, consultants and school team
+members gave inservice training to all interested
+staff members. Thus, the staff development
+model used in this study appears to be both
+feasible and economical. It is difficult and often
+economically impossible to provide workshops
+and frequent ongoing consultation services to
+all members of a staff.
+The intervention was also cost-effective in another
+respect. When average vandalism costs
+during treatment were compared with baseline,
+reductions of 66-92% (mean = 78.5 %) were
+obtained without adjusting for inflation. These
+reductions occurred while schools throughout
+Los Angeles County were experiencing increases
+of 56% during 1978-1979 and 359% during
+1979-1980 (compared to the baseline year 1977-
+1978). When the data from Table 4 for the
+1978-1879 school year were averaged with the
+pilot study data from 1976-1977 (Mayer & Butterworth,
+1979), a mean vandalism cost reduction
+of 73.5 % for 23 elementary and junior
+high schools was obtained. Thus, vandalism costs
+within project schools were reduced by at least
+two-thirds. A junior high school containing
+1,500 students with an average monthly vandalism
+cost of $121.35/100 students could potentially
+save from $10,861 to $24,197 over a 9-
+month period. (The $10,861 figure is based
+on the two-thirds decrease only, whereas the
+$24,197 figure is the estimated savings if the
+vandalism cost had increased 56% rather than
+decreased 91.7 %.)
+Some bias could have entered into reports of
+vandalism by school principals. Principals might
+appear to be doing a better job if reported rates
+of vandalism were kept to a minimum. In actuality,
+it is quite unlikely that such biasing
+occurred. On the contrary, it is far more probable
+that data on vandalism costs from the "treated"
+schools were biased in the other direction, because
+the project staff visited those school sites
+weekly and reported any occurrences of damage
+that they noted. These were added to those of the
+principals. Naturally, because staff were not
+visiting the "control" schools at the same rate,
+supplementary reports could not have been
+added to the total figures. Thus, reported differences
+would reflect an underestimate rather than
+an overestimate.
+Student and teacher behaviors were assessed
+both in target and in barometer classrooms to
+provide assurance that changes were implemented
+and to probe for possible spread of effects
+within the schools. Financial and other
+practical considerations (e.g., training, supervision,
+familiarity with contingencies in the classroom)
+limited the number of observations made
+and required that some of the observers also
+participate in the consultation during the first 2
+years of the study. Thus, it is quite possible that
+their presence served to cue the teachers to practice
+their skills. However, only two of the six
+observers consulted extensively with teachers.
+These two did not collect data in the classroom.
+The other four only consulted sporadically. The
+three people who observed during the third
+year had no history as consultants to any of the
+teachers. Further, the experimental data showing
+improved student behavior also indicates that
+the teachers' performance probably did change.
+Thus, any reactivity during that period of time
+was probably no greater than that which is
+integral to any applied situation in which the
+behavior of the participants is under direct observation.
+No one study, of course, provides a definitive
+answer. The area of vandalism involves more
+complex and temporally distant behavior than
+the immediate antecedents and consequences to
+behavior emphasized in current applied behavior
+analysis research (Wahler & Fox, 1981).
+Further, any investigation that usese a treatment
+package, or as broad an intervention program as
+was used in this study, will have a number of
+problems. Thus, this study should be viewed
+as a beginning ". . . an inspection of global
+367
+368 G. ROY MAYER et al.
+categories . .. a reasonable first step in methodology"
+(Wahler & Fox, 1981, p. 332) pointing
+to a possible direction of future reserach.
+For future research, many modifications could
+be made in systematically replicating the present
+study. For example, even though it is almost impossible
+to measure directly the acts of vandalism,
+future investigation might attempt to assess
+the reliability of vandalism cost and frequency
+data by using two independent observers or reporters.
+Also, some investigators may wish to
+exclude verified accidental property damage
+from their data. In the present study, it was not
+possible to separate out those data because the
+figures were obtained from totals reported to the
+state. More frequent classroom observations
+could also supply more valid means of measuring
+teacher and pupil behavior, and permit independent
+observers to verify the extent to which
+consultants followed any standard procedure.
+Because the treatment consisted of a "package"
+of procedures, it was impossible to determine
+to what degree classroom changes, planned
+community activities, involvement of youth
+clubs, or other aspects of the project were responsible
+for the obtained changes. Thus, further
+research should also attempt to tease out these
+differential contributors to the effectiveness of
+the program. In particular, we would like to see
+investigations on the refinement and relative
+contribution of various setting events.
+The present study attempted to assess the
+environment, to determine whether it was becoming
+less punitive and more positive, by
+measuring rates of praise delivered by teachers.
+Behavior of other staff members (i.e., administrators)
+and interactions among peers could also
+be measured. Degree of match between students'
+reading levels and the difficulty of assigned materials
+could be assessed and compared or correlated
+to frequency of vandalism and differential
+costs. Similar investigations could be made with
+other potential setting events.
+The present study and a previous one by
+Mayer and Butterworth (1979) focused on just
+a few factors that might provoke school disruption
+and vandalism. Because of the limited
+number of variables examined and the global
+measure of vandalism that was used, the magnitude
+of the results is impressive. The data solidly
+support the conclusion that educators can act
+successfully to reduce vandalism and inappropriate
+student behavior. However, much more
+work needs to be done to isolate effective treatment
+programs. We may find that certain treatment
+programs are best suited to preventing specific
+categories of vandalism such as theft or
+property damage. Currently, we are attempting
+to see if aspects of this approach can be shown
+reliably to bring about similarly marked changes
+at the secondary school level. It is hoped that the
+conditions that contribute to vandalism within
+the school can ultimately be identified and managed,
+permitting us then to direct our efforts to
+some of the factors that influence vandalism
+from the outside.
+REFERENCE NOTES
+1. Attendance and Welfare 1979-80 Bulletin, No.
+35. Downey, Calif.: Office of the Los Angeles
+County Superintendent of Schools.
+2. Project PRIDE Progress, I (1) (whole number).
+Burlingame, Calif.: 1976.
+3. Azrin, N. H. Aggressive responses of paired animals.
+Paper presented at the symposium on Medical
+Aspects of Stress, Walter Reed Institute of Research,
+Washington, D.C., April 1964.
+4. Mayer, G. R., & McGookin, R. B. Behavioral
+consulting. Downey, Calif.: Office of the Los Angeles
+County Superintendent of Schools, 1977.
+5. Butterworth, T. Strategies for reducing violence
+and vandalism. Project REVIVE. Office of the Los
+Angeles County Superintendent of Schools. An
+ESEA, Title IV-C Innovative-Developmental
+Grant, September 1979.
+6. Nafpaktitis, M., Mayer, G. R., Butterworth, T., &
+Jones, J. Implementing project REVIVE: Workshops
+and guidelines. Downey, Calif.: Office of the
+Los Angeles County Superintendent of Schools,
+1980.
+7. Jones, J., Mayer, G. R., & Butterworth, T. REVIVE:
+Reducing violence and vandalism in education.
+(ESEA Title IV C #3969), Downey, Calif.:
+Office of the Los Angeles County Superintendent
+of Schools, 1978.
+SCHOOL VANDALISM AND DISCIPLINE 369
+REFERENCES
+Azrin, N. H., & Holz, W. C. Punishment. In W. A.
+Honig (Ed.), Operant behavior: Areas of research
+and application. New York: Appleton-Century-
+Crofts, 1966.
+Azrin, N. H., Hutchinson, R. R., & Hake, F. F. Paininduced
+fighting in the squirrel monkey. journal
+of the Experimental Analysis of Behavior, 1963,
+6, 620.
+Bernhardt, A. H., & Forehand, R. The effects of labeled
+and unlabeled praise upon lower and middle
+class children. Journal of Experimental Child
+Psychology, 1975, 19, 536-543.
+Cossairt, A., Hall, R. V., & Hopkins, B. L. The effects
+of experimenter's instructions, feedback, and
+praise on teacher praise and student attending
+behavior. Journal of Applied Behavior Analysis,
+1973, 6, 89-100.
+Gee, J. S. Community schools: Sunnyvale action
+against delinquency. Crime Prevention Review,
+1974, 1, 25-32.
+Greenberg, B. School vandalism. Its effects and
+paradoxical solutions. Crime Prevention Review,
+1974, 1, 1-5.
+Hopkins, K. D. The unit of analysis: Group means
+versus individual observations. American Educational
+Research Journal, 1982, 19, 5-18.
+Horton, L. E. Generalization of aggressive behavior
+in adolescent delinquent boys. Journal of Applied
+Behavior Analysis, 1970, 3, 205-211.
+Kaplan, P., Kohfeldt, J., & Sturla, K. It's positively
+fun. Denver, Colo.: Love Publishing Co., 1974.
+Mayer, G. R., & Butterworth, T. Reducing school
+violence and vandalism. Guidance Clinic, June
+1978, 11-15.
+Mayer, G. R., & Butterworth, T. A preventive approach
+to school violence and vandalism: An experimental
+study. The Personnel and Guidance
+Journal, 1979, 57, 436-441.
+National Institute of Education. The safe school study.
+Washington, D.C.: U.S. Department of Health,
+Education, and Welfare, Office of Education,
+1978.
+Siegel, S. Nonparametric statistics for behavioral
+sciences. New York: McGraw-Hill, 1956.
+Sulzer-Azaroff, B., & Mayer, G. R. Applying behavior
+analysis procedures with children and youth.
+New York: Holt, Rinehart, and Winston, 1977.
+Thomas, J. D., Presland, I. E., Grant, M. D., &
+Glynn, T. Natural rates of teacher approval in
+grade 7 classrooms. Journal of Applied Behavior
+Analysis, 1978, 11, 95-109.
+Wahler, R. G., & Fox, J. J. Setting events in applied
+behavior analysis: Toward a conceptual
+and methodological expansion. Journal of Applied
+Behavior Analysis, 1981, 14, 327-338.
+Ziesel, J. Stopping school property damage. Boston:
+American Association of School Administrators
+and Educational Facilities Laboratories in
+collaboration with City of Boston Public Facilities
+Department, 1976.
+Received January 1, 1982
+Final acceptance April 21, 1983

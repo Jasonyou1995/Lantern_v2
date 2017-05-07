@@ -1,0 +1,173 @@
+article info
+Keywords:
+Prescription drug misuse Sexual identity
+Access
+Childhood abuse
+abstract
+Objective: Prescription drug misuse is an important public health problem in the U.S., particularly among adoles- cents and young adults. Few studies have examined factors contributing to initiation into prescription drug mis- use, including sexual orientation and childhood abuse and neglect. The purpose of the present study is to investigate the relationship between initiation into the misuse of prescription drugs (opioids, tranquilizers, and stimulants), sexual identity, and individual and family determinants.
+Method: Results are based upon data from a cross-sectional survey of 596 youth (polydrug users, homeless youth, and injection drug users) aged 16 to 25 who reported current prescription drug misuse. Participants were recruited in Los Angeles and New York City between 2009 and 2011. We compared initiation behaviors between sexual minority and heterosexual youth and examined factors modifying the relationship between sexual identity and earlier initiation into prescription drug misuse.
+Results: Sexual minority youth were more likely to report histories of initiation into misuse of prescription opioids and tranquilizers. Further, they were more likely to report various types of childhood abuse than heterosexual youth. However, multivariate analyses indicated that age of first prescribed drug was the most significant factor associated with initiation into misuse of all three categories of prescription drugs.
+Conclusions: The correlates of initiation into prescription drug misuse are multidimensional and offer opportuni- ties for further research. Identifying additional factors contributing to initiation into prescription drug misuse is essential towards developing interventions that may reduce future drug use among young adults.
+Addictive Behaviors 37 (2012) 1289–1293
+    Contents lists available at SciVerse ScienceDirect Addictive Behaviors
+ Short Communication
+Initiation into prescription drug misuse: Differences between lesbian, gay, bisexual, transgender (LGBT) and heterosexual high-risk young adults in Los Angeles and New York
+Aleksandar Kecojevic a,⁎, Carolyn F. Wong b,c, Sheree M. Schrager d, Karol Silva a, Jennifer Jackson Bloom d, Ellen Iverson d, Stephen E. Lankenau a
+a Drexel University, School of Public Health, Department of Community Health and Prevention, 1505 Race Street, 11th floor, Philadelphia, PA 19102, United States b Children's Hospital Los Angeles, The Saban Research Institute, Community, Health Outcomes and Intervention Research Program, 4650 Sunset Boulevard, Mailstop #30, Los Angeles, CA 90027, United States
+c University of Southern California, Keck School of Medicine, Department of Pediatrics, United States
+d Children's Hospital Los Angeles, Division of Adolescent Medicine, 5000 Sunset Boulevard, 7th Floor, Los Angeles, CA 90027, United States
+     1. Introduction
+Previous research indicates heightened
+among lesbian, gay, bisexual and transgender (LGBT) adolescents and young adults (Marshal et al., 2008; Centers for Disease Control and Prevention (CDC), 2011). While patterns of illicit substance use among LGBT youth have been extensively researched (Thiede et al., 2003), little is known about their prescription drug misuse patterns. This is con- cerning given recent evidence indicating differences in prescription drug misuse between LGBT and heterosexual youth, particularly during adolescence (Corliss et al., 2010).
+Second only to cannabis, prescription drugs are the most commonly used substances at drug initiation (Substance Abuse and Mental Health
+⁎ Corresponding author. Tel.: +1 215 762 4146; fax: +1 215 762 4088. E-mail address: ak955@drexel.edu (A. Kecojevic).
+0306-4603/$ – see front matter © 2012 Elsevier Ltd. All rights reserved. doi:10.1016/j.addbeh.2012.06.006
+© 2012 Elsevier Ltd. All rights reserved.
+Services Administration, 2010). While research is limited on initiation into prescription drug misuse, socio-demographic variables, such as race (Kosterman, Hawkins, Guo, Catalano, & Abbott, 2000), gender (Kandel & Logan, 1984) and sexual identity (Corliss, Rosario, Wypij, Fisher, & Austin, 2008), and family-related variables, such as single- parent households (Hemovich, Lac, & Crano, 2011), lack of parental monitoring (Bousman et al., 2005), and family substance abuse (Kumpfer, Olds, Alexander, Zucker, & Gary, 1998), have been identified as important factors associated with initiation into tobacco, alcohol, and illicit drug use. While these factors are also expected to impact prescrip- tion drug misuse among LGBT youth, additional factors such as adverse childhood experiences may predispose them to misuse of prescription drugs. LGBT youth have been found to experience significantly higher rates of childhood abuse compared to heterosexual youth (Friedman et al., 2011). These experiences have in turn been associated with neg- ative outcomes for LGBTs including mental health problems (Huebner, Rebchook, & Kegeles, 2004), increased HIV risk-taking behaviors
+rates of substance use
+ 
+1290 A. Kecojevic et al. / Addictive Behaviors 37 (2012) 1289–1293
+(Brennan, Hellerstedt, Ross, & Welles, 2007), and increased substance abuse (Kalichman et al., 2001). Initiation into use of licit and illicit drugs may reflect attempts to cope with stress and trauma from mal- treatment, as growing evidence points to the association between emo- tional, physical and sexual abuse and initiation of tobacco, alcohol and illicit drug use among adolescents and young adults (Ompad et al., 2005; Roy et al., 2003; Savin-Williams, 1994). Experiences of childhood abuse may thus play an important role in LGBT youths' initiation into prescription drug misuse.
+In this study, we first compared prescription drug misuse initia- tion between a self-identified group of LGBT youth and their hetero- sexual counterparts. Given previous findings that LGBT individuals initiate use of tobacco, alcohol, and illicit drugs earlier, we hypothe- sized that LGBT participants would also report earlier initiation of prescription drugs. Next, we examined the relationships between sexual identity, childhood experiences of abuse, and initiation into prescription drug misuse, while accounting for important socio- demographic and family/environmental risk factors. We hypothe- sized that sexual identity would moderate associations between childhood abuse and earlier initiation into prescription drug misuse, such that the negative effects of childhood abuse on initiation of pre- scription drug misuse would be more pronounced among LGBT youth compared to heterosexual youth.
+2. Methods
+2.1. Participants and procedures
+Data come from a previously reported study (Lankenau et al., 2012) examining prescription drug misuse among a sample of 596 young adults in Los Angeles and New York City. Eligible participants were 16–25 years old and had misused a prescription drug, i.e., opioid, tran- quilizer, or stimulant, or any combination, at least three times in the last 90 days. Institutional review boards at Drexel University, Children's Hospital Los Angeles, and the National Development and Research Insti- tutes, Inc. approved the study.
+2.2. Measures
+2.2.1. Demographic variables
+Study participants self-reported a variety of demographic infor- mation including race/ethnicity (coded as 0=“White” or 1=“non- White minorities”) and gender at birth (0=male, 1=female). We also assessed homelessness before age 16 (0=no, 1=yes), socio- economic status (SES) growing up (0=“middle/upper class”, 1=“poor/ working class”) and sexual orientation (dichotomized into 0 = heterosex- ual and 1=LGB(T)). Eight transgendered participants, although self- reporting straight sexual identity, were also classified as LGBT.
+2.2.2. Prescription drug misuse variables
+Prescription drug misuse was defined as taking prescription drugs “when they were not prescribed for you or that you took only for the ex- perience or feeling it caused” (Substance Abuse and Mental Health Services Administration, 2010). The primary outcome was age of initia- tion for each type of prescription drug. Variables describing prescription drug misuse history, including being prescribed prescription pills, age of first prescription, access to, and source of prescription drugs, were ex- amined as covariates in the multivariate models. We approximated ac- cess by asking how much access participants had to their own prescriptions and to prescriptions belonging to members of their house- hold. “No access” (0) was defined by responses characterizing the drugs being in a locked or unknown location; “having access” (1) was defined by responses characterizing the drugs being located in unlocked or open places. Sources of participants' first misused prescription drugs were di- chotomized as participants' own prescription/prescription within the household (1), or as outside sources (0).
+2.2.3. Childhood abuse history
+Questions defining emotional, physical, and sexual abuse were adopted from the Childhood Trauma Questionnaire (CTQ) (Bernstein et al., 1994). Fifteen items assessed abuse during childhood. Responses were scored on a Likert-type scale that ranged from 1 = “never” to
+5 = “very often”.
+(α = 0.90, 0.90, 0.96 for the emotional, physical, and sexual subscales, respectively).
+2.3. Analyses
+We first examined bivariate differences between LGBT and hetero- sexual youth on a range of variables related to initiation into prescrip- tion drug misuse. An alpha level of 0.05 was used to determine significance for all tests. Due to the large number of comparisons, all p-values have been adjusted using the false discovery rate controlling procedure (Benjamini & Hochberg, 1995).
+Key covariates for inclusion in models predicting ages of initiation for all three prescription drugs types were determined in bivariate analyses, and were retained for inclusion in regression models if pb0.05. Next, a series of multiple linear regression models with for- ward entry were used in which the first block of variables included socio-demographic characteristics. The second block included pre- scription drug history, access, and source variables. The final two blocks included childhood abuse variables and their interactions with sexual orientation. All independent continuous variables were mean-centered (Kraemer & Blasey, 2004). Analyses were performed using SPSS (version 18.0).
+3. Results
+3.1. Descriptive findings
+Participants' demographics, initiation to prescription drug misuse, and severity of childhood abuse are presented in Table 1. The study rec- ruited 596 young adults; two participants refused to answer and were excluded from analysis, resulting in a final sample of 594: 201 (34%) self-identified as LGBT and 393 (66%) as heterosexual. Statistically sig- nificant differences between LGBT and heterosexual youth were found regarding race, gender, age of initiation into opioids and tranquilizers misuse, being prescribed tranquilizers, family members being pre- scribed opioids and tranquilizers, access to their own and family's tran- quilizers, and household as a source of first misused opioid and tranquilizer. Finally, high rates of abusive experiences in childhood were reported, with LGBT participants reporting substantially higher scores on all three scales of childhood abuse.
+3.2. Regression findings
+After controlling for socio-demographic and childhood abuse fac- tors, sexual identity was no longer associated with initiation into opi- oid, tranquilizer, or stimulant misuse. Age of first prescription was the strongest predictor of earlier misuse (opioids: β = 0.34, 95% CI [0.27, 0.41], p b 0.001; tranquilizers: β = 0.37, 95% CI [0.27, 0.47], p b 0.001; and stimulants: β = 0.21, 95% CI [0.12, 0.29], p b 0.001). Further, par- ticipants with unmonitored access to tranquilizers were more likely to start misusing these tranquilizers (β = − 0.90, 95% CI [− 1.81, 0.01], p b 0.05), and having household as the source of first misused stimulant predicted earlier stimulant initiation (β = − 2.16, 95% CI [− 2.94, − 1.37], p b 0.001). Experiencing sexual abuse was signifi- cantly associated with earlier tranquilizer initiation (β = − 0.11, 95% CI [− 0.22, − 0.003], p b 0.05) and nearly associated with earlier stim- ulant initiation (β = − 0.11, 95% CI [− 0.22, 0.001], p = 0.05). Having experienced physical abuse was also nearly associated (β = − 0.11, 95% CI [− 0.22, 0.001], p = 0.05) with earlier stimulant initiation.
+Cronbach's alpha for the overall scale was 0.94
+Note: ns=non-significant.
+a
+Because we were interested in whether sexual identity modifies the effects of childhood abuse on prescription drug misuse initiation, we tested interactions between sexual identity and variables related to child- hood abuse. In the tranquilizer initiation model, the emotional abuse and sexual identity interaction was significant (β = − 0.19, 95% CI [− 0.36, − 0.03], p b 0.05), and the interaction between sexual abuse and sexual identity was nearly significant (β = 0.12, 95% CI [− 0.02, 0.26], p b 0.1), indicating that the effects of childhood abuse on tranquilizer initiation
+Chi-square test based on male vs. female only. p b 0.05.
+p b 0.01. ⁎⁎⁎ p b 0.001.
+⁎ ⁎⁎
+A. Kecojevic et al. / Addictive Behaviors 37 (2012) 1289–1293 1291
+ Table 1
+Participant demographics, initiation to prescription drugs, and childhood abuse by sexual identity category.
+ Variable Categories LGBT (n=201) Heterosexual (n=393) Difference test (%) (%)
+ Age (mean±SD) Gendera
+Race
+Socioeconomic status (SES) growing up
+Homeless or marginally housed growing up Age of initiation, Rx drugs (first misuse)
+Age of initiation, illicit drugs (first use)
+Ever prescribed Rx
+Age of 1st Rx (mean±SD)
+Family member ever prescribed Rx
+Had free access to own or family Rx
+Household as a source of first misused Rx
+Childhood Trauma Questionnaire Score (mean±SD)
+Range: 16–25
+Male
+Female Transgender/intersex Non-Hispanic White Nonwhite
+Poor or lower class Middle or upper class
+Opioids Tranquilizers Stimulants Marijuana
+Cocaine Methamphetamine Heroin
+Crack Opioids Tranquilizers Stimulants Opioids Tranquilizers Stimulants Opioids Tranquilizers Stimulants Opioids Tranquilizers Stimulants Opioids Tranquilizers Stimulants Emotional Physical Sexual
+20.71 (2.08) 83 (41) 102 (51)
+16 (8)
+94 (47) 105 (53) 87 (44) 113 (56) 79 (39) 15.2 (2.6) 15.7 (2.9) 15.5 (2.7) 13.7 (2.9) 16.5 (2.5) 17.1 (3.2) 17.6 (2.6) 17.6 (2.6) 149 (74) 116 (58) 90 (45) 14.9 (3.9) 15.6 (3.4) 11.5 (4.6) 147 (73) 97 (48) 56 (28) 160 (80) 134 (67) 101 (50) 99 (49) 70 (35) 53 (26) 15.2 (6.2) 11.8 (6.2)
+9.7 (6.8)
+20.94 (2.04) 305 (78) 88 (22)
+0 (0) 239 (61) 153 (39) 176 (45) 214 (55) 136 (35)
+15.7 (2.8) 16.5 (2.8) 16.0 (2.9) 13.3 (2.7) 16.7 (2.4) 17.0 (2.9) 17.5 (2.4) 17.6 (2.4) 283 (72) 153 (39) 178 (45) 15.7 (3.8) 16.4 (3.4) 11.4 (4.4) 249 (63) 137 (35)
+97 (25) 283 (72) 178 (45) 186 (47) 156 (40)
+89 (23)
+93 (24) 12.8 (6.0) 10.1 (5.3)
+6.7 (3.9)
+ns
+χ2(1) = 61.1⁎⁎⁎ χ2(1) = 10.1⁎⁎
+ns ns
+t(571) = 2.3⁎ t(533) = 3.0⁎⁎ ns
+ns
+ns
+ns
+ns
+ns
+ns
+χ2(1) = 18.9⁎⁎⁎ ns
+ns
+ns
+ns
+χ2(1) = 5.7⁎ χ2(1) = 10.0⁎⁎ ns
+ns
+χ2(1) = 24.3⁎⁎⁎ ns
+χ2(1) = 5.0⁎ χ2(1) = 10.1⁎⁎ ns
+t(579) = − 4.4⁎⁎⁎ t(582) = − 3.4⁎⁎ t(566) = − 6.9⁎⁎⁎
+   differed between LGBTs and heterosexuals. To understand the nature of these interactions, we computed and graphed predicted values. The endpoints represent the expected age of initiation for individuals high and low in experiences of emotional or sexual abuse (i.e., one standard deviation above and below the means of these variables) who were LGBT or heterosexual. As shown in Fig. 1a, high emotional abuse was associated with earlier tranquilizer initiation for LGBT youth, whereas heterosexual youth who experienced higher emotional abuse delayed
+ 17.0 16.9 16.8 16.7 16.6 16.5 16.4 16.3 16.2
+17.0 16.9 16.8 16.7 16.6 16.5 16.4 16.3 16.2
+B
+      Low Abuse
+High Abuse
+LGBT
+Low Abuse
+Heterosexual
+High Abuse
+LGBT
+A Heterosexual
+    Fig. 1. a: Plot depicting the interaction between experiences of emotional abuse in childhood and earlier initiation into tranquilizers misuse for each sexual identity group. B: Plot depicting the interaction between experiences of sexual abuse in childhood and earlier initiation into tranquilizers misuse for each sexual identity group.
+1292 A. Kecojevic et al. / Addictive Behaviors 37 (2012) 1289–1293
+initiation into tranquilizers misuse. While Fig. 1b indicates that over- all, LGBT youth initiated the use of tranquilizers at earlier ages, hetero- sexual youth who experienced high levels of sexual abuse appear to initiate the use of tranquilizers at a similar age as LGBT youth.
+4. Discussion and conclusions
+Results suggest that young adults who currently misuse prescription drugs initiated misuse during adolescence. As hypothesized, the results of this study revealed that LGBT youth start misusing prescription drugs at earlier ages than heterosexual youth, confirming previous findings (Corliss et al., 2010). LGBT identity was associated with earlier initiation of opioids and tranquilizers but not stimulants. However, the factors predicting initiation into prescription drug misuse are complex and multifaceted. Our findings confirm that drug availability is a powerful predictor of substance abuse among youth (Sung, Richter, Vaughan, Johnson, & Thom, 2005). In addition to their own prescriptions, the main source of prescription drug diversion for adolescents is within their households (McCabe, West, & Wechsler, 2007; Substance Abuse and Mental Health Services Administration, 2010).
+A major strength of this study is the assessment of childhood trau- ma, which addresses one of the most important stress factors in child- hood. Even after considering the effects of earlier prescribing and access to these drugs, childhood sexual abuse was a significant pre- dictor for earlier initiation into tranquilizer misuse, and sexual and physical abuse were nearly significant predictors of earlier initiation into stimulant misuse. This complements an earlier finding that survi- vors of sexual abuse exceeded the tranquilizer use of people reporting no sexual abuse by 70% (Zierler et al., 1991).
+Our study provides evidence that segments of the young adults exposed to various forms of childhood abuse are at risk for earlier ini- tiation into prescription drug misuse. Consistent with our hypothesis, LGBT youth who experienced emotional abuse in childhood were at significantly increased risk for earlier initiation into tranquilizers. This implies that effects of childhood emotional abuse on problematic drug behavior may be just as severe as physical or sexual abuse, in particular for the LGBT population. Although the interaction between sexual identity and sexual abuse was only marginally significant, it appears that LGBT youth initiated tranquilizers at a young age regard- less of any sexual abuse experiences. Moreover, heterosexual youth who reported higher sexual abuse initiated tranquilizers at earlier ages as well, suggesting a strong relationship between experiences of sexual abuse and younger age of tranquilizer initiation.
+Despite substantial increases in prescription drug misuse among adolescents and young adults in recent years, information on risk fac- tors contributing to initiation into prescription drug misuse is sparse. Prior research indicates that studying initiation events among young drug users contributes towards a fuller comprehension of emerging drug use trends (Lankenau & Clatts, 2004), user populations (Fuller et al., 2003), risk behaviors (Lankenau, Bloom, & Shin, 2010), and po- tential prevention and intervention strategies (Miller, Strathdee, Kerr, Li, & Wood, 2006). Our findings, which parallel those of other studies indicating that certain groups are at higher risk for prescription drug misuse (McCabe, Knight, Teter, & Wechsler, 2005; McCabe, Teter, Boyd, Knight, & Wechsler, 2005), help address this research gap.
+Despite study limitations, which include its cross-sectional design, inability to generalize to the larger population of young adults, and reliance on self-reported data, this study shows that LGBTs may initi- ate prescription drugs earlier than heterosexual youth. Thus, the timing of education programs for LGBT youth may need to be adjust- ed. We also found a link between childhood trauma experiences and the initiation of tranquilizers, with the effects of emotional abuse being particularly detrimental among LGBT youth. In addition to esta- blishing more stringent guideline to control prescribing practices of prescription drugs, prevention efforts should focus on curtailing the
+consequences of early stressful life experiences that may be related to sexual minority status.
+Role of funding sources
+This research was supported by funding from the National Institute of Drug Use (DA021299). NIDA had no role in the study design, collection, analysis or interpreta- tion of the data, writing the manuscript, or the decision to submit the paper for publication.
+Contributors
+Stephen Lankenau developed the study design and implementation protocols. Ellen Iverson oversaw participant recruitment. The initial version of the manuscript was prepared by Aleksandar Kecojevic, and all authors subsequently contributed to preparing the final version of the manuscript. All authors have approved the final version.
+Conflict of interest
+All authors declare that they have no conflicts of interest.
+Acknowledgements
+The authors gratefully acknowledge Cesar Arauz-Cuadra, Meghan Treese, and Alex Harocopos for their recruitment of study participants.
+References
+Benjamini, Y., & Hochberg, Y. (1995). Controlling the false discovery rate: A practical and powerful approach to multiple testing. Journal of the Royal Statistical Society Se- ries B: Methodological, 57, 289–300.
+Bernstein, D., Fink, L., Handelsman, L., Foote, J., Lovejoy, M., Wenzel, K., et al. (1994). Initial reliability and validity of a new retrospective measure of child abuse and ne- glect. The American Journal of Psychiatry, 151, 1132–1136.
+Bousman, C. A., Blumberg, E. J., Shillington, A. M., Hovell, M. F., Ji, M., Lehman, S., et al. (2005). Predictors of substance use among homeless youth in San Diego. Addictive Behaviors, 30(6), 1100–1110.
+Brennan, D. J., Hellerstedt, W. L., Ross, M. W., & Welles, S. L. (2007). History of childhood sex- ual abuse and HIV risk behaviors in homosexual and bisexual men. American Journal of Public Health, 97(6), 1107–1112.
+Centers for Disease Control and Prevention (CDC) (2011). Sexual identity, sex of sexual contacts, and health-risk behaviors among students in grades 9–12 — Youth risk be- havior surveillance, selected sites, United States, 2001–2009. MMWR. Early Release, vol. 60, (June 6, 2011).
+Corliss, H. L., Rosario, M., Wypij, D., Fisher, L. B., & Austin, S. B. (2008). Sexual orienta- tion disparities in longitudinal alcohol use patterns among adolescents: Findings from the Growing Up Today Study. Archives of Pediatrics & Adolescent Medicine, 162(11), 1071–1078.
+Corliss, H. L., Rosario, M., Wypij, D., Wylie, S. A., Frazier, A. L., & Austin, S. B. (2010). Sex- ual orientation and drug use in a longitudinal cohort study of U.S. adolescents. Ad- dictive Behaviors, 35(5), 517–521.
+Friedman, M. S., Marshal, M. P., Guadamuz, T. E., Wei, C., Wong, C. F., Saewyc, E., et al. (2011). A meta-analysis of disparities in childhood sexual abuse, parental physical abuse, and peer victimization among sexual minority and sexual nonminority indi- viduals. American Journal of Public Health, 101(8), 1481–1494.
+Fuller, C. M., Vlahov, D., Latkin, C. A., Ompad, D. C., Celentano, D. D., & Strathdee, S. A. (2003). Social circumstances of initiation of injection drug use and early shooting gallery attendance: Implications for HIV intervention among adolescent and young adult injection drug users. Journal of Acquired Immune Deficiency Syndromes, 32(1), 86–93.
+Hemovich, V., Lac, A., & Crano, W. D. (2011). Understanding early-onset drug and alco- hol outcomes among youth: The role of family structure, social factors, and inter- personal perceptions of use. Psychology, Health & Medicine, 16(3), 249–267.
+Huebner, D. M., Rebchook, G. M., & Kegeles, S. M. (2004). Experiences of harassment, dis- crimination, and physical violence among young gay and bisexual men. American Journal of Public Health, 94(7), 1200–1203.
+Kalichman, S. C., Benotsch, E., Rompa, D., Gore-Felton, C., Austin, J., Luke, W., et al. (2001). Unwanted sexual experiences and sexual risks in gay and bisexual men: Associations among revictimization, substance use, and psychiatric symptoms. Journal of Sex Research, 38(1), 1–9.
+Kandel, D. B., & Logan, J. A. (1984). Patterns of drug use from adolescence to young adulthood: I. Periods of risk for initiation, continued use, and discontinuation. American Journal of Public Health, 74, 660–666.
+Kosterman, R., Hawkins, J. D., Guo, J., Catalano, R. F., & Abbott, R. D. (2000). The dynam- ics of alcohol and marijuana initiation: Patterns and predictors of first use in ado- lescence. American Journal of Public Health, 90, 360–366.
+Kraemer, H. C., & Blasey, C. M. (2004). Centring in regression analyses: A strategy to prevent errors in statistical inference. International Journal of Methods in Psychiatric Research, 13, 141–151.
+Kumpfer, K. L., Olds, D., Alexander, J., Zucker, R., & Gary, L. (1998). Family etiology of youth problems. In R. Ashery, E. Robertson, & K. Kumpfer (Eds.), Drug abuse preven- tion through family interventions (pp. 42–77). : NIDA (Pub. No. 99‐4135).
+Lankenau, S. E., Bloom, J. J., & Shin, C. (2010). Longitudinal trajectories of ketamine use among young injection drug users. The International Journal on Drug Policy, 21(4), 306–314.
+Lankenau, S. E., & Clatts, M. C. (2004). Drug injection practices among high-risk youths: The first shot of ketamine. Journal of Urban Health, 81(2), 232–248.
+Lankenau, S. E., Schrager, S. M., Silva, K., Kecojevic, A., Bloom, J. J., Wong, C. F., et al. (2012). Misuse of prescription and illicit drugs among high-risk young adults in Los Angeles and New York. Journal of Public Health Research, 1(1), 22–30.
+Marshal, M. P., Friedman, M. S., Stall, R., King, K. M., Miles, J., Gold, M. A., et al. (2008). Sexual orientation and adolescent substance use: A meta-analysis and methodo- logical review. Addiction, 103(4), 546–556.
+McCabe, S. E., Knight, J. R., Teter, C. J., & Wechsler, H. (2005). Non-medical use of pre- scription stimulants among US college students: Prevalence and correlates from a national survey. Addiction, 100(1), 96–106.
+McCabe, S. E., Teter, C. J., Boyd, C. J., Knight, J. R., & Wechsler, H. (2005). Nonmedical use of prescription opioids among U.S. college students: Prevalence and correlates from a national survey. Addictive Behaviors, 30(4), 789–805.
+McCabe, S. E., West, B. T., & Wechsler, H. (2007). Alcohol-use disorders and nonmedical use of prescription drugs among U.S. college students. Journal of Studies on Alcohol and Drugs, 68(4), 543–547.
+Miller, C. L., Strathdee, S. A., Kerr, T., Li, K., & Wood, E. (2006). Factors associated with early adolescent initiation into injection drug use: Implications for intervention programs. The Journal of Adolescent Health, 38(4), 462–464.
+Ompad, D. C., Ikeda, R. M., Shah, N., Fuller, C. M., Bailey, S., Morse, E., et al. (2005). Child- hood sexual abuse and age at initiation of injection drug use. American Journal of Public Health, 95(4), 703–709.
+Roy, E., Haley, N., Leclerc, P., Cédras, L., Blais, L., & Boivin, J. F. (2003). Drug injection among street youths in Montreal: Predictors of initiation. Journal of Urban Health, 80(1), 92–105.
+Savin-Williams, R. C. (1994). Verbal and physical abuse as stressors in the lives of les- bian, gay male, and bisexual youths: Associations with school problems, running away, substance abuse, prostitution, and suicide. Journal of Consulting and Clinical Psychology, 62(2), 261–269.
+Substance Abuse and Mental Health Services Administration (2010). Results from the 2009 National Survey on Drug Use and Health: Volume I. Summary of National Find- ings. Rockville, MD: Office of Applied Studies, NSDUH ((Series H-38A, HHS Publica- tion No. SMA 10‐4586 Findings). Available at: http://oas.samhsa.gov/NSDUH/ 2k9NSDUH/2k9ResultsP.pdf Accessed March 01, 2012)
+Sung, H. E., Richter, L., Vaughan, R., Johnson, P. B., & Thom, B. (2005). Nonmedical use of prescription opioids among teenagers in the United States: Trends and correlates. The Journal of Adolescent Health, 37(1), 44–51.
+Thiede, H., Valleroy, L. A., MacKellar, D. A., Celentano, D. D., Ford, W. L., Hagan, H., et al. (2003). Regional patterns and correlates of substance use among young men who have sex with men in 7 US urban areas. American Journal of Public Health, 93(11), 1915–1921.
+Zierler, S., Feingold, L., Laufer, D., Velentgas, P., Kantrowitz-Gordon, I., & Mayer, K. (1991). Adult survivors of childhood sexual abuse and subsequent risk of HIV in- fection. American Journal of Public Health, 81(5), 572–575.
+A. Kecojevic et al. / Addictive Behaviors 37 (2012) 1289–1293 1293
