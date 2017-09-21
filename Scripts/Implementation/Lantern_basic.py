@@ -82,11 +82,11 @@ def main():
 
     output = {}
     for d_key in all_dict.keys():
-        print d_key
+        print(d_key)
         d = all_dict.get(d_key)
         cum = 0
         for word in user_in:
-            print word
+            print(word)
             if word in d:
                 # pass  # return tf-idf score
                 sc = 1
